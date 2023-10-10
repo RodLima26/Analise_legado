@@ -1,0 +1,5591 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Nº dia;Novos usuarios
+0000;61
+0001;69
+0002;87
+0003;72
+0004;67
+0005;92
+0006;90
+0007;104
+0008;62
+0009;44
+0010;73
+0011;36
+0012;46
+0013;37
+0014;39
+0015;35
+0016;64
+0017;65
+0018;50
+0019;64
+0020;60
+0021;85
+0022;64
+0023;80
+0024;52
+0025;41
+0026;50
+0027;59
+0028;100
+0029;68
+0030;40
+0031;66
+0032;35
+0033;44
+0034;51
+0035;42
+0036;46
+0037;36
+0038;33
+0039;27
+0040;57
+0041;43
+0042;53
+0043;102
+0044;92
+0045;42
+0046;56
+
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Nº dia;Usuarios recorrentes
+0000;19
+0001;30
+0002;22
+0003;34
+0004;44
+0005;41
+0006;48
+0007;47
+0008;50
+0009;31
+0010;38
+0011;37
+0012;33
+0013;26
+0014;34
+0015;39
+0016;48
+0017;44
+0018;43
+0019;34
+0020;45
+0021;52
+0022;75
+0023;59
+0024;55
+0025;55
+0026;34
+0027;48
+0028;64
+0029;77
+0030;47
+0031;57
+0032;48
+0033;46
+0034;41
+0035;35
+0036;43
+0037;22
+0038;30
+0039;43
+0040;36
+0041;41
+0042;53
+0043;71
+0044;50
+0045;33
+0046;39
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Plataforma;Conversoes
+
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Grupo de canais padrao do primeiro usuario;Novos usuarios
+Organic Search;1630
+Direct;1084
+Referral;55
+Organic Social;12
+
+# Qual e sua performance na retencao de usuarios?
+# Data de inicio: 20230806
+# Data de termino: 20230916
+Data;Semana 0;Semana 1;Semana 2;Semana 3;Semana 4;Semana 5
+6 de ago. - 12 de ago.;530;51;54;50;37;35
+13 de ago. - 19 de ago.;328;27;20;20;16;-1
+20 de ago. - 26 de ago.;468;37;22;20;-1;-1
+27 de ago. - 2 de set.;410;16;22;-1;-1;-1
+3 de set. - 9 de set.;319;23;-1;-1;-1;-1
+10 de set. - 16 de set.;407;-1;-1;-1;-1;-1
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Publico-alvo;Usuarios
+All Users;2801
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Cidade;Usuarios
+Rio de Janeiro;993
+Sao Paulo;313
+Brasilia;121
+Niteroi;79
+Belo Horizonte;42
+Sao Goncalo;36
+Curitiba;34
+Salvador;32
+Nova Iguacu;30
+Fortaleza;29
+Belem;26
+Manaus;26
+Goiania;24
+Duque de Caxias;22
+Nova Friburgo;20
+Porto Alegre;20
+Petropolis;19
+Campinas;18
+Juiz de Fora;18
+Natal;16
+Ribeirao Preto;15
+Vila Velha;15
+Vitoria;15
+Cabo Frio;14
+Marica;14
+Sao Joao de Meriti;13
+Recife;12
+Campo Grande;10
+Cuiaba;10
+Rio das Ostras;10
+Uberlandia;10
+Blumenau;9
+Campos dos Goytacazes;9
+Feira de Santana;9
+Florianopolis;9
+Joao Pessoa;9
+Santos;9
+Macae;8
+Anapolis;7
+Araruama;7
+Maceio;7
+Milan;7
+Teresopolis;7
+Xangri-la;7
+Aracaju;6
+Ashburn;6
+Barra Mansa;6
+Guarapari;6
+Joinville;6
+Jose Bonifacio;6
+Mossoro;6
+Palmas;6
+Teresina;6
+Areal;5
+Barra do Pirai;5
+Itaborai;5
+Itaguai;5
+Mage;5
+Maringa;5
+Monte Aprazivel;5
+Muriae;5
+Nilopolis;5
+Paranavai;5
+Ponta Grossa;5
+Resende;5
+Rolandia;5
+Santo Andre;5
+Sao Bernardo do Campo;5
+Sao Jose do Rio Preto;5
+Sao Jose dos Campos;5
+Sao Jose dos Pinhais;5
+Sao Pedro da Aldeia;5
+Varginha;5
+Viamao;5
+Angra dos Reis;4
+Aparecida de Goiania;4
+Araraquara;4
+Belford Roxo;4
+Cachoeiro de Itapemirim;4
+Guaira;4
+Itabuna;4
+Itauna;4
+Marataizes;4
+Olinda;4
+Parnamirim;4
+Porto;4
+Rio Bonito;4
+Sao Carlos;4
+Saquarema;4
+Serra;4
+Sorocaba;4
+Vicosa;4
+Vitoria da Conquista;4
+Baku;3
+Bauru;3
+Braco do Norte;3
+Cangucu;3
+Carangola;3
+Cascavel;3
+Cubatao;3
+Guarulhos;3
+Itajai;3
+Itajuba;3
+Joanopolis;3
+Jundiai;3
+Lisbon;3
+New York;3
+Osasco;3
+Paracambi;3
+Peruibe;3
+Rio Branco;3
+Sao Lourenco;3
+Sao Luis;3
+Tres Rios;3
+Volta Redonda;3
+Acu;2
+Amadora;2
+Aracatuba;2
+Arapiraca;2
+Araucaria;2
+Bambui;2
+Banbury;2
+Barbacena;2
+Barueri;2
+Bom Jesus do Itabapoana;2
+Braga;2
+Braganca Paulista;2
+Brusque;2
+Buenos Aires;2
+Camboriu;2
+Caxias do Sul;2
+Chapeco;2
+Colombo;2
+Columbus;2
+Conceicao de Macabu;2
+Concordia;2
+Divinopolis;2
+Fernandopolis;2
+Forest City;2
+Formosa;2
+Garca;2
+Guapimirim;2
+Gunungsitoli Barat;2
+Ilhabela;2
+Imbituba;2
+Imperatriz;2
+Indaiatuba;2
+Itabira;2
+Itaperuna;2
+Itupeva;2
+Jaboatao dos Guararapes;2
+Japeri;2
+Jequie;2
+Lauro de Freitas;2
+Leopoldina;2
+Linhares;2
+London;2
+Londrina;2
+Luanda;2
+Luziania;2
+Maua;2
+Mexico City;2
+Mogi das Cruzes;2
+Novo Gama;2
+Novo Hamburgo;2
+Osorio;2
+Palhoca;2
+Paranagua;2
+Paris;2
+Parnaiba;2
+Pelotas;2
+Picos;2
+Pouso Alegre;2
+Primavera do Leste;2
+Regente Feijo;2
+Ribeirao das Neves;2
+Rome;2
+Santa Maria;2
+Santa Rita;2
+Sao Borja;2
+Sao Francisco de Paula;2
+Sao Joao del Rei;2
+Sao Mateus do Sul;2
+Serrinha;2
+Toronto;2
+Uba;2
+Ulyanovsk;2
+Venancio Aires;2
+Vila Nova de Gaia;2
+1154;1
+5551;1
+89032;1
+92364;1
+Abaetetuba;1
+Aguas Lindas de Goias;1
+Agudos;1
+Alem Paraiba;1
+Americana;1
+Amparo;1
+Ananindeua;1
+Andradas;1
+Aquiraz;1
+Arapongas;1
+Araripina;1
+Arraial do Cabo;1
+Asuncion;1
+Atibaia;1
+Atlanta;1
+Auckland;1
+Balneario Camboriu;1
+Balsas;1
+Barnsley;1
+Barra do Garcas;1
+Barreiras;1
+Beira;1
+Biritiba Mirim;1
+Blackshear;1
+Boa Vista;1
+Bologna;1
+Bonito;1
+Brest;1
+Bushey;1
+Cabedelo;1
+Cacador;1
+Cachoeiras de Macacu;1
+Cagliari;1
+Caico;1
+Caieiras;1
+Camacari;1
+Camanducaia;1
+Cambe;1
+Cameta;1
+Campina Grande;1
+Canoas;1
+Cantagalo;1
+Cape Elizabeth;1
+Caraguatatuba;1
+Castanhal;1
+Cataguases;1
+Catanduva;1
+Catole do Rocha;1
+Catu;1
+Caxias;1
+Ceara-Mirim;1
+Chelyabinsk;1
+Colatina;1
+Corrientes;1
+Covington;1
+Crawley;1
+Cruz das Almas;1
+Daytona Beach;1
+Diamantina;1
+Dublin;1
+Eidsvoll Municipality;1
+Extrema;1
+Fohnsdorf;1
+Franca;1
+Francisco Morato;1
+Frankfurt;1
+Funchal;1
+Glenville;1
+Goiana;1
+Governador Valadares;1
+Guacui;1
+Guanambi;1
+Guara;1
+Guaratingueta;1
+Guelph;1
+Hamburg;1
+High River;1
+Hortolandia;1
+Ibirite;1
+Ibitinga;1
+Iguaba Grande;1
+Inhumas;1
+Itabirito;1
+Itanhaem;1
+Itapetininga;1
+Itarare;1
+Itatiaia;1
+Iuna;1
+Jacarei;1
+Jacarezinho;1
+Jaguariuna;1
+Joao Monlevade;1
+Kazan;1
+Kent;1
+Kitchener;1
+Klaipeda;1
+Kurgan;1
+Lages;1
+Lajeado;1
+Lapa;1
+Leganes;1
+Limeira;1
+Lorena;1
+Lulea;1
+Macaiba;1
+Machado;1
+Mangaratiba;1
+Mannheim;1
+Maraba;1
+Maracanau;1
+Marechal Deodoro;1
+Mariana;1
+Marietta;1
+Marino;1
+Mesquita;1
+Miami;1
+Miracema;1
+Mococa;1
+Modena;1
+Mogi Guacu;1
+Monte Carmelo;1
+Montenegro;1
+Montreal;1
+Morrinhos;1
+Mountain View;1
+Nao-Me-Toque;1
+Naples;1
+New Westminster;1
+Nizhny Novgorod;1
+Nova Lima;1
+Nova Vicosa;1
+Ocean Shores;1
+Oliveira;1
+Ottawa;1
+Patos de Minas;1
+Paulista;1
+Pavia;1
+Pinheiro;1
+Piracicaba;1
+Pirassununga;1
+Piripiri;1
+Plaisir;1
+Pombal;1
+Ponte Nova;1
+Pontes e Lacerda;1
+Porto Nacional;1
+Porto Uniao;1
+Porto Velho;1
+Praia Grande;1
+Presidente Venceslau;1
+Puebla;1
+Queimadas;1
+Queimados;1
+Quito;1
+Richmond Hill;1
+Riga;1
+Rio Grande;1
+Rio do Sul;1
+Saint-Denis;1
+Sakado;1
+San Francisco;1
+San Juan;1
+San Salvador;1
+Santa Ana;1
+Santa Luzia;1
+Santa Vitoria do Palmar;1
+Santana;1
+Santo Antonio da Platina;1
+Santo Antonio de Jesus;1
+Santo Antonio de Padua;1
+Sao Caetano do Sul;1
+Sao Gabriel;1
+Sao Joao da Boa Vista;1
+Sao Jose;1
+Sao Lourenco da Mata;1
+Sao Miguel dos Campos;1
+Sao Sebastiao;1
+Sao Vicente;1
+Sapucaia do Sul;1
+Seattle;1
+Senhor do Bonfim;1
+Seropedica;1
+Serra Talhada;1
+Sete Lagoas;1
+Shrewsbury;1
+Sorriso;1
+St. John's;1
+Sumare;1
+Surubim;1
+Tatui;1
+Taubate;1
+Tiangua;1
+Timbo;1
+Timoteo;1
+Torres;1
+Tres Marias;1
+Tubarao;1
+Tucurui;1
+Uberaba;1
+Ufa;1
+Umuarama;1
+Valinhos;1
+Valrico;1
+Viana;1
+Vienna;1
+Vincennes;1
+Votorantim;1
+Waterloo;1
+Windermere;1
+Wolverhampton;1
+Xanxere;1
+Zurich;1
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Titulo da pagina e classe da tela;Visualizacoes
+Estatisticas Fluminense - Principal;4210
+Jogador;1780
+Consultas Especiais;1724
+Adversarios;1455
+Jogo;1098
+Especiais Jogadores;790
+Campeonatos;586
+Fluminense x Olimpia-Paraguai;322
+Informacoes Gerais;314
+Arbitros;288
+Especiais Adversarios;282
+Estadios;264
+German Cano 2023;238
+Tecnico;238
+Especiais Jogos;223
+Fluminense x Vasco-RJ;221
+Especiais Gerais;210
+Graficos;207
+Especiais Campeonatos;176
+Tec - Fernando Diniz;173
+Curiosidades e Titulos;172
+Vasco 0 X 0 Fluminense;169
+Maiores Artilheiros;162
+Especiais Estadios;157
+Camisa;131
+Todos os jogos no(a) Brasileiro;130
+Fluminense x Internacional-RS;129
+Fluminense x Palmeiras-SP;128
+Fluminense x Athletico PR-PR;124
+Mais jogos no elenco atual;114
+Maracana;112
+Especiais Tecnico;110
+John Kennedy 2023;110
+Fluminense 2 X 3 ABC;105
+Fluminense x America MG-MG;97
+Todos os jogos no(a) Libertadores da America;96
+Adversario por ano;95
+Raphael Claus;93
+Jhon Arias 2023;92
+Ultimos 1224 classicos;92
+Fluminense x Gremio-RS;91
+Ultimos Jogos;89
+Flamengo 0 X 1 Fluminense;85
+Fluminense 2 X 1 Palmeiras;84
+Maior Artilheiro em Campeonato;84
+Flamengo 1 X 1 Fluminense;83
+Fluminense x Fortaleza-CE;83
+Mascotes;83
+Paulo Goulart 1985;77
+Fluminense x Flamengo-RJ;76
+Fluminense 1 X 0 Bayern de Munique;75
+Paulo Henrique Ganso 2023;75
+Fluminense 0 X 0 Flamengo;71
+Especiais Sequencias;69
+Fluminense x Botafogo-RJ;69
+Fabio 2023;69
+Nelio 1970;67
+Especiais Resultados;66
+Libertadores da America 2023;66
+Samuel Xavier 2023;66
+Todos os jogos de Adversario;66
+Todos os jogos em campeonato;66
+Botafogo 1 X 1 Fluminense;65
+Publico;64
+Andre 2023;63
+Fluminense 1 X 0 Flamengo;63
+Fluminense 3 X 1 America MG;63
+Fluminense 1 X 1 Vasco;62
+Fluminense x Argentino Juniors-Argentina;62
+Todos os Jogos contra Vasco-RJ;62
+Brasileiro 2023;60
+Ranking de Assistencias;58
+Adversario x Estadio;57
+Fluminense 2 X 0 Argentinos Juniors;57
+Fluminense 2 X 0 Olimpia;57
+Defensores del Chaco;56
+Treinador com mais jogos;56
+Artilheiros em 2023;55
+Libertadores da America;55
+Camisas em Classicos;54
+Fluminense 1 X 0 Santos;54
+Fluminense 1 X 1 Flamengo;54
+Maior Artilheiro em Ano;53
+Mais jogos em Campeonato;53
+Marcelo 2023;53
+Artilheiros no(a) Libertadores da America;52
+Especiais Brasileirao;52
+Jogos em dd/mm;52
+Estadio x Campeonato;51
+Flamengo 0 X 0 Fluminense;51
+Flamengo 2 X 0 Fluminense;51
+Fluminense 1 X 1 Atletico MG;51
+Goleiros com mais jogos;51
+Todos os Jogos no(a) Raulino de Oliveira;51
+Fluminense 2 X 0 Vasco;50
+Nino 2023;50
+Todas as camisas;50
+Fluminense 1 X 0 Bangu;49
+Adversario x Campeonato;48
+Fluminense 2 X 1 Flamengo;48
+Maior Artilheiro contra Adversario;48
+Martinelli 2023;48
+Botafogo SP 1 X 1 Fluminense;46
+Fluminense 1 X 2 Flamengo;46
+Fluminense 2 X 0 America;46
+Fluminense x Corinthians-SP;46
+Todos os Jogos do Andre;46
+Wagner 1993;46
+Kashima Antlers 2 X 0 Fluminense;45
+Vasco 1 X 1 Fluminense;45
+Fluminense x Guarani Paraguai-Paraguai;44
+Fluminense x Sao Paulo-SP;44
+Gremio 2 X 1 Fluminense;44
+Keno 2023;44
+Treinador com mais campeonatos disputados;44
+Artilheiros Estrangeiros;43
+Danielzinho 2023;43
+Felipe Melo 2023;43
+Fluminense 2 X 0 Internacional;43
+Libertadores da America 2011;43
+Macale 1993;43
+Fluminense 1 X 0 Vasco;42
+Fluminense 2 X 1 Bragantino;42
+Fluminense x Santos-SP;42
+Sequencias - Maracana;42
+Botafogo 1 X 0 Fluminense;41
+Fluminense x Atletico MG-MG;41
+Numeracao Fixa;41
+Flamengo 1 X 2 Fluminense;40
+Fluminense 2 X 1 America;40
+Fluminense x Cruzeiro-MG;39
+Vasco 2 X 0 Fluminense;39
+Brunel 1975;38
+Fluminense 0 X 1 Botafogo;38
+Paris Saint Germain 0 X 1 Fluminense;38
+Presidentes;38
+Alexsander 2023;37
+Ano a ano;37
+Especiais Numeracao Fixa;37
+Fluminense 0 X 0 Vasco;37
+Fluminense 1 X 0 Fortaleza;37
+Fluminense 2 X 1 Vasco;37
+Fluminense x A. A. Internacional-RJ;37
+Coritiba 2 X 0 Fluminense;36
+Fluminense x Paris Saint Germain-Franca;36
+Fluminense x San Lorenzo-Argentina;36
+Engenhao;35
+Mais treinou em Campeonato;35
+Olimpia 1 X 3 Fluminense;35
+Olimpia 2 X 0 Fluminense;35
+Ramon Abatti Abel;35
+Athletico PR 2 X 2 Fluminense;34
+Fluminense 1 X 2 Vasco;34
+Jogadores com mais jogos;34
+Vasco 0 X 1 Fluminense;34
+Fluminense 1 X 1 Botafogo;33
+Fluminense 3 X 1 Olimpia;33
+Fluminense x Boca Juniors-Argentina;33
+Tec - Renato Gaucho;33
+Artilheiros no(a) Maracana;32
+Fluminense 5 X 1 River Plate;32
+Maior Artilheiro em Estadio;32
+Todos os jogos em estadio;32
+Vasco 2 X 1 Fluminense;32
+Fluminense 1 X 0 Palmeiras;31
+Fluminense 1 X 1 Cruzeiro;31
+Fluminense 2 X 1 Internacional;31
+Fluminense x Sao Raimundo-AM;31
+Mais jogos no(a) Libertadores da America;31
+Proximos Jogos;31
+Raulino de Oliveira;31
+Sao Paulo 1 X 0 Fluminense;31
+Ultimos 2573 jogos como Mandante;31
+Botafogo 0 X 1 Fluminense;30
+Corinthians 2 X 0 Fluminense;30
+Edson Borracha 1966;30
+Fluminense 1 X 0 America;30
+Fluminense x Cerro Portenho-Paraguai;30
+Libertadores da America 2013;30
+Diogo Barbosa 2023;29
+Especiais Classicos;29
+Fluminense 0 X 1 Vasco;29
+Fluminense 1 X 0 Botafogo;29
+Fluminense 1 X 1 Corinthians;29
+Fluminense 10 X 1 Paysandu Cricket;29
+Libertadores da America 2008;29
+Todos os jogos no(a) Copa do Brasil;29
+Volta Redonda 1 X 2 Fluminense;29
+Flamengo 0 X 2 Fluminense;28
+Flamengo 1 X 0 Fluminense;28
+Fluminense 0 X 1 Argentino Juniors;28
+Fluminense 1 X 1 Sporting Cristal;28
+Fluminense 2 X 0 Athletico PR;28
+Fluminense 2 X 0 Botafogo;28
+Fluminense 3 X 2 Vasco;28
+Fluminense x Libertad-Paraguai;28
+Fluminense x River Plate-Argentina;28
+Gremio 1 X 0 Fluminense;28
+Maiores Publicos - Classicos;28
+Presenca Estrangeiros;28
+Sequencias em Campeonato;28
+Artilheiros Anuais;27
+Artilheiros em 2022;27
+Botafogo 0 X 0 Fluminense;27
+Fluminense 0 X 1 Flamengo;27
+Fluminense 2 X 2 Corinthians;27
+Lele 2023;27
+Libertadores da America 2012;27
+Todos os Jogos contra America MG-MG;27
+Artilheiros dos Seculos;26
+Bangu 0 X 2 Fluminense;26
+Brasileiro Serie B 1998;26
+Fluminense 4 X 1 Flamengo;26
+Fred 2022;26
+Libertadores da America 1971;26
+Marcas Historicas Atuais;26
+Alexis Herrera;25
+America 1 X 1 Fluminense;25
+Assistencias em Ano;25
+Brasileiro;25
+Estadio x Adversario;25
+Fluminense 0 X 0 CRB;25
+Fluminense 2 X 1 Bahia;25
+Fluminense 2 X 1 Bangu;25
+Fluminense 3 X 1 Toluca;25
+Fluminense x Sao Cristovao-RJ;25
+Gols do German Cano;25
+Melhores Duplas;25
+Olaria 0 X 1 Fluminense;25
+Tec - Abel;25
+Todos os Jogos contra Fortaleza-CE;25
+Todos os Jogos contra Sao Cristovao-RJ;25
+Vasco 2 X 2 Fluminense;25
+Argentinos Juniors 1 X 1 Fluminense;24
+Fluminense 1 X 0 Olaria;24
+Fluminense 2 X 1 Santos;24
+Fluminense x Bahia-BA;24
+Fortaleza 0 X 1 Fluminense;24
+Laranjeiras;24
+Lima 2023;24
+Maiores publicos por Adversarios;24
+Mais jogos nos Seculos;24
+Marcelo Barreto 1993;24
+Marlon 2023;24
+Ranking de Assistencias em 2023;24
+Rodrigo Jose Pereira de Lima;24
+Adversario do mesmo pais;23
+America MG 0 X 3 Fluminense;23
+Botafogo 0 X 2 Fluminense;23
+Especiais Presidentes;23
+Especiais Substituicoes;23
+Fluminense 0 X 1 Argentinos Juniors;23
+Fluminense 1 X 0 Corinthians;23
+Fluminense 3 X 1 America;23
+Joao Neto 2023;23
+Leo Fernandez 2023;23
+Maracana - Libertadores da America;23
+Olaria 1 X 2 Fluminense;23
+Olimpia 2 X 1 Fluminense;23
+Vasco 1 X 0 Fluminense;23
+Ezio 1995;23
+Aproveitamento Tecnicos no;22
+Artilheiros em 2020;22
+Botafogo 2 X 0 Fluminense;22
+Carioca 1995;22
+Elenco por em Ano;22
+Fluminense 2 X 0 Americano;22
+Fluminense 2 X 0 Goias;22
+Fluminense 2 X 1 Athletico PR;22
+Fluminense x America-RJ;22
+Gremio 4 X 5 Fluminense;22
+Jogos em mm/aaaa;22
+Paysandu 2 X 0 Fluminense;22
+Yony Gonzales 2023;22
+20 Maiores Artilheiros Anuais;21
+Artilheiros no(a) Brasileiro;21
+Caio Martins;21
+Carioca 1986;21
+Creditos;21
+David Braz 2023;21
+Fluminense 0 X 0 America;21
+Fluminense 3 X 0 Goias;21
+Fluminense x Real Madrid-Espanha;21
+Guga 2023;21
+Jogador x Campeonato;21
+Maior Artilheiro em 1 campeonato;21
+Maracana em 08/04/2022 - 20/08/2023;21
+Paulo Lino 1982;21
+Sequencias - Brasileiro;21
+Tec - Parreira;21
+Todos os Jogos no(a) Rua Bariri;21
+Adversarios Argentina;20
+America 1 X 0 Fluminense;20
+Ano 2023;20
+Artilheiros na temporada 2023;20
+Campeonato x Adversario;20
+Corinthians 1 X 2 Fluminense;20
+Fernando Diniz 2003;20
+Fluminense 0 X 0 Gremio;20
+Fluminense 1 X 0 Bahia;20
+Fluminense 1 X 0 Campo Grande;20
+Fluminense 1 X 0 The Strongest;20
+Fluminense 1 X 1 Goias;20
+Fluminense 2 X 0 Cuiaba;20
+Fluminense 3 X 2 Flamengo;20
+Fluminense x Atletico Nacional-Colombia;20
+Fluminense x Coritiba-PR;20
+Fluminense x LDU-Equador;20
+Libertadores da America 1985;20
+Maiores Publicos;20
+Pedro Rangel 2023;20
+Rio Cricket 0 X 3 Fluminense;20
+Santos 2 X 1 Fluminense;20
+Todos os Jogos do Felipe Melo;20
+30 Estadios onde mais jogamos;19
+Americano 0 X 1 Fluminense;19
+Anderson Daronco;19
+Artilheiros em 2021;19
+Botafogo 1 X 2 Fluminense;19
+Carlos Andre 1990;19
+Castilho 1965;19
+Especiais Arbitros;19
+Flamengo 2 X 1 Fluminense;19
+Fluminense 0 X 1 America;19
+Fluminense 1 X 0 Figueirense;19
+Fluminense 1 X 1 Bonsucesso;19
+Fluminense 1 X 1 Santos;19
+Fluminense 1 X 2 Sao Paulo;19
+Fluminense 2 X 0 Fortaleza;19
+Fluminense 5 X 2 Sao Paulo;19
+German Cano 2023 - Gols por Ano;19
+Mais jogos sem levar gol;19
+Mario Jorge 1981;19
+Portuguesa 0 X 2 Fluminense;19
+Rivelino 1978;19
+Sequencia de Placar Estadio em campeonato;19
+Todos os Jogos contra Athletico PR-PR;19
+Todos os Jogos contra Internacional-RS;19
+Volta Redonda 0 X 1 Fluminense;19
+Artilheiros em 2018;18
+Artilheiros em 2019;18
+Atletico MG 2 X 0 Fluminense;18
+Bahia 0 X 0 Fluminense;18
+Bahia 1 X 1 Fluminense;18
+Bangu 0 X 1 Fluminense;18
+Bonsucesso 1 X 3 Fluminense;18
+Branca 2023;18
+Brasileiro 1977;18
+Estadio por tempo determinado;18
+Fale Conosco;18
+Fluminense 0 X 1 Internacional;18
+Fluminense 1 X 0 Sao Paulo;18
+Fluminense 1 X 1 Internacional;18
+Fluminense 2 X 0 Campo Grande;18
+Fluminense 2 X 1 Botafogo;18
+Fluminense 2 X 2 Botafogo;18
+Fluminense x Vitoria BA-BA;18
+Tec - Zeze Moreira;18
+Vasco 0 X 2 Fluminense;18
+Waldo 1961;18
+Ultimos 2574 jogos como Mandante;18
+Ultimos 5978 jogos;18
+Adversarios Paraguai;17
+America 0 X 1 Fluminense;17
+Atletico MG 2 X 1 Fluminense;17
+Bangu 0 X 4 Fluminense;17
+Fluminense 1 X 0 Cruzeiro;17
+Fluminense 1 X 1 America;17
+Fluminense 1 X 1 Sao Paulo;17
+Fluminense 2 X 0 Portuguesa;17
+Fluminense 2 X 1 Sao Paulo;17
+Fluminense 2 X 1 Vitoria BA;17
+Fluminense 3 X 1 Sao Paulo;17
+Fluminense x A. C. Internacional-SP;17
+German Cano 2023 - Gols por Adversario;17
+Olaria 0 X 2 Fluminense;17
+Palmeiras 1 X 0 Fluminense;17
+Sao Paulo 2 X 0 Fluminense;17
+Tec - Marcao;17
+Todos os Jogos do Danielzinho;17
+Vasco 4 X 2 Fluminense;17
+Vitoria BA 2 X 2 Fluminense;17
+Adilson 1973;16
+Adversarios do(a) Rio Grande do Sul;16
+Artilheiros em Campeonato;16
+Artilheiros em jogos oficiais;16
+Artilheiros por Adversario;16
+Athletico PR 1 X 1 Fluminense;16
+Botafogo 2 X 2 Fluminense;16
+Botafogo 3 X 1 Fluminense;16
+Cruzeiro 1 X 2 Fluminense;16
+Cesar 1998;16
+Deco 2013;16
+Fernando Diniz 2003 - Ramon 2004;16
+Flamengo 2 X 2 Fluminense;16
+Flavio Rodrigues de Souza;16
+Fluminense 1 X 1 Bahia;16
+Fluminense 3 X 1 Flamengo;16
+Fluminense x Anapolina-GO;16
+Fluminense x Internacional SC-SC;16
+Fred 2022 - Gols por Ano;16
+Maior Artilheiro em Temporada;16
+Ricardo Lopes 1986;16
+Sequencias como mandante;16
+Sergio Manoel 1993;16
+Todos os Jogos no(a) Maracana;16
+Todos os jogos no(a) Copa Sul Americana;16
+Arena da Baixada;15
+Artilheiros em 2017;15
+Bangu 0 X 3 Fluminense;15
+Beira Rio;15
+Bonsucesso 1 X 4 Fluminense;15
+Botafogo 4 X 2 Fluminense;15
+Camisa ano a ano;15
+Campo Grande 0 X 1 Fluminense;15
+Carioca 1912;15
+Clinamute Vieira Franca;15
+Conca 2015;15
+Cruzeiro 0 X 2 Fluminense;15
+Flamengo 0 X 3 Fluminense;15
+Fluminense 0 X 1 Santos;15
+Fluminense 1 X 4 Flamengo;15
+Fluminense 2 X 0 Argentino Juniors;15
+Fluminense 2 X 0 Corinthians;15
+Fluminense 2 X 0 Goytacas;15
+Fluminense 2 X 0 Santa Cruz;15
+Fluminense 2 X 1 Rio Cricket;15
+Fluminense 3 X 1 Bonsucesso;15
+Fluminense x Barcelona-Espanha;15
+Fluminense x Racing-Argentina;15
+Jogadores com mais campeonatos disputados;15
+Libertadores da America 2022;15
+Santos 1 X 1 Fluminense;15
+Sao Cristovao 0 X 3 Fluminense;15
+Tec - Nelsinho;15
+Tele 1961;15
+Thiago Neves 2013;15
+Todos os Jogos contra Palmeiras-SP;15
+Todos os Jogos de Fernando Diniz;15
+Wallace 1995;15
+Artilheiros em 2013;14
+Athletico PR 1 X 0 Fluminense;14
+Atletico MG 1 X 1 Fluminense;14
+Bangu 1 X 0 Fluminense;14
+CSA 1 X 2 Fluminense;14
+Carioca 1906;14
+Carioca 1980;14
+Consulta Turno;14
+Fluminense 0 X 0 Bangu;14
+Fluminense 0 X 0 Corinthians;14
+Fluminense 0 X 1 Gremio;14
+Fluminense 1 X 0 Bonsucesso;14
+Fluminense 1 X 0 Internacional;14
+Fluminense 1 X 0 Portuguesa;14
+Fluminense 1 X 1 Americano;14
+Fluminense 1 X 1 Palmeiras;14
+Fluminense 1 X 3 Botafogo;14
+Fluminense 2 X 0 Atletico MG;14
+Fluminense 2 X 1 Sao Cristovao;14
+Fluminense 2 X 1 Volta Redonda;14
+Fluminense 3 X 1 Botafogo;14
+Fluminense 3 X 1 LDU;14
+Fluminense 3 X 3 Vasco;14
+Fluminense 4 X 0 America;14
+Fluminense 6 X 0 Adesg;14
+Fluminense 7 X 0 Volta Redonda;14
+Fluminense 7 X 2 Botafogo;14
+Fluminense x Arsenal de Sarandi-Argentina;14
+Fluminense x Bangu-RJ;14
+Fluminense x Bolivar-Bolivia;14
+Fluminense x Goias-GO;14
+Fluminense x Portuguesa SP-SP;14
+Internacional 1 X 1 Fluminense;14
+Internacional 3 X 0 Fluminense;14
+Jogos em 11 / 09;14
+Libertadores da America 2021;14
+Madureira 1 X 3 Fluminense;14
+Milan 0 X 1 Fluminense;14
+Neinha 1981;14
+Palmeiras 2 X 0 Fluminense;14
+Paulo 1961;14
+Publico em 2023;14
+Sequencias Qtd em jogos oficiais;14
+Sao Januario;14
+Sao Paulo 2 X 1 Fluminense;14
+Teresopolis 0 X 1 Fluminense;14
+Tecnico x Campeonato;14
+Udinese 1 X 1 Fluminense;14
+Americano 1 X 0 Fluminense;13
+America 0 X 2 Fluminense;13
+America 2 X 2 Fluminense;13
+Artilheiros ano a ano;13
+Artilheiros em 2014;13
+Artilheiros em 2016;13
+Bangu 0 X 0 Fluminense;13
+Bangu 2 X 1 Fluminense;13
+Brasileiro 2010;13
+Camisas x Jogador;13
+Carioca 1994;13
+Carioca 2018;13
+Especiais Tecnicos Adversarios;13
+Flamengo 3 X 0 Fluminense;13
+Fluminense 1 X 0 Americano;13
+Fluminense 1 X 0 Santo Andre;13
+Fluminense 1 X 1 Athletico PR;13
+Fluminense 1 X 1 Boavista;13
+Fluminense 2 X 0 Operario MS;13
+Fluminense 3 X 0 Penharol;13
+Fluminense 3 X 1 Bangu;13
+Fluminense 5 X 1 Friburguense;13
+Fluminense 8 X 0 Botafogo;13
+Fluminense x Bragantino-SP;13
+Fluminense x CSA-AL;13
+Fluminense x Gimnasia Y Esgrima-Argentina;13
+Fluminense x Sporting Cristal-Peru;13
+Fortaleza 4 X 2 Fluminense;13
+Fabio Cordeiro 2002;13
+Felix 1978;13
+Ibanez 2019;13
+Internacional 1 X 0 Fluminense;13
+Isaac 2023;13
+Jogador x Estadio;13
+Juventude 6 X 0 Fluminense;13
+Maiores Artilheiros seculo XXI;13
+Nautico 0 X 1 Fluminense;13
+River Plate 2 X 0 Fluminense;13
+Roger 2004;13
+Todos os Jogos apitados por Raphael Claus;13
+Todos os Jogos do Jorginho;13
+Vasco - Engenhao;13
+Vasco 1 X 5 Fluminense;13
+Ultimos 10 jogos;13
+Adversario x Campeonato x Estadio;12
+Alan 2023;12
+Artilheiros com Fernando Diniz;12
+Artilheiros em Estadios;12
+Athletico PR 0 X 1 Fluminense;12
+Bangu 1 X 1 Fluminense;12
+Bonsucesso 0 X 2 Fluminense;12
+Brasileiro 2009;12
+Campeonato x Estadio;12
+Carioca 1941;12
+Corinthians 0 X 0 Fluminense;12
+Distribuicao dos publicos;12
+Engenhao - Vasco;12
+Fluminense 0 X 0 Sport;12
+Fluminense 0 X 0 Sao Cristovao;12
+Fluminense 1 X 0 America MG;12
+Fluminense 1 X 0 Austria Viena;12
+Fluminense 1 X 2 America;12
+Fluminense 1 X 3 Flamengo;12
+Fluminense 2 X 0 Bahia;12
+Fluminense 2 X 2 Internacional;12
+Fluminense 3 X 0 Botafogo;12
+Fluminense 3 X 0 Canto do Rio;12
+Fluminense 3 X 0 Internacional;12
+Fluminense 3 X 0 Volta Redonda;12
+Fluminense 3 X 1 Vasco;12
+Fluminense 4 X 0 Sao Cristovao;12
+Fluminense 4 X 1 Atletico Nacional;12
+Fluminense 4 X 1 Madureira;12
+Fluminense 4 X 2 Portuguesa SP;12
+Fluminense 5 X 2 Austria Viena;12
+Fluminense x Ajax-Holanda;12
+Fluminense x Cuiaba-MT;12
+Flavio Renato 1985;12
+Goias 2 X 2 Fluminense;12
+Hat Tricks;12
+Jogos Inesqueciveis;12
+Luis Fernando 1993;12
+Mais Treinou;12
+Mais jogos no(a) Brasileiro 2023;12
+Mais jogou em Campeonato;12
+Paulistano 2 X 2 Fluminense;12
+Pintinho 1985;12
+Portuguesa SP 2 X 2 Fluminense;12
+Ranking de turnos;12
+Rio Cricket 1 X 7 Fluminense;12
+Romerito 1989;12
+Selecao Huambo 1 X 2 Fluminense;12
+Sequencias;12
+Serginho 1993;12
+Sporting Cristal 1 X 3 Fluminense;12
+Sao Paulo 0 X 2 Fluminense;12
+Tec - Edinho;12
+Todos os Jogos contra Corinthians-SP;12
+Todos os Jogos do John Kennedy;12
+Vasco 1 X 2 Fluminense;12
+Vitoria BA 1 X 2 Fluminense;12
+Volta Redonda 1 X 3 Fluminense;12
+Walbert 1986;12
+America 0 X 0 Fluminense;11
+Artilheiros em 2010;11
+Artilheiros em 2015;11
+Bahia 1 X 0 Fluminense;11
+Bangu 1 X 3 Fluminense;11
+Bonsucesso 0 X 1 Fluminense;11
+Botafogo 0 X 6 Fluminense;11
+Brasileiro 2022;11
+Cachoeiro 0 X 1 Fluminense;11
+Camisa por tipo;11
+Campo Grande 0 X 2 Fluminense;11
+Carioca 1951;11
+Comb Icasa/guarani 2 X 2 Fluminense;11
+Corinthians 0 X 1 Fluminense;11
+Deportivo Italia 0 X 6 Fluminense;11
+Disputa de Penalti;11
+Fluminense 0 X 0 Ceara;11
+Fluminense 0 X 0 Olimpia;11
+Fluminense 1 X 0 Grasshopper;11
+Fluminense 1 X 0 Gremio;11
+Fluminense 1 X 1 Coritiba;11
+Fluminense 1 X 1 Portuguesa SP;11
+Fluminense 2 X 0 Ponte Preta;11
+Fluminense 2 X 0 Volta Redonda;11
+Fluminense 2 X 1 Gremio;11
+Fluminense 2 X 1 Nautico;11
+Fluminense 2 X 1 Sport;11
+Fluminense 2 X 2 Flamengo;11
+Fluminense 2 X 3 Vasco;11
+Fluminense 3 X 0 Paysandu;11
+Fluminense 4 X 0 Madureira;11
+Fluminense 7 X 1 Paysandu Cricket;11
+Fluminense x A.I.K.-Suecia;11
+Fluminense x Atletico GO-GO;11
+Fluminense x Benfica-Portugal;11
+Fluminense x Brasiliense-DF;11
+Fluminense x Ceara-CE;11
+Fluminense x Nacional Uruguai-Uruguai;11
+Fornecedor de Material Esportivo;11
+Goias 3 X 0 Fluminense;11
+Goytacas 0 X 1 Fluminense;11
+Internacional 2 X 0 Fluminense;11
+Jandir 1994;11
+Jogadores mais velhos;11
+Jogos em Estadio por ano;11
+Mais defendeu penalties;11
+Media de Gols;11
+Osvaldo Gomes 1921;11
+Palmeiras 0 X 2 Fluminense;11
+Paulo Victor 1988;11
+Petro-atletico 0 X 2 Fluminense;11
+Pires 1993;11
+Portuguesa SP 0 X 1 Fluminense;11
+Rafael Moura 2012;11
+Robertinho 1947;11
+Sao Cristovao 0 X 5 Fluminense;11
+Sao Cristovao 1 X 1 Fluminense;11
+Tec - Ground Committe;11
+Todos os Jogos contra Olimpia-Paraguai;11
+Ulisses 2006;11
+Vasco 0 X 3 Fluminense;11
+Zeze 1982;11
+Andres Matonte;10
+Antonio Carlos 2015;10
+Argentino Juniors 1 X 1 Fluminense;10
+Artilheiros em 2005;10
+Artilheiros em 2008;10
+Athletico PR 1 X 2 Fluminense;10
+Barcelona 2 X 2 Fluminense;10
+Calazans 1964;10
+Carioca 1908;10
+Carioca 1946;10
+Carioca 1952;10
+Carlos Alberto 2007;10
+Ceara 0 X 1 Fluminense;10
+Conmebol;10
+Consulta Placar;10
+Corinthians 1 X 0 Fluminense;10
+Corinthians 2 X 1 Fluminense;10
+Coritiba 1 X 0 Fluminense;10
+Cicero 1993;10
+Dodo 2008;10
+Doval 1978;10
+Felipe Andrade 2023;10
+Flamengo 4 X 0 Fluminense;10
+Fluminense 0 X 0 Sporting;10
+Fluminense 0 X 1 Bangu;10
+Fluminense 0 X 1 Corinthians;10
+Fluminense 0 X 1 Palmeiras;10
+Fluminense 0 X 2 Vasco;10
+Fluminense 1 X 0 Nova Iguacu;10
+Fluminense 1 X 0 Sport;10
+Fluminense 1 X 0 Sao Cristovao;10
+Fluminense 1 X 1 Bangu;10
+Fluminense 1 X 1 Portuguesa;10
+Fluminense 1 X 2 Vitoria BA;10
+Fluminense 2 X 0 Mesquita;10
+Fluminense 2 X 2 Cruzeiro;10
+Fluminense 2 X 3 Paulistano;10
+Fluminense 3 X 0 America;10
+Fluminense 3 X 0 Audax;10
+Fluminense 3 X 0 Portuguesa;10
+Fluminense 3 X 1 Cabofriense;10
+Fluminense 3 X 1 Fortaleza;10
+Fluminense 3 X 1 Madureira;10
+Fluminense 4 X 1 Cruzeiro;10
+Fluminense 5 X 1 Olaria;10
+Fluminense x Al Ahly-Egito;10
+Fluminense x Americano-RJ;10
+Fluminense x Arsenal-Inglaterra;10
+Fluminense x Milionarios-Colombia;10
+Fluminense x Penharol-Uruguai;10
+Fluminense x Portuguesa-RJ;10
+Fluminense x Racca Rovers-Nigeria;10
+Fluminense x Universidad de Chile-Chile;10
+Giovanni 2023;10
+Goias 1 X 2 Fluminense;10
+Gols em Campeonato;10
+Guarani 1 X 2 Fluminense;10
+Gustavo Scarpa 2017;10
+Hector Baldassi;10
+Helio 1990;10
+Jogador x Jogador;10
+Jogos sem informacao;10
+Joinville 0 X 2 Fluminense;10
+Joao Neto 2021;10
+Lista de Adversario do mesmo pais;10
+Maiores Publicos - Libertadores da America;10
+Maiores Publicos - Vasco;10
+Manoel 2023;10
+Marquinhos 2010;10
+Mpa-petrolier-alger 2 X 1 Fluminense;10
+Media Publico por ano;10
+Olaria 1 X 3 Fluminense;10
+Palmeiras 3 X 1 Fluminense;10
+Publico em 2022;10
+Quincas 1956;10
+Raulino de Oliveira - Brasileiro;10
+Renatinho 2003;10
+Ricardo Rocha 1996;10
+Santo Andre 1 X 1 Fluminense;10
+Selecao Chile 3 X 0 Fluminense;10
+Selecao Italia 5 X 3 Fluminense;10
+Selecao do Fluzao.info;10
+Serrano 0 X 0 Fluminense;10
+Sao Paulo 2 X 2 Fluminense;10
+Thiago Santos 2023;10
+Todos os Jogos contra Atletico MG-MG;10
+Todos os Jogos contra Gremio-RS;10
+Todos os Jogos contra Vitoria BA-BA;10
+Victor Gonzalez 1962;10
+Vitor 1956;10
+Vitoria BA 0 X 0 Fluminense;10
+Volta Redonda 1 X 1 Fluminense;10
+Waldo 1961 - Gols por Ano;10
+36 Maiores idolos;9
+ABC 1 X 2 Fluminense;9
+Abel Hernandez 2021;9
+Adilson 1945;9
+Adversarios Internacionais;9
+Adversarios da Paraguai;9
+Americano 1 X 2 Fluminense;9
+Amistoso Internacional 1956;9
+America MG 0 X 0 Fluminense;9
+Anapolina 3 X 1 Fluminense;9
+Aniversariantes do dia;9
+Arthur 2023;9
+Artilharia com Tecnico;9
+Artilheiros em 2007;9
+Artilheiros mais novos;9
+Artilheiros no(a) Copa do Brasil;9
+Arturzinho 1979;9
+Atletico MG 3 X 1 Fluminense;9
+Bangu 0 X 5 Fluminense;9
+Bangu 3 X 5 Fluminense;9
+Bonsucesso 0 X 0 Fluminense;9
+Botafogo 2 X 1 Fluminense;9
+Brasileiro 1990;9
+C. Potiguar/Baraunas 0 X 1 Fluminense;9
+Campeonato x Jogador;9
+Carioca;9
+Carioca 1969;9
+Carioca 1979;9
+Chiquinho 1993;9
+Comb. Cerro/Sol de America 0 X 1 Fluminense;9
+Consulta Dias da Semana;9
+Copa do Brasil 1992;9
+Corinthians 0 X 2 Fluminense;9
+Coritiba 2 X 1 Fluminense;9
+Cruzeiro 2 X 2 Fluminense;9
+Edmundo 2004;9
+Eduardo Guinle;9
+Estatisticas por Ano;9
+Felipe 2013;9
+Flamengo 3 X 2 Fluminense;9
+Fluminense 0 X 0 Botafogo;9
+Fluminense 0 X 1 Deportivo Italia;9
+Fluminense 0 X 1 Sao Caetano;9
+Fluminense 0 X 2 Atletico GO;9
+Fluminense 0 X 2 Parana;9
+Fluminense 1 X 0 A. C. Internacional;9
+Fluminense 1 X 0 Goias;9
+Fluminense 1 X 0 LDU;9
+Fluminense 1 X 0 Resende;9
+Fluminense 1 X 2 Athletico PR;9
+Fluminense 1 X 2 Atletico MG;9
+Fluminense 1 X 2 Botafogo;9
+Fluminense 1 X 4 Athletico PR;9
+Fluminense 2 X 0 Bangu;9
+Fluminense 2 X 0 Milionarios;9
+Fluminense 2 X 1 Cruzeiro;9
+Fluminense 2 X 1 Fortaleza;9
+Fluminense 2 X 1 Portuguesa;9
+Fluminense 2 X 2 Joinville;9
+Fluminense 3 X 0 LDU;9
+Fluminense 3 X 0 Palmeiras;9
+Fluminense 3 X 0 Rio Cricket;9
+Fluminense 3 X 1 Volta Redonda;9
+Fluminense 4 X 1 Deportivo Galicia;9
+Fluminense 4 X 2 Palmeiras;9
+Fluminense x Bonsucesso-RJ;9
+Fluminense x Campo Grande-RJ;9
+Fluminense x Confianca-SE;9
+Fluminense x Goytacas-RJ;9
+Fluminense x Independiente-Argentina;9
+Fluminense x Manchester United-Inglaterra;9
+Fluminense x Nacional Paraguai-Paraguai;9
+Fluminense x Universidad Catolica-Chile;9
+Gabriel 2008;9
+Gol numero 7244;9
+Gols do Samuel;9
+Jair Francisco 1962;9
+Jogos no(a) Maracana em 2023;9
+Libertad 1 X 2 Fluminense;9
+Libertadores da America contra times do(a) Paraguai;9
+Lista de Jogadores por Nacionalidade;9
+Madureira 0 X 1 Fluminense;9
+Madureira 0 X 4 Fluminense;9
+Maiores Artilheiros em jogos oficiais;9
+Mais jogos no(a) Brasileiro;9
+Maracana em 01/01/2023 - 20/08/2023;9
+Marcelo Gomes 1992;9
+Marlon 2016;9
+Marlon 2022;9
+Mesquita 1 X 1 Fluminense;9
+Multilinha Combinada de Artilheiros;9
+Municipal Juiz Fora;9
+Marcio 1969;9
+Media de Publico - 2023;9
+Numeros por ano;9
+Numeros por posicao;9
+Olivares 1996;9
+Olmedo 0 X 1 Fluminense;9
+Operario MS 0 X 0 Fluminense;9
+Orozimbo 1939;9
+Parraro 1980;9
+Paulistano 0 X 3 Fluminense;9
+Paulo Paiva 1995;9
+Pisa 0 X 0 Fluminense;9
+Portuguesa SP 3 X 1 Fluminense;9
+Rafael Sobis 2014;9
+Remo 1 X 1 Fluminense;9
+S. C. Internacional 0 X 0 Fluminense;9
+Samuel 2016;9
+Selecao Ilheus 1 X 1 Fluminense;9
+Selecao Paraguai 0 X 0 Fluminense;9
+Sequencias em Campeonato como mandante;9
+Sequencias em Estadio;9
+Sport 1 X 1 Fluminense;9
+Sport 1 X 2 Fluminense;9
+The Strongest 1 X 0 Fluminense;9
+Time Base;9
+Vasco 3 X 3 Fluminense;9
+Volta Redonda 2 X 1 Fluminense;9
+Welfare 1924;9
+Wellerson 1997;9
+Zeze Gomes 1985;9
+Italo Del Cima;9
+Ultimos 2570 jogos como Mandante;9
+Adilson 1999;8
+Adversario;8
+Adversarios da Inglaterra;8
+Ailton Cruz 1999;8
+Alexandre Torres 1991;8
+Americano 1 X 5 Fluminense;8
+Amistoso Internacional 1951;8
+America 2 X 1 Fluminense;8
+America MG - Brasileiro;8
+America Mexico 1 X 0 Fluminense;8
+Andre Miquimba 1997;8
+Ano 2022;8
+Artilheiros Estrangeiros por ano;8
+Artilheiros contra America MG;8
+Artilheiros contra Flamengo;8
+Artilheiros contra Vasco;8
+Assis 1975;8
+Assistencias;8
+Atletico GO 0 X 6 Fluminense;8
+Bahia 3 X 2 Fluminense;8
+Bangu 1 X 2 Fluminense;8
+Botafogo 4 X 1 Fluminense;8
+Branco 1998;8
+Brasileiro - 1º Turno 2023;8
+Brasileiro 2008;8
+Caiano 0 X 1 Fluminense;8
+Campo Grande 0 X 0 Fluminense;8
+Carioca 1907;8
+Carioca 1909;8
+Carioca 1959;8
+Carioca 1993;8
+Combinado Europeu 1 X 3 Fluminense;8
+Confianca 0 X 2 Fluminense;8
+Copa Rio-Mundial 1952;8
+Costa Santos 1911;8
+Criciuma 2 X 1 Fluminense;8
+Cruzeiro 0 X 1 Fluminense;8
+Cruzeiro 2 X 3 Fluminense;8
+Curiosidades dos Estadios;8
+Desportiva 0 X 2 Fluminense;8
+Desportiva 1 X 0 Fluminense;8
+Diogo 2001;8
+Distancia percorrida por ano;8
+Estatisticas por Periodo;8
+Flavio 1982;8
+Fluminense 0 X 0 Atletico GO;8
+Fluminense 0 X 0 Nacional Uruguai;8
+Fluminense 0 X 1 Athletico PR;8
+Fluminense 0 X 1 Goias;8
+Fluminense 0 X 2 Athletico PR;8
+Fluminense 0 X 2 Botafogo;8
+Fluminense 1 X 0 ABC;8
+Fluminense 1 X 0 Athletico PR;8
+Fluminense 1 X 0 Confianca;8
+Fluminense 1 X 1 Volta Redonda;8
+Fluminense 1 X 2 Nautico;8
+Fluminense 1 X 3 Cruzeiro;8
+Fluminense 1 X 3 Palmeiras;8
+Fluminense 10 X 0 Football & Athletic;8
+Fluminense 2 X 0 Bonsucesso;8
+Fluminense 2 X 0 Criciuma;8
+Fluminense 2 X 0 Ferroviario;8
+Fluminense 2 X 0 Libertad;8
+Fluminense 2 X 1 Atletico MG;8
+Fluminense 2 X 1 Cabofriense;8
+Fluminense 2 X 2 Barcelona Guaiaquil;8
+Fluminense 2 X 2 Guarani Paraguai;8
+Fluminense 2 X 2 Palmeiras;8
+Fluminense 2 X 2 Vasco;8
+Fluminense 2 X 2 Villa Nova MG;8
+Fluminense 2 X 3 Flamengo;8
+Fluminense 3 X 0 Bonsucesso;8
+Fluminense 3 X 0 Goiania;8
+Fluminense 3 X 0 Santos;8
+Fluminense 3 X 1 Santos;8
+Fluminense 3 X 2 Botafogo;8
+Fluminense 4 X 0 Campo Grande;8
+Fluminense 4 X 0 Corinthians;8
+Fluminense 4 X 0 Goytacas;8
+Fluminense 4 X 0 Vitoria BA;8
+Fluminense 4 X 4 Botafogo;8
+Fluminense 5 X 1 Fortaleza;8
+Fluminense 6 X 1 Anapolina;8
+Fluminense x America Mexico-Mexico;8
+Fluminense x Atletico de Madrid-Espanha;8
+Fluminense x Cachoeiro-ES;8
+Fluminense x Cordoba-Argentina;8
+Fluminense x Gama-DF;8
+Fluminense x Lagartense-SE;8
+Fluminense x Moto Club-MA;8
+Fluminense x Sport-PE;8
+Fluminense x Sao Caetano-SP;8
+Fluminense x Volta Redonda-RJ;8
+Football & Athletic 0 X 11 Fluminense;8
+Gabriel Pirani 2023;8
+Giulitte Coutinho;8
+Goias 0 X 2 Fluminense;8
+Goias 1 X 0 Fluminense;8
+Goias 1 X 1 Fluminense;8
+Gols do John Kennedy;8
+Goytacas 2 X 1 Fluminense;8
+Gremio 1 X 1 Fluminense;8
+Gremio 1 X 2 Fluminense;8
+Gum 2018;8
+Internacional 1 X 2 Fluminense;8
+Internacional 4 X 2 Fluminense;8
+Jair Pereira 1973;8
+Jairo 1958;8
+Jogador x Adversario;8
+Joao Pedro 2019;8
+Juventude 1 X 0 Fluminense;8
+Kleber Andrade;8
+Linhares 1 X 1 Fluminense;8
+Luis Antonio 1995;8
+Luis Eduardo 1994;8
+Magno Alves 2016;8
+Maiores Artilheiros por ano;8
+Maiores Assistentes;8
+Mais passagens;8
+Mais vezes Artilheiros Anuais;8
+Manchester United 0 X 0 Fluminense;8
+Manoel 1964;8
+Marcelo 2004;8
+Marcelo 2022;8
+Minutagem em Ano;8
+Paysandu Cricket 0 X 2 Fluminense;8
+Pedro 2019;8
+Pinheiro 1963;8
+Portuguesa SP 1 X 2 Fluminense;8
+Remo 2 X 1 Fluminense;8
+Ricardo 1980;8
+Rio Branco 0 X 3 Fluminense;8
+Rua Bariri;8
+Santa Cruz 0 X 1 Fluminense;8
+Santa Cruz 1 X 1 Fluminense;8
+Santos 2 X 0 Fluminense;8
+Selecao Argelia 0 X 0 Fluminense;8
+Selecao Paraguai 2 X 4 Fluminense;8
+Sequencia de Camisa;8
+Sequencias em classicos;8
+Sergio Americo 1970;8
+Serrano 1 X 2 Fluminense;8
+Spal 2 X 3 Fluminense;8
+Sport 1 X 0 Fluminense;8
+Sport 2 X 1 Fluminense;8
+Tarta 2011;8
+Tec - Silvio Pirilo;8
+Tec - Valdir Espinosa;8
+Tec - Zagalo;8
+Todos os Jogos contra Goias-GO;8
+Todos os Jogos contra Joel Santana;8
+Todos os Jogos contra Santos-SP;8
+Torneio Rio-Sao Paulo 1940;8
+Torneio Rio-Sao Paulo 1957;8
+Torneio Rio-Sao Paulo 1960;8
+Vancouver Whitecaps 3 X 1 Fluminense;8
+Vila Nova GO 2 X 3 Fluminense;8
+Washington 1989;8
+Wilmar Roldan;8
+Wordcloud Artilheiros;8
+Yago 2023;8
+Ultimos jogos em estadio;8
+2021 a 2023;7
+Adversarios da Franca;7
+Adversarios da Italia;7
+Adversarios em vantagem;7
+Alexandre Seixas 1996;7
+America 0 X 3 Fluminense;7
+America MG 1 X 0 Fluminense;7
+Anderson 2013;7
+Aniversariantes em 13 / 08;7
+Arena do Gremio;7
+Artilheiros em 2009;7
+Artilheiros mais velhos;7
+Artilheiros no(a) Copa Sul Americana;7
+Assis 1987;7
+Assistencias do Mariano;7
+Assistencias do Samuel Xavier;7
+Avai 0 X 0 Fluminense;7
+Bahia 0 X 1 Fluminense;7
+Brasileiro 1971;7
+Brasileiro 1984;7
+Braulio da Silva Machado;7
+Cafuringa 1977;7
+Caio Paulista 2023;7
+Caio Vinicius 2021;7
+Campeonatos por ano;7
+Canto do Rio 2 X 4 Fluminense;7
+Carioca 1983;7
+Cartoes em 2023;7
+Ceara 1 X 0 Fluminense;7
+Colatina 2 X 3 Fluminense;7
+Colonia 4 X 1 Fluminense;7
+Copa do Brasil 2023;7
+Corinthians 1 X 1 Fluminense;7
+Coritiba 1 X 1 Fluminense;7
+Coritiba 2 X 2 Fluminense;7
+Deportivo Galicia 1 X 3 Fluminense;7
+Distancia Percorrida em 2023;7
+Ernesto Paranhos 1912;7
+Estatisticas Gerais por data;7
+Fernando Henrique 2010;7
+Ferroviario 0 X 0 Fluminense;7
+Figueirense 1 X 0 Fluminense;7
+Flamengo 3 X 1 Fluminense;7
+Fluminense 0 X 0 Ferrocarril Oeste;7
+Fluminense 0 X 0 Goias;7
+Fluminense 0 X 0 Olaria;7
+Fluminense 0 X 0 Rio Cricket;7
+Fluminense 0 X 0 Sao Paulo;7
+Fluminense 0 X 1 Sport;7
+Fluminense 0 X 3 Portuguesa;7
+Fluminense 1 X 0 Atletico MG;7
+Fluminense 1 X 0 Avai;7
+Fluminense 1 X 0 Cerro Portenho;7
+Fluminense 1 X 0 Cuiaba;7
+Fluminense 1 X 1 CSA;7
+Fluminense 1 X 1 Gremio;7
+Fluminense 1 X 1 Madureira;7
+Fluminense 2 X 0 Coritiba;7
+Fluminense 2 X 0 Flamengo;7
+Fluminense 2 X 0 Luverdense;7
+Fluminense 2 X 0 Palmeiras;7
+Fluminense 2 X 0 Portuguesa SP;7
+Fluminense 2 X 1 Germania;7
+Fluminense 2 X 1 Picos;7
+Fluminense 2 X 1 Portsmouth;7
+Fluminense 2 X 2 America;7
+Fluminense 2 X 2 Argentino Juniors;7
+Fluminense 2 X 2 Portuguesa SP;7
+Fluminense 2 X 2 Sao Paulo;7
+Fluminense 2 X 3 America;7
+Fluminense 3 X 0 Botafogo PB;7
+Fluminense 3 X 0 Madureira;7
+Fluminense 3 X 0 Olaria;7
+Fluminense 3 X 0 Tiradentes;7
+Fluminense 3 X 0 Vasco;7
+Fluminense 3 X 1 Athletico PR;7
+Fluminense 3 X 1 Bahia;7
+Fluminense 3 X 1 Boca Juniors;7
+Fluminense 3 X 1 Coritiba;7
+Fluminense 3 X 1 Libertad;7
+Fluminense 3 X 1 Paysandu Cricket;7
+Fluminense 3 X 1 Penharol;7
+Fluminense 3 X 1 Portuguesa;7
+Fluminense 3 X 1 Rio Negro;7
+Fluminense 3 X 2 America Mexico;7
+Fluminense 3 X 2 Santos;7
+Fluminense 4 X 0 Juventude;7
+Fluminense 4 X 1 Botafogo;7
+Fluminense 5 X 0 A. A. Internacional;7
+Fluminense 5 X 0 Bonsucesso;7
+Fluminense 5 X 0 Coritiba;7
+Fluminense 5 X 1 Botafogo;7
+Fluminense X Athletico PR - Video;7
+Fluminense x Bayern de Munique-Alemanha;7
+Fluminense x Chapecoense-SC;7
+Fluminense x Colo Colo-Chile;7
+Fluminense x Combinado Europeu-CS;7
+Fluminense x Cruzador Pelosus-CS;7
+Fluminense x Danubio-Uruguai;7
+Fluminense x Junior Barranquilla-Colombia;7
+Fluminense x Rio Cricket-RJ;7
+Fluminense x Selecao Paraguai-CS;7
+Fluminense x Sportivo Luqueño-Paraguai;7
+Fluminense x Tarancon-Espanha;7
+Gil 1976;7
+Goias 0 X 0 Fluminense;7
+Gols mais rapidos;7
+Gols por minuto em 2023;7
+Guadalajara 1 X 1 Fluminense;7
+Icasa 1 X 1 Fluminense;7
+Jair 1953;7
+Jogadores com mais vitorias;7
+Jogos Eliminatorios;7
+Jogos x Gols em campeonato;7
+John Kennedy 2023 - Gols por Ano;7
+Jorge 2023;7
+Julio Cesar 1996;7
+Libertadores da America - Maracana;7
+Lira 1995;7
+Mackenzie 1 X 0 Fluminense;7
+Madureira 1 X 0 Fluminense;7
+Madureira 1 X 2 Fluminense;7
+Maiores Artilheiros seculo XX;7
+Maiores Publicos - Brasileiro 2023;7
+Mais jogos em Estadio;7
+Maracana - Copa Sul Americana;7
+Marcos Paulo 2021;7
+Marinho Chagas 1978 - Gols por Ano;7
+Matheus Martins 2022;7
+Media de Publico - 2022;7
+Nacional AM 0 X 0 Fluminense;7
+Nei 1995;7
+Nautico 1 X 0 Fluminense;7
+Nelio 1997;7
+Olaria 0 X 0 Fluminense;7
+Oriente Petrolero 1 X 10 Fluminense;7
+Oscar Cox 1908;7
+Palmeiras 2 X 1 Fluminense;7
+Palmeiras 3 X 2 Fluminense;7
+Patrocinio das camisas;7
+Paulo Sergio 1995;7
+Porto 1 X 0 Fluminense;7
+Posicoes rodada a rodada;7
+Ranking de Assistencias em 2011;7
+Ranking de Presidente;7
+Rio Football Club 0 X 8 Fluminense;7
+Robertinho 1982;7
+Rodrigo Tiui 2007;7
+Romario 2004;7
+Royal 0 X 2 Fluminense;7
+Samarone 1971;7
+Santa Cruz 2 X 0 Fluminense;7
+Santos 2 X 2 Fluminense;7
+Selecao Argelia 1 X 1 Fluminense;7
+Selecao Camaroes 1 X 3 Fluminense;7
+Selecao Sao Paulo 4 X 3 Fluminense;7
+Sequencias por Adversarios;7
+Sao Paulo 0 X 3 Fluminense;7
+Sao Paulo 1 X 1 Fluminense;7
+Tec - Dorival Junior;7
+Tec - Gradim;7
+Tec - Luis Vinhaes;7
+Tec - Mario Travaglini;7
+Tec - Ondino Vieira;7
+Tec - Oswaldo de Oliveira;7
+Tec - Tim;7
+Terceira 2021;7
+Terceira 2022;7
+Thiago Neves 2013 - Gols por Ano;7
+Tiradentes 1 X 0 Fluminense;7
+Todos os Jogos contra Bahia-BA;7
+Todos os Jogos contra Ceara-CE;7
+Todos os Jogos contra Figueirense-SC;7
+Todos os Jogos contra Flamengo-RJ;7
+Todos os Jogos do Romerito;7
+Todos os Jogos no(a) Engenheiro Araripe;7
+Todos os Jogos no(a) Engenhao;7
+Unimed;7
+Valtinho 1969;7
+Vasco 1 X 3 Fluminense;7
+Vasco 5 X 3 Fluminense;7
+Vitoria BA 1 X 1 Fluminense;7
+Volta Redonda 2 X 2 Fluminense;7
+Walter 1981;7
+Welfare 1924 - Gols por Ano;7
+Ultimos 2572 jogos como Mandante;7
+Ultimos 5900 jogos;7
+2 ª passagem de Marcao;6
+30 Adversarios que mais jogamos;6
+Adversario x Jogador;6
+Adversario x Arbitro;6
+Ajaccio 2 X 5 Fluminense;6
+Amarelos do German Cano - 2023;6
+Americano 0 X 0 Fluminense;6
+Amoroso 1968;6
+America 2 X 3 Fluminense;6
+America MG - Maracana;6
+America RN 1 X 2 Fluminense;6
+Aproveitamento Tecnicos no Libertadores da America;6
+Arnaldo Cesar Coelho;6
+Aroldo 1948;6
+Artilheiros contra Olimpia;6
+Artilheiros em turnos;6
+Assistencias do German Cano;6
+Assistencias do Martinelli;6
+Assistencias em Campeonato;6
+Athletico PR 0 X 3 Fluminense;6
+Athletico PR 3 X 0 Fluminense;6
+Atletico MG 0 X 0 Fluminense;6
+Atletico MG 2 X 2 Fluminense;6
+Bahia 1 X 2 Fluminense;6
+Bangu 1 X 5 Fluminense;6
+Batalha 1983;6
+Boca Juniors 1 X 0 Fluminense;6
+Bonsucesso 1 X 1 Fluminense;6
+Bonsucesso 1 X 2 Fluminense;6
+Bonsucesso 1 X 6 Fluminense;6
+Branca 1940 - 1964;6
+Brasileiro 1973;6
+Brasileiro 2011;6
+Brasileirao;6
+Braulino 1981;6
+Cabofriense 0 X 1 Fluminense;6
+Camisas em 1981;6
+Camisas em 2022;6
+Campeonato da Capital 1998;6
+Campeonato por tempo determinado;6
+Carioca 1911;6
+Carlos Renaux 2 X 4 Fluminense;6
+Carlyle 1952;6
+Cartoes - Jogador;6
+Chapecoense 1 X 2 Fluminense;6
+Classicos em Campeonato;6
+Confianca 1 X 0 Fluminense;6
+Copa Rio-Mundial;6
+Copa Sul Americana - Corinthians;6
+Corinthians 4 X 2 Fluminense;6
+Cruzeiro 0 X 0 Fluminense;6
+Cruzeiro 1 X 0 Fluminense;6
+Cuiaba 0 X 1 Fluminense;6
+Cesar 2003;6
+Dario 1969;6
+Delei 1987;6
+Desportiva 1 X 1 Fluminense;6
+Detalhamento dos Gols;6
+Diego Cavalieri 2017;6
+Dirceu Lopes 1977;6
+Dukla 1 X 4 Fluminense;6
+Estadio x Jogador;6
+Eunapio de Queiros;6
+Fernando Diniz - Copa Sul Americana;6
+Fernando Diniz - Libertadores da America;6
+Ferrocarril Oeste 1 X 0 Fluminense;6
+Feyenoord 0 X 2 Fluminense;6
+Flamengo 2 X 3 Fluminense;6
+Flamengo 4 X 1 Fluminense;6
+Fluminense 0 X 0 Americano;6
+Fluminense 0 X 0 Bragantino;6
+Fluminense 0 X 0 Madureira;6
+Fluminense 0 X 0 Portuguesa SP;6
+Fluminense 0 X 1 Nautico;6
+Fluminense 0 X 1 Vitoria BA;6
+Fluminense 0 X 2 America;6
+Fluminense 0 X 2 America MG;6
+Fluminense 0 X 2 Atletico MG;6
+Fluminense 1 X 0 Coritiba;6
+Fluminense 1 X 0 Guarani;6
+Fluminense 1 X 2 Bangu;6
+Fluminense 1 X 2 CSA;6
+Fluminense 1 X 2 Junior Barranquilla;6
+Fluminense 1 X 3 Vasco;6
+Fluminense 2 X 0 Olimpique Marselha;6
+Fluminense 2 X 0 Sao Cristovao;6
+Fluminense 2 X 1 Corinthians;6
+Fluminense 2 X 1 Portuguesa SP;6
+Fluminense 2 X 2 Fortaleza;6
+Fluminense 2 X 2 Vitoria BA;6
+Fluminense 2 X 3 Botafogo;6
+Fluminense 3 X 0 Figueirense;6
+Fluminense 3 X 2 Ponte Preta;6
+Fluminense 3 X 2 Volta Redonda;6
+Fluminense 3 X 3 Botafogo;6
+Fluminense 4 X 0 Friburguense;6
+Fluminense 4 X 0 Volta Redonda;6
+Fluminense 4 X 2 Vasco;6
+Fluminense 5 X 0 Olaria;6
+Fluminense 5 X 3 Atletico MG;6
+Fluminense 6 X 0 Arsenal de Sarandi;6
+Fluminense X Fortaleza - Video;6
+Fluminense x A. A. Palmeiras-SP;6
+Fluminense x Alianza de Lima-Peru;6
+Fluminense x Avai-SC;6
+Fluminense x Banfield-Argentina;6
+Fluminense x Barcelona Guaiaquil-Equador;6
+Fluminense x Defensor-Uruguai;6
+Fluminense x Deportivo Pereira-Colombia;6
+Fluminense x Fast-AM;6
+Fluminense x Guarani-SP;6
+Fluminense x Inter Limeira-SP;6
+Fluminense x Internazionale-Italia;6
+Fluminense x Nautico-PE;6
+Fluminense x Olimpique Nice-Franca;6
+Fluminense x Paysandu-PA;6
+Fluminense x Porto-Portugal;6
+Fluminense x S. C. Internacional-SP;6
+Fluminense x Santa Cruz-PE;6
+Fluminense x Valencia-Espanha;6
+Fortaleza - Raulino de Oliveira;6
+Fortaleza 1 X 0 Fluminense;6
+Friburguense 0 X 4 Fluminense;6
+Gallo 1996;6
+Gerson 2016;6
+Goias 2 X 0 Fluminense;6
+Goias 2 X 3 Fluminense;6
+Gols do Marcelo;6
+Goytacas 1 X 1 Fluminense;6
+Goytacas 4 X 0 Fluminense;6
+Grasshopper 0 X 0 Fluminense;6
+Gremio 3 X 1 Fluminense;6
+Guarani 4 X 1 Fluminense;6
+Honved 2 X 0 Fluminense;6
+Internacional 0 X 0 Fluminense;6
+Internacional 2 X 1 Fluminense;6
+Itabuna 0 X 1 Fluminense;6
+Jair Santana 1960;6
+Jogadores com mais titulos;6
+Jogos em 13 / 09;6
+Jogos em 23 / 08;6
+Jorge Vitorio 1973;6
+Juventus 1 X 0 Fluminense;6
+LDU 4 X 2 Fluminense;6
+Luiz Henrique 2022;6
+Luverdense 0 X 0 Fluminense;6
+Madureira 0 X 3 Fluminense;6
+Madureira 3 X 2 Fluminense;6
+Maiores Artilheiros anuais;6
+Maiores Artilheiros em 1 Brasileiro;6
+Maiores Publicos - America;6
+Maiores Publicos - Botafogo;6
+Mais Jogos;6
+Mais vezes Artilheiros anuais;6
+Manfrini 1975;6
+Maracana - Libertadores da America 1985;6
+Marcos Felipe 2022;6
+Marcos Junior 2018;6
+Marcos Mendonca 1928;6
+Mariano 2011;6
+Minas 2 X 3 Fluminense;6
+Minutagem 2023;6
+Moraes 1918;6
+Multilinha Artilheiros;6
+Media de Publico - 1976;6
+Media de Publico - 2008;6
+Nepa 1 X 0 Fluminense;6
+Numero de jogos por em Ano;6
+Olaria 0 X 4 Fluminense;6
+Olaria 3 X 2 Fluminense;6
+Olimpique Nice 1 X 2 Fluminense;6
+Orlando Pingo Ouro 1953;6
+Palmeiras 1 X 1 Fluminense;6
+Palmeiras 3 X 0 Fluminense;6
+Penaltis em 2017;6
+Penaltis em 2020;6
+Portuguesa 0 X 4 Fluminense;6
+Portuguesa 0 X 5 Fluminense;6
+Pericles Bassols Pegado Cortez;6
+Pindaro 1916;6
+Ranking de Assistencias em 2021;6
+Ranking de Camisas;6
+Ranking de Tecnicos Adversarios;6
+Real Madrid 0 X 2 Fluminense;6
+Real Madrid 2 X 0 Fluminense;6
+Renato Gaucho 1997;6
+Richarlison 2017;6
+Rio Cricket 1 X 4 Fluminense;6
+Rio Negro 1 X 0 Fluminense;6
+Roberto 1975;6
+Ronaldinho Gaucho 2016;6
+Royal 0 X 3 Fluminense;6
+Regis 2002;6
+Saldo de placar em estadio;6
+Saldo de placar por Adversarios;6
+Santos 2 X 4 Fluminense;6
+Selecao Olimpica Coreia do Sul 0 X 3 Fluminense;6
+Sobradinho 0 X 1 Fluminense;6
+Sao Cristovao 2 X 5 Fluminense;6
+Sao Paulo Athletic 3 X 0 Fluminense;6
+Tec - Carbone;6
+Tec - Evaristo de Macedo;6
+Tec - Luis Henrique;6
+Tec - Tele;6
+Terceira 2020;6
+Todos os Jogos contra Cruzeiro-MG;6
+Todos os Jogos do Marcelo;6
+Todos os Jogos no(a) Sao Januario;6
+Torneio Inicio 1941;6
+Tricolor 2023 em classicos;6
+Titulos em 1973;6
+Valencia 2014;6
+Vasco 3 X 2 Fluminense;6
+Vasco 4 X 3 Fluminense;6
+Vasco do Ceara 0 X 3 Fluminense;6
+Vitoria BA 0 X 2 Fluminense;6
+Vitoria BA 2 X 1 Fluminense;6
+Volta Redonda 2 X 4 Fluminense;6
+Volta Redonda 3 X 3 Fluminense;6
+Welington 1998;6
+Wellington Silva 2021;6
+Ultimas Sequencias de 21 jogos oficiais - mandante;6
+Ultimos 100 jogos como Mandante;6
+Ultimos 2571 jogos como Mandante;6
+Ultimos jogos em campeonato;6
+1 ª passagem de Marcao;5
+3 ª passagem de Marcao;5
+Adilco 1981;5
+Adriano Magrao 2007;5
+Adversarios da Argentina;5
+Adversarios do mesmo pais em campeonato;5
+Alexandre 1983;5
+Alfredo 1946;5
+America 3 X 0 Fluminense;5
+Andre Costa 1999;5
+Aproveitamento Tecnicos;5
+Aproveitamento Tecnicos no Brasileiro;5
+Argentinos Juniors 1 X 0 Fluminense;5
+Artilheiros contra Botafogo;5
+Artilheiros contra Cruzeiro;5
+Artilheiros em 2011;5
+Artilheiros em 2012;5
+Artilheiros no(a) Carioca;5
+Artilheiros no(a) Libertadores da America 2023;5
+Arilson 2004;5
+Ascoli 0 X 2 Fluminense;5
+Assistencias do Bruno;5
+Assistencias do Carlinhos;5
+Assistencias do Fred;5
+Assistencias do Jonathan;5
+Atletico GO 0 X 2 Fluminense;5
+Atletico MG 1 X 0 Fluminense;5
+Atletico MG 4 X 1 Fluminense;5
+Avai 0 X 3 Fluminense;5
+Bahia 2 X 0 Fluminense;5
+Barcelona Guaiaquil 0 X 3 Fluminense;5
+Bayern de Munique 1 X 0 Fluminense;5
+Bioro 1944;5
+Boca Juniors 2 X 2 Fluminense;5
+Bonsucesso 0 X 4 Fluminense;5
+Bordeaux 0 X 1 Fluminense;5
+Botafogo 4 X 0 Fluminense;5
+Bragantino 0 X 1 Fluminense;5
+Brasileiro 1988;5
+Brasileiro 2005;5
+Brasileirao - Posicoes;5
+Brescia 0 X 1 Fluminense;5
+CRB 0 X 4 Fluminense;5
+CSA 0 X 1 Fluminense;5
+Cabofriense 1 X 1 Fluminense;5
+Cabofriense 1 X 4 Fluminense;5
+Caio Paulista 2023 - Gols por Ano;5
+Camisas em 2021;5
+Campo Grande 1 X 3 Fluminense;5
+Carioca 1910;5
+Carioca 1913;5
+Carioca 1914;5
+Carioca 1940;5
+Carioca 1984;5
+Carioca 1985;5
+Carioca 2003;5
+Carlos Alberto Torres 1976;5
+Cartoes por ano;5
+Ceara 0 X 2 Fluminense;5
+Centenario;5
+Central 0 X 1 Fluminense;5
+Central 1 X 5 Fluminense;5
+Cerro Portenho 0 X 2 Fluminense;5
+Ciel 2008;5
+Cinza e Branca 1902 - 1904;5
+Classicos Regionais;5
+Colorado 0 X 1 Fluminense;5
+Consulta Jogo Numero;5
+Consulta Tecnico Adversario;5
+Cristovao 1983;5
+Cronologia dos Gols;5
+Cicero 2016;5
+Cordoba 0 X 2 Fluminense;5
+David 1998;5
+Desportiva 0 X 5 Fluminense;5
+Detalhes dos Gols por minuto;5
+Digao 2020;5
+Disputa de penalti;5
+Edevaldo 1981;5
+Elenco de jogadores em 2023;5
+Emerson de Almeida Ferreira;5
+Engenheiro Araripe;5
+Eppingen 2 X 2 Fluminense;5
+Estatisticas por Decada;5
+Estatisticas por Temporada;5
+Estrangeiros com mais jogos;5
+Estrela do Norte 0 X 1 Fluminense;5
+Filabanco 0 X 1 Fluminense;5
+Finais;5
+Flamengo 1 X 4 Fluminense;5
+Flamengo 3 X 3 Fluminense;5
+Fluminense 0 X 0 Atletico MG;5
+Fluminense 0 X 0 Goytacas;5
+Fluminense 0 X 0 Sampaio Correa;5
+Fluminense 0 X 0 Santos;5
+Fluminense 0 X 1 Avai;5
+Fluminense 0 X 1 CSA;5
+Fluminense 0 X 1 Olaria;5
+Fluminense 0 X 1 Portuguesa SP;5
+Fluminense 0 X 2 Flamengo;5
+Fluminense 0 X 2 Fortaleza;5
+Fluminense 0 X 2 Gremio;5
+Fluminense 0 X 3 Bonsucesso;5
+Fluminense 0 X 3 Campo Grande;5
+Fluminense 0 X 3 Internacional;5
+Fluminense 1 X 0 Atletico GO;5
+Fluminense 1 X 0 Atletico Nacional;5
+Fluminense 1 X 0 CRB;5
+Fluminense 1 X 0 Criciuma;5
+Fluminense 1 X 0 Dom Pedro II;5
+Fluminense 1 X 0 Joinville;5
+Fluminense 1 X 0 Macae;5
+Fluminense 1 X 0 Operario MS;5
+Fluminense 1 X 0 Ponte Preta;5
+Fluminense 1 X 0 Riachuelo;5
+Fluminense 1 X 0 Vitoria BA;5
+Fluminense 1 X 0 Volta Redonda;5
+Fluminense 1 X 1 Boca Juniors;5
+Fluminense 1 X 1 Paysandu;5
+Fluminense 1 X 1 River Plate;5
+Fluminense 1 X 2 Gremio;5
+Fluminense 1 X 2 Guarani;5
+Fluminense 1 X 2 Sport;5
+Fluminense 1 X 3 Coritiba;5
+Fluminense 1 X 4 Botafogo;5
+Fluminense 2 X 0 America RN;5
+Fluminense 2 X 0 Arsenal;5
+Fluminense 2 X 0 Central;5
+Fluminense 2 X 0 Gremio;5
+Fluminense 2 X 0 Itabaiana;5
+Fluminense 2 X 0 Paulistano;5
+Fluminense 2 X 0 Sao Paulo;5
+Fluminense 2 X 1 Ceara;5
+Fluminense 2 X 1 Figueirense;5
+Fluminense 2 X 1 Goias;5
+Fluminense 2 X 1 Goytacas;5
+Fluminense 2 X 1 Junior Barranquilla;5
+Fluminense 2 X 1 S. C. Americano;5
+Fluminense 2 X 2 Atletico MG;5
+Fluminense 2 X 2 Bangu;5
+Fluminense 2 X 2 Macae;5
+Fluminense 2 X 3 Atletico MG;5
+Fluminense 2 X 3 Sao Paulo;5
+Fluminense 3 X 0 Athletico PR;5
+Fluminense 3 X 0 Bahia;5
+Fluminense 3 X 0 Criciuma;5
+Fluminense 3 X 1 Avai;5
+Fluminense 3 X 1 Serrano;5
+Fluminense 3 X 2 Atletico GO;5
+Fluminense 3 X 2 Criciuma;5
+Fluminense 3 X 4 Botafogo;5
+Fluminense 4 X 0 Bonsucesso;5
+Fluminense 4 X 0 Rio Cricket;5
+Fluminense 4 X 0 Tigres;5
+Fluminense 4 X 1 Alianza Atletico;5
+Fluminense 4 X 2 Brasiliense;5
+Fluminense 4 X 2 Flamengo;5
+Fluminense 4 X 2 Guarani;5
+Fluminense 4 X 3 Flamengo;5
+Fluminense 5 X 0 Americano;5
+Fluminense 5 X 0 Horizonte;5
+Fluminense 5 X 1 Sport;5
+Fluminense 5 X 1 Sao Cristovao;5
+Fluminense 5 X 3 Palmeiras;5
+Fluminense 6 X 0 Maranhao;5
+Fluminense 7 X 0 Football & Athletic;5
+Fluminense 7 X 1 Juventude;5
+Fluminense 9 X 0 Goytacas;5
+Fluminense x Acrob-PA;5
+Fluminense x Amapa/Macapa-CS;5
+Fluminense x Americano RJ-RJ;5
+Fluminense x America RN-RN;5
+Fluminense x Andarai-RJ;5
+Fluminense x Comb Renner/Internacional-CS;5
+Fluminense x Corinthians Casuals-Inglaterra;5
+Fluminense x Criciuma-SC;5
+Fluminense x Estrela do Norte-ES;5
+Fluminense x Fenerbache-Turquia;5
+Fluminense x Figueirense-SC;5
+Fluminense x Goiania-GO;5
+Fluminense x Huracan-Argentina;5
+Fluminense x Macae-RJ;5
+Fluminense x Madureira-RJ;5
+Fluminense x Oriente Petrolero-Bolivia;5
+Fluminense x Resende-RJ;5
+Fluminense x Rio Football Club-RJ;5
+Fluminense x Selecao Italia-CS;5
+Fluminense x Sao Jose-SP;5
+Fluminense x The Strongest-Bolivia;5
+Fluminense x Tip Nac-Guatemala;5
+Fluminense x Treze-PB;5
+Fluminense x Tupi-MG;5
+Fluminense x Vila Nova GO-GO;5
+Fluminense x Vitoria ES-ES;5
+Fluminense x West Ham United-Inglaterra;5
+Fluminense x Young Boys-Suica;5
+Fluminense x Agua Verde-PR;5
+Fortaleza - Brasileiro;5
+Fortaleza 0 X 0 Fluminense;5
+Fortaleza 1 X 1 Fluminense;5
+Frequencia de Placar por camisa;5
+Fumanchu 1979;5
+Gabriel Lima 1999;5
+General Severiano;5
+German Cano - 14;5
+Gilberto 2020;5
+Gols do Samuel Xavier;5
+Gols mais rapidos em jogos oficiais;5
+Gols por minuto;5
+Graficos de Adversarios;5
+Gremio - Brasileiro;5
+Gremio 2 X 0 Fluminense;5
+Gremio Brasiliense 1 X 2 Fluminense;5
+Guarani 0 X 0 Fluminense;5
+Hercilio Luz 0 X 0 Fluminense;5
+Igor Juliao 2021;5
+Internacional 2 X 2 Fluminense;5
+Jogadores com mais vitorias oficiais;5
+Jogos em 04 / 09;5
+Jogos em 15 / 08;5
+Jogos em 18 / 08;5
+Jorginho 2001;5
+Juan 2005 - Gols por Ano;5
+Julinho 1993;5
+Junior Barranquilla 1 X 1 Fluminense;5
+Junior Barranquilla 3 X 0 Fluminense;5
+Juventude MT 4 X 1 Fluminense;5
+Kioto 0 X 2 Fluminense;5
+LDU 0 X 0 Fluminense;5
+Leandro Caju 1999;5
+Leandro Euzebio 2014;5
+Libertad 3 X 0 Fluminense;5
+Luiz Alberto 2009;5
+Luiz Henrique 2022 - Gols por Ano;5
+Madureira 1 X 6 Fluminense;5
+Mais Participacoes em gols em 1 jogo;5
+Mais jogos contra Adversario;5
+Mais jogos no(a) Libertadores da America 2023;5
+Mais jogos no(a) Maracana;5
+Mane Garrincha;5
+Maracana - Brasileiro;5
+Maracana - Internacional;5
+Marinho 1981;5
+Mario Bittencourt;5
+Miranda 1980;5
+Mario Sergio 1975;5
+Media de Publico - 2014;5
+Media de Publico - Brasileiro;5
+Media de Publico - Brasileiro 2023;5
+Media de Publico - Libertadores da America;5
+Media de gols sofridos;5
+Nacional PB 1 X 4 Fluminense;5
+Nildo 1998;5
+Nonato 2022;5
+Olaria 0 X 3 Fluminense;5
+Operario MS 2 X 1 Fluminense;5
+Paris Saint Germain 0 X 2 Fluminense;5
+Paris Saint Germain 1 X 1 Fluminense;5
+Passagens de Tecnico;5
+Paulinho 1992;5
+Paysandu 0 X 3 Fluminense;5
+Paysandu 1 X 2 Fluminense;5
+Paysandu Cricket 1 X 6 Fluminense;5
+Penaltis em 2016;5
+Penaltis em 2018;5
+Penaltis em 2019;5
+Penharol 1 X 2 Fluminense;5
+Porto Alegre 1 X 1 Fluminense;5
+Portuguesa 0 X 1 Fluminense;5
+Portuguesa SP 1 X 3 Fluminense;5
+Portuguesa SP 2 X 1 Fluminense;5
+Previsoes;5
+Publico em 2019;5
+Publico em 2021;5
+Pindaro 1955;5
+Quarta 2022;5
+Rafael 2008;5
+Rafinha 2015;5
+Ranking de Assistencias em 2012;5
+Ranking de Assistencias em 2022;5
+Renato 1979;5
+Resende 0 X 2 Fluminense;5
+Ricardo Berna 2013;5
+Ricardo Pinto 1993;5
+Robson 1999;5
+Rubens Galaxe 1982;5
+Santos 1 X 0 Fluminense;5
+Selecao Coreia 0 X 0 Fluminense;5
+Selecao Cuiaba 1 X 2 Fluminense;5
+Sequencias - Brasileiro 2023;5
+Sequencias em Estadio como mandante;5
+Serrano 0 X 2 Fluminense;5
+Serrano BA 2 X 0 Fluminense;5
+Servette 1 X 2 Fluminense;5
+Sporting Gijon 1 X 1 Fluminense;5
+Sao Caetano 1 X 1 Fluminense;5
+Tadeu 1983;5
+Tarancon 1 X 12 Fluminense;5
+Tarzan 1948;5
+Taca Brasil 1960;5
+Tec - Carlos Alberto Torres;5
+Tec - Charles Williams;5
+Tec - Delei;5
+Tec - Didi;5
+Tec - Fabio Moreno;5
+Tec - Joel Santana;5
+Tec - Odair Hellmann;5
+Tec - Pinheiro;5
+Tito 1964;5
+Todos os Jogos contra Bragantino-SP;5
+Todos os Jogos contra Coritiba-PR;5
+Todos os Jogos contra Paysandu-PA;5
+Todos os Jogos contra Portuguesa SP-SP;5
+Todos os Jogos contra Renato Gaucho;5
+Todos os Jogos contra Sport-PE;5
+Todos os Jogos do Alexsander;5
+Todos os jogos contra Adversario em campeonato;5
+Torneio Roberto Gomes Pedrosa;5
+Tricolor 2023;5
+Titulos em 1940;5
+Titulos em 1977;5
+Titulos em 1987;5
+Titulos em 2023;5
+Union Santa Fe 0 X 0 Fluminense;5
+Valladolid 0 X 0 Fluminense;5
+Vasco 1 X 4 Fluminense;5
+Vasco 4 X 4 Fluminense;5
+Vila Nova GO 2 X 2 Fluminense;5
+Volta Redonda 0 X 0 Fluminense;5
+Volta Redonda 2 X 3 Fluminense;5
+Wagner 1998;5
+Waldo 1961 - Gols por Adversario;5
+Welington Nem 2019;5
+Welington Nem 2019 - Gols por Ano;5
+Wilson Luiz Seneme;5
+Yan 2002;5
+Yenay 1998;5
+Arbitro;5
+Edson 1981;5
+Ultimos 20 jogos;5
+Ultimos 5977 jogos;5
+12º Jogador em Ano;4
+Abel 1976;4
+Adilson Jose 1998;4
+Adversario por cor;4
+Adversario x Adversarios nos turnos;4
+Ajax 2 X 2 Fluminense;4
+Alex Martins 1907;4
+Alexandre 1993;4
+Alfredinho 1937;4
+Alianza Atletico 2 X 2 Fluminense;4
+Ale 1995;4
+Americano 0 X 4 Fluminense;4
+Americano 1 X 1 Fluminense;4
+Americano 2 X 2 Fluminense;4
+Amistoso Interestadual 1918;4
+America 1 X 3 Fluminense;4
+America 1 X 4 Fluminense;4
+America 2 X 0 Fluminense;4
+America 3 X 6 Fluminense;4
+America MG 1 X 2 Fluminense;4
+America RN 2 X 1 Fluminense;4
+Andarai 2 X 7 Fluminense;4
+Andjel 2001;4
+Aniversariantes em 30 / 08;4
+Ano 1938;4
+Antunes 1966;4
+Antonio Carlos 1994;4
+Antonio Hora Filho;4
+Aproveitamento de Tecnico em Campeonato;4
+Armandinho 1935;4
+Arouca 2008;4
+Arsenal de Sarandi 2 X 0 Fluminense;4
+Artilharia Media;4
+Artilheiros contra Athletico PR;4
+Artilheiros em 2002;4
+Artilheiros em 2003;4
+Artilheiros em 2004;4
+Artilheiros em 2006;4
+Assistencias do Jhon Arias;4
+Assistencias do Keno;4
+Athletico PR - Brasileiro;4
+Atletico GO 2 X 1 Fluminense;4
+Atletico GO 3 X 1 Fluminense;4
+Atletico MG 1 X 2 Fluminense;4
+Atletico Nacional 1 X 0 Fluminense;4
+Atletico Nacional 1 X 2 Fluminense;4
+Aymore Moreira 1941;4
+Bahia 1 X 3 Fluminense;4
+Bahia 2 X 1 Fluminense;4
+Barcelona Guaiaquil 1 X 1 Fluminense;4
+Beto 2006;4
+Bonsucesso 0 X 3 Fluminense;4
+Bonsucesso 2 X 5 Fluminense;4
+Botafogo - Engenhao;4
+Bragantino 2 X 1 Fluminense;4
+Bragantino 2 X 2 Fluminense;4
+Branca;4
+Brasileiro - 1º Turno;4
+Brasileiro 1983;4
+Brasileiro 2002;4
+Brasileiro 2012;4
+Brasileiro 2013;4
+Brasileiro 2015;4
+Brasileiro 2019;4
+Brasileiro Serie B;4
+Brasileiro Serie C;4
+Brasileiro Serie C 1999;4
+Brasileirao Rodada a Rodada;4
+Brasiliense 1 X 1 Fluminense;4
+Brasilia 0 X 1 Fluminense;4
+Bruno 2014;4
+CRB 2 X 2 Fluminense;4
+CSA 3 X 3 Fluminense;4
+Caio Henrique 2019;4
+Calegari 2023;4
+Camisas por ano;4
+Canto do Rio 1 X 4 Fluminense;4
+Carioca 1928;4
+Carioca 1953;4
+Carioca 1961;4
+Carioca 1974;4
+Carioca 2014;4
+Carl Weymar 1911;4
+Carlos Alberto 1999;4
+Cazares 2021;4
+Ceara 1 X 2 Fluminense;4
+Ceara 1 X 3 Fluminense;4
+Celta de Vigo 2 X 1 Fluminense;4
+Classicos por ano;4
+Claudio Garcia 1971;4
+Colatina 0 X 0 Fluminense;4
+Copa Sul Americana;4
+Copa Sul Americana 2022;4
+Copa Sul-Minas-Rio 2016;4
+Copa dos Campeoes 1937;4
+Coritiba 0 X 1 Fluminense;4
+Coritiba 3 X 3 Fluminense;4
+Criciuma 3 X 2 Fluminense;4
+Cruickshank 1905;4
+Cuiaba 2 X 2 Fluminense;4
+Dago 1991;4
+Daniel Pomeroy;4
+Desportiva 1 X 2 Fluminense;4
+Detalhamento dos gols - Canela;4
+Dudu 1994;4
+Delio 1947;4
+Edgar 1990;4
+Edson Cimento 1982;4
+Edwin Cox 1910;4
+Escurinho 1964;4
+Estreia em campeonato;4
+Evanilson 2020;4
+Everaldo 2019;4
+Evolucao Vasco;4
+Fanta 1983;4
+Figueirense 0 X 0 Fluminense;4
+Figueirense 0 X 1 Fluminense;4
+Figueirense 1 X 1 Fluminense;4
+Flamengo 2 X 5 Fluminense;4
+Flamengo 3 X 4 Fluminense;4
+Fluminense 0 X 0 Gremio Prudente;4
+Fluminense 0 X 0 Guarani;4
+Fluminense 0 X 0 Union Santa Fe;4
+Fluminense 0 X 1 Bahia;4
+Fluminense 0 X 1 Coritiba;4
+Fluminense 0 X 1 Santo Andre;4
+Fluminense 0 X 1 Sao Cristovao;4
+Fluminense 0 X 2 Paulistano;4
+Fluminense 0 X 2 Sao Cristovao;4
+Fluminense 0 X 3 Botafogo;4
+Fluminense 0 X 3 Gremio;4
+Fluminense 0 X 3 Palmeiras;4
+Fluminense 0 X 3 Santos;4
+Fluminense 0 X 3 Sao Cristovao;4
+Fluminense 0 X 3 Volta Redonda;4
+Fluminense 1 X 0 A. A. Internacional;4
+Fluminense 1 X 0 Anapolina;4
+Fluminense 1 X 0 Caracas;4
+Fluminense 1 X 0 Madureira;4
+Fluminense 1 X 0 Porto Alegre;4
+Fluminense 1 X 0 Serra;4
+Fluminense 1 X 0 Ulsan Hyundai;4
+Fluminense 1 X 1 Ceara;4
+Fluminense 1 X 1 Chapecoense;4
+Fluminense 1 X 1 Figueirense;4
+Fluminense 1 X 1 Nacional Uruguai;4
+Fluminense 1 X 1 Nautico;4
+Fluminense 1 X 1 Sport;4
+Fluminense 1 X 1 Union La Calera;4
+Fluminense 1 X 2 Avai;4
+Fluminense 1 X 2 Cruzeiro;4
+Fluminense 1 X 2 Internacional;4
+Fluminense 1 X 2 Palmeiras;4
+Fluminense 1 X 3 Santos;4
+Fluminense 11 X 0 Riachuelo;4
+Fluminense 2 X 0 America MG;4
+Fluminense 2 X 0 Avai;4
+Fluminense 2 X 0 CSA;4
+Fluminense 2 X 1 Criciuma;4
+Fluminense 2 X 1 Olaria;4
+Fluminense 2 X 1 Paysandu;4
+Fluminense 2 X 1 Sergipe;4
+Fluminense 2 X 2 Argentinos Juniors;4
+Fluminense 2 X 2 Ceara;4
+Fluminense 2 X 2 Universidad de Chile;4
+Fluminense 2 X 3 Chapecoense;4
+Fluminense 2 X 3 Racing;4
+Fluminense 2 X 4 Santos;4
+Fluminense 2 X 5 America RN;4
+Fluminense 3 X 0 Chapecoense;4
+Fluminense 3 X 0 Ferroviaria;4
+Fluminense 3 X 0 Juventude MT;4
+Fluminense 3 X 0 Moto Club;4
+Fluminense 3 X 0 Nacional Potosi;4
+Fluminense 3 X 0 Sport;4
+Fluminense 3 X 1 Atletico GO;4
+Fluminense 3 X 1 Chapecoense;4
+Fluminense 3 X 1 Olaria;4
+Fluminense 3 X 1 Parana;4
+Fluminense 3 X 1 Portuguesa SP;4
+Fluminense 3 X 1 Vitoria BA;4
+Fluminense 3 X 2 Atletico MG;4
+Fluminense 3 X 2 Avai;4
+Fluminense 3 X 2 Campo Grande;4
+Fluminense 3 X 2 Figueirense;4
+Fluminense 3 X 2 Friburguense;4
+Fluminense 3 X 2 Juventude;4
+Fluminense 3 X 3 America;4
+Fluminense 3 X 3 Cruzeiro;4
+Fluminense 4 X 0 Bangu;4
+Fluminense 4 X 0 Coritiba;4
+Fluminense 4 X 0 Parana;4
+Fluminense 4 X 1 Boavista;4
+Fluminense 4 X 1 Campinense;4
+Fluminense 4 X 1 Corinthians;4
+Fluminense 4 X 1 Portuguesa;4
+Fluminense 4 X 2 Goytacas;4
+Fluminense 5 X 0 Bangu;4
+Fluminense 5 X 1 Madureira;4
+Fluminense 5 X 1 Volta Redonda;4
+Fluminense 5 X 2 Corinthians;4
+Fluminense 5 X 2 Coritiba;4
+Fluminense 5 X 3 America;4
+Fluminense 6 X 0 Vitoria ES;4
+Fluminense 6 X 1 America;4
+Fluminense 6 X 2 Portuguesa SP;4
+Fluminense BA 0 X 1 Fluminense;4
+Fluminense BA 1 X 2 Fluminense;4
+Fluminense BA 2 X 3 Fluminense;4
+Fluminense X Vasco - Video;4
+Fluminense x ASA-AL;4
+Fluminense x Al Ahli Saudi-Arabia Saudita;4
+Fluminense x Alecrim-RN;4
+Fluminense x Alianza Atletico-Peru;4
+Fluminense x America SC-SC;4
+Fluminense x Atlanta-Argentina;4
+Fluminense x Atletic Club-MG;4
+Fluminense x Audax-RJ;4
+Fluminense x Bayer Leverkusen-Alemanha;4
+Fluminense x CEUB-DF;4
+Fluminense x CRB-AL;4
+Fluminense x Cabofriense-RJ;4
+Fluminense x Caiano-PE;4
+Fluminense x Cambaraense-PR;4
+Fluminense x Caracas-Venezuela;4
+Fluminense x Castanhal-PA;4
+Fluminense x Cruzeiro do Sul-RJ;4
+Fluminense x Emelec-Equador;4
+Fluminense x Ferrocarril Oeste-Argentina;4
+Fluminense x Grasshopper-Suica;4
+Fluminense x Guaratingueta-SP;4
+Fluminense x Honved-Hungria;4
+Fluminense x Ideal-RJ;4
+Fluminense x Independiente Sta Fe-Colombia;4
+Fluminense x Juventude-RS;4
+Fluminense x Juventus-SP;4
+Fluminense x Norte America-Equador;4
+Fluminense x Olaria-RJ;4
+Fluminense x Olimpique Marselha-Franca;4
+Fluminense x Olmedo-Equador;4
+Fluminense x Parana-PR;4
+Fluminense x Pires do Rio-GO;4
+Fluminense x Presidente Hayes-Paraguai;4
+Fluminense x Santo Antonio-ES;4
+Fluminense x Team Buchan-RJ;4
+Fluminense x Tigres-RJ;4
+Fluminense x Torino-Italia;4
+Fluminense x Udinese-Italia;4
+Fluminense x Union Santa Fe-Argentina;4
+Fluminense x Vasco do Ceara-CE;4
+Fluminense x Vila Isabel-RJ;4
+Flavio Roberto 1985;4
+Frequencia de Placares por Adversarios;4
+Fabio 2023 - Maracana;4
+Fabio Bala 2004;4
+Gabriel Teixeira 2022;4
+Gabriel Teixeira 2022 - Gols por Ano;4
+Geraldao 1978;4
+German Cano 2023 - Gols por Campeonato;4
+Germano 1974;4
+Germania 4 X 3 Fluminense;4
+Getulio 1955;4
+Gilberto 2020 - Gols por Ano;4
+Gimnastica Segoviana 0 X 8 Fluminense;4
+Goias 2 X 4 Fluminense;4
+Goleadas;4
+Gols do Lele;4
+Gols do Mauricio;4
+Goytacas 1 X 0 Fluminense;4
+Gremio 0 X 1 Fluminense;4
+Gremio 3 X 2 Fluminense;4
+Gremio 5 X 1 Fluminense;4
+Guarani Paraguai 3 X 1 Fluminense;4
+Hernando Siles;4
+Humberto 1967;4
+Hercules 1942;4
+Internacional 0 X 1 Fluminense;4
+Jesus Valenzuela;4
+Jhon Arias 2023 - German Cano 2023;4
+Joel 1999;4
+Jogos Eliminatorios - Argentina;4
+Jogos Eliminatorios em Estadio;4
+Jogos Eliminatorios por Pais;4
+Jogos em 04 / 10;4
+Jogos em 04 / 11;4
+Jogos em 07 / 09;4
+Jogos em 09 / 1976;4
+Jonathan 2003;4
+Jorge Luiz 1978;4
+Jose Roberto Wright;4
+Junior 1993;4
+Kashima Antlers 1 X 1 Fluminense;4
+Kayky 2021 - Gols por Ano;4
+Kieza 2010;4
+Laranjeiras - Brasileiro;4
+Leandro 2005;4
+Leo 2017;4
+Luis Carlos 1978;4
+Lulinha 1971;4
+Macae 0 X 1 Fluminense;4
+Maia 1941;4
+Maicon 2010;4
+Maiores Artilheiros em 1 Libertadores da America;4
+Maiores Artilheiros em 1 Partida;4
+Maiores Publicos - America MG;4
+Maiores Publicos - Bangu;4
+Maiores Publicos - Brasileiro;4
+Maiores Publicos - Palmeiras;4
+Mais jogos no(a) Copa Sul Americana;4
+Mais jogos no(a) Copa do Brasil;4
+Mais jogos no(a) Engenhao;4
+Mais vitorias no seculo;4
+Malazzo 1942;4
+Maracana - Brasileiro 2003;4
+Maracana - Brasileiro 2014;4
+Maracana - Brasileiro 2015;4
+Maracana - Brasileiro 2016;4
+Maracana - Brasileiro 2017;4
+Maracana - Brasileiro 2018;4
+Marcelo 1989;4
+Marcelo 1997;4
+Marcelo Cardoso 1997;4
+Marcelo de Lima Henrique;4
+Mario Bittencourt em classicos;4
+Mario Pessoa;4
+Marquinho 2005;4
+Martinelli 2023 - Gols por Ano;4
+Mazola 1992;4
+Milionarios 1 X 2 Fluminense;4
+Moacyrzao;4
+Moto Club 0 X 3 Fluminense;4
+Mutzembecker 1913;4
+Marcio 1974;4
+Mario Tilico 1967;4
+Mario Tilico 1994;4
+Media de Publico - 2007;4
+Media de Publico - 2009;4
+Media de Publico - 2010;4
+Media de Publico - 2011;4
+Media de Publico - 2012;4
+Media de Publico - 2013;4
+Media de Publico - 2015;4
+Media de Publico - 2016;4
+Media de Publico - 2017;4
+Media de Publico - 2018;4
+Media de Publico - 2019;4
+Media de Publico - Maracana;4
+Media de penalties;4
+Nestor Macedo 1915;4
+Nova Friburgo 0 X 2 Fluminense;4
+Nova Iguacu 1 X 3 Fluminense;4
+Nautico 1 X 3 Fluminense;4
+Nautico 3 X 1 Fluminense;4
+Odair 1999;4
+Olaria 1 X 5 Fluminense;4
+Olaria 2 X 2 Fluminense;4
+Palmeiras 0 X 0 Fluminense;4
+Paraguaio 1955;4
+Parana 0 X 1 Fluminense;4
+Paris Saint Germain 3 X 1 Fluminense;4
+Paulinho 1980;4
+Paulistano 1 X 2 Fluminense;4
+Paulistano 2 X 0 Fluminense;4
+Paulo Cesar Lima 1976;4
+Paulo Cesar de Oliveira;4
+Paulo Roberto 1981;4
+Paulo Roberto 1997;4
+Paulo Roberto 1999;4
+Paysandu 1 X 1 Fluminense;4
+Pele 1978;4
+Penaltis por ano;4
+Pineida 2022;4
+Portuguesa SP 0 X 0 Fluminense;4
+Portuguesa SP 1 X 1 Fluminense;4
+Presidente Vargas-PB;4
+Primeiro de Maio 1 X 2 Fluminense;4
+Publico em 1976;4
+Publico em 2007;4
+Publico em 2008;4
+Publico em 2018;4
+Racca Rovers 1 X 2 Fluminense;4
+Rangel 1991;4
+Ranking de Assistencias em 2007;4
+Ranking de Assistencias em 2008;4
+Ranking de Assistencias em 2009;4
+Ranking de Assistencias em 2010;4
+Ranking de Assistencias em 2018;4
+Ranking de Assistencias em 2020;4
+Ranking de distancia percorrida;4
+Rayo Vallecano 2 X 2 Fluminense;4
+Reidy 1907;4
+Resende 0 X 4 Fluminense;4
+Resende 1 X 2 Fluminense;4
+Resende 2 X 1 Fluminense;4
+Rio Branco 1 X 0 Fluminense;4
+River 0 X 5 Fluminense;4
+Roberto Tobar;4
+Rodrigo Carbone 1996;4
+Romeu 2009;4
+Rongo 1941;4
+Roni 2009;4
+Rubinho 1979;4
+S. C. Internacional 1 X 3 Fluminense;4
+Samuel 2021 - Gols por Ano;4
+Samuel Xavier 2023 - Gols por Ano;4
+Santa Cruz 1 X 2 Fluminense;4
+Santos 3 X 1 Fluminense;4
+Savio Pereira Sampaio;4
+Sel. Vale do Paraiba 0 X 9 Fluminense;4
+Selecao Petropolis 2 X 3 Fluminense;4
+Sequencias - Vasco;4
+Sequencias Qtd;4
+Sequencias em jogos oficiais;4
+Sergipe 0 X 3 Fluminense;4
+Simoes 1953;4
+Souza 1992;4
+Souza 2012;4
+Sporting 0 X 3 Fluminense;4
+Sao Cristovao 1 X 8 Fluminense;4
+Sao Paulo Athletic 0 X 0 Fluminense;4
+Sao Paulo Athletic 0 X 3 Fluminense;4
+Taguatinga 0 X 0 Fluminense;4
+Taguatinga 1 X 4 Fluminense;4
+Tato 1988;4
+Tec - Cuca;4
+Tec - Levir Culpi;4
+Tempo que faz/leva QTD gols;4
+Temporada 2023;4
+Thiaguinho 2010;4
+Tiguta 1968;4
+Tim 1944;4
+Timeline Tecnicos;4
+Tipos de gol por ano;4
+Todos os Jogos apitados por Anderson Daronco;4
+Todos os Jogos contra Bangu-RJ;4
+Todos os Jogos contra Botafogo-RJ;4
+Todos os Jogos contra Criciuma-SC;4
+Todos os Jogos contra Deportivo Galicia-Venezuela;4
+Todos os Jogos contra Francisco Arce;4
+Todos os Jogos contra Mano Menezes;4
+Todos os Jogos contra Ponte Preta-SP;4
+Todos os Jogos contra Sao Paulo-SP;4
+Todos os Jogos do Arthur;4
+Todos os Jogos do Fabio;4
+Todos os Jogos do Juan;4
+Todos os Jogos do Regis;4
+Todos os Jogos no(a) Giulitte Coutinho;4
+Torino 0 X 2 Fluminense;4
+Torneio Inicio 1925;4
+Torneio Inicio 1940;4
+Torneio de Paris 1975;4
+Treze 0 X 2 Fluminense;4
+Tricolor 1906 - 1912;4
+Tricolor 1999 - 2000;4
+Tecnico por tempo determinado;4
+Titulos em 1918;4
+Titulos em 1924;4
+Titulos em 1925;4
+Titulos em 1937;4
+Titulos em 1941;4
+Titulos em 1969;4
+Titulos em 1976;4
+Titulos em 1984;4
+Titulos por Campeonato;4
+Valencia 1 X 0 Fluminense;4
+Valencia 2 X 3 Fluminense;4
+Var em Campeonatos;4
+Vasco - Brasileiro;4
+Vasco 5 X 0 Fluminense;4
+Vitor Mendes 2023;4
+Vitoria BA 1 X 0 Fluminense;4
+Volta Redonda 1 X 0 Fluminense;4
+Washington 2010;4
+Waterman 1910;4
+Wellington Silva 2016;4
+Wilton Pereira Sampaio;4
+Young Boys 3 X 1 Fluminense;4
+Ze Mario 1975;4
+Alvaro Macedo 1906;4
+Ultimos 4500 jogos;4
+12º Jogador em 2008;3
+15 de Abril;3
+30 Arbitros que mais apitaram;3
+ABC 0 X 1 Fluminense;3
+AZ 67 Alkmaar 2 X 2 Fluminense;3
+Abelardo Conduru;3
+Adeilson 2010;3
+Adidas;3
+Adolpho Simonsen 1905;3
+Adversarios - quadricolores;3
+Adversarios Franca;3
+Adversarios da Arabia Saudita;3
+Adversarios da Brasil;3
+Adversarios por tempo determinado;3
+Al Ahli Saudi 2 X 3 Fluminense;3
+Aldo 1987;3
+Alecyr 1959;3
+Alessandro 2001;3
+Alex Dale 1909;3
+Alfinete 1994;3
+Almir 1981;3
+Altair 1970;3
+Amarante 1911;3
+Amarelos do John Kennedy - 2023;3
+Amarelos do Samuel Xavier - 2023;3
+Americano 0 X 3 Fluminense;3
+Americano 1 X 3 Fluminense;3
+Americano 2 X 1 Fluminense;3
+Amistoso Internacional 1948;3
+Amistoso Internacional 1952;3
+Amistoso Internacional 1955;3
+Amistoso Internacional 1957;3
+Amistoso Internacional 1975;3
+America 3 X 1 Fluminense;3
+America MG 0 X 1 Fluminense;3
+America RN 0 X 3 Fluminense;3
+America RN 1 X 0 Fluminense;3
+Anapolina 3 X 2 Fluminense;3
+Andarai;3
+Anderson 1992;3
+Andre - 7;3
+Andre 2023 - Gols por Ano;3
+Andre Luiz Bento;3
+Andres Cunha;3
+Ano 1952;3
+Antonio Carlos 1983;3
+Arminio Motta 1913;3
+Arnaldo 1911;3
+Arsenal de Sarandi 1 X 2 Fluminense;3
+Artilheiros em 1999;3
+Artilheiros em 2001;3
+Artilheiros na temporada 2022;3
+Artilheiros no(a) Engenhao;3
+Artilheiros no(a) Libertadores da America 2021;3
+Artilheiros no(a) Libertadores da America 2022;3
+Assis 1987 - Gols por Adversario;3
+Assistencias do Conca;3
+Assistencias do Gum;3
+Assistencias do Marcelo;3
+Ataque/Defesa no(a) Brasileiro;3
+Athletico PR 1 X 3 Fluminense;3
+Athletico PR 3 X 2 Fluminense;3
+Atletico GO 1 X 0 Fluminense;3
+Atletico GO 3 X 2 Fluminense;3
+Avai 1 X 0 Fluminense;3
+Avai 1 X 1 Fluminense;3
+Avai 3 X 2 Fluminense;3
+Baiano 1966;3
+Bangu 2 X 4 Fluminense;3
+Bangu 3 X 2 Fluminense;3
+Basel 2 X 4 Fluminense;3
+Bassu 1957;3
+Batalha 1930;3
+Batatais 1946;3
+Benedicto 1933;3
+Benfica 1 X 1 Fluminense;3
+Bene 1956;3
+Betano;3
+Blumenau 1 X 2 Fluminense;3
+Boavista 0 X 2 Fluminense;3
+Boavista 0 X 3 Fluminense;3
+Bolivar 1 X 2 Fluminense;3
+Bonsucesso 2 X 2 Fluminense;3
+Borgerth 1911;3
+Botafogo 1 X 3 Fluminense;3
+Branca 1907 - 1908;3
+Branca 1909 - 1918;3
+Branca 2021;3
+Branca 2022;3
+Branca 2022 em classicos;3
+Branca 2023 em classicos;3
+Brasileiro - 2º Turno 2022;3
+Brasileiro - Raulino de Oliveira;3
+Brasileiro 1985;3
+Brasileiro 1991;3
+Brasileiro 1997;3
+Brasileiro 2000;3
+Brasileiro 2001;3
+Brasileiro 2004;3
+Brasileiro 2007;3
+Brasileiro 2018;3
+Brasileiro 2021;3
+Brasileiro 2022 - Sabado;3
+Brasileirao pontos por ano;3
+Bruno Arleu de Araujo;3
+CEUB 1 X 3 Fluminense;3
+CSA 0 X 0 Fluminense;3
+CSA 0 X 2 Fluminense;3
+Cabofriense 0 X 0 Fluminense;3
+Camisas x Campeonato;3
+Campeonatos em 2023;3
+Campo Grande 1 X 0 Fluminense;3
+Campo Grande 2 X 0 Fluminense;3
+Caninde;3
+Canto do Rio 0 X 3 Fluminense;3
+Canto do Rio 1 X 2 Fluminense;3
+Canto do Rio 5 X 2 Fluminense;3
+Capuano 1942;3
+Carioca 1921;3
+Carioca 1922;3
+Carioca 1937;3
+Carioca 1964;3
+Carioca 1973;3
+Carioca 1975;3
+Carioca 2005;3
+Carioca 2012;3
+Carlinhos 1987;3
+Carlinhos 2008;3
+Carlinhos 2014;3
+Carlos Alberto 2007 - Flamengo;3
+Carlos Eduardo 2009;3
+Carlos Eugenio Simon;3
+Cartao em campeonato;3
+Cartoes por arbitro;3
+Castro 1998;3
+Ceara 2 X 0 Fluminense;3
+Ceara 2 X 1 Fluminense;3
+Chapecoense 1 X 1 Fluminense;3
+Chapecoense 2 X 1 Fluminense;3
+Charles Guerreiro 1996;3
+Chateau Carrera;3
+Classicos - Brasileiro;3
+Classicos por periodo;3
+Combinado Catarinense 0 X 1 Fluminense;3
+Combinado Rivengo 1 X 0 Fluminense;3
+Comercial MS 1 X 1 Fluminense;3
+Conmebol 1992;3
+Conmebol 1996;3
+Conselheiro Galvao;3
+Consolidados de turnos;3
+Copa Sul Americana 2009;3
+Copa Sul Americana 2019;3
+Copa do Brasil 2001;3
+Copa do Brasil 2003;3
+Copa do Brasil 2007;3
+Corinthians 2 X 2 Fluminense;3
+Coritiba 3 X 2 Fluminense;3
+Coroata 0 X 4 Fluminense;3
+Cosme 1994;3
+Criciuma 0 X 3 Fluminense;3
+Cristiano 2022;3
+Cruzeiro 2 X 0 Fluminense;3
+Cruzeiro 2 X 1 Fluminense;3
+Cruzeiro 4 X 2 Fluminense;3
+Daniel Fedorczuk;3
+Dario Herrera;3
+Deportivo Cuenca 0 X 2 Fluminense;3
+Deportivo Pereira 4 X 4 Fluminense;3
+Desportiva 3 X 2 Fluminense;3
+Didi 1956;3
+Diego Souza 2016;3
+Distribuicao de Gols;3
+Duque de Caxias 3 X 2 Fluminense;3
+Edson 1955;3
+Eduardo 1994;3
+Elenco de jogadores em 1970;3
+Elenco de jogadores em 1971;3
+Emile Etchegaray 1910;3
+Engenhao - Botafogo;3
+Esquerdinha 2023;3
+Estatisticas de 2023 ate 2023;3
+Evanilson 2020 - Gols por Ano;3
+Everton 0 X 0 Fluminense;3
+Evolucao de Pontos;3
+Evolucao de gols por ano;3
+Fast 1 X 0 Fluminense;3
+Fast 1 X 7 Fluminense;3
+Fernando 1931;3
+Ferroviario 4 X 1 Fluminense;3
+Ferroviario RO 1 X 1 Fluminense;3
+Flamengo 2 X 4 Fluminense;3
+Flamengo 5 X 2 Fluminense;3
+Flamengo 6 X 3 Fluminense;3
+Fluminense 0 X 0 America MG;3
+Fluminense 0 X 0 Antofagasta;3
+Fluminense 0 X 0 Bonsucesso;3
+Fluminense 0 X 0 Botafogo SP;3
+Fluminense 0 X 0 Campo Grande;3
+Fluminense 0 X 0 Fortaleza;3
+Fluminense 0 X 0 Inter Limeira;3
+Fluminense 0 X 0 Internacional;3
+Fluminense 0 X 0 Parana;3
+Fluminense 0 X 0 Porto Alegre;3
+Fluminense 0 X 0 Portuguesa;3
+Fluminense 0 X 0 Vitoria BA;3
+Fluminense 0 X 1 America RN;3
+Fluminense 0 X 2 Internacional;3
+Fluminense 0 X 2 Nautico;3
+Fluminense 0 X 2 Palmeiras;3
+Fluminense 0 X 2 Santos;3
+Fluminense 0 X 3 Cruzeiro;3
+Fluminense 1 X 0 Goytacas;3
+Fluminense 1 X 0 Maritimo;3
+Fluminense 1 X 0 Moto Club;3
+Fluminense 1 X 0 Sao Caetano;3
+Fluminense 1 X 1 Brasiliense;3
+Fluminense 1 X 1 Ponte Preta;3
+Fluminense 1 X 1 Resende;3
+Fluminense 1 X 1 Sao Cristovao;3
+Fluminense 1 X 2 Corinthians;3
+Fluminense 1 X 2 Madureira;3
+Fluminense 1 X 2 Serra;3
+Fluminense 1 X 3 Bangu;3
+Fluminense 1 X 3 Corinthians;3
+Fluminense 1 X 4 Chapecoense;3
+Fluminense 1 X 4 Goias;3
+Fluminense 1 X 4 Palmeiras;3
+Fluminense 1 X 4 Santos;3
+Fluminense 2 X 0 Boavista;3
+Fluminense 2 X 0 Botafogo SP;3
+Fluminense 2 X 0 Ceara;3
+Fluminense 2 X 0 Cruzeiro;3
+Fluminense 2 X 0 Defensor;3
+Fluminense 2 X 0 Deportivo Cuenca;3
+Fluminense 2 X 0 Emelec;3
+Fluminense 2 X 0 Juventus;3
+Fluminense 2 X 0 Liverpool URU;3
+Fluminense 2 X 0 Madureira;3
+Fluminense 2 X 0 Olaria;3
+Fluminense 2 X 1 Americano;3
+Fluminense 2 X 1 Bonsucesso;3
+Fluminense 2 X 1 Cachoeiro;3
+Fluminense 2 X 1 Campo Grande;3
+Fluminense 2 X 1 Cerro Portenho;3
+Fluminense 2 X 1 Friburguense;3
+Fluminense 2 X 1 Independiente Sta Fe;3
+Fluminense 2 X 1 Madureira;3
+Fluminense 2 X 1 Moto Club;3
+Fluminense 2 X 1 Nova Iguacu;3
+Fluminense 2 X 1 Santa Cruz;3
+Fluminense 2 X 1 Selecao Emirados;3
+Fluminense 2 X 2 America MG;3
+Fluminense 2 X 2 Coritiba;3
+Fluminense 2 X 2 Linhares;3
+Fluminense 2 X 2 Santa Cruz;3
+Fluminense 2 X 3 Americano;3
+Fluminense 2 X 3 Vitoria BA;3
+Fluminense 2 X 3 Volta Redonda;3
+Fluminense 2 X 5 Santos;3
+Fluminense 3 X 0 Boavista;3
+Fluminense 3 X 0 Goytacas;3
+Fluminense 3 X 0 Nacional PB;3
+Fluminense 3 X 0 Oriente Petrolero;3
+Fluminense 3 X 0 Ponte Preta;3
+Fluminense 3 X 0 Porto;3
+Fluminense 3 X 0 Portuguesa SP;3
+Fluminense 3 X 0 Resende;3
+Fluminense 3 X 0 Selecao Kuwait;3
+Fluminense 3 X 0 Ypiranga RS;3
+Fluminense 3 X 1 Americano;3
+Fluminense 3 X 1 Audax;3
+Fluminense 3 X 1 Canto do Rio;3
+Fluminense 3 X 1 Ceara;3
+Fluminense 3 X 1 Gremio;3
+Fluminense 3 X 1 Macae;3
+Fluminense 3 X 2 Cruzeiro;3
+Fluminense 3 X 2 Goytacas;3
+Fluminense 3 X 2 Portuguesa;3
+Fluminense 3 X 2 Santa Cruz;3
+Fluminense 3 X 2 Sao Paulo;3
+Fluminense 3 X 2 Vila Nova GO;3
+Fluminense 3 X 3 Chapecoense;3
+Fluminense 4 X 0 Americano;3
+Fluminense 4 X 0 Botafogo;3
+Fluminense 4 X 0 Cabofriense;3
+Fluminense 4 X 0 Cruzeiro;3
+Fluminense 4 X 0 Flamengo;3
+Fluminense 4 X 0 Sport;3
+Fluminense 4 X 0 Universidad de Quito;3
+Fluminense 4 X 1 Mesquita;3
+Fluminense 4 X 1 Paysandu;3
+Fluminense 4 X 1 Portuguesa SP;3
+Fluminense 4 X 2 Atletico MG;3
+Fluminense 4 X 2 Barra Mansa;3
+Fluminense 4 X 3 Gama;3
+Fluminense 4 X 3 Santos;3
+Fluminense 5 X 0 Cabofriense;3
+Fluminense 5 X 0 Goytacas;3
+Fluminense 5 X 0 Itabaiana;3
+Fluminense 5 X 0 Salgueiro;3
+Fluminense 5 X 1 Bangu;3
+Fluminense 5 X 2 Atletico MG;3
+Fluminense 5 X 2 Paysandu;3
+Fluminense 5 X 2 Rio Branco;3
+Fluminense 5 X 2 Volta Redonda;3
+Fluminense 6 X 0 Atletico MG;3
+Fluminense 6 X 1 Friburguense;3
+Fluminense 6 X 1 Jequia;3
+Fluminense 6 X 2 Olaria;3
+Fluminense X Palmeiras - Video;3
+Fluminense x A.A. Sao Bento-SP;3
+Fluminense x ABC-RN;3
+Fluminense x Adaleti Instambul-Turquia;3
+Fluminense x Adesg-AC;3
+Fluminense x Al Shabab-Arabia Saudita;3
+Fluminense x Anderletch-Belgica;3
+Fluminense x Ateneu-MG;3
+Fluminense x Boavista-RJ;3
+Fluminense x Bordeaux-Franca;3
+Fluminense x Brescia-Italia;3
+Fluminense x Colatina-ES;3
+Fluminense x Deportivo Cali-Colombia;3
+Fluminense x Ferroviario RO-RO;3
+Fluminense x Filabanco-Equador;3
+Fluminense x Filhos de Iguassu-RJ;3
+Fluminense x Fiorentina-Italia;3
+Fluminense x Fluminense Niteroi-RJ;3
+Fluminense x Genoa-Italia;3
+Fluminense x Germania-SP;3
+Fluminense x Gimnastica Segoviana-Espanha;3
+Fluminense x Globo-RN;3
+Fluminense x Gremio Brasiliense-DF;3
+Fluminense x Independ. Medellin-Colombia;3
+Fluminense x Joinville-SC;3
+Fluminense x Kashima Antlers-Japao;3
+Fluminense x Luverdense-MT;3
+Fluminense x Manchester-MG;3
+Fluminense x Milan-Italia;3
+Fluminense x Nautico Itacoatiara-AM;3
+Fluminense x Norrkoping-Suecia;3
+Fluminense x Nova Friburgo-RJ;3
+Fluminense x Olimpique Lyon-Franca;3
+Fluminense x Osters-Suecia;3
+Fluminense x PSV Eindhoven-Holanda;3
+Fluminense x Palmeiras RJ-RJ;3
+Fluminense x Picos-PI;3
+Fluminense x Pinheirense-PA;3
+Fluminense x Rio Branco-ES;3
+Fluminense x Robin Hood-Suriname;3
+Fluminense x Rodoviario-RJ;3
+Fluminense x Roma-Italia;3
+Fluminense x Royal Antwerp-Belgica;3
+Fluminense x Royal-RJ;3
+Fluminense x Selecao Argelia-CS;3
+Fluminense x Selecao Martinica-CS;3
+Fluminense x Selecao Olimpica da Hungria-CS;3
+Fluminense x Selecao Suecia-CS;3
+Fluminense x Selecao Sao Paulo-SP;3
+Fluminense x Selecao Uruguai-CS;3
+Fluminense x Shakhtar Donetsk-Ucrania;3
+Fluminense x Standard Liege-Belgica;3
+Fluminense x Tampico-Mexico;3
+Fluminense x Transwall-Suriname;3
+Fluminense x Tuna Luso-PA;3
+Fluminense x Universitario-Peru;3
+Fluminense x Union Espanola-Chile;3
+Fluminense x Valladolid-Espanha;3
+Fluminense x Villa Nova MG-MG;3
+Fluminense x Zamora-Venezuela;3
+Fluminense x Aguia de Maraba-PA;3
+Flavio 1971;3
+Flavio 2003;3
+Fortaleza 2 X 5 Fluminense;3
+Fortes 1930;3
+Francana 0 X 2 Fluminense;3
+Fred 2022 - Conca 2015;3
+Fred 2022 - Gols por Adversario;3
+Fred em 21/06/2013 - 19/08/2023;3
+Frequencia de Placar em classicos;3
+Friburguense 1 X 1 Fluminense;3
+Gabriel 2008 - Gols por Ano;3
+Geolocalizacao dos Estadios;3
+Geraldo 1958;3
+Gerdal 1921;3
+Gil Baiano 1998;3
+Goias 2 X 1 Fluminense;3
+Gol numero 10000;3
+Goleadas em Brasileiros;3
+Goleadas em jogos oficiais;3
+Gols de Jogador em campeonato;3
+Gols do Alan;3
+Gols do Branco;3
+Gols do Cazares;3
+Gols do Martinelli;3
+Gols do Zeze;3
+Goytacas 4 X 4 Fluminense;3
+Grena 2011 - 2012;3
+Graficos de Jogador;3
+Graficos de Tecnico;3
+Gremio - Arena do Gremio;3
+Gremio 0 X 0 Fluminense;3
+Gremio 4 X 4 Fluminense;3
+Gremio Prudente 0 X 0 Fluminense;3
+Gremio Prudente 1 X 1 Fluminense;3
+Guarani 2 X 1 Fluminense;3
+Guarani 3 X 1 Fluminense;3
+Guaratingueta 0 X 2 Fluminense;3
+Henrique Dourado 2018;3
+Hermano Simonsen 1907;3
+Horizonte 3 X 1 Fluminense;3
+Huachipato 1 X 2 Fluminense;3
+Hyundai;3
+Igor 2005;3
+Imperatriz 0 X 3 Fluminense;3
+Independiente Sta Fe 1 X 2 Fluminense;3
+Independencia;3
+Inter Limeira 2 X 2 Fluminense;3
+Internacional - Brasileiro;3
+Internacional 0 X 3 Fluminense;3
+Internacional 3 X 1 Fluminense;3
+Internacional SC 2 X 1 Fluminense;3
+Iris 1966;3
+Isidoro 1979;3
+Isny 2 X 5 Fluminense;3
+Itabaiana 0 X 4 Fluminense;3
+Ivair 1974;3
+Jailton 1997;3
+Jardel 1967;3
+Jailton 2009;3
+Jean 2015;3
+Jequia 1 X 5 Fluminense;3
+Jerry 1993;3
+Jhon Arias - 21;3
+Joaquim Araujo 1906;3
+Jogador e Tecnico;3
+Jogador por tempo determinado;3
+Jogador x Tecnico;3
+Jogadores com mais derrotas;3
+Jogadores mais novos;3
+Jogos Eliminatorios - Brasil;3
+Jogos Eliminatorios - Chile;3
+Jogos Eliminatorios - Equador;3
+Jogos Eliminatorios - Paraguai;3
+Jogos Eliminatorios - Peru;3
+Jogos Eliminatorios por Saldo no 1º jogo;3
+Jogos de Adversario por ano;3
+Jogos em 03 / 2015;3
+Jogos em 07 / 2015;3
+Jogos em 10 / 09;3
+Jogos em 15 / 09;3
+Jogos em 24 / 08;3
+Jogos em 26 / 08;3
+Jogos em 27 / 09;3
+Jogos em 29 / 08;3
+John Kennedy 2023 - Gols por Adversario;3
+John Kennedy 2023 - Gols por Campeonato;3
+Joinville 1 X 1 Fluminense;3
+Joinville 2 X 1 Fluminense;3
+Jonathan 2016;3
+Jorginho 2002;3
+Jose Aldo Pereira;3
+Jose de Assis Aragao;3
+Juan 2005;3
+Juiz de Fora 0 X 2 Fluminense;3
+Julio Cesar 2011;3
+Julio Cesar 2018;3
+Juninho 2006;3
+Junior Cesar 2008;3
+Joia da Princesa;3
+Kayky 2021;3
+Kleber 1980;3
+Kleber 2005;3
+La Nueva Olla;3
+Lafaiete 1956;3
+Lagartense 0 X 1 Fluminense;3
+Leandro Pedro Vuaden;3
+Lenny 2007;3
+Libertadores da America - Milionarios;3
+Libertadores da America - Quinta Feira;3
+Lille 3 X 3 Fluminense;3
+Lista de Adversario do mesmo estado;3
+Luiz Alberto 1977;3
+Luiz Maia 1912;3
+Macae 0 X 4 Fluminense;3
+Machado 1922;3
+Madureira 0 X 0 Fluminense;3
+Madureira 0 X 2 Fluminense;3
+Madureira 0 X 6 Fluminense;3
+Madureira 1 X 5 Fluminense;3
+Madureira 2 X 2 Fluminense;3
+Madureira 2 X 4 Fluminense;3
+Maiores Artilheiros em 1 Copa do Brasil;3
+Maiores Publicos - Corinthians;3
+Maiores Publicos - Internacional;3
+Maiores Publicos - Maracana;3
+Maiores Publicos - Serra Dourada;3
+Mais jogos contra Vasco;3
+Mais jogos em turnos;3
+Manchester 1 X 1 Fluminense;3
+Mangueirao;3
+Mano 1993;3
+Manoel Schwartz em classicos;3
+Maracana - Brasileiro 2004;3
+Maracana - Brasileiro 2005;3
+Maracana - Brasileiro 2006;3
+Maracana - Brasileiro 2007;3
+Maracana - Brasileiro 2008;3
+Maracana - Brasileiro 2009;3
+Maracana - Brasileiro 2010;3
+Maracana - Brasileiro 2013;3
+Maracana - Brasileiro 2019;3
+Maracana - Brasileiro 2020;3
+Maracana - Brasileiro 2022;3
+Maracana - Palmeiras;3
+Maracana em 30/03/2003 - 21/08/2023;3
+Maranhao 2017;3
+Marcelo Henrique 1990;3
+Marcilio Dias 3 X 4 Fluminense;3
+Mario Bittencourt contra Flamengo;3
+Marlon Freitas 2018;3
+Marquinhos Calazans 2019;3
+Mateus 1964;3
+Matheus Carvalho 2014 - Gols por Ano;3
+Matheus Martins 2022 - Gols por Ano;3
+Maurinho 1985;3
+Mauricio 2010;3
+Mauricio Fernandes 2002;3
+Melhor/Pior ataque/defesa em campeonato;3
+Menores Publicos;3
+Menores Publicos Maracana;3
+Metinho 2021;3
+Michael 2015;3
+Miguel 1956;3
+Minutagem 2022;3
+Mixto 1 X 1 Fluminense;3
+Mondaine;3
+Monzon 2013;3
+Moto Club 1 X 3 Fluminense;3
+Murilo 2003;3
+Marcio Baby 1994;3
+Mario Faria 1951;3
+Mario Marques 1982;3
+Media de Publico - 1952;3
+Media de Publico - 1956;3
+Media de Publico - 1975;3
+Media de Publico - 1984;3
+Media de Publico - 1995;3
+Media de Publico - 2002;3
+Media de Publico - 2005;3
+Media de Publico - 2021;3
+Media de Publico - Brasileiro 1976;3
+Media de Publico - Brasileiro 2022;3
+Media de Publico - Carioca 1976;3
+Nacional AM 0 X 2 Fluminense;3
+Nacional MG 0 X 2 Fluminense;3
+Nacional Uruguai 0 X 1 Fluminense;3
+Nacional Uruguai 2 X 0 Fluminense;3
+Nascimento 2021;3
+Nei 2002;3
+Nei Dias 1982;3
+Nene 2021;3
+Nestor Sampaio 1906;3
+Neto 2006;3
+Nilo 1926;3
+Oberdan 1968;3
+Olaria 1 X 1 Fluminense;3
+Olimpique Nice 2 X 7 Fluminense;3
+Oliveira 1973;3
+Orlando City 3 X 4 Fluminense;3
+Orlando Pingo Ouro 1953 - Gols por Ano;3
+Otacilio 1995;3
+Palmeiras - Brasileiro;3
+Palmeiras - Maracana;3
+Palmeiras 0 X 1 Fluminense;3
+Palmeiras 0 X 3 Fluminense;3
+Palmeiras 1 X 2 Fluminense;3
+Parana 3 X 1 Fluminense;3
+Paulinho Omena 1963;3
+Paulo 1928;3
+Paulo 1946;3
+Paulo Alexandre 1993;3
+Paulo Cesar Zanovelli;3
+Paulo Goulart 1985 - Flamengo;3
+Paulo Henrique Ganso 2023 - Danielzinho 2023;3
+Paulo Henrique Ganso 2023 - Gols por Ano;3
+Paulo Henrique Ganso 2023 - Libertadores da America;3
+Paulo Isidoro 2002;3
+Paysandu 0 X 0 Fluminense;3
+Paysandu 3 X 1 Fluminense;3
+Paysandu Cricket 3 X 1 Fluminense;3
+Pederneiras 1905;3
+Pedro Abad em classicos;3
+Pedro Amorim 1947;3
+Pedro Nunes 1943;3
+Pedro Omar 1967;3
+Pessali 1996;3
+Peter Siemsen em classicos;3
+Petkovic 2006;3
+Picos 2 X 4 Fluminense;3
+Piero Maza;3
+Pinhegas 1948;3
+Pinheiro Machado 1911;3
+Pires do Rio 0 X 1 Fluminense;3
+Placar de 2 x 2 no(a) Brasileiro;3
+Placar de 5 x 0;3
+Placar de 5 x 2;3
+Ponte Preta 0 X 0 Fluminense;3
+Ponte Preta 1 X 1 Fluminense;3
+Porto Alegre 0 X 2 Fluminense;3
+Portuguesa 1 X 1 Fluminense;3
+Portuguesa SP 1 X 5 Fluminense;3
+Portuguesa SP 4 X 1 Fluminense;3
+Posicoes rodada a rodada em 2003;3
+Publico em 1975;3
+Publico em 2009;3
+Publico em 2010;3
+Publico em 2014;3
+Publico em 2020;3
+Pe de Valsa 1951;3
+Quarentinha 1963;3
+Racca Rovers 1 X 1 Fluminense;3
+Ramiro 1955;3
+Ramon 2004;3
+Ranking de Assistencias em 2013;3
+Ranking de Assistencias em 2014;3
+Ranking de Assistencias em 2015;3
+Ranking de Assistencias em 2016;3
+Ranking de Assistencias em 2017;3
+Ranking de Assistencias em 2019;3
+Ranking de Penaltis/Faltas;3
+Raulino de Oliveira - Fortaleza;3
+Rai 2021;3
+Renato Gaucho em 01/01/1994 - 31/12/1998;3
+Rhayner 2013;3
+Rio Branco 4 X 3 Fluminense;3
+Rio Negro 1 X 2 Fluminense;3
+Ripper 1931;3
+River Plate 1 X 3 Fluminense;3
+Robert 1989;3
+Robertinho 1968;3
+Roberto Brum 2002;3
+Roberto Horcades em classicos;3
+Roberto Pinto 1967;3
+Rodrigo 1963;3
+Roger 2008;3
+Rogerio 1978;3
+Romualdo Arpi Filho;3
+Ronald 1997;3
+Russo 1944;3
+S. C. Internacional 1 X 0 Fluminense;3
+Samuel 2021;3
+Samuel Xavier 2023 - Maracana;3
+Sandro Meira Ricci;3
+Santos 0 X 2 Fluminense;3
+Saul Mendes;3
+Sel Lourenco Marques 0 X 2 Fluminense;3
+Sel. Miguel Pereira 0 X 4 Fluminense;3
+Selecao Ariquemes 1 X 1 Fluminense;3
+Selecao Japao 0 X 0 Fluminense;3
+Selecao Senegal 0 X 7 Fluminense;3
+Selecao de Nova Friburgo 4 X 2 Fluminense;3
+Sequencia Invicta de Goleiros;3
+Sequencia de Placar Adversario em campeonato;3
+Sequencia de Placar por ano;3
+Sequencia de Tecnico;3
+Sequencias - Brasileiro 2005;3
+Sequencias como visitante;3
+Sequencias da Tricolor 2023;3
+Sequencias em Estadio como visitante;3
+Serrano 3 X 4 Fluminense;3
+Silvinho 1972;3
+Sport 0 X 0 Fluminense;3
+Sub-campeonatos;3
+Sao Cristovao 0 X 0 Fluminense;3
+Sao Cristovao 0 X 2 Fluminense;3
+Sao Cristovao 3 X 5 Fluminense;3
+Sao Domingos;3
+Sao Paulo 0 X 0 Fluminense;3
+Sao Paulo 0 X 1 Fluminense;3
+Sao Paulo 3 X 1 Fluminense;3
+Sergio Roberto 1972;3
+Silvio 1990;3
+Taca Brasil;3
+Taca Guanabara 1980;3
+Team Buchan 2 X 3 Fluminense;3
+Tec - Admildo Chirol;3
+Tec - Ailton Ferraz;3
+Tec - Alexandre Gama;3
+Tec - Alfredo Gonzalez;3
+Tec - Arturzinho;3
+Tec - Atuel Velasquez;3
+Tec - Gentil Cardoso;3
+Tec - Jair Rosa Pinto;3
+Tec - Jorge Vieira;3
+Tec - Muricy Ramalho;3
+Tec - Paulo Amaral;3
+Tec - Roger Machado;3
+Teixeira de Castro;3
+Temporada 2022;3
+Thiago Silva 2008;3
+Time Base de;3
+Time Base de 2022;3
+Times do Sudeste;3
+Todos os Jogos apitados por Pericles Bassols Pegado Cortez;3
+Todos os Jogos contra Americano-RJ;3
+Todos os Jogos contra America-RJ;3
+Todos os Jogos contra Atletico GO-GO;3
+Todos os Jogos contra Avai-SC;3
+Todos os Jogos contra Chapecoense-SC;3
+Todos os Jogos contra Deportivo Pereira-Colombia;3
+Todos os Jogos contra Goytacas-RJ;3
+Todos os Jogos contra Parana-PR;3
+Todos os Jogos contra Santa Cruz-PE;3
+Todos os Jogos contra Sao Caetano-SP;3
+Todos os Jogos do Caio;3
+Todos os Jogos do Marcos Junior;3
+Todos os Jogos do Paulo Henrique Ganso;3
+Todos os Jogos do Pedro;3
+Todos os Jogos do Samuel Xavier;3
+Todos os Jogos no(a) Arena do Gremio;3
+Todos os Jogos no(a) Caio Martins;3
+Todos os Jogos no(a) Defensores del Chaco;3
+Todos os Jogos no(a) Laranjeiras;3
+Todos os Jogos no(a) Mane Garrincha;3
+Todos os jogos no(a) Conmebol;3
+Toninho 1975;3
+Torino 1 X 1 Fluminense;3
+Torneio 703 Amsterdam;3
+Torneio Inicio 1924;3
+Torneio Inicio 1943;3
+Torneio Inicio 1954;3
+Torneio Inicio 1956;3
+Torneio Rio-Sao Paulo;3
+Torneio de Paris;3
+Torneio de Paris 1976;3
+Torneio de Rotterdam;3
+Torneio de Zurich;3
+Tricolor 2004;3
+Trofeu Teresa Herrera 1977;3
+Tupi 0 X 3 Fluminense;3
+Tupi 2 X 1 Fluminense;3
+Tupazinho 1996;3
+Tecnico x Ano;3
+Tecnico x Jogador;3
+Titulos em 1971;3
+Titulos em 1985;3
+Titulos em 2012;3
+Tulio 1999;3
+Uberaba 0 X 0 Fluminense;3
+Uberlandia 2 X 3 Fluminense;3
+Uendel 2008;3
+Umbro;3
+Universal Orlando Resort 2;3
+Universidad de Chile 0 X 1 Fluminense;3
+Urrutia 2009;3
+Valdez 1968;3
+Valencia 0 X 2 Fluminense;3
+Vasco - Brasileiro - Engenhao;3
+Vasco 4 X 0 Fluminense;3
+Velodromo;3
+Vermelhos do Jhon Arias - 2023;3
+Vica 1992;3
+Vila Nova GO 1 X 1 Fluminense;3
+Vitoria ES 0 X 3 Fluminense;3
+Vitoria BA 0 X 1 Fluminense;3
+Vitoria BA 2 X 3 Fluminense;3
+Vitoria BA 2 X 4 Fluminense;3
+Votorantim 1935;3
+W. Murray 1905;3
+Waldo 1932;3
+Wendell 1979;3
+Willians 2011;3
+Wilsinho 1986;3
+XV de Jau 2 X 2 Fluminense;3
+Zetti 2000;3
+Zeze 1928;3
+Ze Maria 1979;3
+nos turnos;3
+Ângelo 1982;3
+Ultimas Sequencias de 21 jogos oficiais - visitante;3
+Ultimos 300 jogos;3
+Ultimos 50 jogos;3
+1001 Turismo;2
+12º Jogador;2
+12º Jogador - Fernando Diniz na 2ª passagem;2
+12º Jogador em 2023;2
+1951 a 1960;2
+1961 a 1970;2
+1971 a 1980;2
+2021 - Sexta Feira;2
+ABC 1 X 1 Fluminense;2
+ADN 1 X 3 Fluminense;2
+ASA 0 X 3 Fluminense;2
+Abel da Costa;2
+Acrob 0 X 7 Fluminense;2
+Adalberto 1955;2
+Adesg 1 X 2 Fluminense;2
+Adriano 1998;2
+Adversario do mesmo estado;2
+Adversarios - Azul e Grena;2
+Adversarios Bolivia;2
+Adversarios Chile;2
+Adversarios Emirados Arabes;2
+Adversarios Estados Unidos;2
+Adversarios Italia;2
+Adversarios Mexico;2
+Adversarios Portugal;2
+Adversarios Russia;2
+Adversarios Uruguai;2
+Adversarios do(a) Espirito Santo;2
+Afonsinho 1981;2
+Ailton 1996;2
+Ailton 2014;2
+Al Shabab 2 X 2 Fluminense;2
+Alair Correia;2
+Alan 2023 - Gols por Ano;2
+Alceu Conerado;2
+Alessandro 2004;2
+Alex 2018;2
+Alex Terra 2007;2
+Alex Terra 2007 - Gols por Ano;2
+Alexandre 1979;2
+Alexandre Jesus 2023;2
+Alfredo 1954;2
+Alfredo Jaconi;2
+Alianza de Lima 2 X 2 Fluminense;2
+Alicio Pena Junior;2
+Amarelos do Lele - 2023;2
+Amarelos do Paulo Goulart - 1985;2
+Amistoso 2010;2
+Amistoso 2020;2
+Amistoso Interestadual 1937;2
+Amistoso Interestadual 1962;2
+Amistoso Interestadual 1964;2
+Amistoso Internacional 1928;2
+Amistoso Internacional 1961;2
+Amistoso Internacional 1962;2
+Amistoso Internacional 1963;2
+Amistoso Internacional 1964;2
+Amistoso Internacional 1986;2
+America 1 X 6 Fluminense;2
+America MG - Laranjeiras;2
+America MG 1 X 1 Fluminense;2
+America RN 0 X 1 Fluminense;2
+America Tres Rios 3 X 2 Fluminense;2
+Anderletch 1 X 2 Fluminense;2
+Andrei 2002;2
+Andrezinho 2003;2
+Andre - 35;2
+Andre 1997;2
+Andre 2023 - Libertadores da America;2
+Andre Luis 2011;2
+Andre Moritz 2007;2
+Andres Rojas;2
+Aniversariantes em 19 / 09;2
+Ano 1902;2
+Ano 1935;2
+Antofagasta 1 X 2 Fluminense;2
+Antonio Carlos - 2;2
+Aproveitamento Tecnicos no Carioca;2
+Aproveitamento Arbitros;2
+Araujo 2012;2
+Arena da Baixada - Athletico PR;2
+Argentino Juniors 1 X 0 Fluminense;2
+Argentino Juniors 2 X 4 Fluminense;2
+Armindo Motta 1914;2
+Arraial do Cabo;2
+Artilharia em passagem de Tecnico;2
+Artilheiro em estadio em campeonato;2
+Artilheiros contra Argentino Juniors;2
+Artilheiros contra Argentinos Juniors;2
+Artilheiros contra Fortaleza;2
+Artilheiros contra Gremio;2
+Artilheiros contra Internacional;2
+Artilheiros contra Palmeiras;2
+Artilheiros em 1952;2
+Artilheiros em 1967;2
+Artilheiros em 1969;2
+Artilheiros em 1989;2
+Artilheiros em 1995;2
+Artilheiros em 1996;2
+Artilheiros em 1997;2
+Artilheiros em 1998;2
+Artilheiros na temporada 2021;2
+Artilheiros no(a) Brasileiro 2011;2
+Artilheiros no(a) Brasileiro 2023;2
+Artilheiros no(a) Libertadores da America 2008;2
+Artilheiros no(a) Libertadores da America 2011;2
+Artilheiros no(a) Libertadores da America 2012;2
+Artilheiros no(a) Libertadores da America 2013;2
+Artilheiros no(a) Raulino de Oliveira;2
+Assistencias - Brasileiro;2
+Assistencias - Copa Sul Americana;2
+Assistencias - Libertadores da America;2
+Assistencias do Carlos Alberto;2
+Assistencias do Danielzinho;2
+Assistencias do Guga;2
+Assistencias do Gustavo Scarpa;2
+Assistencias do Juan;2
+Assistencias do Junior Cesar;2
+Assistencias do Lele;2
+Assistencias do Leo;2
+Assistencias do Luiz Henrique;2
+Assistencias do Rogerio;2
+Assistencias do Thiago Neves;2
+Assistencias do Wellington Silva;2
+Assistencias do Yago;2
+Atanasio Girardot;2
+Athletico PR 0 X 0 Fluminense;2
+Athletico PR 3 X 1 Fluminense;2
+Athletico PR nos turnos;2
+Atis 1956;2
+Atletico GO 1 X 2 Fluminense;2
+Atletico GO 1 X 5 Fluminense;2
+Atletico GO de 01/01/2001 ate 01/09/2023;2
+Atletico MG - Brasileiro;2
+Atletico MG 5 X 2 Fluminense;2
+Atletico de Madrid 4 X 2 Fluminense;2
+Avai 0 X 1 Fluminense;2
+Avai 2 X 2 Fluminense;2
+Ayrton Lucas 2018;2
+Azteca;2
+Azul 2019;2
+Bahia 0 X 2 Fluminense;2
+Bahia 2 X 2 Fluminense;2
+Bahia 2 X 3 Fluminense;2
+Bahia 3 X 3 Fluminense;2
+Bangu 2 X 0 Fluminense;2
+Bangu 2 X 2 Fluminense;2
+Bangu 3 X 0 Fluminense;2
+Bangu 3 X 3 Fluminense;2
+Baptista 1918;2
+Barcelona Guaiaquil 3 X 1 Fluminense;2
+Barroso 3 X 9 Fluminense;2
+Behrmann 1912;2
+Bendel Club 1 X 0 Fluminense;2
+Benfica Huambo 1 X 4 Fluminense;2
+Benfica Luanda 0 X 7 Fluminense;2
+Beto 1987;2
+Bigode 1956;2
+Biro Biro 2014 - Gols por Ano;2
+Blumenau 0 X 0 Fluminense;2
+Boanerges Cevallos;2
+Boavista 3 X 1 Fluminense;2
+Bonsucesso 0 X 8 Fluminense;2
+Bonsucesso 1 X 0 Fluminense;2
+Botafogo 2 X 3 Fluminense;2
+Botafogo 3 X 0 Fluminense;2
+Botafogo 3 X 2 Fluminense;2
+Botafogo 3 X 3 Fluminense;2
+Botafogo 3 X 5 Fluminense;2
+Branca 1998;2
+Branca 2003;2
+Branca 2009 em classicos;2
+Branca 2020;2
+Brant 1941;2
+Brasileiro - 1º Turno 2022;2
+Brasileiro - 2º Turno;2
+Brasileiro - 2º Turno 2023;2
+Brasileiro 1972;2
+Brasileiro 1979;2
+Brasileiro 1986;2
+Brasileiro 2006;2
+Brasileiro 2010 - Engenhao;2
+Brasileiro 2010 - Internacional;2
+Brasileiro 2014;2
+Brasileiro 2016;2
+Brasileiro 2017;2
+Brasileiro 2020;2
+Brasileiro em 30/03/2003 - 21/08/2023;2
+Brasileirao por ano;2
+Brasiliense 0 X 3 Fluminense;2
+Breno Lopes 2015;2
+Bruno 2006;2
+C. Rio Branco/S. Ant. 1 X 3 Fluminense;2
+C. Robinson 1907;2
+CAP;2
+CEUB 0 X 1 Fluminense;2
+CRB 0 X 0 Fluminense;2
+CRB 0 X 2 Fluminense;2
+CSA 0 X 3 Fluminense;2
+Cabofriense 2 X 4 Fluminense;2
+Cabralzinho 1968;2
+Cadu 1998;2
+Cambaraense 0 X 2 Fluminense;2
+Camisas em 2013;2
+Camisas em 2014;2
+Camisas em 2020;2
+Camisas em 2023;2
+Camisas x Adversario;2
+Campeonato da Capital;2
+Campeonato da Capital 1995;2
+Campeonatos em 1997;2
+Campeonatos em 2022;2
+Campo Grande 0 X 3 Fluminense;2
+Campo Grande 0 X 5 Fluminense;2
+Campo Grande 1 X 1 Fluminense;2
+Campo Grande 3 X 6 Fluminense;2
+Campos Sales;2
+Canto do Rio 2 X 5 Fluminense;2
+Capitao 1995;2
+Carioca 1917;2
+Carioca 1918;2
+Carioca 1924;2
+Carioca 1925;2
+Carioca 1929;2
+Carioca 1936;2
+Carioca 1938;2
+Carioca 1955;2
+Carioca 1956;2
+Carioca 1963;2
+Carioca 1989;2
+Carioca 1991;2
+Carioca 1992;2
+Carioca 2007;2
+Carioca 2011;2
+Carioca 2022;2
+Carioca 2023;2
+Carlinhos 1979;2
+Carlito Rocha;2
+Carlos Afonso 1980;2
+Carlos Macedo 1906;2
+Carlos Roberto 1979;2
+Cartoes no(a) Brasileiro 2023;2
+Cascavel 1 X 3 Fluminense;2
+Caxias ES 1 X 2 Fluminense;2
+Ceara 3 X 0 Fluminense;2
+Cento e Nove 1950;2
+Cerro Portenho 0 X 1 Fluminense;2
+Chapecoense 0 X 0 Fluminense;2
+Chapecoense 1 X 0 Fluminense;2
+Chapecoense 2 X 2 Fluminense;2
+Cinco de Julho;2
+Cinza e Branca 1902 - 1904 em classicos;2
+Clyto Portella 1906;2
+Classicos - Carioca;2
+Claudio Adao 1981;2
+Coelho 1927;2
+Colatina 0 X 1 Fluminense;2
+Comb. Municipal-Amer 0 X 2 Fluminense;2
+Comb. Pelotas/Farrou 0 X 3 Fluminense;2
+Combinado Maseru 0 X 3 Fluminense;2
+Conmebol 1993;2
+Consistencia de gols no ano;2
+Consulta Jogo em hh/mm;2
+Copa Montevideu 1953;2
+Copa Montevideu 1954;2
+Copa Sul Americana - Oriente Petrolero;2
+Copa Sul Americana 2003;2
+Copa das Municipalidades 1953;2
+Copa do Brasil;2
+Copa do Brasil 2002;2
+Copa do Brasil 2004;2
+Copa do Brasil 2005;2
+Copa do Brasil 2010;2
+Copa do Brasil 2022;2
+Copa dos Campeoes;2
+Corinthians 3 X 0 Fluminense;2
+Corinthians 3 X 1 Fluminense;2
+Corinthians 5 X 0 Fluminense;2
+Corinthians 5 X 2 Fluminense;2
+Coritiba 1 X 2 Fluminense;2
+Coritiba 3 X 1 Fluminense;2
+Criciuma 0 X 2 Fluminense;2
+Criciuma 2 X 2 Fluminense;2
+Criciuma 4 X 1 Fluminense;2
+Cristiano 1997;2
+Cruzador Pelosus 1 X 3 Fluminense;2
+Cruzeiro - Brasileiro;2
+Cruzeiro - Brasileiro - Maracana;2
+Cruzeiro - German Cano 2023;2
+Cruzeiro 0 X 3 Fluminense;2
+Cruzeiro 0 X 5 Fluminense;2
+Cruzeiro 3 X 1 Fluminense;2
+Cruzeiro 3 X 4 Fluminense;2
+Cruzeiro do Sul 0 X 5 Fluminense;2
+Curiosidades Tecnicos Adversarios;2
+Cesar 1977;2
+Daniel 2021;2
+Danielzinho - 20;2
+Danilo Barcelos 2021;2
+David Braz 2023 - Felipe Melo 2023;2
+David Fischel em classicos;2
+Defensor 0 X 1 Fluminense;2
+Denilson 1973;2
+Deportes Concepcion 0 X 4 Fluminense;2
+Deportivo Malaga 0 X 6 Fluminense;2
+Desportiva 0 X 0 Fluminense;2
+Distancia Percorrida em 2022;2
+Dodo 1958;2
+Dom Bosco 2 X 1 Fluminense;2
+Domicio 1933;2
+Douglas 2018;2
+Dryworld;2
+Dudu 2018;2
+Dudu 2018 - Gols por Ano;2
+Duilio 1985;2
+Duque 1956;2
+Duque de Caxias 2 X 2 Fluminense;2
+Deda 1989;2
+Edinho 1989;2
+Edinho 1995;2
+Edson Esperidiao;2
+Egidio 2021;2
+Eintracht Frankfurt 4 X 1 Fluminense;2
+Elenco de jogadores em 1973;2
+Elenco de jogadores em 1983;2
+Eliseu 1966;2
+Emerson 2000;2
+Emerson Sheik 2011;2
+Emidio Marques Mesquita;2
+Engenhao - Brasileiro;2
+Engenhao - Copa Sul Americana;2
+Entrerriense 0 X 3 Fluminense;2
+Escola de Samba 0 X 3 Fluminense;2
+Espanhol 1 X 2 Fluminense;2
+Espinelli 1945;2
+Estreias Brasileiro;2
+Evaldo 1966;2
+Evolucao de gols em 2023;2
+Felipe 2008;2
+Felipe Melo 2023 - Gols por Ano;2
+Felipe Melo 2023 - Gols por Estadio;2
+Felipe Melo 2023 - Libertadores da America;2
+Fernando Diniz - Brasileiro;2
+Fernando Rapallini;2
+Ferreira 1983;2
+Ferroviaria 3 X 3 Fluminense;2
+Ferroviario PR 1 X 2 Fluminense;2
+Figueirense - Maracana;2
+Figueirense 0 X 2 Fluminense;2
+Figueirense 0 X 4 Fluminense;2
+Flamengo PI 3 X 2 Fluminense;2
+Floriano 1928;2
+Fluminense 0 X 0 Bahia;2
+Fluminense 0 X 0 Coritiba;2
+Fluminense 0 X 0 Cruzeiro;2
+Fluminense 0 X 1 Boavista;2
+Fluminense 0 X 1 Parana;2
+Fluminense 0 X 2 Americano;2
+Fluminense 0 X 2 Corinthians;2
+Fluminense 0 X 2 Figueirense;2
+Fluminense 0 X 2 Portuguesa SP;2
+Fluminense 0 X 2 Sao Paulo;2
+Fluminense 0 X 3 Bayer Leverkusen;2
+Fluminense 1 X 0 Arsenal de Sarandi;2
+Fluminense 1 X 0 Atlanta;2
+Fluminense 1 X 0 Itaperuna;2
+Fluminense 1 X 0 Juventude;2
+Fluminense 1 X 0 Libertad;2
+Fluminense 1 X 0 Nova Cidade;2
+Fluminense 1 X 0 Remo;2
+Fluminense 1 X 0 Zamora;2
+Fluminense 1 X 1 Argentino Juniors;2
+Fluminense 1 X 1 Atletico GO;2
+Fluminense 1 X 1 Brasil RS;2
+Fluminense 1 X 1 Dublin;2
+Fluminense 1 X 1 Goytacas;2
+Fluminense 1 X 1 Guarani;2
+Fluminense 1 X 1 Huachipato;2
+Fluminense 1 X 1 Joinville;2
+Fluminense 1 X 1 Juventude;2
+Fluminense 1 X 1 Nova Cidade;2
+Fluminense 1 X 1 Santa Cruz;2
+Fluminense 1 X 1 Tigres;2
+Fluminense 1 X 1 Ypiranga RS;2
+Fluminense 1 X 2 Americano;2
+Fluminense 1 X 2 America MG;2
+Fluminense 1 X 2 Chapecoense;2
+Fluminense 1 X 2 Fast;2
+Fluminense 1 X 2 Portuguesa;2
+Fluminense 1 X 3 Macae;2
+Fluminense 1 X 3 Nova Iguacu;2
+Fluminense 1 X 4 Paulistano;2
+Fluminense 1 X 4 Portuguesa;2
+Fluminense 1 X 4 Sao Cristovao;2
+Fluminense 1 X 4 Vasco;2
+Fluminense 10 X 0 Portuguesa;2
+Fluminense 11 X 1 Oceano;2
+Fluminense 2 X 0 Botafogo PB;2
+Fluminense 2 X 0 Bragantino;2
+Fluminense 2 X 0 Cardoso Moreira;2
+Fluminense 2 X 0 Juventude;2
+Fluminense 2 X 0 Nautico;2
+Fluminense 2 X 0 Paysandu;2
+Fluminense 2 X 0 Paysandu Cricket;2
+Fluminense 2 X 0 River Plate;2
+Fluminense 2 X 0 Sao Raimundo;2
+Fluminense 2 X 0 URT;2
+Fluminense 2 X 0 Vitoria BA;2
+Fluminense 2 X 1 Itabaiana;2
+Fluminense 2 X 1 Lagartense;2
+Fluminense 2 X 1 Macae;2
+Fluminense 2 X 1 Operario MS;2
+Fluminense 2 X 1 Resende;2
+Fluminense 2 X 1 Serrano;2
+Fluminense 2 X 2 Americano;2
+Fluminense 2 X 2 Boavista;2
+Fluminense 2 X 2 Germania;2
+Fluminense 2 X 2 Madureira;2
+Fluminense 2 X 2 Resende;2
+Fluminense 2 X 2 Sao Caetano;2
+Fluminense 2 X 3 Coritiba;2
+Fluminense 2 X 3 Internacional;2
+Fluminense 2 X 3 Sao Cristovao;2
+Fluminense 2 X 4 America;2
+Fluminense 2 X 4 Coritiba;2
+Fluminense 2 X 4 Flamengo;2
+Fluminense 3 X 0 America RN;2
+Fluminense 3 X 0 Cabofriense;2
+Fluminense 3 X 0 Comb. Becar/Varella;2
+Fluminense 3 X 0 Friburguense;2
+Fluminense 3 X 0 Macae;2
+Fluminense 3 X 1 Banfield;2
+Fluminense 3 X 1 Juventude;2
+Fluminense 3 X 1 Nova Iguacu;2
+Fluminense 3 X 1 Nautico;2
+Fluminense 3 X 1 Santa Cruz;2
+Fluminense 3 X 1 Sport;2
+Fluminense 3 X 1 Villa Nova MG;2
+Fluminense 3 X 2 Americano;2
+Fluminense 3 X 2 America;2
+Fluminense 3 X 2 Bangu;2
+Fluminense 3 X 2 Cabofriense;2
+Fluminense 3 X 2 Corinthians;2
+Fluminense 3 X 2 Duque de Caxias;2
+Fluminense 3 X 2 Madureira;2
+Fluminense 3 X 2 Olaria;2
+Fluminense 3 X 2 Racing;2
+Fluminense 3 X 3 Bangu;2
+Fluminense 3 X 3 Flamengo;2
+Fluminense 3 X 3 Olaria;2
+Fluminense 3 X 3 Volta Redonda;2
+Fluminense 4 X 0 America PE;2
+Fluminense 4 X 0 Ceara;2
+Fluminense 4 X 0 Fluminense Friburgo;2
+Fluminense 4 X 0 Nacional AM;2
+Fluminense 4 X 0 Palmeiras;2
+Fluminense 4 X 0 Portuguesa;2
+Fluminense 4 X 0 Resende;2
+Fluminense 4 X 0 Southampton;2
+Fluminense 4 X 1 Athletico PR;2
+Fluminense 4 X 1 Entrerriense;2
+Fluminense 4 X 1 Goias;2
+Fluminense 4 X 1 Sporting;2
+Fluminense 4 X 1 Sao Cristovao;2
+Fluminense 4 X 1 Vasco;2
+Fluminense 4 X 2 America;2
+Fluminense 4 X 2 America RN;2
+Fluminense 4 X 2 Bangu;2
+Fluminense 4 X 2 Criciuma;2
+Fluminense 4 X 3 Americano;2
+Fluminense 4 X 3 Boavista;2
+Fluminense 4 X 3 Botafogo;2
+Fluminense 4 X 3 Figueirense;2
+Fluminense 4 X 3 Internacional;2
+Fluminense 4 X 3 Ponte Preta;2
+Fluminense 5 X 1 Atletico MG;2
+Fluminense 5 X 1 Cruzeiro;2
+Fluminense 5 X 2 Bangu;2
+Fluminense 5 X 2 Friburguense;2
+Fluminense 5 X 2 Olaria;2
+Fluminense 6 X 0 America;2
+Fluminense 6 X 0 Botafogo;2
+Fluminense 6 X 1 Ponte Preta;2
+Fluminense 6 X 1 Santa Cruz;2
+Fluminense 6 X 2 Vasco;2
+Fluminense 7 X 0 Brasil RJ;2
+Fluminense 7 X 1 Botafogo;2
+Fluminense BA 1 X 1 Fluminense;2
+Fluminense Friburgo 1 X 2 Fluminense;2
+Fluminense Friburgo 2 X 4 Fluminense;2
+Fluminense X America MG - Video;2
+Fluminense X Botafogo - Video;2
+Fluminense X Brasiliense - Video;2
+Fluminense ano a ano;2
+Fluminense x ADN-RJ;2
+Fluminense x AZ 67 Alkmaar-Holanda;2
+Fluminense x Ajaccio-Franca;2
+Fluminense x America PE-PE;2
+Fluminense x America Tres Rios-RJ;2
+Fluminense x America/Atletico MG-CS;2
+Fluminense x Antofagasta-Chile;2
+Fluminense x Ararat Yerevan-Armenia;2
+Fluminense x Aracatuba-SP;2
+Fluminense x Azurra-MG;2
+Fluminense x Barretos-SP;2
+Fluminense x Barroso-MG;2
+Fluminense x Basel-Suica;2
+Fluminense x Bauru-SP;2
+Fluminense x Bergisch Gladbach-Alemanha;2
+Fluminense x Boca Junior Colombia-Colombia;2
+Fluminense x Borovo-Croacia;2
+Fluminense x Botafogo SP-SP;2
+Fluminense x Brasil RJ-RJ;2
+Fluminense x Brighton-Inglaterra;2
+Fluminense x Celta de Vigo-Espanha;2
+Fluminense x Colorado-PR;2
+Fluminense x Comb. Becar/Varella-CS;2
+Fluminense x Cadiz-Espanha;2
+Fluminense x Deportes Concepcion-Chile;2
+Fluminense x Deportivo Cuenca-Equador;2
+Fluminense x Deportivo Galicia-Venezuela;2
+Fluminense x Deportivo Italia-Venezuela;2
+Fluminense x Deportivo Municipal-Peru;2
+Fluminense x Dublin-Uruguai;2
+Fluminense x Duisburg-Alemanha;2
+Fluminense x Dukla-Republica Tcheca;2
+Fluminense x Dinamo Moscou-Russia;2
+Fluminense x Dinamo de Zagreb-Croacia;2
+Fluminense x Eintracht Frankfurt-Alemanha;2
+Fluminense x Everton-Chile;2
+Fluminense x Ferencvaros-Hungria;2
+Fluminense x Ferroviaria-SP;2
+Fluminense x Feyenoord-Holanda;2
+Fluminense x Fluminense Friburgo-RJ;2
+Fluminense x Francana-SP;2
+Fluminense x Friburguense-RJ;2
+Fluminense x Galatasaray-Turquia;2
+Fluminense x Galicia-BA;2
+Fluminense x Gremio Prudente-SP;2
+Fluminense x Hibernian-Escocia;2
+Fluminense x Icasa-CE;2
+Fluminense x Imperatriz-MA;2
+Fluminense x Ipiranga MG-MG;2
+Fluminense x Isny-Alemanha;2
+Fluminense x Itaperuna-RJ;2
+Fluminense x Juiz de Fora-MG;2
+Fluminense x Kioto-Japao;2
+Fluminense x Kristianstad-Suecia;2
+Fluminense x La Coruña-Espanha;2
+Fluminense x Lausane-Suica;2
+Fluminense x Lille-Franca;2
+Fluminense x Litoral-Bolivia;2
+Fluminense x Liverpool URU-Uruguai;2
+Fluminense x Livorno-Italia;2
+Fluminense x Mackenzie-SP;2
+Fluminense x Malmoe-Suecia;2
+Fluminense x Maranhao-MA;2
+Fluminense x Mixto-MT;2
+Fluminense x Municipal-Guatemala;2
+Fluminense x Nacional AM-AM;2
+Fluminense x Nacional RJ-RJ;2
+Fluminense x Navio Amethyst-Inglaterra;2
+Fluminense x Nepa-Nigeria;2
+Fluminense x Netphen-Alemanha;2
+Fluminense x Nova Cidade-RJ;2
+Fluminense x Olimpico SC-SC;2
+Fluminense x Operario MS-MS;2
+Fluminense x Operario MT-MT;2
+Fluminense x Passense-MG;2
+Fluminense x Paysandu Cricket-RJ;2
+Fluminense x Percy Acott-Inglaterra;2
+Fluminense x Petro-atletico-Angola;2
+Fluminense x Porto Alegre-RJ;2
+Fluminense x Portsmouth-Inglaterra;2
+Fluminense x Racing Paris-Franca;2
+Fluminense x Rio Claro-SP;2
+Fluminense x Rio Grande-RS;2
+Fluminense x SSV 05 Reutlinger-Alemanha;2
+Fluminense x Selecao Anchieta-CS;2
+Fluminense x Selecao Camaroes-CS;2
+Fluminense x Selecao Emirados-CS;2
+Fluminense x Selecao Fluminense-CS;2
+Fluminense x Selecao Kuwait-CS;2
+Fluminense x Selecao Mendes-CS;2
+Fluminense x Selecao Niteroi-CS;2
+Fluminense x Selecao Olimpica URSS-CS;2
+Fluminense x Selecao Porto Seguro-CS;2
+Fluminense x Selecao Russia-CS;2
+Fluminense x Selecao Senegal-CS;2
+Fluminense x Shooting Star-Nigeria;2
+Fluminense x Sucre-Peru;2
+Fluminense x Syrio e Libanez-RJ;2
+Fluminense x Toluca-Mexico;2
+Fluminense x Troyes-Franca;2
+Fluminense x Union La Calera-Chile;2
+Fluminense x Uniao de Teresopolis-RJ;2
+Fluminense x Young Africans-Tanzania;2
+Fluminense x Zeljeznicar-Bosnia;2
+Flavio 1971 - Gols por Adversario;2
+Forca e Luz 1 X 2 Fluminense;2
+Francisco Horta em classicos;2
+Franca 1944;2
+Freitas 2023;2
+Frequencia de Placar - Flamengo;2
+Frequencia de Placar - Tricolor 2023;2
+Frequencia de Placares;2
+Frequencia de Placares em Campeonatos;2
+Friburguense 1 X 2 Fluminense;2
+Fuzileiros Navais 3 X 1 Fluminense;2
+Fabio Noronha 1998;2
+Gabardo 1935;2
+Galicia 2 X 0 Fluminense;2
+Gama 1 X 2 Fluminense;2
+Gama 2 X 1 Fluminense;2
+Genivaldo 1957;2
+Geraldinho 1979;2
+Geraldino Cesar;2
+German Cano - 2023 em Classicos;2
+Gerson 1974;2
+Gilberto 1954;2
+Gilcimar 1982;2
+Gilson Genio 1979;2
+Giovanni 2016;2
+Goias 1 X 4 Fluminense;2
+Goias 5 X 3 Fluminense;2
+Goias de 01/01/2001 ate 01/09/2023;2
+Goiania 1 X 0 Fluminense;2
+Goiania 1 X 4 Fluminense;2
+Gol numero 11000;2
+Gol numero 7281;2
+Goleadas por ano;2
+Goleadas sobre Vasco;2
+Gols de Jogador em estadio;2
+Gols do Alexsander;2
+Gols do Arturzinho;2
+Gols do Bruno;2
+Gols do Cafuringa;2
+Gols do Calazans;2
+Gols do Carlinhos;2
+Gols do Dodo;2
+Gols do Francois;2
+Gols do Fred;2
+Gols do Keno;2
+Gols do Lima;2
+Gols do Marcos Junior;2
+Gols do Marcao;2
+Gols do Paulo Paiva;2
+Gols do Paulo Roberto;2
+Gols do Pintinho;2
+Gols do Tarta;2
+Gols do Welington Nem;2
+Gols do Ezio;2
+Gols sofridos em campeonato;2
+Goncalo 1965;2
+Goytacas 1 X 4 Fluminense;2
+Grena 2005 - 2006 em classicos;2
+Grena 2007 - 2008;2
+Graficos de Arbitros;2
+Gremio - Brasileiro 2016;2
+Gremio - Brasileiro 2017;2
+Gremio - Brasileiro 2018;2
+Gremio - Brasileiro 2019;2
+Gremio - Brasileiro 2020;2
+Gremio - Brasileiro 2021;2
+Gremio - Maracana;2
+Gremio 0 X 4 Fluminense;2
+Gremio 2 X 3 Fluminense;2
+Guarani 1 X 1 Fluminense;2
+Guimaraes 1941;2
+Gulden 1912;2
+Gutemberg 1958;2
+Hargreaves 1909;2
+Haroldo Cox 1912;2
+Heatmap de Dia;2
+Henrique 2006;2
+Horacio Elizondo;2
+Hugo 1996;2
+Hugo 1998;2
+Humberto 1977;2
+Heber Roberto Lopes;2
+Hercules 1942 - Gols por Adversario;2
+Icarai;2
+Ideal 1 X 8 Fluminense;2
+Ijui 1983;2
+Insular;2
+Inter Limeira 0 X 3 Fluminense;2
+Internacional - Libertadores da America;2
+Internacional 0 X 2 Fluminense;2
+Internazionale 1 X 1 Fluminense;2
+Ipatinga 2 X 1 Fluminense;2
+Irineu 1961;2
+Itabera 1992;2
+Itaperuna 1 X 2 Fluminense;2
+Itumbiara 0 X 3 Fluminense;2
+Ivan 1959;2
+Ivan 1970;2
+Ivan Mariz 1939;2
+Jaburu 1962;2
+Jacarezinho 1 X 3 Fluminense;2
+Jack Robinson 1908;2
+Jader 1958;2
+Jadilson 2003;2
+Jair Marinho 1964;2
+Jairo 1971;2
+James 1957;2
+Jancarlos 2005;2
+Jandir 1956;2
+Jean 2006;2
+Jhon Arias 2023 - Maracana;2
+Joaquim Viana Ramalhete;2
+Joel 1954;2
+Jogadores do(a) Colombia;2
+Jogadores do(a) Liberia;2
+Jogadores do(a) Paraguai;2
+Jogadores do(a) Republica Democrata do Congo;2
+Jogadores em Classico;2
+Jogo Numero 597;2
+Jogos Eliminatorios - Bolivia;2
+Jogos Eliminatorios - Colombia;2
+Jogos em 01 / 08;2
+Jogos em 03 / 08;2
+Jogos em 04 / 08;2
+Jogos em 04 / 2015;2
+Jogos em 05 / 09;2
+Jogos em 05 / 11;2
+Jogos em 06 / 09;2
+Jogos em 06 / 2015;2
+Jogos em 09 / 1992;2
+Jogos em 09 / 1997;2
+Jogos em 12 / 09;2
+Jogos em 14 / 09;2
+Jogos em 16 / 08;2
+Jogos em 17 / 08;2
+Jogos no(a) Maracana em 2013;2
+John Kennedy 2023 - Libertadores da America;2
+Joinville 0 X 0 Fluminense;2
+Jorge Luis 1977;2
+Jorge Luis 2000;2
+Jorge Luis Carius;2
+Jose Aparecido de Oliveira;2
+Joao Carlos 1955;2
+Joao Costa Santos 1909;2
+Joao Leal 1912;2
+Joao Lombardi;2
+Joao Lourenco 2023;2
+Joao Luis 1978;2
+Joao Pedro 2019 - Gols por Ano;2
+Juiz de Fora 0 X 1 Fluminense;2
+Juiz de Fora 1 X 2 Fluminense;2
+Jefferson 1992;2
+Kayke 2018;2
+Keno 2023 - Gols por Ano;2
+Klever 2015;2
+LDU 2 X 1 Fluminense;2
+LDU 5 X 1 Fluminense;2
+La Bombonera;2
+La Coruña 1 X 2 Fluminense;2
+Lanzini 2012;2
+Laranjeiras - Taca Brasil;2
+Las Palmas 3 X 3 Fluminense;2
+Lawrence 1915;2
+Le Coq Sportif;2
+Leandro 2005 - Gols por Ano;2
+Lela 1982;2
+Lenny 2007 - Gols por Ano;2
+Leo Itaperuna 2008 - Gols por Ano;2
+Leonico 0 X 1 Fluminense;2
+Libertadores da America - America Mexico;2
+Libertadores da America - Argentinos Juniors;2
+Libertadores da America - Arsenal de Sarandi;2
+Libertadores da America - Atletico Nacional;2
+Libertadores da America - Barcelona Guaiaquil;2
+Libertadores da America - Boca Juniors;2
+Libertadores da America - Caracas;2
+Libertadores da America - Cerro Portenho;2
+Libertadores da America - Deportivo Galicia;2
+Libertadores da America - Deportivo Italia;2
+Libertadores da America - Emelec;2
+Libertadores da America - Felipe Melo 2023;2
+Libertadores da America - Ferrocarril Oeste;2
+Libertadores da America - Gremio;2
+Libertadores da America - Huachipato;2
+Libertadores da America - Independiente Sta Fe;2
+Libertadores da America - Internacional;2
+Libertadores da America - Junior Barranquilla;2
+Libertadores da America - LDU;2
+Libertadores da America - Libertad;2
+Libertadores da America - Martinelli 2023;2
+Libertadores da America - Nacional Uruguai;2
+Libertadores da America - Olimpia;2
+Libertadores da America - Palmeiras;2
+Libertadores da America - River Plate;2
+Libertadores da America - Sporting Cristal;2
+Libertadores da America - Sao Paulo;2
+Libertadores da America - The Strongest;2
+Libertadores da America - Vasco;2
+Libertadores da America - Zamora;2
+Litoral 2 X 2 Fluminense;2
+Livorno 0 X 3 Fluminense;2
+Londrina 3 X 0 Fluminense;2
+Los Larios;2
+Luccas Claro 2022;2
+Luciano 2019;2
+Luis Carlos Felix;2
+Luis Henrique 1997;2
+Luiz Henrique 2022 - Libertadores da America;2
+Luso Brasileiro;2
+Mabilia 1994;2
+Macae 1 X 0 Fluminense;2
+Madureira 2 X 5 Fluminense;2
+Madureira 3 X 3 Fluminense;2
+Magnones 1945;2
+Maiores Artilheiros em 1 Carioca;2
+Maiores Publicos - Athletico PR;2
+Maiores Publicos - Bahia;2
+Maiores Publicos - Ceara;2
+Maiores Publicos - Copa Sul Americana;2
+Maiores Publicos - Cruzeiro;2
+Maiores Publicos - Flamengo;2
+Maiores Publicos - Gremio;2
+Maiores Publicos - Aguia de Maraba;2
+Maiores Publicos contra Flamengo - Maracana;2
+Mais jogos contra Olimpia;2
+Mais jogos no(a) 15 de Abril;2
+Mais jogos no(a) CAP;2
+Mais jogos no(a) Carioca;2
+Mais jogos no(a) Eduardo Guinle;2
+Mais jogos no(a) Sao Januario;2
+Mais jogou com Tecnico;2
+Mais treinou em Estadio;2
+Manoel Ferrera;2
+Manoel Schwartz;2
+Maracana - Brasileiro 2021;2
+Maracana - Brasileiro 2023;2
+Maracana - Copa Sul Americana 2018;2
+Maracana - Libertadores da America 1971;2
+Maracana - Libertadores da America 2008;2
+Maracana - Libertadores da America 2021;2
+Maracana - Libertadores da America 2023;2
+Maracana - Torneio Roberto Gomes Pedrosa;2
+Maracana em 01/01/2023 - 14/09/2023;2
+Maracana em 01/04/2021 - 09/08/2023;2
+Maracana em 14/09/2022 - 14/09/2023;2
+Maracana em 30/03/2023 - 21/08/2023;2
+Maranbelgas 0 X 1 Fluminense;2
+Marcelo 1994;2
+Marcelo 2004 - Gols por Ano;2
+Marcial 1937;2
+Marco Antonio Colares Brasil;2
+Marcos Junior 2018 - Gols por Ano;2
+Marcos Paulo 2021 - Gols por Ano;2
+Marcao 2006;2
+Maringa 1 X 1 Fluminense;2
+Marinho 1954;2
+Marinho 1974;2
+Marinho Chagas 1978;2
+Mario Bittencourt no(a) Libertadores da America;2
+Marquinho - 7;2
+Marquinho 2017;2
+Marquinho 2017 - Gols por Ano;2
+Martinez 2003;2
+Mascarenhas 2019;2
+Matheus Alessandro 2020 - Gols por Ano;2
+Matheus Ferraz 2022;2
+Matte Viton;2
+Mazinho 1974;2
+Michael 2015 - Gols por Ano;2
+Miguel 1977;2
+Miguel 2021;2
+Morenao;2
+Morin;2
+Moto Club 2 X 4 Fluminense;2
+Moura Costa 1926;2
+Moca Bonita;2
+Municipal de Coroata;2
+Marcio 1988;2
+Mario Alexandre 1993;2
+Mario Jorge 1981 - Gols por Ano;2
+Media de Publico - 0;2
+Media de Publico - 1953;2
+Media de Publico - 1954;2
+Media de Publico - 1971;2
+Media de Publico - 1998;2
+Media de Publico - 1999;2
+Media de Publico - 2001;2
+Media de Publico - 2004;2
+Media de Publico - Brasileiro 1975;2
+Media de Publico - Brasileiro 1984;2
+Media de Publico - Carioca 1951;2
+Media de Publico - Carioca 1952;2
+Media de Publico - Carioca 1975;2
+Media de Publico - Carioca 2022;2
+Media de Publico - Carioca 2023;2
+Media de Publico - Classicos;2
+Media de Publico - Copa Sul Americana;2
+Media de Publico - Engenhao;2
+Media de Publico - Ferroviaria;2
+Media de Publico - Libertadores da America 2008;2
+Media de Publico - Libertadores da America 2023;2
+Nacional AM 0 X 1 Fluminense;2
+Nacional AM 1 X 3 Fluminense;2
+Nacional AM 3 X 3 Fluminense;2
+Nautico Itacoatiara 0 X 7 Fluminense;2
+Nilberto 1993;2
+Nino 1952;2
+Nino 2023 - Libertadores da America;2
+Napoli 0 X 1 Fluminense;2
+Nautico 1 X 1 Fluminense;2
+Nautico 1 X 2 Fluminense;2
+Numero de jogos em 1980;2
+Numero de jogos em 2023;2
+Numeros em 2023;2
+Oceanica;2
+Odair Gama;2
+Oldair 1965;2
+Olimpia - German Cano 2023;2
+Olimpia - Libertadores da America;2
+Olimpico Edgar Schneider;2
+Oscar Cox com Oscar Cox 1908;2
+Oswaldo 1958;2
+PSV Eindhoven 1 X 1 Fluminense;2
+Pablo Dyego 2020 - Gols por Ano;2
+Pacaembu;2
+Palmeiras 1 X 3 Fluminense;2
+Palmeiras 2 X 3 Fluminense;2
+Palmeiras 2 X 6 Fluminense;2
+Palmeiras 4 X 1 Fluminense;2
+Palmeiras de 01/01/2001 ate 01/09/2023;2
+Parada de Lucas;2
+Passense 2 X 0 Fluminense;2
+Paulinho 1958;2
+Paulinho Cascavel 1984;2
+Paulo 1974;2
+Paulo 1980;2
+Paulo 1995;2
+Paulo Afonso 1992;2
+Paulo Cesar 2009;2
+Paulo Henrique Ganso 2023 - Pedro 2019;2
+Paulo Lumumba 1971;2
+Paulo Ricardo 2019;2
+Paulo Roberto 1978;2
+Paulo Sergio 1975;2
+Paulo de Paula 1958;2
+Paysandu 0 X 4 Fluminense;2
+Pedreira 1913;2
+Pedrinho 2006;2
+Pedro 2019 - Gols por Ano;2
+Pedro Abad;2
+Pedro Carlos Bregalda;2
+Penalties a favor do Fluminense;2
+Penalties perdidos pelo Fluminense;2
+Penaltis em 2014;2
+Penaltis em 2015;2
+Penaltis em 2021;2
+Penaltis em 2022;2
+Penaltis em 2023;2
+Penalty;2
+Pernambuco 1915;2
+Peter Siemsen no(a) Libertadores da America;2
+Petit 1924;2
+Peu 2017;2
+Pierre 2017;2
+Pinguela 1954;2
+Pinto 1932;2
+Piromba 1945;2
+Placar de 5 x 1;2
+Placar de 7 x 0;2
+Polaco 1988;2
+Ponte Preta 3 X 1 Fluminense;2
+Ponte Preta 3 X 4 Fluminense;2
+Porto 3 X 1 Fluminense;2
+Portuguesa 0 X 3 Fluminense;2
+Portuguesa SP 2 X 0 Fluminense;2
+Pouso Alegre 0 X 1 Fluminense;2
+Preguinho 1939;2
+Preto Casagrande 2005;2
+Principais adversarios em Campeonato;2
+Principais adversarios em Estadio;2
+Procopio 1965;2
+Procopio Teixeira;2
+Publico em 1952;2
+Publico em 1969;2
+Publico em 1984;2
+Publico em 1995;2
+Publico em 2000;2
+Publico em 2001;2
+Publico em 2002;2
+Publico em 2004;2
+Publico em 2005;2
+Publico em 2012;2
+Publico em 2013;2
+Publico em 2015;2
+Publico em 2017;2
+Puebla 2 X 0 Fluminense;2
+Py 1930;2
+Quissama 0 X 3 Fluminense;2
+Racing Paris 0 X 2 Fluminense;2
+Radames 2009;2
+Rafael Ribeiro 2021;2
+Rafael Traci;2
+Rafael Valenzuela;2
+Ramon 2018;2
+Ranking de Campanhas;2
+Ranking de Tecnicos Adversarios - Seculo XXI;2
+Ranking de Tecnicos Adversarios em jogos oficiais;2
+Rapid 1 X 3 Fluminense;2
+Raul Rodrigues 1944;2
+Raul Serta;2
+Reebok;2
+Reginaldo 2018;2
+Remo 0 X 0 Fluminense;2
+Renatinho 1993;2
+Renato 1981;2
+Renato 2017;2
+Renato Chaves 2018;2
+Renato Gaucho - Brasileiro;2
+Renato Guai 1978;2
+Renato Martins 1987;2
+Renganeschi 1944;2
+Resende 0 X 1 Fluminense;2
+Ricardo Gomes 1988;2
+Ricardo Leoneti 1983;2
+Richard 2018;2
+Rio Branco 0 X 2 Fluminense;2
+Rio Branco 1 X 2 Fluminense;2
+Rissut 2006;2
+River 3 X 1 Fluminense;2
+Robert 2017;2
+Roberto 1963;2
+Robin Hood 0 X 7 Fluminense;2
+Robson 1959;2
+Rodrigues 1950;2
+Rodrigues Neto 1977;2
+Rodriguinho 2011;2
+Roma 0 X 1 Fluminense;2
+Romerito 1989 - Gols por Adversario;2
+Rua Ferrer;2
+Rua Paysandu;2
+Saldo de 3 gols contra Athletico PR;2
+Saldo de 4 gols no Brasileiro;2
+Saldo de placar em campeonato;2
+Samuel 2016 - Gols por Ano;2
+Samuel Xavier 2023 - Libertadores da America;2
+Sandro 1939;2
+Sandro 1992;2
+Santa Cruz 1 X 0 Fluminense;2
+Santa Cruz 2 X 2 Fluminense;2
+Santa Cruz PB 0 X 4 Fluminense;2
+Santo Andre 1 X 0 Fluminense;2
+Santos 0 X 1 Fluminense;2
+Santos 1 X 4 Fluminense;2
+Selecao Barreiras 1 X 3 Fluminense;2
+Selecao Campos 1 X 3 Fluminense;2
+Selecao Fluminense 3 X 5 Fluminense;2
+Selecao Lesoto 0 X 3 Fluminense;2
+Selecao Pinheiros 0 X 4 Fluminense;2
+Selecao Salto 1 X 1 Fluminense;2
+Selecao Uruguai 2 X 0 Fluminense;2
+Selecao Zambia 2 X 2 Fluminense;2
+Selecao Zambia 2 X 4 Fluminense;2
+Sequencia de Gols de Jogadores;2
+Sequencia de Jogadores;2
+Sequencia de gols marcados;2
+Sequencia entre Tecnicos;2
+Sequencias - Fernando Diniz;2
+Sequencias - Libertadores da America;2
+Sequencias - Maracana no Brasileiro;2
+Sequencias da Terceira 2022;2
+Sequencias em 2023;2
+Sequencias em Campeonato como visitante;2
+Serginho 1991;2
+Sergipe 0 X 1 Fluminense;2
+Sergipe 1 X 1 Fluminense;2
+Serrano 0 X 3 Fluminense;2
+Serrano 0 X 6 Fluminense;2
+Serrano 2 X 3 Fluminense;2
+Shakhtar Donetsk 1 X 1 Fluminense;2
+Shooting Star 1 X 1 Fluminense;2
+Somalia 2008;2
+Sport 0 X 2 Fluminense;2
+Sport 2 X 2 Fluminense;2
+Sporting Luanda 0 X 4 Fluminense;2
+Sportivo Luqueño 1 X 8 Fluminense;2
+Stationery Store 0 X 0 Fluminense;2
+Sao Caetano 2 X 1 Fluminense;2
+Sao Caetano 3 X 3 Fluminense;2
+Sao Cristovao 0 X 1 Fluminense;2
+Sao Cristovao 2 X 2 Fluminense;2
+Sao Cristovao 3 X 1 Fluminense;2
+Sao Cristovao 4 X 3 Fluminense;2
+Sao Januario - Brasileiro 2021;2
+Sao Jose 0 X 1 Fluminense;2
+Sao Paulo 1 X 3 Fluminense;2
+Sao Paulo 3 X 0 Fluminense;2
+Sao Paulo 3 X 2 Fluminense;2
+Sao Paulo 3 X 7 Fluminense;2
+Sao Raimundo PA 1 X 1 Fluminense;2
+TCL 1;2
+Taguatinga 0 X 1 Fluminense;2
+Taguatinga 2 X 2 Fluminense;2
+Tamaulipas;2
+Taca Casa Lido 1973;2
+Taca Guanabara 1969;2
+Taca Guanabara 1970;2
+Taca Robinwood 1981;2
+Tec - Adolpho Milman(Russo);2
+Tec - Alexandre Mendes;2
+Tec - Antoninho;2
+Tec - Antonio Lopes;2
+Tec - Carlomagno;2
+Tec - Claudio Duarte;2
+Tec - Claudio Garcia;2
+Tec - Cristovao Borges;2
+Tec - Dino Sani;2
+Tec - Duque;2
+Tec - Enderson Moreira;2
+Tec - Gilson Nunes;2
+Tec - Hugo de Leon;2
+Tec - Ismael Kurtz;2
+Tec - Julio Cesar Leal;2
+Tec - Lucio Novelli;2
+Tec - Lula;2
+Tec - Paulo Emilio;2
+Tec - Rubens Galaxie;2
+Tec - Sergio Cosme;2
+Tec - Waldemar Lemos;2
+Tec - Wanderley Luxemburgo;2
+Telesca 1947;2
+Temporada 1938;2
+Terceira 2022 em classicos;2
+Terceira Camisa;2
+Thiago 2006;2
+Tiago Silva 2001;2
+Time Base de 1940;2
+Time Base de 2019;2
+Time Base de 2021;2
+Tiradentes 0 X 0 Fluminense;2
+Todos os Jogos apitados por Alexis Herrera;2
+Todos os Jogos apitados por Carlos Elias Pimentel;2
+Todos os Jogos apitados por Heber Roberto Lopes;2
+Todos os Jogos apitados por Luis Carlos Antunes;2
+Todos os Jogos apitados por Marcelo de Lima Henrique;2
+Todos os Jogos apitados por Sandro Meira Ricci;2
+Todos os Jogos contra Abel Ferreira;2
+Todos os Jogos contra America RN-RN;2
+Todos os Jogos contra Andarai-RJ;2
+Todos os Jogos contra Arce;2
+Todos os Jogos contra Bonsucesso-RJ;2
+Todos os Jogos contra Campo Grande-RJ;2
+Todos os Jogos contra Eduardo Coudet;2
+Todos os Jogos contra Fabian Bustos;2
+Todos os Jogos contra Ferrocarril Oeste-Argentina;2
+Todos os Jogos contra Guarani-SP;2
+Todos os Jogos contra Jorge Sampaoli;2
+Todos os Jogos contra Juventude-RS;2
+Todos os Jogos contra Paulo Bonamigo;2
+Todos os Jogos contra Portuguesa-RJ;2
+Todos os Jogos contra Volta Redonda-RJ;2
+Todos os Jogos de Carbone;2
+Todos os Jogos de Luis Vinhaes;2
+Todos os Jogos do Emerson Sheik;2
+Todos os Jogos do Fred;2
+Todos os Jogos do German Cano;2
+Todos os Jogos do Marcos Paulo;2
+Todos os Jogos do Matheus Martins;2
+Todos os Jogos do Michael;2
+Todos os Jogos do Robert;2
+Todos os Jogos do Samuel;2
+Todos os Jogos no(a) Aflitos;2
+Todos os Jogos no(a) Barradao;2
+Todos os Jogos no(a) Caninde;2
+Todos os Jogos no(a) Centenario;2
+Todos os Jogos no(a) Couto Pereira;2
+Todos os Jogos no(a) Olimpico;2
+Todos os Jogos no(a) Rua Ferrer;2
+Todos os Jogos no(a) Vila Belmiro;2
+Todos os Jogos no(a) Italo Del Cima;2
+Todos os jogos no(a) Carioca;2
+Toinzinho 1979;2
+Tombense 0 X 3 Fluminense;2
+Torneio Aberto 1935;2
+Torneio Hexagonal;2
+Torneio Inicio 1916;2
+Torneio Inicio 1965;2
+Torneio Para-Guanabara;2
+Torneio Rio-Sao Paulo 1963;2
+Torneio Rio-Sao Paulo 1999;2
+Torneio Roberto Gomes Pedrosa 1969;2
+Torneio Roberto Gomes Pedrosa 1970;2
+Torneio de Paris 1987;2
+Torneio de Seul;2
+Torneio de Verao Rio;2
+Torneio de Verao Rio 1973;2
+Transwall 0 X 3 Fluminense;2
+Treze 1 X 1 Fluminense;2
+Tricolor;2
+Tricolor 1905;2
+Tricolor 1917 - 1932;2
+Tricolor 2006 - 2007;2
+Tricolor 2019 em classicos;2
+Tricolor 2022 em classicos;2
+Trofeu Teresa Herrera 1985;2
+Troyes 1 X 3 Fluminense;2
+Tuna Luso 3 X 5 Fluminense;2
+Tupi 1 X 1 Fluminense;2
+Tupinambas 2 X 3 Fluminense;2
+Turner 1905;2
+Tecnico x Estadio;2
+Tecnicos;2
+Titulo do(a) Brasileiro;2
+Titulos em 1916;2
+Titulos em 1917;2
+Titulos em 1919;2
+Titulos em 1927;2
+Titulos em 1935;2
+Titulos em 1936;2
+Titulos em 1946;2
+Titulos em 1951;2
+Titulos em 1952;2
+Titulos em 1957;2
+Titulos em 1959;2
+Titulos em 1960;2
+Titulos em 1964;2
+Titulos em 1966;2
+Titulos em 1970;2
+Titulos em 1975;2
+Titulos em 1980;2
+Titulos em 1983;2
+Titulos em 1989;2
+Titulos em 1998;2
+Titulos em 1999;2
+Titulos em 2002;2
+Titulos em 2005;2
+Titulos em 2007;2
+Titulos em 2010;2
+Titulos em 2016;2
+Titulos em 2022;2
+URT 1 X 1 Fluminense;2
+Uberaba 0 X 1 Fluminense;2
+Uberlandia 0 X 0 Fluminense;2
+Ubiraci 1965;2
+Union La Calera 0 X 0 Fluminense;2
+Universal Orlando Resort 1;2
+Universidad de Quito 1 X 2 Fluminense;2
+Union Espanola 0 X 1 Fluminense;2
+VAR no Brasileiro 2023;2
+Valdeir 1996;2
+Valencia 3 X 3 Fluminense;2
+Vampeta 1996;2
+Vasco - Sao Januario;2
+Vasco 3 X 0 Fluminense;2
+Vasco de Aracaju 1 X 7 Fluminense;2
+Vermelhos do Felipe Melo - 2023;2
+Vermelhos do Welfare - 1924;2
+Vicentini 1946;2
+Vicentino 1938;2
+Vila Nova GO 0 X 2 Fluminense;2
+Vitoria ES 1 X 4 Fluminense;2
+Vitoria BA 3 X 1 Fluminense;2
+Volta Redonda 0 X 2 Fluminense;2
+Volta Redonda 1 X 4 Fluminense;2
+Volta Redonda 3 X 0 Fluminense;2
+Volta Redonda 3 X 1 Fluminense;2
+Volta Redonda 4 X 2 Fluminense;2
+Vagner 1989;2
+Vander 1983;2
+Wagner Reway;2
+Wallace 1982;2
+Washington 1989 - Gols por Adversario;2
+Washington 2010 - Gols por Adversario;2
+Wellington Silva 2021 - Gols por Ano;2
+Wendel 2017;2
+William Marcelo Nery;2
+Wilson Bauru 1961;2
+Wilson Moreira 1960;2
+Xatara 1952;2
+Young Africans 2 X 3 Fluminense;2
+Ypiranga BA 1 X 1 Fluminense;2
+Yuri Elino Ferreira da Cruz;2
+Zada 2003;2
+Zezinho 1981;2
+Zeze Moreira em Classicos;2
+Ze Maria 1989;2
+Alvaro Quelhas;2
+Arbitro em determinado tempo;2
+Ezio 1995 - Gols por Adversario;2
+Indio 1949;2
+Italo 1959;2
+Ultimas Sequencias de 14 jogos oficiais;2
+Ultimas Sequencias de 21 jogos oficiais;2
+Ultimas Sequencias de 25 jogos oficiais;2
+Ultimas Sequencias de 28 jogos oficiais - mandante;2
+Ultimos 2500 jogos como Mandante;2
+Ultimos 293 jogos;2
+Ultimos 301 jogos;2
+Ultimos 3401 jogos como Visitante;2
+Ultimos 40 jogos;2
+Ultimos 400 jogos;2
+Ultimos 5972 jogos;2
+Ultimos 5974 jogos;2
+1 ª passagem de Fernando Diniz;1
+1 ª passagem de Renato Gaucho;1
+12º Jogador - Fernando Diniz na 1ª passagem;1
+12º Jogador - Odair Hellmann na 1ª passagem;1
+1902 a 1910;1
+1902 a 2023;1
+1911 a 1920;1
+1921 a 1930;1
+1931 a 1940;1
+1941 a 1950;1
+1976 a 1976;1
+1977 a 2000;1
+1981 a 1990;1
+1991 a 2000;1
+2 ª passagem de Fernando Diniz;1
+2 ª passagem de Renato Gaucho;1
+2001 a 2010;1
+2001 a 2023;1
+2008 - Sexta Feira;1
+2011 a 2020;1
+2016 - Sexta Feira;1
+2018 - Sexta Feira;1
+2019 - Sexta Feira;1
+2023 - Domingo;1
+22º lugar;1
+A. Clements;1
+A. Todd;1
+ABC 0 X 2 Fluminense;1
+ABC 1 X 4 Fluminense;1
+ADN 1 X 4 Fluminense;1
+Aarne Erikson;1
+Abel - Adriano Magrao 2007;1
+Abel - Copa Sul Americana;1
+Abel - Fred 2022;1
+Adalberto 1977;1
+Adauto de Assis;1
+Ademilson 2003;1
+Ademilton 1980;1
+Ademir 1998;1
+Ademir Menezes 1947;1
+Adolfo Konder;1
+Adversario x Tecnico;1
+Adversarios - Amarelo e Vermelho;1
+Adversarios - Grena;1
+Adversarios - Vermelho e Amarelo e Verde e Branco;1
+Adversarios - Vermelho e Preto;1
+Adversarios Alemanha;1
+Adversarios Angola;1
+Adversarios Argelia;1
+Adversarios Armenia;1
+Adversarios Aruba;1
+Adversarios Arabia Saudita;1
+Adversarios Austria;1
+Adversarios Belgica;1
+Adversarios Bosnia;1
+Adversarios Bulgaria;1
+Adversarios CE;1
+Adversarios Camaroes;1
+Adversarios Canada;1
+Adversarios Cazaquistao;1
+Adversarios Colombia;1
+Adversarios Coreia do Sul;1
+Adversarios Costa Rica;1
+Adversarios Croacia;1
+Adversarios Egito;1
+Adversarios El Salvador;1
+Adversarios Equador;1
+Adversarios Escocia;1
+Adversarios Espanha;1
+Adversarios Europa;1
+Adversarios Finlandia;1
+Adversarios Guatemala;1
+Adversarios Holanda;1
+Adversarios Hungria;1
+Adversarios Inglaterra;1
+Adversarios Japao;1
+Adversarios Kuwait;1
+Adversarios Lesoto;1
+Adversarios Martinica;1
+Adversarios Mocambique;1
+Adversarios Nigeria;1
+Adversarios Noruega;1
+Adversarios PA;1
+Adversarios Peru;1
+Adversarios RS;1
+Adversarios Republica Tcheca;1
+Adversarios Senegal;1
+Adversarios Suica;1
+Adversarios Suriname;1
+Adversarios Suecia;1
+Adversarios Tanzania;1
+Adversarios Turquia;1
+Adversarios Ucrania;1
+Adversarios Venezuela;1
+Adversarios Zambia;1
+Adversarios da Bolivia;1
+Adversarios da Colombia;1
+Adversarios da Equador;1
+Adversarios da Espanha;1
+Adversarios da Mexico;1
+Aflitos;1
+Afonsinho 1946;1
+Agenor 2019;1
+Agnaldo Liz 2001;1
+Ahmadu Bello;1
+Al Ahly 1 X 2 Fluminense;1
+Alameda;1
+Alan 2006;1
+Alaor Prata;1
+Alaercio 1993;1
+Alberto 1958;1
+Alberto Alvarenga;1
+Alberto da Gama Malcher;1
+Alcindo 1997;1
+Alessandro 1993;1
+Alex 1995;1
+Alex Dias 2007;1
+Alexsander - 35;1
+Alexsander - 5;1
+Alexsander 2023 - Gols por Ano;1
+Alfredo Gomes;1
+Alfredo Santos Loebeling;1
+Alianza de Lima 1 X 1 Fluminense;1
+Alianza de Lima 1 X 3 Fluminense;1
+Allan 2019;1
+Aloisio Viug;1
+Aluizio Ferreira;1
+Amapa/Macapa 0 X 2 Fluminense;1
+Amarelos do Adriano - 1998;1
+Amarelos do Andre - 2023;1
+Amarelos do Antonio Carlos - 2015;1
+Amarelos do Branco - 1998;1
+Amarelos do David Braz - 2023;1
+Amarelos do Diogo Barbosa - 2023;1
+Amarelos do Fabio - 2023;1
+Amarelos do Fabio Cordeiro - 2002;1
+Amarelos do Felix - 1978;1
+Amarelos do Gabriel - 2008;1
+Amarelos do Gallo - 1996;1
+Amarelos do Jhon Arias - 2023;1
+Amarelos do Luis Marcelo - 1992;1
+Amarelos do Marcelo - 2023;1
+Amarelos do Nino - 2023;1
+Amarelos do Paulo Henrique Ganso - 2023;1
+Amarildo 1997;1
+Amauri 1983;1
+Ambrois 1955;1
+Americano 0 X 2 Fluminense;1
+Americano 1 X 4 Fluminense;1
+Amistoso 1908;1
+Amistoso 1937;1
+Amistoso 1975;1
+Amistoso 2004;1
+Amistoso Interestadual 1905;1
+Amistoso Interestadual 1919;1
+Amistoso Interestadual 1954;1
+Amistoso Interestadual 1959;1
+Amistoso Interestadual 1970;1
+Amistoso Interestadual 1998;1
+Amistoso Internacional;1
+Amistoso Internacional 1908;1
+Amistoso Internacional 1909;1
+Amistoso Internacional 1910;1
+Amistoso Internacional 1918;1
+Amistoso Internacional 1931;1
+Amistoso Internacional 1949;1
+Amistoso Internacional 1950;1
+Amistoso Internacional 1953;1
+Amistoso Internacional 1960;1
+Amistoso Internacional 1972;1
+Amistoso Internacional 1976;1
+Amistoso Internacional 1978;1
+Amistoso Internacional 1980;1
+Amistoso Internacional 1989;1
+Amistoso Internacional 2013;1
+Amistoso Internacional 2014;1
+America 1 X 2 Fluminense;1
+America 2 X 4 Fluminense;1
+America 3 X 2 Fluminense;1
+America 5 X 3 Fluminense;1
+America MG - Independencia;1
+America MG 2 X 0 Fluminense;1
+America MG 3 X 0 Fluminense;1
+America MG de 01/01/2001 ate 01/09/2023;1
+America Mexico 3 X 0 Fluminense;1
+America RN 0 X 0 Fluminense;1
+America Tres Rios 2 X 3 Fluminense;1
+Amilcar Ferreira;1
+Anacleto Campanella;1
+Andarai 1 X 0 Fluminense;1
+Andarai 1 X 5 Fluminense;1
+Anderson - 15;1
+Andre Kamperveen;1
+Andre 2023 - Maracana;1
+Andre Lima 2010;1
+Andre Luis - 32;1
+Andre Luiz de Freitas Castro;1
+Angenor 1932;1
+Anito 1943;1
+Aniversariantes em 11 / 09;1
+Aniversariantes em 12 / 08;1
+Aniversariantes em 18 / 08;1
+Aniversariantes em 18 / 09;1
+Aniversariantes em 27 / 05;1
+Aniversariantes em 28 / 08;1
+Aniversariantes em 29 / 08;1
+Ano 1936;1
+Ano 1937;1
+Ano 1940;1
+Ano 1992;1
+Ano 1996;1
+Ano 1997;1
+Ano 1998;1
+Ano 1999;1
+Ano 2000;1
+Ano 2004;1
+Ano 2006;1
+Ano 2009;1
+Antas;1
+Antoninho 1958;1
+Antonio Accioly;1
+Antonio Rene do Amaral;1
+Antonio Rocha Dias;1
+Antonio Vaz de Carvalho;1
+Aproveitamento Tecnicos no Copa do Brasil;1
+Arena Corinthians;1
+Arena Corinthians - Brasileiro;1
+Arena Pantanal;1
+Arena da Floresta;1
+Arena das Dunas;1
+Arena do Gremio - Brasileiro;1
+Argentino Juniors - Libertadores da America - Engenhao;1
+Argentino Juniors - Libertadores da America - Maracana;1
+Argentinos Juniors 2 X 4 Fluminense;1
+Arinelson 1999;1
+Armando Marques;1
+Arnaldo Guinle;1
+Arnaldo Guinle em classicos;1
+Arnaldo Samaniego;1
+Arnaldo Santhiago Lopes em classicos;1
+Arsenal de Sarandi - Libertadores da America - Engenhao;1
+Arsenal de Sarandi - Libertadores da America - Maracana;1
+Arsenio Erico;1
+Arthur 1999;1
+Artilheiro contra adversario em campeonato;1
+Artilheiros com Abel;1
+Artilheiros com Cuca;1
+Artilheiros com Marcao;1
+Artilheiros contra Ceara;1
+Artilheiros contra Corinthians;1
+Artilheiros contra Coritiba;1
+Artilheiros contra Cuiaba;1
+Artilheiros contra Goias;1
+Artilheiros contra Santos;1
+Artilheiros contra Sao Paulo;1
+Artilheiros contra Vasco - Brasileiro - Engenhao;1
+Artilheiros em 1916;1
+Artilheiros em 1939;1
+Artilheiros em 1944;1
+Artilheiros em 1951;1
+Artilheiros em 1953;1
+Artilheiros em 1965;1
+Artilheiros em 1966;1
+Artilheiros em 1968;1
+Artilheiros em 1970;1
+Artilheiros em 1971;1
+Artilheiros em 1972;1
+Artilheiros em 1973;1
+Artilheiros em 1974;1
+Artilheiros em 1975;1
+Artilheiros em 1976;1
+Artilheiros em 1977;1
+Artilheiros em 1978;1
+Artilheiros em 1979;1
+Artilheiros em 1980;1
+Artilheiros em 1981;1
+Artilheiros em 1982;1
+Artilheiros em 1983;1
+Artilheiros em 1984;1
+Artilheiros em 1985;1
+Artilheiros em 1986;1
+Artilheiros em 1987;1
+Artilheiros em 1988;1
+Artilheiros em 1990;1
+Artilheiros em 1991;1
+Artilheiros em 1992;1
+Artilheiros em 1993;1
+Artilheiros em 1994;1
+Artilheiros em 2000;1
+Artilheiros na temporada 1951;1
+Artilheiros na temporada 1952;1
+Artilheiros na temporada 2012;1
+Artilheiros na temporada 2020;1
+Artilheiros no(a) Amistoso Interestadual;1
+Artilheiros no(a) Arena Corinthians;1
+Artilheiros no(a) Arena da Baixada;1
+Artilheiros no(a) Brasileiro 1975;1
+Artilheiros no(a) Brasileiro 1976;1
+Artilheiros no(a) Brasileiro 1977;1
+Artilheiros no(a) Brasileiro 1978;1
+Artilheiros no(a) Brasileiro 2007;1
+Artilheiros no(a) Brasileiro 2008;1
+Artilheiros no(a) Brasileiro 2012;1
+Artilheiros no(a) Brasileiro 2022;1
+Artilheiros no(a) Carioca 1947;1
+Artilheiros no(a) Carioca 1948;1
+Artilheiros no(a) Carioca 1972;1
+Artilheiros no(a) Carioca 1977;1
+Artilheiros no(a) Carioca 1978;1
+Artilheiros no(a) Carioca 1979;1
+Artilheiros no(a) Copa da 1a. Liga;1
+Artilheiros no(a) Defensores del Chaco;1
+Artilheiros no(a) Laranjeiras;1
+Artilheiros no(a) Los Larios;1
+Artilheiros no(a) Mineirao;1
+Artilheiros no(a) Morumbi;1
+Artilheiros no(a) Pacaembu;1
+Artilheiros no(a) Sao Januario;1
+Artilheiros no(a) Trofeu Luiz Penido;1
+Artilheiros no(a) Vila Belmiro;1
+Ary Ercilio 1972;1
+Assis 1975 - Gols por Adversario;1
+Assis 1987 - Washington 1989;1
+Assis 1996;1
+Assistencias - Carioca;1
+Assistencias - Copa Sul Americana 2006;1
+Assistencias - Copa do Brasil;1
+Assistencias do Alex Dias;1
+Assistencias do Alexsander;1
+Assistencias do Arturzinho;1
+Assistencias do Ayrton Lucas;1
+Assistencias do Caio Henrique;1
+Assistencias do Caio Paulista;1
+Assistencias do Calegari;1
+Assistencias do Chiquinho;1
+Assistencias do Cicero;1
+Assistencias do Danilo Barcelos;1
+Assistencias do Egidio;1
+Assistencias do Fabinho;1
+Assistencias do Gabriel;1
+Assistencias do Gilberto;1
+Assistencias do Giovanni;1
+Assistencias do Igor Juliao;1
+Assistencias do Isaac;1
+Assistencias do Jadilson;1
+Assistencias do Jancarlos;1
+Assistencias do Jean;1
+Assistencias do John Kennedy;1
+Assistencias do Joao Paulo;1
+Assistencias do Leo Fernandez;1
+Assistencias do Lucas;1
+Assistencias do Magno Alves;1
+Assistencias do Marcos Junior;1
+Assistencias do Marlon;1
+Assistencias do Mascarenhas;1
+Assistencias do Matheus Martins;1
+Assistencias do Nene;1
+Assistencias do Paulo Henrique Ganso;1
+Assistencias do Rafael;1
+Assistencias do Rafael Sobis;1
+Assistencias do Rissut;1
+Assistencias do Valencia;1
+Assistencias do Willian;1
+Ateneu 0 X 2 Fluminense;1
+Athletico PR 2 X 0 Fluminense;1
+Athletico PR 4 X 1 Fluminense;1
+Athletico PR de 01/01/2001 ate 01/09/2023;1
+Atletic Club 0 X 4 Fluminense;1
+Atletico GO 0 X 1 Fluminense;1
+Atletico GO 1 X 1 Fluminense;1
+Atletico MG - Giulitte Coutinho;1
+Atletico MG 0 X 1 Fluminense;1
+Atletico MG 1 X 3 Fluminense;1
+Atletico MG 3 X 0 Fluminense;1
+Atletico MG 5 X 1 Fluminense;1
+Atletico MG de 01/01/2001 ate 01/09/2023;1
+Atletico de Bilbao 0 X 0 Fluminense;1
+Augsburg 0 X 1 Fluminense;1
+Augusto 1932;1
+Azul 2019 em classicos;1
+Azurra 1 X 5 Fluminense;1
+Airton Domingos Bernardoni;1
+Bacchi 1922;1
+Bad Ems 0 X 1 Fluminense;1
+Bahia - Andre 2023;1
+Bahia 1 X 4 Fluminense;1
+Bahia 3 X 0 Fluminense;1
+Bahia de 01/01/2001 ate 01/09/2023;1
+Baiano 1982;1
+Banfield - Copa Sul Americana - Sao Januario;1
+Banfield 0 X 0 Fluminense;1
+Bangu 1 X 6 Fluminense;1
+Bangu 2 X 10 Fluminense;1
+Barcelona Guaiaquil 1 X 5 Fluminense;1
+Barradao;1
+Barrios 1944;1
+Bartho 1916;1
+Barao de Serra Negra;1
+Batatais 1957;1
+Baztarrica 1945;1
+Benedito Teixeira;1
+Benfica Luanda - Amistoso Internacional - Coqueiros;1
+Bergisch Gladbach 1 X 4 Fluminense;1
+Besiktas 2 X 1 Fluminense;1
+Betinho 1999;1
+Bislett Stadion;1
+Boavista 0 X 0 Fluminense;1
+Bobadilla 2021;1
+Boca Juniors - Libertadores da America - Engenhao;1
+Boca Juniors - Libertadores da America - Maracana;1
+Boca Juniors 1 X 2 Fluminense;1
+Bonsucesso 1 X 7 Fluminense;1
+Bordallo 1923;1
+Borovo 2 X 5 Fluminense;1
+Botafogo - Brasileiro;1
+Botafogo - Copa Sul Americana;1
+Botafogo - Mane Garrincha;1
+Botafogo - Maracana;1
+Botafogo 0 X 3 Fluminense;1
+Botafogo 0 X 4 Fluminense;1
+Botafogo 6 X 1 Fluminense;1
+Botafogo Macae 0 X 1 Fluminense;1
+Botafogo PB 0 X 1 Fluminense;1
+Botafogo PB 1 X 1 Fluminense;1
+Botafogo de 01/01/2001 ate 01/09/2023;1
+Bragantino 3 X 1 Fluminense;1
+Bragantino de 01/01/2001 ate 01/09/2023;1
+Branca 1907 - 1908 em classicos;1
+Branca 1967 - 1972;1
+Branca 1979;1
+Branca 1984 em classicos;1
+Branca 1986;1
+Branca 1987 - 1991;1
+Branca 1996;1
+Branca 1997;1
+Branca 1999 - 2000;1
+Branca 2001 - 2002 em classicos;1
+Branca 2004 - 2005 em classicos;1
+Branca 2010;1
+Branca 2012 em classicos;1
+Branca 2013;1
+Branca 2013 em classicos;1
+Branca 2015 - 2016 em classicos;1
+Branca 2016 em classicos;1
+Branca 2017-2018;1
+Branca 2017-2018 em classicos;1
+Branca 2019;1
+Branca 2019 em classicos;1
+Branca 2020 em classicos;1
+Branca 2021 em classicos;1
+Brasil RS 2 X 1 Fluminense;1
+Brasileiro - 1º Turno 2005;1
+Brasileiro - 1º Turno 2010;1
+Brasileiro - 2º Turno 2005;1
+Brasileiro - 2º Turno 2010;1
+Brasileiro - Adeilson 2010;1
+Brasileiro - America MG;1
+Brasileiro - Athletico PR;1
+Brasileiro - Engenhao;1
+Brasileiro - Fernando Diniz;1
+Brasileiro - Fred 2022;1
+Brasileiro - Maracana;1
+Brasileiro 1974;1
+Brasileiro 1975;1
+Brasileiro 1980;1
+Brasileiro 1982;1
+Brasileiro 1987;1
+Brasileiro 1992;1
+Brasileiro 2003;1
+Brasileiro 2021 - America MG;1
+Brasileiro 2022 - America MG;1
+Brasileiro 2023 - Sabado;1
+Brasileiro em 01/01/1997 - 31/12/1997;1
+Brasileiro em 30/03/2003 - 29/08/2023;1
+Brenner 2019;1
+Brighton - Amistoso Internacional - Goldstone Ground;1
+Brighton 1 X 2 Fluminense;1
+Brinco de Ouro;1
+Bruno Carvalho 1998;1
+Bruno Jose Daniel;1
+Bruno Reis 2000;1
+Bryan Oliveira 2015;1
+Braulio Zanotto;1
+Buchan 1909;1
+Burgos 0 X 2 Fluminense;1
+CEUB 1 X 1 Fluminense;1
+CRB 1 X 1 Fluminense;1
+CRB 1 X 2 Fluminense;1
+CRB 1 X 4 Fluminense;1
+CSA 0 X 6 Fluminense;1
+Cabezas 2018;1
+Cabofriense 0 X 2 Fluminense;1
+Cabofriense 2 X 2 Fluminense;1
+Cabofriense 3 X 1 Fluminense;1
+Caca 1962;1
+Caio 2002;1
+Caio Max Augusto Vieira;1
+Caixa Economica Federal;1
+Caldense 0 X 1 Fluminense;1
+Caldense 1 X 1 Fluminense;1
+Calmon 1917;1
+Camisas em 1984;1
+Camisas em 1990;1
+Camisas em 1996;1
+Camisas em 2010;1
+Camisas em 2011;1
+Camisas em 2015;1
+Camisas em 2016;1
+Camisas em 2019;1
+Campeonato da Cidade 1992;1
+Campeonato x Tecnico;1
+Campeonatos em 1937;1
+Campo Grande 0 X 4 Fluminense;1
+Campo Grande 1 X 5 Fluminense;1
+Campo Grande 2 X 2 Fluminense;1
+Canto do Rio 0 X 1 Fluminense;1
+Canto do Rio 1 X 3 Fluminense;1
+Canto do Rio 3 X 1 Fluminense;1
+Canto do Rio 4 X 5 Fluminense;1
+Caracas 0 X 1 Fluminense;1
+Carango 1946;1
+Carioca - Flamengo;1
+Carioca 1915;1
+Carioca 1919;1
+Carioca 1927;1
+Carioca 1935;1
+Carioca 1943;1
+Carioca 1948;1
+Carioca 1950;1
+Carioca 1962;1
+Carioca 1970;1
+Carioca 1971;1
+Carioca 1972;1
+Carioca 1976;1
+Carioca 1978;1
+Carioca 1981;1
+Carioca 1988;1
+Carioca 1990;1
+Carioca 1997;1
+Carioca 1998;1
+Carioca 2002;1
+Carioca 2006;1
+Carioca 2010;1
+Carioca 2013;1
+Carioca 2017;1
+Carioca 2019;1
+Carioca 2020;1
+Carioca 2021;1
+Carlos 1978;1
+Carlos Amarilla;1
+Carlos Andre 1993;1
+Carlos Chandia;1
+Carlos Eduardo 1984;1
+Carlos Eduardo Nunes Braga;1
+Carlos Elias Pimentel;1
+Carlos Guinle em classicos;1
+Carlos Ivan 1970;1
+Carlos Roberto 1997;1
+Carlos Torres;1
+Carlos Zabot 1943;1
+Carlos de Oliveira Monteiro;1
+Carnaval 1946;1
+Carreiro 1943;1
+Cartao x Jogador;1
+Cartoes em 2021;1
+Cartoes em 2022;1
+Cartoes no(a) Brasileiro;1
+Cartoes no(a) Carioca;1
+Casa Blanca;1
+Casagrande 1974;1
+Castanhal 1 X 8 Fluminense;1
+Castelao;1
+Ceara 0 X 5 Fluminense;1
+Cene 3 X 5 Fluminense;1
+Ceninho 1954;1
+Cerro Portenho 2 X 2 Fluminense;1
+Cesar Diniz 1990;1
+Cesar Paranhos 1909;1
+Chacarita Junior;1
+Chapecoense 2 X 0 Fluminense;1
+Charles Miller;1
+Chicletes 1964;1
+Chico Netto 1924;1
+China 1989;1
+Chiquinho 1979;1
+Chiquinho 2014;1
+Cinza 2012;1
+Cinza 2012 com Thiago Neves 2013;1
+Cinza 2012 em classicos;1
+Cinza e Branca 2002 em classicos;1
+Citrus Bowl;1
+Clairton 1968;1
+Clube Atletico Ourinhense;1
+Classicos - Copa do Brasil;1
+Classicos - Libertadores da America;1
+Classicos de 1951 ate 1960;1
+Classicos de 2019 ate 2023;1
+Classicos de 2020 ate 2023;1
+Classicos em 2012;1
+Classicos em 2022;1
+Classicos em 2023;1
+Classicos em Estadio;1
+Claudio 1959;1
+Claudio 1994;1
+Claudio 1999;1
+Claudio Adao 1981 - Gols por Adversario;1
+Claudio Brasilia 1993;1
+Claudio Marzo Oliveira Sa;1
+Cleber Leite;1
+Clovis 1962;1
+Coca Cola;1
+Cocada 1990;1
+Colo Colo 0 X 3 Fluminense;1
+Colocacao em Campeonatos;1
+Colonia 3 X 2 Fluminense;1
+Colosso do Trevo;1
+Comb Renner/Internacional 2 X 2 Fluminense;1
+Comercial 2 X 0 Fluminense;1
+Comercial 3 X 2 Fluminense;1
+Comercial MS 2 X 1 Fluminense;1
+Conca - 11;1
+Conmebol - Atletico MG;1
+Conmebol - Guarani Paraguai;1
+Converti 1957;1
+Copa Governador Faria Lima 1977;1
+Copa Kirim 1987;1
+Copa Sul Americana - Alianza Atletico;1
+Copa Sul Americana - Antofagasta;1
+Copa Sul Americana - Athletico PR;1
+Copa Sul Americana - Atletico MG;1
+Copa Sul Americana - Atletico Nacional;1
+Copa Sul Americana - Banfield;1
+Copa Sul Americana - Botafogo;1
+Copa Sul Americana - Cerro Portenho;1
+Copa Sul Americana - Defensor;1
+Copa Sul Americana - Deportivo Cuenca;1
+Copa Sul Americana - Flamengo;1
+Copa Sul Americana - Gimnasia Y Esgrima;1
+Copa Sul Americana - Goias;1
+Copa Sul Americana - Junior Barranquilla;1
+Copa Sul Americana - LDU;1
+Copa Sul Americana - Liverpool URU;1
+Copa Sul Americana - Nacional Potosi;1
+Copa Sul Americana - Nacional Uruguai;1
+Copa Sul Americana - Penharol;1
+Copa Sul Americana - Santos;1
+Copa Sul Americana - Sao Paulo;1
+Copa Sul Americana - Union La Calera;1
+Copa Sul Americana - Union Santa Fe;1
+Copa Sul Americana - Universidad Catolica;1
+Copa Sul Americana - Universidad de Chile;1
+Copa Sul Americana - Universidad de Quito;1
+Copa Sul Americana 2006;1
+
+# Qual e a origem dos novos usuarios?
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Grupo de canais padrao do primeiro usuario;Novos usuarios
+Organic Search;1630
+Direct;1084
+Referral;55
+Organic Social;12
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Grupo de canais padrao da sessao;Sessoes
+Direct;3484
+Organic Search;2641
+Referral;135
+Unassigned;29
+Organic Social;13
+
+#  
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Nome do evento;Contagem de eventos
+page_view;49457
+user_engagement;40836
+scroll;35988
+form_submit;11447
+form_start;6251
+session_start;6152
+click;3570
+first_visit;2781
+
+# Quais sao suas principais conversoes?
+# Data de inicio: 20230803
+# Data de termino: 20230918
+Nome do evento;Conversoes

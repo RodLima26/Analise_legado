@@ -1,0 +1,327 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20230925
+# Data de termino: 20231002
+Titulo da pagina e nome da tela;Data e hora (AAAAMMDDHH);Sessoes;Usuarios;Novos usuarios;Tempo de engajamento medio por sessao;Conversoes;Receita total
+Titulos em 2002;2023092513;1;1;0;2;0;0
+Titulos em 2005;2023092513;1;1;0;3;0;0
+Titulos em 2007;2023092513;1;1;0;4;0;0
+Titulos em 2010;2023092513;1;1;0;8;0;0
+Titulos em 2012;2023092513;1;1;0;3;0;0
+Titulos em 2016;2023092513;1;1;0;4;0;0
+Titulos por Campeonato;2023092513;1;1;0;6;0;0
+Titulos por Campeonato;2023092822;1;1;0;1;0;0
+Titulos por ano;2023092513;1;1;0;47;0;0
+Titulos por ano;2023092514;1;1;0;92;0;0
+Tulio 1999;2023092517;1;1;0;14;0;0
+Uberlandia 2 X 3 Fluminense;2023092713;1;1;0;5;0;0
+Uberlandia 2 X 3 Fluminense;2023092808;1;1;0;6;0;0
+Uberlandia 2 X 3 Fluminense;2023092809;1;1;0;6;0;0
+Uberlandia 2 X 3 Fluminense;2023092814;1;1;0;5;0;0
+Ubiraci 1965;2023093013;1;1;1;122;0;0
+Udinese 1 X 1 Fluminense;2023093013;1;1;0;7;0;0
+Union Santa Fe 0 X 0 Fluminense;2023093020;1;1;0;1;0;0
+Union Santa Fe 0 X 0 Fluminense;2023100118;1;1;0;1;0;0
+Universidad de Quito 1 X 2 Fluminense;2023092622;1;1;0;7;0;0
+Universidad de Quito 1 X 2 Fluminense;2023092810;1;1;0;188;0;0
+Valdeir 1996;2023092517;1;1;0;11;0;0
+Valdeir 1996;2023092622;1;1;0;9;0;0
+Valdez 1968;2023092509;1;1;1;19;0;0
+Valdez 1968;2023092616;1;1;0;26;0;0
+Valdir 1963;2023093016;1;1;0;4;0;0
+Valencia 2014;2023092613;1;1;0;18;0;0
+Valladolid 0 X 0 Fluminense;2023093014;1;1;0;2;0;0
+Valter Senra;2023093000;1;1;0;1;0;0
+Valencia 1 X 0 Fluminense;2023092523;1;1;0;5;0;0
+Vampeta 1996;2023092622;1;1;0;14;0;0
+Vancouver Whitecaps 3 X 1 Fluminense;2023093013;1;1;0;2;0;0
+Vasco - Engenhao;2023093013;1;1;0;22;0;0
+Vasco - General Severiano;2023093013;1;1;0;37;0;0
+Vasco - Laranjeiras;2023093013;1;1;0;21;0;0
+Vasco - Maracana;2023093013;1;1;0;23;0;0
+Vasco - Raulino de Oliveira;2023093013;1;1;0;1;0;0
+Vasco - Sao Januario;2023093013;1;1;0;15;0;0
+Vasco 0 X 0 Fluminense;2023092619;1;1;0;65;0;0
+Vasco 0 X 0 Fluminense;2023093000;1;1;0;5;0;0
+Vasco 0 X 0 Fluminense;2023093013;1;1;0;2;0;0
+Vasco 0 X 0 Fluminense;2023093014;1;1;0;16;0;0
+Vasco 0 X 1 Fluminense;2023092517;1;1;0;2;0;0
+Vasco 0 X 1 Fluminense;2023092523;1;1;0;35;0;0
+Vasco 0 X 1 Fluminense;2023093014;1;1;0;1;0;0
+Vasco 0 X 1 Fluminense;2023100114;1;1;0;12;0;0
+Vasco 0 X 2 Fluminense;2023092819;1;1;0;19;0;0
+Vasco 0 X 2 Fluminense;2023093011;1;1;0;64;0;0
+Vasco 0 X 2 Fluminense;2023093014;1;1;0;1;0;0
+Vasco 0 X 2 Fluminense;2023093015;1;1;0;8;0;0
+Vasco 0 X 3 Fluminense;2023093014;1;1;0;3;0;0
+Vasco 1 X 0 Fluminense;2023093014;1;1;0;2;0;0
+Vasco 1 X 0 Fluminense;2023100107;1;1;0;10;0;0
+Vasco 1 X 0 Fluminense;2023100114;1;1;0;1;0;0
+Vasco 1 X 0 Fluminense;2023100118;1;1;0;2;0;0
+Vasco 1 X 1 Fluminense;2023092709;1;1;0;6;0;0
+Vasco 1 X 1 Fluminense;2023092910;1;1;0;1;0;0
+Vasco 1 X 1 Fluminense;2023093014;1;1;0;1;0;0
+Vasco 1 X 1 Fluminense;2023100114;1;1;0;6;0;0
+Vasco 1 X 1 Fluminense;2023100115;1;1;0;0;0;0
+Vasco 1 X 1 Fluminense;2023100118;1;1;0;14;0;0
+Vasco 1 X 2 Fluminense;2023092620;1;1;0;42;0;0
+Vasco 1 X 2 Fluminense;2023092708;1;1;0;4;0;0
+Vasco 1 X 2 Fluminense;2023092709;1;1;0;15;0;0
+Vasco 1 X 4 Fluminense;2023092523;1;1;0;42;0;0
+Vasco 1 X 5 Fluminense;2023100105;1;1;1;25;0;0
+Vasco 2 X 0 Fluminense;2023093013;1;1;0;1;0;0
+Vasco 2 X 1 Fluminense;2023092713;1;1;0;1;0;0
+Vasco 2 X 1 Fluminense;2023092715;1;1;0;38;0;0
+Vasco 2 X 1 Fluminense;2023092716;1;1;0;71;0;0
+Vasco 2 X 1 Fluminense;2023092717;1;1;0;0;0;0
+Vasco 2 X 1 Fluminense;2023092808;1;1;0;5;0;0
+Vasco 2 X 1 Fluminense;2023092809;1;1;0;7;0;0
+Vasco 2 X 1 Fluminense;2023093013;1;1;0;1;0;0
+Vasco 2 X 1 Fluminense;2023093020;1;1;0;1;0;0
+Vasco 2 X 1 Fluminense;2023100113;1;1;0;0;0;0
+Vasco 2 X 1 Fluminense;2023100118;1;1;0;2;0;0
+Vasco 2 X 4 Fluminense;2023092517;1;1;0;5;0;0
+Vasco 4 X 0 Fluminense;2023100115;1;1;0;5;0;0
+Vasco 4 X 1 Fluminense;2023092608;1;1;0;0;0;0
+Vasco 4 X 1 Fluminense;2023092609;1;1;0;0;0;0
+Vasco 4 X 2 Fluminense;2023092518;1;1;0;13;0;0
+Vasco 4 X 2 Fluminense;2023092710;1;1;0;6;0;0
+Vasco 4 X 2 Fluminense;2023093020;1;1;0;2;0;0
+Vasco 4 X 2 Fluminense;2023093021;1;1;0;3;0;0
+Vasco 4 X 2 Fluminense;2023093022;1;1;0;4;0;0
+Vasco 4 X 2 Fluminense;2023100101;1;1;0;0;0;0
+Vasco 4 X 2 Fluminense;2023100118;1;1;0;1;0;0
+Vasco 4 X 3 Fluminense;2023092713;1;1;0;5;0;0
+Vasco 4 X 3 Fluminense;2023092808;1;1;0;5;0;0
+Vasco 4 X 3 Fluminense;2023092809;1;1;0;11;0;0
+Vasco 4 X 3 Fluminense;2023092813;1;1;0;336;0;0
+Vasco 4 X 3 Fluminense;2023092814;1;1;0;5;0;0
+Vasco 5 X 3 Fluminense;2023093013;1;1;0;4;0;0
+Veludo 1956;2023092809;1;1;0;0;0;0
+Verde 2015 - 2016 em 2015;2023092516;1;1;0;2;0;0
+Verde 2015 - 2016 em 2015;2023092708;1;1;0;0;0;0
+Vermelhos do Abel Hernandez - 2021;2023100113;1;1;0;3;0;0
+Vermelhos do Agenor - 2019;2023093020;1;1;0;1;0;0
+Vermelhos do Agenor - 2019;2023100113;1;1;0;1;0;0
+Vermelhos do Airton - 2019;2023093020;1;1;0;2;0;0
+Vermelhos do Airton - 2019;2023100114;1;1;0;1;0;0
+Vermelhos do Allan - 2019;2023093020;1;1;0;2;0;0
+Vermelhos do Allan - 2019;2023100114;1;1;0;1;0;0
+Vermelhos do Anderson - 2013;2023100114;1;1;0;11;0;0
+Vermelhos do Andre - 2023;2023092614;1;1;0;9;0;0
+Vermelhos do Andre - 2023;2023093020;1;1;0;11;0;0
+Vermelhos do Andre - 2023;2023093021;1;1;0;8;0;0
+Vermelhos do Andre - 2023;2023100113;1;1;0;3;0;0
+Vermelhos do Antonio Carlos - 2015;2023100114;1;1;0;5;0;0
+Vermelhos do Biro Biro - 2014;2023100114;1;1;0;7;0;0
+Vermelhos do Bruno - 2014;2023100114;1;1;0;14;0;0
+Vermelhos do Caio Paulista - 2023;2023093021;1;1;0;6;0;0
+Vermelhos do Caio Paulista - 2023;2023100113;1;1;0;6;0;0
+Vermelhos do Calegari - 2023;2023093021;1;1;0;3;0;0
+Vermelhos do Calegari - 2023;2023100113;1;1;0;5;0;0
+Vermelhos do Carlinhos - 2014;2023100114;1;1;0;3;0;0
+Vermelhos do Danilo Barcelos - 2021;2023100113;1;1;0;1;0;0
+Vermelhos do David Braz - 2023;2023093020;1;1;0;7;0;0
+Vermelhos do David Braz - 2023;2023093021;1;1;0;6;0;0
+Vermelhos do David Braz - 2023;2023100113;1;1;0;44;0;0
+Vermelhos do Diego Cavalieri - 2017;2023100114;1;1;0;8;0;0
+Vermelhos do Digao - 2020;2023093020;1;1;0;5;0;0
+Vermelhos do Digao - 2020;2023100113;1;1;0;7;0;0
+Vermelhos do Digao - 2020;2023100114;1;1;0;2;0;0
+Vermelhos do Dodi - 2020;2023093020;1;1;0;1;0;0
+Vermelhos do Dodi - 2020;2023100114;1;1;0;2;0;0
+Vermelhos do Douglas - 2018;2023100114;1;1;0;13;0;0
+Vermelhos do Egidio - 2021;2023100113;1;1;0;6;0;0
+Vermelhos do Elivelton - 2014;2023100114;1;1;0;3;0;0
+Vermelhos do Everaldo - 2019;2023100114;1;1;0;3;0;0
+Vermelhos do Felipe Melo - 2023;2023092614;1;1;0;9;0;0
+Vermelhos do Felipe Melo - 2023;2023093021;1;1;0;4;0;0
+Vermelhos do Felipe Melo - 2023;2023100113;1;1;0;7;0;0
+Vermelhos do Frazan - 2021;2023093020;1;1;0;2;0;0
+Vermelhos do Frazan - 2021;2023100113;1;1;0;6;0;0
+Vermelhos do Fred - 2022;2023093020;1;1;0;8;0;0
+Vermelhos do Fred - 2022;2023100113;1;1;0;53;0;0
+Vermelhos do Fabio Braga - 2013;2023100114;1;1;0;2;0;0
+Vermelhos do Gerson - 2016;2023100114;1;1;0;1;0;0
+Vermelhos do Gilberto - 2020;2023100114;1;1;0;2;0;0
+Vermelhos do Giovanni - 2016;2023100114;1;1;0;9;0;0
+Vermelhos do Gum - 2018;2023100114;1;1;0;10;0;0
+Vermelhos do Henrique - 2017;2023100114;1;1;0;2;0;0
+Vermelhos do Higor Leite - 2016;2023100114;1;1;0;2;0;0
+Vermelhos do Hudson - 2021;2023100113;1;1;0;1;0;0
+Vermelhos do Jadson - 2018;2023100114;1;1;0;1;0;0
+Vermelhos do Jean - 2015;2023100114;1;1;0;1;0;0
+Vermelhos do Klever - 2015;2023100114;1;1;0;8;0;0
+Vermelhos do Leo - 2018;2023100114;1;1;0;6;0;0
+Vermelhos do Lucas Gomes - 2015;2023100114;1;1;0;7;0;0
+Vermelhos do Luciano - 2019;2023100114;1;1;0;1;0;0
+Vermelhos do Magno Alves - 2016;2023100114;1;1;0;6;0;0
+Vermelhos do Manoel - 2023;2023093020;1;1;0;28;0;0
+Vermelhos do Manoel - 2023;2023093021;1;1;0;4;0;0
+Vermelhos do Manoel - 2023;2023100113;1;1;0;16;0;0
+Vermelhos do Marcos Junior - 2018;2023100114;1;1;0;3;0;0
+Vermelhos do Marlon - 2022;2023100114;1;1;0;1;0;0
+Vermelhos do Marlon - 2023;2023100114;1;1;0;10;0;0
+Vermelhos do Marquinho - 2017;2023100114;1;1;0;3;0;0
+Vermelhos do Marrony - 2023;2023100113;1;1;0;0;0;0
+Vermelhos do Matheus Alessandro - 2020;2023100114;1;1;0;3;0;0
+Vermelhos do Matheus Alessandro - 2020;2023100115;1;1;0;0;0;0
+Vermelhos do Michael - 2015;2023100114;1;1;0;1;0;0
+Vermelhos do Nene - 2021;2023092917;1;1;0;7;0;0
+Vermelhos do Nene - 2021;2023100114;1;1;0;1;0;0
+Vermelhos do Nino - 2023;2023092709;1;1;0;1;0;0
+Vermelhos do Nino - 2023;2023093021;1;1;0;8;0;0
+Vermelhos do Nino - 2023;2023100113;1;1;0;11;0;0
+Vermelhos do Nogueira - 2017;2023100114;1;1;0;9;0;0
+Vermelhos do Nonato - 2022;2023093020;1;1;0;19;0;0
+Vermelhos do Nonato - 2022;2023093021;1;1;0;6;0;0
+Vermelhos do Nonato - 2022;2023100113;1;1;0;9;0;0
+Vermelhos do Orejuela - 2017;2023100114;1;1;0;12;0;0
+Vermelhos do Osvaldo - 2017;2023100114;1;1;0;2;0;0
+Vermelhos do Pablo Dyego - 2020;2023100114;1;1;0;4;0;0
+Vermelhos do Paulo Henrique Ganso - 2023;2023100114;1;1;0;3;0;0
+Vermelhos do Rafael Sobis - 2014;2023100114;1;1;0;2;0;0
+Vermelhos do Rafinha - 2015;2023100114;1;1;0;11;0;0
+Vermelhos do Reginaldo - 2018;2023100114;1;1;0;4;0;0
+Vermelhos do Rhayner - 2013;2023100114;1;1;0;170;0;0
+Vermelhos do Robinho - 2018;2023100114;1;1;0;7;0;0
+Vermelhos do Samuel Xavier - 2023;2023092811;1;1;0;8;0;0
+Vermelhos do Samuel Xavier - 2023;2023093019;1;1;0;2;0;0
+Vermelhos do Samuel Xavier - 2023;2023093021;1;1;0;19;0;0
+Vermelhos do Samuel Xavier - 2023;2023100113;1;1;0;26;0;0
+Vermelhos do Sornoza - 2018;2023100114;1;1;0;5;0;0
+Vermelhos do Tele - 1961;2023093011;1;1;0;62;0;0
+Vermelhos do Yuri - 2021;2023100113;1;1;0;2;0;0
+Vermelhos do Edson - 2016;2023100114;1;1;0;1;0;0
+Victor Etchegaray 1912;2023092819;1;1;0;14;0;0
+Victor Gonzalez 1962;2023092715;1;1;0;7;0;0
+Vila Nova GO 0 X 2 Fluminense;2023093011;1;1;0;1;0;0
+Vila Nova GO 0 X 2 Fluminense;2023093020;1;1;0;1;0;0
+Vila Nova GO 0 X 2 Fluminense;2023100118;1;1;0;1;0;0
+Vinicius 2001;2023100107;1;1;0;24;0;0
+Vitor Mendes 2023;2023092915;1;1;0;52;0;0
+Vitoria BA 0 X 1 Fluminense;2023092709;1;1;0;6;0;0
+Vitoria BA 0 X 1 Fluminense;2023092710;1;1;0;1;0;0
+Vitoria BA 0 X 2 Fluminense;2023092523;1;1;0;19;0;0
+Vitoria BA 1 X 0 Fluminense;2023093014;1;1;0;2;0;0
+Vitoria BA 2 X 1 Fluminense;2023093014;1;1;0;2;0;0
+Vitoria BA 2 X 2 Fluminense;2023092523;1;1;0;16;0;0
+Vitoria BA 2 X 2 Fluminense;2023100114;1;1;0;0;0;0
+Volta Redonda 0 X 1 Fluminense;2023092709;1;1;0;17;0;0
+Volta Redonda 0 X 1 Fluminense;2023093014;1;1;0;1;0;0
+Volta Redonda 0 X 3 Fluminense;2023100200;1;1;0;14;0;0
+Volta Redonda 1 X 0 Fluminense;2023092614;1;1;0;2;0;0
+Volta Redonda 1 X 0 Fluminense;2023093020;1;1;0;1;0;0
+Volta Redonda 1 X 0 Fluminense;2023093021;1;1;0;5;0;0
+Volta Redonda 1 X 0 Fluminense;2023093022;1;1;0;7;0;0
+Volta Redonda 1 X 0 Fluminense;2023100112;1;1;0;3;0;0
+Volta Redonda 1 X 0 Fluminense;2023100113;1;1;0;8;0;0
+Volta Redonda 1 X 1 Fluminense;2023093013;1;1;0;2;0;0
+Volta Redonda 1 X 2 Fluminense;2023093014;1;1;0;1;0;0
+Volta Redonda 1 X 3 Fluminense;2023093013;1;1;0;1;0;0
+Volta Redonda 1 X 3 Fluminense;2023100200;1;1;0;9;0;0
+Volta Redonda 2 X 1 Fluminense;2023093020;1;1;0;1;0;0
+Volta Redonda 2 X 1 Fluminense;2023093021;1;1;0;2;0;0
+Volta Redonda 2 X 1 Fluminense;2023093022;1;1;0;3;0;0
+Volta Redonda 3 X 1 Fluminense;2023100114;1;1;0;8;0;0
+Volta Redonda 3 X 3 Fluminense;2023093014;1;1;0;2;0;0
+Valber 2002;2023100107;1;1;0;30;0;0
+Valbson 2001;2023100107;1;1;0;31;0;0
+Wagner 1998;2023092814;1;1;1;60;0;0
+Wagner 1998;2023093014;1;1;1;43;0;0
+Wagner Tardelli;2023092922;1;1;0;16;0;0
+Walbert 1986;2023100118;1;1;1;44;0;0
+Waldemar 1931;2023092709;1;1;0;7;0;0
+Waldemar 1956;2023092811;1;1;1;110;0;0
+Waldemar Alves;2023092709;1;1;0;19;0;0
+Waldo 1961;2023092809;1;1;0;8;0;0
+Waldo 1961;2023092819;1;1;0;11;0;0
+Wallace 1995;2023092710;1;1;0;10;0;0
+Walter Pereira Diniz;2023092714;1;1;0;16;0;0
+Washington 1989;2023092611;1;1;0;0;0;0
+Washington 1989;2023092612;1;1;0;0;0;0
+Washington 1989;2023093013;1;1;0;52;0;0
+Washington 1989;2023093014;1;1;0;19;0;0
+Washington 2010;2023092612;1;1;0;16;0;0
+Washington 2010;2023092613;1;1;0;0;0;0
+Washington 2010;2023092615;1;1;0;16;0;0
+Washington 2010;2023092618;1;1;0;27;0;0
+Washington 2010;2023092817;1;1;0;5;0;0
+Waterman 1910;2023092920;1;1;0;74;0;0
+Welfare 1924;2023092816;1;1;0;30;0;0
+Wellington Monteiro 2009;2023092612;1;1;0;10;0;0
+Wellington Silva 2016;2023092519;1;1;0;74;0;0
+Wellington Silva 2016;2023092612;1;1;0;10;0;0
+Welton 1994;2023092710;1;1;0;3;0;0
+Wilson Silva 1964;2023093016;1;1;0;4;0;0
+Wilton Pereira Sampaio;2023092813;1;1;0;1;0;0
+Wordcloud Artilheiros;2023092915;1;1;0;5;0;0
+Wright 1904;2023092613;1;1;0;17;0;0
+Wagner 1993;2023092619;1;1;0;21;0;0
+Walter Lino 1963;2023092715;1;1;0;2;0;0
+Yago 2023;2023092819;1;1;0;6;0;0
+Yan 2002;2023092820;1;1;0;42;0;0
+Yan 2002;2023092823;1;1;0;0;0;0
+Ygor 2008;2023092612;1;1;0;2;0;0
+Ygor 2008;2023092616;1;1;0;18;0;0
+Young Boys 3 X 1 Fluminense;2023100116;1;1;0;47;0;0
+Yuri 2021;2023100113;1;1;0;2;0;0
+Zetti 2000;2023092516;1;1;0;22;0;0
+Zeze 1982;2023092911;1;1;0;7;0;0
+Zeze 1982;2023092916;1;1;0;21;0;0
+Zinho de Oliveira;2023092711;1;1;0;22;0;0
+Ze Maria 1931;2023092709;1;1;0;26;0;0
+Ze Mario 1975;2023100107;1;1;0;62;0;0
+Ze Roberto 1975;2023100107;1;1;0;20;0;0
+Aguia de Maraba 2 X 1 Fluminense;2023092917;1;1;0;1;0;0
+Arbitros;2023092516;1;1;0;26;0;0
+Arbitros;2023092602;1;1;0;2;0;0
+Arbitros;2023092618;1;1;0;16;0;0
+Arbitros;2023092622;1;1;0;11;0;0
+Arbitros;2023092623;1;1;0;18;0;0
+Arbitros;2023092701;1;1;0;4;0;0
+Arbitros;2023092709;1;1;0;8;0;0
+Arbitros;2023092712;1;1;0;23;0;0
+Arbitros;2023092801;1;1;0;7;0;0
+Arbitros;2023092802;1;1;0;0;0;0
+Arbitros;2023092810;1;1;0;12;0;0
+Arbitros;2023092813;1;1;0;15;0;0
+Arbitros;2023092911;1;1;0;18;0;0
+Arbitros;2023092914;1;1;0;5;0;0
+Arbitros;2023092915;1;1;1;23;0;0
+Arbitros;2023092918;1;1;0;13;0;0
+Arbitros;2023092923;1;1;0;22;0;0
+Arbitros;2023093001;1;1;0;4;0;0
+Arbitros;2023093009;1;1;0;13;0;0
+Arbitros;2023093011;1;1;1;58;0;0
+Arbitros;2023093020;1;1;0;8;0;0
+Edson 2016;2023100114;1;1;0;3;0;0
+Edson Souza 1987;2023092603;1;1;0;1;0;0
+Elson Pessoa;2023092523;1;1;1;54;0;0
+Elson Pessoa;2023092817;1;1;1;34;0;0
+Everton Santos 2009;2023100200;1;1;0;11;0;0
+Ezio 1995;2023092619;1;1;0;1;0;0
+Italo Del Cima;2023092523;1;1;1;73;0;0
+Italo Del Cima;2023093010;1;1;1;41;0;0
+Ultimos 100 jogos;2023092710;1;1;0;1;0;0
+Ultimos 50 jogos;2023092616;1;1;0;3;0;0
+Ultimos 50 jogos no(a) Libertadores da America;2023092718;1;1;0;0;0;0
+Ultimos 5000 jogos;2023093021;1;1;0;2;0;0
+Ultimos 51 jogos;2023092616;1;1;0;2;0;0
+Ultimos 52 jogos;2023092616;1;1;0;2;0;0
+Ultimos 53 jogos;2023092616;1;1;0;257;0;0
+Ultimos 5950 jogos;2023092804;1;1;0;0;0;0
+Ultimos 5980 jogos;2023092710;1;1;0;2;0;0
+Ultimos 5982 jogos;2023093021;1;1;0;5;0;0
+Ultimos Jogos;2023092518;1;1;0;6;0;0
+Ultimos Jogos;2023092616;1;1;0;11;0;0
+Ultimos Jogos;2023092710;1;1;0;8;0;0
+Ultimos Jogos;2023092804;1;1;0;9;0;0
+Ultimos Jogos;2023093021;1;1;0;20;0;0
+Ultimos jogos em campeonato;2023092718;1;1;0;4;0;0
+Ultimos jogos em estadio;2023092820;1;1;0;19;0;0

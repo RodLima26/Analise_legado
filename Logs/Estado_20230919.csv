@@ -1,0 +1,920 @@
+Regiao;Data;Usuarios recorrentes;Primeiras visitas;Total de usuarios;Usuarios
+Rio de Janeiro;20230915;52;48;99;97
+Rio de Janeiro;20230901;47;34;80;76
+Rio de Janeiro;20230825;40;32;72;71
+Rio de Janeiro;20230827;37;29;60;58
+Rio de Janeiro;20230826;36;42;73;73
+Rio de Janeiro;20230914;36;19;56;54
+Rio de Janeiro;20230831;35;30;61;60
+Rio de Janeiro;20230916;34;42;74;69
+Rio de Janeiro;20230819;33;29;59;56
+Rio de Janeiro;20230818;31;15;46;44
+Rio de Janeiro;20230820;31;33;66;62
+Rio de Janeiro;20230823;31;31;62;61
+Rio de Janeiro;20230830;31;31;61;60
+Rio de Janeiro;20230903;31;27;58;56
+Rio de Janeiro;20230810;30;58;83;82
+Rio de Janeiro;20230902;29;19;50;46
+Rio de Janeiro;20230807;28;33;60;57
+Rio de Janeiro;20230809;28;49;76;75
+Rio de Janeiro;20230811;28;29;58;54
+Rio de Janeiro;20230814;28;21;46;45
+Rio de Janeiro;20230821;28;23;49;46
+Rio de Janeiro;20230824;28;29;56;54
+Rio de Janeiro;20230913;28;20;48;48
+Rio de Janeiro;20230808;27;44;67;62
+Rio de Janeiro;20230813;27;45;67;67
+Rio de Janeiro;20230905;27;20;47;44
+Rio de Janeiro;20230918;27;23;51;49
+Rio de Janeiro;20230904;26;18;42;41
+Rio de Janeiro;20230911;26;9;36;34
+Rio de Janeiro;20230828;25;20;47;43
+Rio de Janeiro;20230804;23;35;49;48
+Rio de Janeiro;20230812;23;20;44;39
+Rio de Janeiro;20230817;23;18;39;38
+Rio de Janeiro;20230829;23;20;43;41
+Rio de Janeiro;20230908;23;22;45;43
+Rio de Janeiro;20230906;22;27;53;49
+Rio de Janeiro;20230806;21;36;55;53
+Rio de Janeiro;20230815;21;23;41;39
+Rio de Janeiro;20230822;21;25;45;44
+Rio de Janeiro;20230907;20;22;45;41
+Rio de Janeiro;20230910;20;14;30;30
+Rio de Janeiro;20230917;20;15;34;33
+Rio de Janeiro;20230912;19;28;50;45
+Rio de Janeiro;20230816;15;19;35;34
+Rio de Janeiro;20230805;14;41;50;49
+Rio de Janeiro;20230803;13;27;35;34
+Rio de Janeiro;20230909;11;11;24;22
+Sao Paulo;20230825;9;8;20;18
+Sao Paulo;20230811;8;15;19;19
+Sao Paulo;20230810;7;7;16;16
+Sao Paulo;20230827;7;2;9;8
+Sao Paulo;20230903;7;16;22;21
+Federal District;20230828;6;3;9;9
+Federal District;20230901;6;2;7;7
+Minas Gerais;20230826;6;1;7;7
+Minas Gerais;20230828;6;0;6;6
+Minas Gerais;20230830;6;1;6;6
+Minas Gerais;20230831;6;11;14;14
+Minas Gerais;20230901;6;5;10;10
+Sao Paulo;20230826;6;13;16;16
+Federal District;20230821;5;1;6;6
+Federal District;20230902;5;1;6;6
+Federal District;20230904;5;3;8;8
+Federal District;20230905;5;2;6;6
+Federal District;20230906;5;1;6;6
+Federal District;20230914;5;4;9;7
+Minas Gerais;20230824;5;7;12;12
+Minas Gerais;20230825;5;3;6;6
+Parana;20230902;5;2;7;7
+Sao Paulo;20230818;5;8;13;13
+Sao Paulo;20230831;5;22;28;27
+Sao Paulo;20230901;5;11;17;16
+Sao Paulo;20230902;5;5;12;10
+Sao Paulo;20230905;5;10;17;16
+Sao Paulo;20230914;5;8;12;12
+Sao Paulo;20230916;5;18;23;22
+Federal District;20230825;4;3;6;6
+Federal District;20230826;4;1;5;5
+Federal District;20230831;4;3;7;7
+Federal District;20230903;4;1;5;5
+Federal District;20230912;4;2;7;6
+Federal District;20230915;4;5;8;8
+Espirito Santo;20230903;4;2;5;5
+Goias;20230831;4;7;10;10
+Minas Gerais;20230809;4;4;8;7
+Minas Gerais;20230820;4;2;6;6
+Minas Gerais;20230823;4;3;7;7
+Minas Gerais;20230904;4;1;5;5
+Sao Paulo;20230809;4;12;15;15
+Sao Paulo;20230828;4;7;11;11
+Sao Paulo;20230907;4;5;10;9
+Sao Paulo;20230908;4;8;11;11
+Sao Paulo;20230917;4;11;15;14
+Sao Paulo;20230918;4;7;12;12
+Federal District;20230809;3;3;6;6
+Federal District;20230813;3;5;8;7
+Federal District;20230816;3;0;4;3
+Federal District;20230820;3;4;6;6
+Federal District;20230822;3;4;6;6
+Federal District;20230827;3;1;4;4
+Federal District;20230908;3;0;3;3
+Federal District;20230911;3;2;5;5
+Bahia;20230906;3;1;4;4
+Bahia;20230915;3;2;5;5
+Ceara;20230916;3;0;3;3
+Espirito Santo;20230824;3;2;5;5
+Espirito Santo;20230901;3;1;4;4
+Espirito Santo;20230912;3;2;4;4
+Minas Gerais;20230807;3;3;7;7
+Minas Gerais;20230808;3;5;8;8
+Minas Gerais;20230814;3;1;3;3
+Minas Gerais;20230821;3;1;4;4
+Minas Gerais;20230829;3;2;5;5
+Minas Gerais;20230906;3;5;8;8
+Minas Gerais;20230909;3;2;4;4
+Minas Gerais;20230911;3;2;5;5
+Rio Grande do Sul;20230810;3;2;5;5
+Santa Catarina;20230828;3;0;3;3
+Sao Paulo;20230806;3;10;13;13
+Sao Paulo;20230808;3;15;17;17
+Sao Paulo;20230816;3;6;9;9
+Sao Paulo;20230823;3;9;12;12
+Sao Paulo;20230824;3;21;25;24
+Sao Paulo;20230906;3;8;11;11
+Sao Paulo;20230909;3;4;8;8
+Sao Paulo;20230910;3;8;10;10
+Sao Paulo;20230911;3;7;10;10
+(not set);20230808;2;1;3;3
+Federal District;20230806;2;6;7;7
+Federal District;20230811;2;3;5;5
+Federal District;20230812;2;0;2;2
+Federal District;20230815;2;2;4;4
+Federal District;20230823;2;4;7;6
+Federal District;20230824;2;4;6;6
+Federal District;20230830;2;2;5;4
+Federal District;20230907;2;1;3;3
+Federal District;20230910;2;0;2;2
+Federal District;20230918;2;4;6;6
+Lisbon;20230809;2;0;2;2
+Lisbon;20230825;2;0;2;2
+Lisbon;20230828;2;0;2;2
+Ontario;20230915;2;1;3;3
+Alagoas;20230821;2;2;3;3
+Alagoas;20230829;2;0;2;2
+Alagoas;20230831;2;1;2;2
+Alagoas;20230902;2;0;2;2
+Alagoas;20230905;2;0;2;2
+Bahia;20230813;2;3;4;4
+Bahia;20230814;2;2;3;3
+Bahia;20230829;2;4;6;6
+Bahia;20230907;2;2;4;4
+Ceara;20230806;2;0;2;2
+Ceara;20230810;2;3;4;4
+Ceara;20230811;2;1;3;3
+Ceara;20230812;2;2;4;3
+Ceara;20230903;2;1;3;3
+Espirito Santo;20230809;2;2;4;4
+Espirito Santo;20230810;2;4;6;6
+Espirito Santo;20230815;2;0;2;2
+Espirito Santo;20230819;2;4;5;5
+Espirito Santo;20230820;2;2;4;4
+Espirito Santo;20230822;2;1;3;3
+Espirito Santo;20230825;2;2;4;4
+Espirito Santo;20230828;2;0;2;2
+Espirito Santo;20230906;2;0;2;2
+Espirito Santo;20230918;2;1;2;2
+Mato Grosso do Sul;20230908;2;0;2;2
+Minas Gerais;20230805;2;8;11;11
+Minas Gerais;20230811;2;2;6;4
+Minas Gerais;20230817;2;1;4;3
+Minas Gerais;20230819;2;5;6;6
+Minas Gerais;20230822;2;4;6;6
+Minas Gerais;20230827;2;5;7;7
+Minas Gerais;20230903;2;2;4;4
+Minas Gerais;20230905;2;3;5;5
+Minas Gerais;20230908;2;2;5;5
+Minas Gerais;20230912;2;1;3;3
+Minas Gerais;20230914;2;4;6;6
+Minas Gerais;20230915;2;7;7;7
+Minas Gerais;20230916;2;3;5;4
+Para;20230809;2;0;2;2
+Para;20230825;2;1;3;3
+Paraiba;20230804;2;2;3;3
+Paraiba;20230825;2;0;2;2
+Parana;20230829;2;4;5;5
+Parana;20230830;2;5;6;6
+Parana;20230831;2;4;6;5
+Parana;20230903;2;1;3;3
+Parana;20230905;2;1;3;3
+Parana;20230913;2;1;3;3
+Parana;20230917;2;1;3;3
+Piaui;20230827;2;0;2;2
+Rio Grande do Sul;20230807;2;4;7;7
+Rio Grande do Sul;20230824;2;1;4;4
+Rio Grande do Sul;20230826;2;3;5;5
+Rio Grande do Sul;20230827;2;0;2;2
+Rio Grande do Sul;20230904;2;2;4;4
+Rio Grande do Sul;20230905;2;2;4;4
+Rio Grande do Sul;20230912;2;0;2;2
+Santa Catarina;20230805;2;2;3;3
+Santa Catarina;20230811;2;1;3;3
+Santa Catarina;20230813;2;1;3;3
+Santa Catarina;20230825;2;3;4;4
+Santa Catarina;20230918;2;0;2;2
+Sao Paulo;20230803;2;8;8;8
+Sao Paulo;20230804;2;7;9;8
+Sao Paulo;20230805;2;14;17;16
+Sao Paulo;20230807;2;6;8;8
+Sao Paulo;20230815;2;5;7;7
+Sao Paulo;20230817;2;6;7;7
+Sao Paulo;20230819;2;6;9;8
+Sao Paulo;20230820;2;11;12;12
+Sao Paulo;20230821;2;6;7;7
+Sao Paulo;20230822;2;15;18;16
+Sao Paulo;20230904;2;4;6;6
+Sao Paulo;20230913;2;6;9;8
+Sao Paulo;20230915;2;18;20;20
+Ulyanovsk Oblast;20230807;2;0;2;2
+(not set);20230807;1;1;3;3
+(not set);20230809;1;2;3;3
+(not set);20230810;1;0;2;2
+(not set);20230819;1;1;1;1
+(not set);20230824;1;0;1;1
+(not set);20230828;1;1;2;2
+(not set);20230830;1;2;2;2
+(not set);20230901;1;0;1;1
+(not set);20230904;1;0;1;1
+(not set);20230909;1;0;1;1
+(not set);20230911;1;2;3;3
+Alberta;20230831;1;0;1;1
+Bavaria;20230828;1;0;1;1
+Buenos Aires;20230915;1;1;1;1
+Central Department;20230831;1;0;1;1
+Cordoba;20230822;1;0;1;1
+Emilia-Romagna;20230805;1;0;1;1
+Emilia-Romagna;20230819;1;0;1;1
+Emilia-Romagna;20230826;1;0;1;1
+England;20230914;1;1;1;1
+England;20230915;1;2;2;2
+England;20230918;1;1;1;1
+Federal District;20230803;1;2;2;2
+Federal District;20230804;1;3;3;3
+Federal District;20230807;1;5;7;6
+Federal District;20230808;1;6;7;7
+Federal District;20230810;1;7;8;8
+Federal District;20230814;1;2;3;3
+Federal District;20230818;1;3;3;3
+Federal District;20230819;1;5;6;5
+Federal District;20230829;1;3;4;4
+Federal District;20230909;1;1;2;2
+Federal District;20230913;1;1;2;2
+Federal District;20230917;1;0;2;1
+Georgia;20230827;1;0;1;1
+Ile-de-France;20230917;1;0;1;1
+Lazio;20230908;1;0;1;1
+Lisbon;20230807;1;0;1;1
+Lisbon;20230813;1;0;1;1
+Lisbon;20230817;1;1;1;1
+Lisbon;20230819;1;0;2;1
+Lisbon;20230823;1;0;1;1
+Lisbon;20230824;1;0;1;1
+Lisbon;20230901;1;0;1;1
+Lisbon;20230911;1;0;1;1
+Lombardy;20230806;1;1;1;1
+Lombardy;20230828;1;0;1;1
+Lombardy;20230908;1;0;1;1
+Lombardy;20230911;1;0;1;1
+Lombardy;20230917;1;0;1;1
+Massachusetts;20230823;1;1;1;1
+Massachusetts;20230825;1;0;1;1
+Massachusetts;20230827;1;0;1;1
+Massachusetts;20230901;1;0;1;1
+Massachusetts;20230902;1;0;1;1
+Massachusetts;20230903;1;0;1;1
+Massachusetts;20230904;1;0;1;1
+Massachusetts;20230905;1;0;1;1
+Massachusetts;20230908;1;0;1;1
+Massachusetts;20230913;1;0;1;1
+Massachusetts;20230917;1;0;1;1
+Mexico City;20230824;1;0;1;1
+New York;20230916;1;1;1;1
+North Sumatra;20230828;1;0;1;1
+Nouvelle-Aquitaine;20230825;1;1;1;1
+Nouvelle-Aquitaine;20230908;1;1;1;1
+Nouvelle-Aquitaine;20230910;1;1;1;1
+Ontario;20230908;1;1;1;1
+Ontario;20230914;1;0;1;1
+Pichincha;20230904;1;1;1;1
+Porto District;20230816;1;0;1;1
+Porto District;20230904;1;1;1;1
+Porto District;20230906;1;1;2;2
+Porto District;20230907;1;0;1;1
+Porto District;20230908;1;0;1;1
+Porto District;20230914;1;0;1;1
+Republic of Bashkortostan;20230806;1;0;1;1
+Republic of Bashkortostan;20230807;1;0;1;1
+Santa Cruz Province;20230808;1;1;1;1
+Sardinia;20230908;1;0;1;1
+Acre;20230821;1;1;1;1
+Alagoas;20230812;1;1;1;1
+Alagoas;20230815;1;0;1;1
+Alagoas;20230816;1;0;1;1
+Alagoas;20230817;1;0;1;1
+Alagoas;20230818;1;0;1;1
+Alagoas;20230819;1;0;1;1
+Alagoas;20230820;1;0;1;1
+Alagoas;20230823;1;0;1;1
+Alagoas;20230825;1;0;1;1
+Alagoas;20230826;1;0;1;1
+Alagoas;20230830;1;0;1;1
+Alagoas;20230901;1;0;1;1
+Alagoas;20230903;1;1;2;2
+Alagoas;20230904;1;0;1;1
+Alagoas;20230907;1;1;2;2
+Alagoas;20230911;1;2;3;3
+Alagoas;20230912;1;0;1;1
+Amazonas;20230817;1;1;1;1
+Amazonas;20230825;1;1;1;1
+Amazonas;20230831;1;2;3;3
+Amazonas;20230903;1;1;1;1
+Amazonas;20230904;1;0;2;2
+Amazonas;20230912;1;1;3;3
+Amazonas;20230913;1;1;3;3
+Bahia;20230803;1;4;4;4
+Bahia;20230804;1;3;3;3
+Bahia;20230806;1;1;2;2
+Bahia;20230807;1;1;2;2
+Bahia;20230808;1;1;2;2
+Bahia;20230810;1;3;4;4
+Bahia;20230811;1;1;2;2
+Bahia;20230817;1;1;2;2
+Bahia;20230818;1;0;1;1
+Bahia;20230819;1;3;4;4
+Bahia;20230822;1;2;3;3
+Bahia;20230823;1;2;3;3
+Bahia;20230824;1;2;3;3
+Bahia;20230825;1;0;1;1
+Bahia;20230826;1;1;2;2
+Bahia;20230828;1;1;2;2
+Bahia;20230831;1;0;2;1
+Bahia;20230901;1;0;1;1
+Bahia;20230909;1;1;2;2
+Bahia;20230910;1;0;1;1
+Bahia;20230911;1;0;1;1
+Bahia;20230912;1;1;2;2
+Bahia;20230913;1;2;3;3
+Ceara;20230803;1;2;2;2
+Ceara;20230805;1;3;4;4
+Ceara;20230807;1;0;1;1
+Ceara;20230808;1;1;2;2
+Ceara;20230809;1;1;2;2
+Ceara;20230814;1;0;1;1
+Ceara;20230815;1;0;3;1
+Ceara;20230816;1;1;2;2
+Ceara;20230819;1;0;1;1
+Ceara;20230824;1;0;1;1
+Ceara;20230828;1;2;3;3
+Ceara;20230831;1;3;4;4
+Ceara;20230901;1;1;2;2
+Ceara;20230902;1;1;2;2
+Ceara;20230905;1;1;2;2
+Ceara;20230906;1;0;1;1
+Ceara;20230907;1;2;4;4
+Ceara;20230910;1;1;2;2
+Ceara;20230915;1;0;1;1
+Espirito Santo;20230806;1;0;1;1
+Espirito Santo;20230807;1;1;2;2
+Espirito Santo;20230811;1;1;2;2
+Espirito Santo;20230812;1;0;1;1
+Espirito Santo;20230813;1;0;1;1
+Espirito Santo;20230817;1;0;1;1
+Espirito Santo;20230821;1;1;2;2
+Espirito Santo;20230823;1;1;2;2
+Espirito Santo;20230826;1;3;4;4
+Espirito Santo;20230827;1;1;2;2
+Espirito Santo;20230829;1;0;1;1
+Espirito Santo;20230830;1;1;2;2
+Espirito Santo;20230831;1;2;3;3
+Espirito Santo;20230902;1;1;2;2
+Espirito Santo;20230904;1;1;2;2
+Espirito Santo;20230905;1;0;1;1
+Espirito Santo;20230915;1;3;3;3
+Espirito Santo;20230916;1;4;5;5
+Espirito Santo;20230917;1;0;2;1
+Goias;20230804;1;2;3;3
+Goias;20230810;1;0;1;1
+Goias;20230811;1;1;2;2
+Goias;20230813;1;0;1;1
+Goias;20230815;1;0;2;1
+Goias;20230817;1;1;2;2
+Goias;20230819;1;3;3;3
+Goias;20230820;1;0;1;1
+Goias;20230823;1;0;1;1
+Goias;20230826;1;0;1;1
+Goias;20230901;1;1;2;2
+Goias;20230902;1;1;2;2
+Goias;20230903;1;1;3;3
+Goias;20230904;1;1;2;2
+Goias;20230907;1;0;1;1
+Goias;20230911;1;0;1;1
+Goias;20230915;1;0;2;1
+Mato Grosso;20230907;1;1;1;1
+Mato Grosso;20230912;1;2;2;2
+Mato Grosso;20230913;1;1;2;2
+Mato Grosso do Sul;20230808;1;0;1;1
+Mato Grosso do Sul;20230811;1;0;1;1
+Mato Grosso do Sul;20230824;1;0;1;1
+Mato Grosso do Sul;20230826;1;0;1;1
+Mato Grosso do Sul;20230827;1;0;1;1
+Mato Grosso do Sul;20230830;1;0;1;1
+Mato Grosso do Sul;20230831;1;0;1;1
+Mato Grosso do Sul;20230902;1;0;1;1
+Mato Grosso do Sul;20230906;1;0;1;1
+Mato Grosso do Sul;20230911;1;0;1;1
+Mato Grosso do Sul;20230914;1;0;1;1
+Mato Grosso do Sul;20230915;1;0;1;1
+Mato Grosso do Sul;20230916;1;1;2;2
+Mato Grosso do Sul;20230917;1;0;1;1
+Minas Gerais;20230804;1;6;6;6
+Minas Gerais;20230815;1;3;4;4
+Minas Gerais;20230816;1;2;3;3
+Minas Gerais;20230818;1;3;4;4
+Minas Gerais;20230902;1;1;2;2
+Minas Gerais;20230913;1;0;2;2
+Minas Gerais;20230917;1;2;3;3
+Para;20230804;1;1;2;2
+Para;20230805;1;2;2;2
+Para;20230807;1;1;2;2
+Para;20230810;1;0;1;1
+Para;20230811;1;0;1;1
+Para;20230822;1;0;1;1
+Para;20230823;1;1;2;2
+Para;20230824;1;1;2;2
+Para;20230826;1;0;1;1
+Para;20230828;1;0;1;1
+Para;20230901;1;2;3;3
+Para;20230902;1;0;1;1
+Para;20230904;1;1;2;2
+Para;20230905;1;0;1;1
+Para;20230906;1;0;1;1
+Para;20230908;1;3;4;4
+Para;20230913;1;0;1;1
+Para;20230915;1;1;2;2
+Para;20230916;1;2;3;3
+Para;20230918;1;2;3;3
+Paraiba;20230817;1;0;1;1
+Paraiba;20230824;1;0;1;1
+Paraiba;20230828;1;0;1;1
+Paraiba;20230830;1;1;2;2
+Paraiba;20230903;1;0;1;1
+Paraiba;20230916;1;0;1;1
+Paraiba;20230918;1;1;1;1
+Parana;20230806;1;2;3;3
+Parana;20230807;1;2;4;4
+Parana;20230810;1;2;2;2
+Parana;20230814;1;0;1;1
+Parana;20230821;1;5;6;6
+Parana;20230825;1;1;2;2
+Parana;20230826;1;1;2;2
+Parana;20230827;1;3;4;4
+Parana;20230828;1;2;3;3
+Parana;20230907;1;0;1;1
+Parana;20230909;1;0;2;2
+Parana;20230910;1;2;3;3
+Parana;20230915;1;2;3;3
+Pernambuco;20230824;1;1;2;2
+Pernambuco;20230828;1;0;1;1
+Pernambuco;20230829;1;1;1;1
+Pernambuco;20230912;1;0;1;1
+Piaui;20230807;1;1;1;1
+Piaui;20230809;1;0;1;1
+Piaui;20230815;1;0;1;1
+Piaui;20230826;1;1;1;1
+Rio Grande do Norte;20230804;1;2;3;3
+Rio Grande do Norte;20230809;1;0;1;1
+Rio Grande do Norte;20230813;1;0;1;1
+Rio Grande do Norte;20230815;1;2;2;2
+Rio Grande do Norte;20230820;1;0;1;1
+Rio Grande do Norte;20230825;1;1;2;2
+Rio Grande do Norte;20230828;1;1;1;1
+Rio Grande do Norte;20230902;1;0;1;1
+Rio Grande do Norte;20230903;1;2;3;3
+Rio Grande do Norte;20230906;1;1;2;2
+Rio Grande do Norte;20230908;1;1;2;2
+Rio Grande do Sul;20230808;1;2;4;3
+Rio Grande do Sul;20230809;1;3;5;5
+Rio Grande do Sul;20230812;1;2;3;3
+Rio Grande do Sul;20230813;1;3;5;4
+Rio Grande do Sul;20230816;1;3;3;3
+Rio Grande do Sul;20230819;1;2;3;3
+Rio Grande do Sul;20230823;1;1;2;2
+Rio Grande do Sul;20230829;1;3;4;4
+Rio Grande do Sul;20230831;1;4;5;5
+Rio Grande do Sul;20230902;1;2;4;4
+Rio Grande do Sul;20230903;1;1;2;2
+Rio Grande do Sul;20230913;1;1;2;2
+Santa Catarina;20230816;1;2;3;3
+Santa Catarina;20230819;1;1;2;2
+Santa Catarina;20230820;1;0;1;1
+Santa Catarina;20230822;1;4;4;4
+Santa Catarina;20230823;1;1;1;1
+Santa Catarina;20230824;1;1;2;2
+Santa Catarina;20230829;1;2;3;3
+Santa Catarina;20230901;1;0;1;1
+Santa Catarina;20230904;1;1;1;1
+Santa Catarina;20230906;1;0;1;1
+Santa Catarina;20230907;1;1;3;3
+Santa Catarina;20230909;1;1;1;1
+Santa Catarina;20230916;1;0;1;1
+Sao Paulo;20230813;1;5;6;6
+Sao Paulo;20230830;1;9;11;11
+Sao Paulo;20230912;1;6;7;7
+Tocantins;20230810;1;0;2;1
+Tocantins;20230826;1;0;1;1
+Ulyanovsk Oblast;20230803;1;1;2;2
+Ulyanovsk Oblast;20230805;1;0;1;1
+Ulyanovsk Oblast;20230806;1;0;1;1
+Ulyanovsk Oblast;20230810;1;0;1;1
+Ulyanovsk Oblast;20230811;1;0;1;1
+Ulyanovsk Oblast;20230812;1;0;1;1
+Ulyanovsk Oblast;20230813;1;0;1;1
+Ulyanovsk Oblast;20230814;1;0;1;1
+Ulyanovsk Oblast;20230821;1;0;1;1
+Ulyanovsk Oblast;20230825;1;0;1;1
+Ulyanovsk Oblast;20230830;1;0;1;1
+Ulyanovsk Oblast;20230901;1;0;1;1
+Ulyanovsk Oblast;20230907;1;0;1;1
+Ulyanovsk Oblast;20230908;1;0;1;1
+Ulyanovsk Oblast;20230909;1;0;1;1
+Ulyanovsk Oblast;20230910;1;0;1;1
+Ulyanovsk Oblast;20230911;1;0;1;1
+Ulyanovsk Oblast;20230913;1;0;1;1
+Ulyanovsk Oblast;20230914;1;0;1;1
+West Virginia;20230807;1;0;1;1
+(not set);20230806;0;2;2;2
+(not set);20230811;0;1;1;1
+(not set);20230812;0;3;3;3
+(not set);20230814;0;2;2;2
+(not set);20230815;0;1;1;1
+(not set);20230817;0;1;1;1
+(not set);20230818;0;1;1;1
+(not set);20230822;0;1;1;1
+(not set);20230825;0;1;1;1
+(not set);20230826;0;6;6;6
+(not set);20230829;0;1;1;1
+(not set);20230831;0;1;1;1
+(not set);20230903;0;1;1;1
+(not set);20230905;0;1;1;1
+(not set);20230912;0;3;3;3
+(not set);20230913;0;4;4;4
+(not set);20230915;0;3;3;3
+(not set);20230916;0;3;3;3
+(not set);20230917;0;1;1;1
+(not set);20230918;0;1;1;1
+Andalusia;20230815;0;1;1;1
+Auckland;20230915;0;1;1;1
+Baden-Wurttemberg;20230905;0;1;1;1
+Bavaria;20230826;0;1;1;1
+Bekes County;20230902;0;0;1;1
+Braga;20230829;0;1;1;1
+Braga;20230901;0;1;1;1
+Brest Region;20230803;0;1;1;1
+British Columbia;20230810;0;1;1;1
+Buenos Aires;20230904;0;1;1;1
+California;20230808;0;1;1;1
+California;20230915;0;1;1;1
+California;20230918;0;1;1;1
+Campania;20230826;0;1;1;1
+Central Department;20230915;0;1;1;1
+Centre-Val de Loire;20230819;0;1;1;1
+Chelyabinsk Oblast;20230906;0;1;1;1
+Community of Madrid;20230827;0;1;1;1
+Cordoba;20230820;0;1;1;1
+Corrientes;20230805;0;0;1;1
+County Dublin;20230831;0;1;1;1
+Emilia-Romagna;20230803;0;1;1;1
+England;20230820;0;1;1;1
+England;20230827;0;1;1;1
+England;20230917;0;1;1;1
+Federal District;20230805;0;1;1;1
+Federal District;20230817;0;4;4;4
+Federal District;20230916;0;0;1;0
+Florida;20230820;0;1;1;1
+Florida;20230826;0;0;1;1
+Florida;20230913;0;1;1;1
+Florida;20230918;0;1;1;1
+Georgia;20230807;0;1;1;1
+Georgia;20230808;0;1;1;1
+Georgia;20230826;0;1;1;1
+Georgia;20230912;0;1;1;1
+Hamburg;20230809;0;1;1;1
+Hessen;20230902;0;1;1;1
+Ile-de-France;20230806;0;1;1;1
+Ile-de-France;20230827;0;1;1;1
+Ile-de-France;20230918;0;1;1;1
+Indiana;20230916;0;1;1;1
+Klaipeda County;20230806;0;1;1;1
+Kurgan Oblast;20230916;0;1;1;1
+Kyiv Oblast;20230910;0;1;1;1
+Lazio;20230821;0;1;1;1
+Lazio;20230827;0;1;1;1
+Lisbon;20230804;0;1;1;1
+Lisbon;20230805;0;1;1;1
+Lisbon;20230826;0;1;1;1
+Lisbon;20230829;0;0;1;0
+Lombardy;20230807;0;1;1;1
+Lombardy;20230810;0;1;1;1
+Lombardy;20230813;0;1;1;1
+Lombardy;20230817;0;1;1;1
+Lombardy;20230821;0;1;1;1
+Lombardy;20230901;0;1;1;1
+Lombardy;20230906;0;1;1;1
+Luanda Province;20230830;0;1;1;1
+Luanda Province;20230903;0;1;1;1
+Madeira;20230909;0;1;1;1
+Madrid;20230822;0;1;1;1
+Maine;20230829;0;1;1;1
+Mexico City;20230810;0;1;1;1
+Mexico City;20230819;0;1;1;1
+New York;20230820;0;1;1;1
+New York;20230908;0;1;1;1
+Newfoundland and Labrador;20230912;0;1;1;1
+Nizhny Novgorod Oblast;20230826;0;1;1;1
+Norrbotten County;20230827;0;1;1;1
+North Carolina;20230827;0;1;1;1
+North Carolina;20230901;0;1;1;1
+North Holland;20230903;0;1;1;1
+North Sumatra;20230803;0;1;1;1
+North Sumatra;20230817;0;0;1;0
+North Sumatra;20230819;0;0;1;0
+Nouvelle-Aquitaine;20230805;0;1;1;1
+Nouvelle-Aquitaine;20230824;0;1;1;1
+Nouvelle-Aquitaine;20230826;0;1;1;1
+Nouvelle-Aquitaine;20230831;0;1;1;1
+Nouvelle-Aquitaine;20230903;0;1;1;1
+Nouvelle-Aquitaine;20230906;0;1;1;1
+Nouvelle-Aquitaine;20230912;0;1;1;1
+Nouvelle-Aquitaine;20230917;0;1;1;1
+Ohio;20230824;0;2;2;2
+Ontario;20230803;0;1;1;1
+Ontario;20230805;0;1;1;1
+Ontario;20230808;0;2;2;2
+Ontario;20230813;0;1;1;1
+Ontario;20230909;0;1;1;1
+Ontario;20230912;0;1;1;1
+Porto District;20230804;0;1;1;1
+Porto District;20230811;0;1;1;1
+Porto District;20230825;0;1;1;1
+Puebla;20230803;0;1;1;1
+Quebec;20230817;0;1;1;1
+Region of Murcia;20230805;0;1;1;1
+Republic of Tatarstan;20230803;0;0;1;1
+Riga;20230824;0;1;1;1
+Saitama;20230818;0;1;1;1
+San Juan Province;20230805;0;1;1;1
+San Salvador Department;20230810;0;1;1;1
+Sofala Province;20230810;0;1;1;1
+Acre;20230808;0;1;1;1
+Acre;20230824;0;1;1;1
+Acre;20230913;0;1;1;1
+Alagoas;20230811;0;0;1;0
+Alagoas;20230814;0;1;1;1
+Alagoas;20230906;0;1;1;1
+Amapa;20230813;0;1;1;1
+Amapa;20230824;0;1;1;1
+Amazonas;20230805;0;1;1;1
+Amazonas;20230806;0;2;2;2
+Amazonas;20230808;0;2;2;2
+Amazonas;20230809;0;1;1;1
+Amazonas;20230810;0;1;1;1
+Amazonas;20230811;0;2;2;2
+Amazonas;20230815;0;1;1;1
+Amazonas;20230820;0;2;2;2
+Amazonas;20230823;0;1;2;2
+Amazonas;20230824;0;2;2;2
+Amazonas;20230828;0;0;1;1
+Amazonas;20230901;0;1;1;1
+Amazonas;20230902;0;1;1;1
+Amazonas;20230905;0;0;1;1
+Amazonas;20230906;0;1;3;2
+Amazonas;20230911;0;0;1;1
+Amazonas;20230914;0;1;2;2
+Amazonas;20230915;0;0;1;1
+Amazonas;20230916;0;1;1;1
+Amazonas;20230917;0;0;1;0
+Amazonas;20230918;0;1;2;2
+Bahia;20230809;0;4;5;4
+Bahia;20230812;0;2;2;2
+Bahia;20230815;0;2;2;2
+Bahia;20230820;0;1;1;1
+Bahia;20230821;0;3;3;3
+Bahia;20230827;0;1;1;1
+Bahia;20230830;0;3;3;3
+Bahia;20230902;0;2;2;2
+Bahia;20230903;0;1;1;1
+Bahia;20230908;0;0;1;1
+Bahia;20230914;0;2;2;2
+Bahia;20230916;0;4;4;4
+Bahia;20230917;0;1;1;1
+Bahia;20230918;0;3;3;3
+Ceara;20230804;0;0;1;1
+Ceara;20230813;0;1;1;1
+Ceara;20230817;0;2;2;2
+Ceara;20230820;0;2;2;2
+Ceara;20230825;0;2;2;2
+Ceara;20230829;0;1;1;1
+Ceara;20230830;0;1;1;1
+Ceara;20230904;0;0;1;0
+Ceara;20230908;0;1;1;1
+Ceara;20230914;0;1;2;1
+Ceara;20230917;0;1;1;1
+Ceara;20230918;0;1;1;1
+Espirito Santo;20230804;0;3;3;3
+Espirito Santo;20230805;0;2;2;2
+Espirito Santo;20230808;0;1;2;1
+Espirito Santo;20230814;0;3;3;3
+Espirito Santo;20230816;0;0;1;0
+Espirito Santo;20230910;0;1;1;1
+Espirito Santo;20230911;0;0;1;1
+Espirito Santo;20230914;0;2;3;3
+Goias;20230803;0;2;3;3
+Goias;20230806;0;1;1;1
+Goias;20230807;0;1;1;1
+Goias;20230809;0;3;3;3
+Goias;20230812;0;0;1;0
+Goias;20230814;0;1;1;1
+Goias;20230821;0;1;1;1
+Goias;20230822;0;2;3;2
+Goias;20230824;0;3;3;3
+Goias;20230825;0;3;3;3
+Goias;20230828;0;1;1;1
+Goias;20230830;0;1;1;1
+Goias;20230908;0;1;1;1
+Goias;20230909;0;0;1;0
+Goias;20230912;0;1;1;1
+Goias;20230913;0;0;1;0
+Goias;20230914;0;1;1;1
+Goias;20230917;0;2;2;2
+Goias;20230918;0;2;2;2
+Maranhao;20230806;0;2;2;2
+Maranhao;20230808;0;2;2;2
+Maranhao;20230820;0;1;1;1
+Maranhao;20230824;0;1;1;1
+Maranhao;20230829;0;1;1;1
+Maranhao;20230831;0;1;1;1
+Maranhao;20230907;0;1;1;1
+Maranhao;20230916;0;1;1;1
+Mato Grosso;20230805;0;1;1;1
+Mato Grosso;20230807;0;1;1;1
+Mato Grosso;20230811;0;1;1;1
+Mato Grosso;20230824;0;2;2;2
+Mato Grosso;20230827;0;1;1;1
+Mato Grosso;20230901;0;1;1;1
+Mato Grosso;20230908;0;1;1;1
+Mato Grosso;20230911;0;1;1;1
+Mato Grosso;20230915;0;1;1;1
+Mato Grosso;20230916;0;1;2;1
+Mato Grosso;20230918;0;0;1;0
+Mato Grosso do Sul;20230806;0;1;1;1
+Mato Grosso do Sul;20230809;0;0;1;0
+Mato Grosso do Sul;20230817;0;1;1;1
+Mato Grosso do Sul;20230819;0;1;1;1
+Mato Grosso do Sul;20230820;0;1;1;1
+Mato Grosso do Sul;20230822;0;1;1;1
+Mato Grosso do Sul;20230903;0;1;2;1
+Mato Grosso do Sul;20230905;0;1;1;1
+Mato Grosso do Sul;20230909;0;1;1;1
+Mato Grosso do Sul;20230912;0;1;1;1
+Minas Gerais;20230803;0;2;2;2
+Minas Gerais;20230806;0;3;3;3
+Minas Gerais;20230810;0;5;6;6
+Minas Gerais;20230812;0;3;3;3
+Minas Gerais;20230813;0;4;4;4
+Minas Gerais;20230907;0;2;4;2
+Minas Gerais;20230910;0;3;3;3
+Minas Gerais;20230918;0;1;2;1
+Para;20230803;0;2;2;2
+Para;20230808;0;1;1;1
+Para;20230812;0;1;2;1
+Para;20230814;0;1;1;1
+Para;20230818;0;1;1;1
+Para;20230827;0;1;1;1
+Para;20230831;0;0;1;0
+Para;20230909;0;1;1;1
+Para;20230911;0;1;1;1
+Para;20230912;0;2;2;2
+Para;20230914;0;2;2;2
+Para;20230917;0;1;1;1
+Paraiba;20230803;0;1;1;1
+Paraiba;20230811;0;1;1;1
+Paraiba;20230813;0;1;1;1
+Paraiba;20230815;0;2;2;2
+Paraiba;20230816;0;2;2;2
+Paraiba;20230822;0;1;1;1
+Paraiba;20230826;0;1;1;1
+Paraiba;20230831;0;2;2;2
+Parana;20230803;0;2;3;3
+Parana;20230805;0;3;3;3
+Parana;20230808;0;1;1;1
+Parana;20230809;0;1;2;2
+Parana;20230811;0;2;3;3
+Parana;20230812;0;3;4;4
+Parana;20230813;0;1;2;2
+Parana;20230815;0;2;2;2
+Parana;20230816;0;2;2;2
+Parana;20230819;0;1;1;1
+Parana;20230820;0;1;1;1
+Parana;20230822;0;2;2;2
+Parana;20230823;0;3;3;3
+Parana;20230901;0;1;1;1
+Parana;20230906;0;1;2;1
+Parana;20230912;0;3;3;3
+Parana;20230916;0;1;1;1
+Parana;20230918;0;1;1;1
+Pernambuco;20230805;0;1;1;1
+Pernambuco;20230806;0;1;1;1
+Pernambuco;20230807;0;1;1;1
+Pernambuco;20230808;0;2;2;2
+Pernambuco;20230809;0;1;1;1
+Pernambuco;20230818;0;1;1;1
+Pernambuco;20230821;0;0;1;1
+Pernambuco;20230823;0;1;1;1
+Pernambuco;20230901;0;1;1;1
+Pernambuco;20230902;0;2;2;2
+Pernambuco;20230903;0;1;1;1
+Pernambuco;20230906;0;1;1;1
+Pernambuco;20230909;0;2;2;2
+Pernambuco;20230913;0;1;1;1
+Pernambuco;20230914;0;2;2;2
+Pernambuco;20230916;0;2;2;2
+Pernambuco;20230917;0;1;1;1
+Pernambuco;20230918;0;2;3;3
+Piaui;20230803;0;2;2;2
+Piaui;20230810;0;1;1;1
+Piaui;20230818;0;1;1;1
+Piaui;20230821;0;1;1;1
+Piaui;20230828;0;1;1;1
+Piaui;20230903;0;0;1;1
+Piaui;20230916;0;2;2;2
+Piaui;20230917;0;1;1;1
+Piaui;20230918;0;1;1;1
+Rio Grande do Norte;20230805;0;1;1;1
+Rio Grande do Norte;20230807;0;1;2;1
+Rio Grande do Norte;20230808;0;1;1;1
+Rio Grande do Norte;20230810;0;1;1;1
+Rio Grande do Norte;20230819;0;1;1;1
+Rio Grande do Norte;20230823;0;1;1;1
+Rio Grande do Norte;20230824;0;2;2;2
+Rio Grande do Norte;20230831;0;2;2;2
+Rio Grande do Norte;20230905;0;1;1;1
+Rio Grande do Norte;20230907;0;3;4;4
+Rio Grande do Norte;20230911;0;1;1;1
+Rio Grande do Norte;20230914;0;1;1;1
+Rio Grande do Sul;20230803;0;0;1;1
+Rio Grande do Sul;20230805;0;1;1;1
+Rio Grande do Sul;20230806;0;1;2;2
+Rio Grande do Sul;20230815;0;2;2;2
+Rio Grande do Sul;20230818;0;1;1;1
+Rio Grande do Sul;20230820;0;1;1;1
+Rio Grande do Sul;20230821;0;1;1;1
+Rio Grande do Sul;20230822;0;1;1;1
+Rio Grande do Sul;20230828;0;1;1;1
+Rio Grande do Sul;20230901;0;3;4;3
+Rio Grande do Sul;20230907;0;1;1;1
+Rio Grande do Sul;20230908;0;4;4;4
+Rio Grande do Sul;20230909;0;2;2;2
+Rio Grande do Sul;20230910;0;2;2;2
+Rio Grande do Sul;20230914;0;2;3;3
+Rio Grande do Sul;20230915;0;1;1;1
+Rio Grande do Sul;20230916;0;2;4;4
+Rio Grande do Sul;20230917;0;1;2;2
+Rio Grande do Sul;20230918;0;1;1;1
+Rondonia;20230813;0;1;1;1
+Roraima;20230809;0;1;1;1
+Roraima;20230909;0;1;1;1
+Santa Catarina;20230804;0;3;3;3
+Santa Catarina;20230806;0;1;1;1
+Santa Catarina;20230807;0;3;3;3
+Santa Catarina;20230808;0;0;1;0
+Santa Catarina;20230809;0;1;1;1
+Santa Catarina;20230810;0;3;3;3
+Santa Catarina;20230814;0;1;1;1
+Santa Catarina;20230821;0;2;2;2
+Santa Catarina;20230826;0;1;1;1
+Santa Catarina;20230827;0;2;2;2
+Santa Catarina;20230831;0;2;2;2
+Santa Catarina;20230902;0;1;2;2
+Santa Catarina;20230903;0;2;2;2
+Santa Catarina;20230905;0;1;1;1
+Santa Catarina;20230913;0;3;3;3
+Santa Catarina;20230914;0;2;2;2
+Santa Catarina;20230915;0;2;2;2
+Santa Catarina;20230917;0;2;2;2
+Sao Paulo;20230812;0;7;9;7
+Sao Paulo;20230814;0;1;3;2
+Sao Paulo;20230829;0;5;6;6
+Sergipe;20230805;0;1;1;1
+Sergipe;20230810;0;1;1;1
+Sergipe;20230827;0;0;1;1
+Sergipe;20230828;0;1;1;1
+Sergipe;20230829;0;1;1;1
+Sergipe;20230830;0;1;1;1
+Sergipe;20230903;0;1;1;1
+Sergipe;20230907;0;0;1;0
+Sergipe;20230915;0;0;1;1
+Sergipe;20230916;0;1;1;1
+Tocantins;20230808;0;1;1;1
+Tocantins;20230825;0;1;1;1
+Tocantins;20230831;0;1;1;1
+Tocantins;20230915;0;1;1;1
+Tocantins;20230916;0;1;1;1
+Styria;20230914;0;1;1;1
+Vienna;20230901;0;1;1;1
+Viken;20230909;0;1;1;1
+Virginia;20230909;0;6;6;6
+Washington;20230809;0;1;1;1
+Washington;20230810;0;1;1;1
+Washington;20230915;0;1;1;1
+Zurich;20230803;0;1;1;1

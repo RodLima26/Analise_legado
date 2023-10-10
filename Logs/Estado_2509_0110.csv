@@ -1,0 +1,156 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20230925
+# Data de termino: 20231002
+Regiao;Data;Usuarios recorrentes;Primeiras visitas;Total de usuarios;Usuarios
+State of Rio de Janeiro;20230928;51;30;77;75
+State of Rio de Janeiro;20230929;33;18;54;51
+State of Rio de Janeiro;20230926;32;20;53;52
+State of Rio de Janeiro;20230927;31;28;61;58
+State of Rio de Janeiro;20230925;29;24;50;48
+State of Rio de Janeiro;20230930;27;19;47;44
+State of Rio de Janeiro;20231001;20;16;37;33
+Federal District;20230927;6;2;8;8
+Federal District;20230928;6;1;7;7
+State of Rio de Janeiro;20231002;5;2;7;7
+State of Sao Paulo;20230926;5;7;12;12
+State of Sao Paulo;20230927;5;20;25;25
+State of Sao Paulo;20230928;5;9;15;14
+State of Sao Paulo;20230930;5;10;14;14
+Federal District;20230926;4;5;9;9
+Federal District;20230930;4;0;4;4
+State of Espirito Santo;20230930;4;1;5;5
+State of Alagoas;20230928;3;0;3;3
+State of Alagoas;20230930;3;0;3;3
+State of Minas Gerais;20230925;3;1;4;4
+State of Minas Gerais;20230928;3;4;7;7
+State of Minas Gerais;20231001;3;1;4;4
+State of Sao Paulo;20230925;3;7;10;10
+State of Sao Paulo;20230929;3;6;10;9
+State of Sao Paulo;20231001;3;7;10;10
+Federal District;20230925;2;2;4;4
+Federal District;20230929;2;1;5;3
+State of Espirito Santo;20230927;2;5;6;6
+State of Espirito Santo;20230929;2;4;6;6
+State of Goias;20230928;2;0;2;2
+State of Minas Gerais;20230927;2;9;12;12
+State of Minas Gerais;20230929;2;0;3;3
+State of Minas Gerais;20230930;2;2;4;4
+Georgia;20230926;1;0;1;1
+Ile-de-France;20230926;1;0;1;1
+Kyiv Oblast;20230926;1;0;1;1
+Lisbon;20230928;1;0;1;1
+Massachusetts;20230929;1;0;1;1
+Mexico City;20230926;1;0;1;1
+Nouvelle-Aquitaine;20230926;1;1;1;1
+Ontario;20230930;1;0;1;1
+State of Acre;20230927;1;1;1;1
+State of Acre;20230929;1;0;1;1
+State of Alagoas;20230925;1;0;1;1
+State of Alagoas;20230926;1;0;1;1
+State of Alagoas;20230927;1;1;2;2
+State of Alagoas;20230929;1;0;1;1
+State of Ceara;20230926;1;3;4;3
+State of Ceara;20230928;1;1;2;2
+State of Espirito Santo;20230925;1;3;3;3
+State of Espirito Santo;20230926;1;1;2;2
+State of Espirito Santo;20230928;1;0;1;1
+State of Espirito Santo;20231001;1;1;2;2
+State of Goias;20230927;1;1;3;3
+State of Goias;20230929;1;3;5;4
+State of Goias;20230930;1;2;4;3
+State of Goias;20231001;1;1;2;2
+State of Mato Grosso;20230926;1;1;1;1
+State of Mato Grosso do Sul;20230927;1;0;1;1
+State of Mato Grosso do Sul;20230928;1;0;1;1
+State of Minas Gerais;20230926;1;1;2;2
+State of Para;20230927;1;3;4;4
+State of Para;20230929;1;1;2;2
+State of Para;20231001;1;1;2;2
+State of Paraiba;20230927;1;0;2;1
+State of Parana;20231001;1;0;1;1
+State of Piaui;20231001;1;0;1;1
+State of Rio Grande do Norte;20230927;1;1;2;2
+State of Rio Grande do Norte;20230928;1;1;2;2
+State of Rio Grande do Sul;20230926;1;0;2;2
+State of Rio Grande do Sul;20230927;1;6;7;7
+State of Rio Grande do Sul;20231001;1;2;3;3
+State of Rio Grande do Sul;20231002;1;0;1;1
+State of Santa Catarina;20230925;1;2;2;2
+State of Santa Catarina;20230927;1;1;2;2
+Texas;20230926;1;1;1;1
+Ulyanovsk Oblast;20230930;1;0;1;1
+Ulyanovsk Oblast;20231001;1;0;1;1
+(not set);20230926;0;1;1;1
+(not set);20230930;0;5;5;5
+Buenos Aires;20230925;0;1;1;1
+Buenos Aires;20230926;0;1;1;1
+Buenos Aires Province;20230930;0;1;1;1
+Campania;20230928;0;1;1;1
+Cordoba;20230927;0;1;1;1
+Federal District;20231001;0;1;1;1
+Galicia;20230926;0;1;1;1
+Michigan;20230929;0;0;1;1
+New York;20230930;0;1;1;1
+North Denmark Region;20230929;0;1;1;1
+North Sumatra;20230927;0;1;1;1
+North Sumatra;20230930;0;0;1;1
+Ohio;20230925;0;1;1;1
+Porto District;20230925;0;1;1;1
+Quebec;20230930;0;1;1;1
+Sardinia;20230928;0;1;1;1
+Setubal;20230927;0;1;1;1
+Setubal;20230929;0;1;1;1
+State of Amapa;20230927;0;1;1;1
+State of Amazonas;20230925;0;1;1;1
+State of Amazonas;20230926;0;1;2;2
+State of Amazonas;20230927;0;2;2;2
+State of Amazonas;20230929;0;1;1;1
+State of Amazonas;20231001;0;2;2;2
+State of Bahia;20230926;0;1;1;1
+State of Bahia;20230927;0;4;4;4
+State of Bahia;20230930;0;3;3;3
+State of Bahia;20231001;0;1;1;1
+State of Ceara;20230927;0;1;1;1
+State of Ceara;20230929;0;1;1;1
+State of Ceara;20230930;0;1;1;1
+State of Ceara;20231001;0;3;3;3
+State of Goias;20230926;0;1;1;1
+State of Maranhao;20230926;0;1;1;1
+State of Maranhao;20230927;0;0;1;0
+State of Mato Grosso;20230927;0;1;1;1
+State of Mato Grosso;20230928;0;1;1;1
+State of Mato Grosso;20230930;0;2;2;2
+State of Mato Grosso;20231001;0;2;2;2
+State of Para;20230925;0;0;1;1
+State of Para;20230928;0;2;2;2
+State of Paraiba;20231001;0;1;1;1
+State of Parana;20230925;0;0;1;1
+State of Parana;20230926;0;0;1;1
+State of Parana;20230927;0;1;1;1
+State of Parana;20230928;0;2;3;2
+State of Parana;20230929;0;1;1;1
+State of Pernambuco;20230926;0;1;1;1
+State of Pernambuco;20230928;0;1;1;1
+State of Pernambuco;20230930;0;1;2;2
+State of Pernambuco;20231001;0;1;1;1
+State of Rio Grande do Sul;20230925;0;1;1;1
+State of Rio Grande do Sul;20230928;0;3;3;3
+State of Rio Grande do Sul;20230929;0;4;4;4
+State of Rio Grande do Sul;20230930;0;3;4;3
+State of Rondonia;20230927;0;1;1;1
+State of Santa Catarina;20230926;0;1;1;1
+State of Santa Catarina;20230928;0;3;3;3
+State of Santa Catarina;20230929;0;2;2;2
+State of Santa Catarina;20231001;0;1;1;1
+State of Sao Paulo;20231002;0;1;1;0
+State of Tocantins;20230927;0;0;1;1
+Texas;20231001;0;1;1;1
+Vila Real District;20230927;0;1;1;1
+Washington;20230927;0;1;1;1
+West Virginia;20230929;0;1;1;1
