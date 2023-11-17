@@ -1,0 +1,571 @@
+,Perguntas,Consulta,Grupo,Subgrupo,Codigo,Pagina,Pagina2,Visualizacao,Usuario
+0,0,Inicial,Inicial,Inicial,NAO,Inicial,,0,0
+1,0,Especial,Especial,Especial,NAO,especial,,0,0
+2,2,Adversário,Adversario,Adversario,NAO,adversario,mostra_adversario,2044,1693
+3,3,Árbitro,Arbitro,Arbitro,NAO,arbitro,mostra_arbitro,566,464
+4,4,Estádio,Estadio,Estadio,NAO,estadio,mostra_estadio,341,303
+5,5,Campeonato,Campeonato,Campeonato,NAO,campeonato,mostra_campeonato,658,570
+6,6,Jogador,Jogador,Jogador,NAO,jogador,mostra_jogador,1912,1517
+7,7,Técnico,Tecnico,Tecnico,NAO,tecnico,mostra_tecnico,598,557
+8,8,Jogo,Jogo,Jogo,NAO,jogo,mostra_jogo,1031,742
+9,9,Geral,Geral,Geral,NAO,geral,,575,519
+10,10,Curiosidades,Curiosidades,Curiosidades,NAO,curiosidade,,327,306
+11,11,Contato,Contato,Contato,NAO,contato,fale_conosco,56,52
+12,12,Créditos,Creditos,Creditos,NAO,credito,,58,54
+13,14,Camisa,Camisa,Camisa,NAO,camisa,,0,0
+14,15,Todas as Camisas,Camisa,Camisa,400000000,todas_camisas,mostra_camisa,153,129
+15,16,Camisa ano a ano,Camisa,Camisa,400001000,consulta_camisa,mostra_camisa,50,49
+16,17,Camisa em Clássico,Camisa,Adversario,400345000,consulta_camisa,mostra_camisa,14,14
+17,18,Camisa em campeonato,Camisa,Campeonato,400103000,consulta_camisa,mostra_camisa,14,14
+18,19,Camisa em estádio,Camisa,Estadio,400102000,consulta_camisa,mostra_camisa,3,3
+19,20,Camisa contra adversário,Camisa,Adversario,400100000,consulta_camisa,mostra_camisa,9,9
+20,21,Camisa por ano,Camisa,Camisa,400106000,consulta_camisa,mostra_camisa,19,19
+21,22,Camisa e jogador,Camisa,Jogador,400104000,consulta_camisa,mostra_camisa,14,14
+22,23,Sequência de camisa,Camisa,Sequência,400300000,consulta_camisa,mostra_sequencia2,18,18
+23,24,Frequência de placar por camisa,Camisa,Frequência,400500000,consulta_camisa,resultado_camisa,13,13
+24,25,Aproveitamento de pontos por camisa,Camisa,Camisa,400600000,mostra_camisa2,,20,20
+25,26,Camisa por tipo,Camisa,Camisa,400201000,consulta_camisa,mostra_camisa,13,13
+26,27,Camisa por fornecedor,Camisa,Camisa,400125000,consulta_fornecedor,mostra_fornecedor,13,13
+27,28,Patrocínio,Camisa,Camisa,400130000,consulta_patrocinio,mostra.patrocinio,17,15
+28,29,Grafico,Gráfico,Gráfico,NAO,consulta_grafico,,0,0
+29,30,Artilheiros,,,NAO,,,0,0
+30,31,Maiores Artilheiros,Gráfico,Artilheiros,500,grafico_artilheiro,,92,89
+31,32,Maiores Artilheiros contra adversário,Gráfico,Artilheiros,200,grafico_adversario,,32,30
+32,33,Maiores Artilheiros em estádio,Gráfico,Artilheiros,202,grafico_estadio,,17,16
+33,34,Maiores Artilheiros em campeonato,Gráfico,Artilheiros,203,grafico_campeonato,,36,30
+34,35,Maiores Artilheiros por ano,Gráfico,Artilheiros,515,grafico_artilheiro,,21,20
+35,36,Maiores Artilheiros anuais,Gráfico,Artilheiros,510,grafico_artilheiro,,13,13
+36,37,Principais Artilheiros ano a ano,Gráfico,Artilheiros,512,grafico_artilheiro,,16,16
+37,38,Mais vezes Artilheiros anuais,Gráfico,Artilheiros,511,grafico_artilheiro,,11,11
+38,39,Maior Artilheiro em 1 campeonato,Gráfico,Artilheiros,517,grafico_campeonato,,20,19
+39,40,Artilheiro - adversario - campeonato - estádio,Gráfico,Artilheiros,169,grafico_adversario,,4,4
+40,41,Artilheiro contra adversario em campeonato,Gráfico,Artilheiros,160,grafico_adversario,,3,2
+41,42,Artilheiro em estádio em campeonato,Gráfico,Artilheiros,162,grafico_estadio,,3,3
+42,43,Artilheiros Século XX,Gráfico,Artilheiros,561,grafico_artilheiro,,12,12
+43,44,Artilheiros Século XXI,Gráfico,Artilheiros,562,grafico_artilheiro,,34,33
+44,45,Artilheiros Jogos Oficiais,Gráfico,Artilheiros,563,grafico_artilheiro,,14,14
+45,46,Artilharia Média,Gráfico,Artilheiros,606,grafico_artilheiro,,14,14
+46,47,Wordcloud Artilheiros,Gráfico,Artilheiros,607,grafico_artilheiro,,0,0
+47,48,Multilinha Artilheiros por ano,Gráfico,Artilheiros,608,grafico_artilheiro,,7,7
+48,49,Multilinha Combinado de artilheiros por ano,Gráfico,Artilheiros,628,grafico_artilheiro,,0,0
+49,51,Assistências Relações,Gráfico,Assistencia,598,grafico_assistencia,,11,11
+50,52,Assistências Conexões,Gráfico,Assistencia,599,grafico_assistencia,,6,6
+51,53,Melhores Duplas,Gráfico,Assistencia,601,grafico_assistencia,,11,11
+52,54,Melhores Duplas - Bubbles,Gráfico,Assistencia,623,grafico_assistencia,,9,6
+53,55,Melhores Assistentes,Gráfico,Assistencia,624,grafico_assistencia,,9,8
+54,57,Quem mais jogou,Gráfico,Presença,501,grafico_artilheiro,,18,17
+55,58,Mais jogos contra adversário,Gráfico,Presença,300,grafico_adversario,,0,0
+56,59,Mais jogos em campeonato,Gráfico,Presença,303,grafico_campeonato,,13,11
+57,60,Mais jogos em estádio,Gráfico,Presença,302,grafico_estadio,,2,2
+58,61,Mais jogos contra adversário em campeonato,Gráfico,Presença,170,grafico_adversario,,0,0
+59,62,Mais jogou em estádio em campeonato,Gráfico,Presença,172,grafico_estadio,,2,2
+60,63,Estrangeiros que mais atuaram,Gráfico,Presença,420,grafico_artilheiro,,10,10
+61,64,Substituição por ano,Gráfico,Presença,630,grafico_artilheiro,,0,0
+62,65,Substituição por jogador,Gráfico,Presença,631,grafico_jogador,,4,4
+63,66,Minutagem por ano,Gráfico,Presença,632,grafico_artilheiro,,1,1
+64,67,Minutagem por passagem de técnico,Gráfico,Presença,633,grafico_tecpart,,2,2
+65,68,Minutagem por campeonato,Gráfico,Presença,634,grafico_campeonato,,1,1
+66,70,Distribuição de Gols,Gráfico,Gols,120,grafico_jogador,,8,8
+67,71,Gols de jogadores por ano,Gráfico,Gols,154,grafico_jogador,,3,3
+68,72,Gols de jogadores nos campeonatos,Gráfico,Gols,164,grafico_jogador,,5,4
+69,73,Gols de jogadores nos estádios,Gráfico,Gols,174,grafico_jogador,,2,2
+70,74,Gols de jogadores por adversário,Gráfico,Gols,184,grafico_jogador,,0,0
+71,75,Distribuição Tipo de gol por ano,Gráfico,Gols,609,grafico_artilheiro,,3,3
+72,76,Mais jogos sem sofrer gols,Gráfico,Gols,950,grafico_artilheiro,,0,0
+73,77,Melhores média de gols sofridos,Gráfico,Gols,951,grafico_artilheiro,,1,1
+74,78,Gols sofridos nos campeonatos,Gráfico,Gols,903,grafico_goleiro,,1,1
+75,79,Gols sofridos nos estádios,Gráfico,Gols,902,grafico_goleiro,,2,2
+76,80,Gols sofridos por adversário,Gráfico,Gols,900,grafico_goleiro,,0,0
+77,81,Gols sofridos por ano,Gráfico,Gols,954,grafico_goleiro,,1,1
+78,82,Multilinha Tipo de gol por ano,Gráfico,Gols,610,grafico_artilheiro,,3,3
+79,83,Tipo de Gol por ano - Gráfico de Linha,Gráfico,Gols,611,grafico_artilheiro,,3,3
+80,84,Tipo de Gol Combinado,Gráfico,Gols,626,grafico_assistencia,,2,2
+81,147,Consistência de gols no ano,Gráfico,Gols,635,grafico_artilheiro,,3,3
+82,86,Flu x Times do Sudeste,Gráfico,Adversario,800,grafico_artilheiro,,6,6
+83,87,Flu x Times Internacionais,Gráfico,Adversario,801,grafico_artilheiro,,4,4
+84,88,Flu x Times do Nordeste,Gráfico,Adversario,802,grafico_artilheiro,,1,1
+85,89,Flu x Times do Sul,Gráfico,Adversario,803,grafico_artilheiro,,1,1
+86,90,Flu x Times do Norte,Gráfico,Adversario,804,grafico_artilheiro,,0,0
+87,91,Flu x Times do Centro Oeste,Gráfico,Adversario,805,grafico_artilheiro,,0,0
+88,92,Evolução de vitórias por adversário,Gráfico,Adversario,587,grafico_evolucao,,6,5
+89,93,Adversário - Pizza,Gráfico,Adversario,605,grafico_adversario,,7,7
+90,94,Adversário,Gráfico,Adversario,100,grafico_adversario,,3,3
+91,95,Gráfico por ano - Clássicos,Gráfico,Adversario,107,grafico_ano,,4,4
+92,148,Evolução - saldo de vitórias por adversário,Gráfico,Adversario,587,grafico_evolucao,,0,0
+93,97,Quem mais treinou,Gráfico,Tecnico,502,grafico_artilheiro,,20,16
+94,98,Mais passagens como técnico,Gráfico,Tecnico,503,grafico_artilheiro,,7,5
+95,99,Mais treinou em campeonato,Gráfico,Tecnico,403,grafico_campeonato,,10,7
+96,100,Mais treinou em estádio,Gráfico,Tecnico,402,grafico_estadio,,3,3
+97,101,Mais treinou contra adversario,Gráfico,Tecnico,400,grafico_adversario,,2,2
+98,102,Quem mais atuou com técnico,Gráfico,Tecnico,305,grafico_tecnico,,4,3
+99,103,Técnicos com mais participações em campeonato,Gráfico,Tecnico,516,grafico_campeonato,,0,0
+100,104,Técnicos com melhor aproveitamento em campeonato,Gráfico,Tecnico,518,grafico_campeonato,,5,5
+101,105,Técnico,Gráfico,Tecnico,105,grafico_tecnico,,6,5
+102,107,Colocação em Campeonato,Gráfico,Campeonato,108,grafico_colocacao,,6,6
+103,108,Posições por ano (Brasileirão),Gráfico,Campeonato,532,grafico_artilheiro,,7,7
+104,109,Evolução de Pontos Brasileirão,Gráfico,Campeonato,595,grafico_artilheiro,,3,3
+105,110,Pontos Brasileirão,Gráfico,Campeonato,596,grafico_artilheiro,,4,4
+106,111,Posição Brasileirão,Gráfico,Campeonato,597,grafico_artilheiro,,3,3
+107,112,Evolução de Posições Brasileirão,Gráfico,Campeonato,604,grafico_assistencia,,1,1
+108,113,Campeonato,Gráfico,Campeonato,103,grafico_campeonato,,2,2
+109,114,Estádio,Gráfico,Estadio,102,grafico_estadio,,2,2
+110,115,Distâncias,Gráfico,Estadio,439,grafico_assistencia,,1,1
+111,116,Posições Brasileiro Ano Inicio-Fim,Gráfico,Campeonato,625,grafico_artilheiro,,2,2
+112,117,Posições Brasileiro Combinadas,Gráfico,Campeonato,627,grafico_artilheiro,,2,2
+113,118,Evolução de Pontos Brasileirão Combinada,Gráfico,Campeonato,629,grafico_artilheiro,,1,1
+114,120,Árbitro,Gráfico,Arbitro,101,grafico_arbitro,,6,6
+115,121,Cartões por Árbitro - Waffle,Gráfico,Arbitro,612,grafico_arbitro,,4,4
+116,122,Cartões por Árbitro - Barra,Gráfico,Arbitro,613,grafico_arbitro,,1,1
+117,123,Resumo de Árbitro,Gráfico,Arbitro,614,grafico_arbitro,,1,1
+118,124,Dashboard de Árbitro,Gráfico,Arbitro,619,grafico_arbitro,,3,2
+119,126,Maiores Públicos,Gráfico,Publico,600,grafico_artilheiro,,10,10
+120,127,Distribuição de público - Boxplot,Gráfico,Publico,602,grafico_assistencia,,2,2
+121,128,Distribuição de público - Violinplot,Gráfico,Publico,603,grafico_assistencia,,2,2
+122,129,Distribuição de público Mandante - Boxplot,Gráfico,Publico,615,grafico_assistencia,,1,1
+123,130,Distribuição de público Mandante - Violinplot,Gráfico,Publico,616,grafico_assistencia,,2,2
+124,131,Distribuição de público Visitante - Boxplot,Gráfico,Publico,617,grafico_assistencia,,1,1
+125,132,Distribuição de público Visitante - Violinplot,Gráfico,Publico,618,grafico_artilheiro,,1,1
+126,133,Distribuição de Público por ano,Gráfico,Publico,620,grafico_assistencia,,5,5
+127,134,Distribuição de Público por ano - Violinplot,Gráfico,Publico,622,grafico_assistencia,,2,2
+128,135,Distribuição de Público Histograma,Gráfico,Publico,621,grafico_assistencia,,4,4
+129,137,Jogador,Gráfico,Jogador,104,grafico_jogador,,13,13
+130,138,Geral,Gráfico,Geral,106,grafico_geral,,3,3
+131,139,Fluminense ano a ano,Gráfico,Geral,513,grafico_artilheiro,,3,3
+132,140,Fluminense ano a ano - Gols,Gráfico,Geral,514,grafico_artilheiro,,2,2
+133,141,Heatmap de resultados por dia,Gráfico,Geral,588,grafico_heatmap,,7,6
+134,142,Heatmap de resultados por mês,Gráfico,Geral,589,grafico_heatmap,,4,4
+135,143,Heatmap de resultados por dia/mês,Gráfico,Geral,591,grafico_heatmap,,4,4
+136,144,Heatmap de gols por dia,Gráfico,Geral,592,grafico_heatmap,,2,2
+137,145,Heatmap de gols por mês,Gráfico,Geral,593,grafico_heatmap,,3,3
+138,146,Heatmap de gols por dia/mês,Gráfico,Geral,594,grafico_heatmap,,5,5
+139,151,Especiais,Especiais,Especiais,,consulta_especial,,0,0
+140,153,Adversario x Arbitro,Especiais,Adversario,100101000,consulta_especial,mostra_especial,13,13
+141,154,Adversario x Estádio,Especiais,Adversario,100102000,consulta_especial,mostra_especial,94,84
+142,155,Adversário em campeonato,Especiais,Adversario,100103000,consulta_especial,mostra_especial,76,65
+143,156,Adversário x Jogador,Especiais,Adversario,100104000,consulta_especial,mostra_especial,11,11
+144,157,Adversário x Técnico,Especiais,Adversario,100105000,consulta_especial,mostra_especial,3,3
+145,158,Adversário do mesmo país,Especiais,Adversario,200000000,consulta_espadv,mostra_espadv2,29,29
+146,159,Adversário do mesmo estado,Especiais,Adversario,201000000,consulta_espadv,mostra_espadv2,4,4
+147,160,Adversário do mesmo estado em campeonato,Especiais,Adversario,201103000,consulta_espadv,mostra_espadv2,2,2
+148,161,Adversários Internacionais,Especiais,Adversario,202000000,mostra_espadv,,14,14
+149,162,Adversário em campeonato x Estádio,Especiais,Adversario,100103102,consulta_especial,mostra_especial,19,18
+150,163,Adversário por ano,Especiais,Adversario,106100000,consulta_espadv,mostra_espadv2,19,19
+151,164,Adversários em vantagem,Especiais,Adversario,203000000,consulta_espadv,mostra_adversario,19,15
+152,165,Principais Adversários,Especiais,Adversario,250000000,consulta_prinadv,mostra_prinadv,4,4
+153,166,Principais Adversários em campeonato,Especiais,Adversario,250103000,consulta_prinadv,mostra_prinadv,3,3
+154,167,Principais Adversários em estádio,Especiais,Adversario,250102000,consulta_prinadv,mostra_prinadv,2,2
+155,168,Todos os jogos contra adversário,Especiais,Adversario,100999000,consulta_especial,mostra_todos,102,89
+156,169,Lista de adversários por estado,Especiais,Adversario,201150000,consulta_espadv,mostra_espadv2,2,2
+157,170,Lista de adversários por país,Especiais,Adversario,200150000,consulta_espadv,mostra_espadv2,19,19
+158,171,Mais penalties contra o Fluminense,Especiais,Adversario,210000000,mostra_penalti,,3,3
+159,172,Mais penalties a favor do Fluminense,Especiais,Adversario,211000000,mostra_penalti,,3,3
+160,173,Mais penaties convertidos pelo Fluminense,Especiais,Adversario,212000000,mostra_penalti,,2,2
+161,174,Mais penalties perdidos pelo Fluminense,Especiais,Adversario,213000000,mostra_penalti,,2,2
+162,175,Disputa de penalty por adversário,Especiais,Adversario,100290000,consulta_disputa,mostra_disputa,2,2
+163,176,Cartões contra adversário,Especiais,Adversario,100289000,consulta_cartao,,0,0
+164,177,Consulta adversário em tempo determinado,Especiais,Adversario,100450000,consulta_especial,mostra_advtempo,10,7
+165,178,Últimos jogos - Adversário,Especiais,Adversario,100451000,consulta_especial,mostra_especial,2,2
+166,179,Adversários do mesmo país em campeonato,Especiais,Adversario,NAO,consulta_paiscamp,mostra_paiscamp,17,17
+167,180,Data dos jogos de adversário por ano,Especiais,Adversario,100452000,consulta_especial,mostra_especial,4,4
+168,181,Adversários que mais jogamos,Especiais,Adversario,NAO,mostra_advmais,,12,12
+169,182,Todos os jogos contra adversário em campeonato,Especiais,Adversario,100103999,consulta_especial,mostra_especial,8,8
+170,183,Mascotes,Especiais,Adversario,NAO,consulta_mascote,mostra_mascote,5,5
+171,184,Adversários em campeonato como mandante,Especiais,Adversario,100153000,consulta_especial,mostra_especial,4,4
+172,185,Adversários em campeonato como visitante,Especiais,Adversario,100163000,consulta_especial,mostra_especial,2,2
+173,186,Adversários - Quantidade de cores,Especiais,Adversario,720001000,consulta_cores,mostra_cor,2,2
+174,187,Adversários por cor,Especiais,Adversario,720002000,consulta_cores,mostra_cor,5,5
+175,188,Adversários por cor - período,Especiais,Adversario,720003000,consulta_cores,mostra_cor,1,1
+176,189,Evolução por adversário,Especiais,Adversario,100358000,consulta_especial,evolucao_adversario,9,8
+177,392,Saldo de placar contra adversário,Especiais,Adversario,915100000,generico_adversario,saldo_placar,17,17
+178,191,Árbitro x Adversário,Especiais,Arbitro,101100000,consulta_especial,mostra_especial,6,6
+179,192,Árbitro x Estádio,Especiais,Arbitro,101102000,consulta_especial,mostra_especial,2,2
+180,193,Árbitro em campeonato,Especiais,Arbitro,101103000,consulta_especial,mostra_especial,2,2
+181,194,Árbitro x Jogador,Especiais,Arbitro,101104000,consulta_especial,mostra_especial,0,0
+182,195,Árbitro x Técnico,Especiais,Arbitro,101105000,consulta_especial,mostra_especial,0,0
+183,196,Últimos jogos Árbitro,Especiais,Arbitro,101451000,consulta_especial,arbitro_todos,4,4
+184,197,Jogos de Árbitro por ano,Especiais,Arbitro,101452000,consulta_especial,mostra_especial,1,1
+185,198,Árbitros do mesmo país,Especiais,Arbitro,210000000,consulta_espadv,mostra_espadv2,0,0
+186,199,Árbitros que mais apitaram,Especiais,Arbitro,NAO,mostra_arbitromais,,5,5
+187,200,Todos os jogos de Árbitro,Especiais,Arbitro,101999000,consulta_especial,arbitro_todos,12,12
+188,201,Árbitros por ano,Especiais,Arbitro,106101000,consulta_espadv,mostra_espadv2,0,0
+189,202,Lista de árbitros do mesmo país,Especiais,Arbitro,210150000,consulta_espadv,mostra_espadv2,1,1
+190,203,Média de cartão por árbitro,Especiais,Arbitro,NAO,mostra_arbcartao,,2,2
+191,204,Melhor/Pior aproveitamento por árbitro,Especiais,Arbitro,NAO,mostra_arbapr,,5,5
+192,205,Consulta árbitro em tempo determinado,Especiais,Arbitro,101528000,consulta_tempo,mostra_tempodet,1,1
+193,207,Estádio x Adversário,Especiais,Estadio,102100000,consulta_especial,mostra_especial,31,29
+194,208,Estádio x Árbitro,Especiais,Estadio,102101000,consulta_especial,mostra_especial,3,3
+195,209,Estádio em campeonato,Especiais,Estadio,102103000,consulta_especial,mostra_especial,52,47
+196,210,Estádio x Jogador,Especiais,Estadio,102104000,consulta_especial,mostra_especial,7,7
+197,211,Estádio x Técnico,Especiais,Estadio,102105000,consulta_especial,mostra_especial,1,1
+198,212,Últimos jogos em estádio,Especiais,Estadio,102451000,consulta_estadio,estadio_todos,14,14
+199,213,Estádio em que mais jogamos,Especiais,Estadio,NAO,mostra_estadiomais,,32,30
+200,214,Todos os jogos em estádio,Especiais,Estadio,102999000,consulta_estadio,estadio_todos,45,40
+201,215,Jogos em estádio por ano,Especiais,Estadio,102452000,consulta_estadio,estadio_todos,18,17
+202,216,Consulta estádio em tempo determinado,Especiais,Estadio,102528000,consulta_tempo,mostra_tempodet,25,24
+203,217,Geolocalização dos estádios,Especiais,Estadio,102010000,geolocalizacao,,0,0
+204,218,Curiosidades dos estádios,Especiais,Estadio,NAO,estadio_curiosidade,,14,14
+205,562,Saldo de placar em estádio,Especiais,Estadio,102472000,consulta_campeonato,saldo_placar_est,0,0
+206,220,Campeonato x Adversário,Especiais,Campeonato,103100000,consulta_especial,mostra_especial,14,14
+207,221,Campeonato x Árbitro,Especiais,Campeonato,103101000,consulta_especial,mostra_especial,1,1
+208,222,Campeonato x Estádio,Especiais,Campeonato,103102000,consulta_especial,mostra_especial,19,19
+209,223,Campeonato x Jogador,Especiais,Campeonato,103104000,consulta_especial,mostra_especial,12,12
+210,224,Campeonato x Técnico,Especiais,Campeonato,103105000,consulta_especial,mostra_especial,2,2
+211,225,Últimos jogos em campeonato,Especiais,Campeonato,103451000,consulta_campeonato,estadio_todos,11,11
+212,226,Consulta Apelido campeonato(subcampeonato),Especiais,Campeonato,NAO,consulta_subcampeonato,mostra_subcampeonato,2,2
+213,227,Melhor/Pior Defesa/Ataque em campeonato,Especiais,Campeonato,103700000,consulta_campeonato,ataque_defesa,4,4
+214,228,Estréia em campeonato,Especiais,Campeonato,103701000,consulta_campeonato,lista_camp,6,6
+215,229,Títulos por campeonato,Especiais,Campeonato,103702000,consulta_campeonato,lista_camp,13,11
+216,230,Títulos por ano,Especiais,Campeonato,106710000,consulta_campano,lista_camp,11,9
+217,231,Campeonatos por ano,Especiais,Campeonato,106720000,consulta_campano,lista_camp,18,16
+218,232,Todos os jogos em campeonato,Especiais,Campeonato,103999000,consulta_campeonato,estadio_todos,87,79
+219,233,Cartões em campeonato,Especiais,Campeonato,103550000,consulta_campeonato,campeonato_cartao,3,3
+220,234,Estados de árbitro em campeonato,Especiais,Campeonato,103590000,consulta_campeonato,campeonato_arbestado,1,1
+221,235,Gols por minuto em campeonato,Especiais,Campeonato,103777000,consulta_campeonato,mostra_gols_minuto_camp,2,2
+222,236,Gols em campeonato,Especiais,Campeonato,103877000,consulta_campeonato,golscamp,15,15
+223,237,Consulta Campeonato em tempo determinado,Especiais,Campeonato,103528000,consulta_tempo,mostra_tempodet,13,13
+224,238,Var em campeonatos,Especiais,Campeonato,902000000000,generico_campeonato,var_campeonato,1,1
+225,561,Saldo de placar em campeonato,Especiais,Campeonato,103897000,consulta_campeonato,saldo_placar_camp,7,7
+226,241,Artiheiros,Especiais,Artilheiros,900000000000,mostra_ranking,,24,22
+227,242,Artiheiros contra adversário,Especiais,Artilheiros,900100000000,consulta_ranking,mostra_rkg,14,12
+228,243,Artilheiros em campeonato,Especiais,Artilheiros,900103000000,consulta_ranking,mostra_rkg,6,6
+229,244,Artilheiros em estádio,Especiais,Artilheiros,900102000000,consulta_ranking,mostra_rkg,4,3
+230,245,Maiores artilheiros em 1 campeonato,Especiais,Artilheiros,900107000000,consulta_ranking,mostra_rkg,2,2
+231,246,Artilheiros anuais,Especiais,Artilheiros,902000000000,mostra_ranking,,8,8
+232,247,20 maiores artilheiros anuais,Especiais,Artilheiros,903000000000,mostra_ranking,,3,3
+233,248,Mais vezes artilheiros anuais,Especiais,Artilheiros,904000000000,mostra_ranking,,0,0
+234,249,Maior artilheiro em 1 partida,Especiais,Artilheiros,905000000000,mostra_ranking,,2,2
+235,250,Artilheiros ano a ano,Especiais,Artilheiros,900106000000,consulta_ranking,mostra_rkg,6,6
+236,251,Artiheiros contra adversário em campeonato,Especiais,Artilheiros,900100103000,consulta_ranking,mostra_rkg,0,0
+237,252,Artiheiros contra adversário em campeonato em estádio,Especiais,Artilheiros,900100103102,consulta_ranking,mostra_rkg,0,0
+238,253,Gols de jogadores por ano,Especiais,Gols,268106000,consulta_jogador,mostra_jogador_gols,87,72
+239,254,Gols de jogadores por adversário,Especiais,Gols,268100000,consulta_jogador,mostra_jogador_gols,58,54
+240,255,Gols de jogadores por campeonato,Especiais,Gols,268103000,consulta_jogador,mostra_jogador_gols,25,25
+241,256,Gols de jogadores por estádio,Especiais,Gols,268102000,consulta_jogador,mostra_jogador_gols,11,9
+242,257,Estrangeiros que mais marcaram,Especiais,Artilheiros,800801000000,mostra_ranking,,10,10
+243,258,Artilheiro em estádio em campeonato,Especiais,Artilheiros,102103900,consulta_especial,jogestcamp,3,3
+244,259,Artilheiros do século,Especiais,Artilheiros,900900000000,mostra_ranking,,6,6
+245,260,Artilharia em jogos oficiais,Especiais,Artilheiros,900910000000,mostra_ranking,,2,1
+246,261,Artilharia por temporada,Especiais,Artilheiros,900126000000,consulta_ranking,mostra_rkg,2,2
+247,262,Jogadores com hat-trick,Especiais,Gols,750000000000,consulta_hattrick,,1,1
+248,263,Melhores média de gols,Especiais,Gols,650000000000,melhores_media_gols,,2,2
+249,264,Artilheiros estrangeiros em 1 temporada,Especiais,Artilheiros,830000000000,estrangeiro_temporada,,0,0
+250,265,Artilheiros mais novos,Especiais,Artilheiros,661000000000,idades,,2,2
+251,266,Artilheiros mais velhos,Especiais,Artilheiros,662000000000,idades,,3,3
+252,267,Artilheiros mais novos Século XX,Especiais,Artilheiros,661020000000,idades,,0,0
+253,268,Artilheiros mais novos Século XXI,Especiais,Artilheiros,661021000000,idades,,2,2
+254,269,Artilheiros mais velhos Século XX,Especiais,Artilheiros,662020000000,idades,,0,0
+255,270,Artilheiros mais velhos Século XXI,Especiais,Artilheiros,662021000000,idades,,1,1
+256,565,Maiores artilheiros no 1º tempo,Especiais,Artilheiros,663000000000,gols_tempo,,0,0
+257,566,Maiores artilheiros no 2º tempo,Especiais,Artilheiros,664000000000,gols_tempo,,0,0
+258,567,Maiores artilheiros no 1º tempo do Século XX,Especiais,Artilheiros,663020000000,gols_tempo,,0,0
+259,568,Maiores artilheiros no 1º tempo do Século XXI,Especiais,Artilheiros,663021000000,gols_tempo,,2,2
+260,569,Maiores artilheiros no 2º tempo do Século XX,Especiais,Artilheiros,664020000000,gols_tempo,,1,1
+261,570,Maiores artilheiros no 2º tempo do Século XXI,Especiais,Artilheiros,664021000000,gols_tempo,,2,2
+262,272,Assistências,Especiais,Assistencia,290000000,mostra_ranking,,67,59
+263,273,Participações diretas em gols,Especiais,Assistencia,291210000,mostra_ranking,,16,16
+264,274,Assistências por ano,Especiais,Assistencia,290206000000,consulta_ranking,mostra_rkg,4,4
+265,275,Participações diretas em gols por ano,Especiais,Assistencia,291216000000,consulta_ranking,mostra_rkg,1,1
+266,276,Assistências contra adversário,Especiais,Assistencia,290100000000,consulta_ranking,mostra_rkg,0,0
+267,277,Assistências em campeonato,Especiais,Assistencia,290103000000,consulta_ranking,mostra_rkg,1,1
+268,278,Participações diretas em gols contra adversário,Especiais,Assistencia,291100000000,consulta_ranking,mostra_rkg,1,1
+269,279,Participações diretas em gols em campeonato,Especiais,Assistencia,291103000000,consulta_ranking,mostra_rkg,0,0
+270,280,Lista de Assistências,Especiais,Assistencia,570570000,consulta_jogador,mostra_gols_assist,13,11
+271,281,Lista de Gols,Especiais,Assistencia,571571000,consulta_jogador,mostra_gols_assist,14,14
+272,282,Melhores Duplas,Especiais,Assistencia,292220000,mostra_ranking,,15,12
+273,283,Penaltis e faltas por sofridos,Especiais,Assistencia,293000000,mostra_ranking,,3,3
+274,284,Penaltis e faltas por sofridos por ano,Especiais,Assistencia,293206000000,consulta_ranking,mostra_rkg,0,0
+275,285,Penaltis e faltas por sofridos contra adversário,Especiais,Assistencia,293100000000,consulta_ranking,mostra_rkg,0,0
+276,286,Penaltis e faltas por sofridos em campeonato,Especiais,Assistencia,293103000000,consulta_ranking,mostra_rkg,0,0
+277,287,Mais participações em gols em 1 jogo,Especiais,Assistencia,291208000000,partgolsjogo,,0,0
+278,289,Mais vezes entraram em campo,Especiais,Presença,800000000000,mostra_ranking,,6,6
+279,290,Mais jogos contra adversário,Especiais,Presença,800100000000,consulta_ranking,mostra_rkg,2,2
+280,291,Mais jogos em estádio,Especiais,Presença,800102000000,consulta_ranking,mostra_rkg,1,1
+281,292,Mais jogos em campeonato,Especiais,Presença,800103000000,consulta_ranking,mostra_rkg,2,2
+282,293,Quem mais atuou no elenco atual,Especiais,Presença,801000000000,mostra_ranking,,16,12
+283,294,Mais jogos contra adversário em campeonato,Especiais,Presença,800100103000,consulta_ranking,mostra_rkg,0,0
+284,295,Elenco de jogadores por ano,Especiais,Presença,801106000000,consulta_ranking,mostra_rkg,2,2
+285,296,Número de jogos por ano,Especiais,Presença,805106000000,consulta_ranking,mostra_rkg,1,1
+286,297,Estrangeiros que mais atuaram,Especiais,Presença,800800000000,mostra_ranking,,5,5
+287,298,Mais jogos em estádio em campeonato,Especiais,Presença,102103800,consulta_especial,jogestcamp,2,2
+288,299,Mais jogou no século,Especiais,Presença,800900000000,mostra_ranking,,8,7
+289,300,Jogadores com mais participações em campeonatos,Especiais,Presença,897104104000,generico_campeonato,mostra_rkg,0,0
+290,302,Gols sofridos nos estádios,Especiais,Jogador,270000102,consulta_goleiro,mostra_goleiro_gols,3,3
+291,303,Gols sofridos por adversário,Especiais,Jogador,270000100,consulta_goleiro,mostra_goleiro_gols,2,2
+292,304,Gols sofridos em campeonato,Especiais,Jogador,270000103,consulta_goleiro,mostra_goleiro_gols,1,1
+293,305,Gols sofridos por ano,Especiais,Jogador,270000106,consulta_goleiro,mostra_goleiro_gols,3,2
+294,306,Goleiros com mais jogos,Especiais,Jogador,800805000000,mostra_ranking,,13,12
+295,307,Média de gols sofridos,Especiais,Jogador,270300000,media_goleiro,,12,10
+296,308,Mais jogos sem sofrer gols,Especiais,Jogador,462000000,goleiro_gols,,31,28
+297,309,Mais defendeu penalties,Especiais,Jogador,888000000,defesa_penalti,,18,18
+298,310,Penalty - melhores médias,Especiais,Jogador,889000000,defesa_penalti,,7,7
+299,312,Jogador x Adversário,Especiais,Jogador,104100000,consulta_especial,mostra_especial,13,13
+300,313,Jogador x Estádio,Especiais,Jogador,104102000,consulta_especial,mostra_especial,12,11
+301,314,Jogador x Árbitro,Especiais,Jogador,104101000,consulta_especial,mostra_especial,1,1
+302,315,Jogador em campeonato,Especiais,Jogador,104103000,consulta_especial,mostra_especial,28,25
+303,316,Jogador x Jogador,Especiais,Jogador,104104000,consulta_especial,mostra_especial,12,12
+304,317,Jogador x Técnico,Especiais,Jogador,104105000,consulta_especial,mostra_especial,5,5
+305,318,Jogadores em campeonato - estádio,Especiais,Jogador,104103102,consulta_especial,mostra_especial,1,1
+306,319,Jogador e técnico,Especiais,Jogador,NAO,consulta_tecjog,mostra_tecjog,8,8
+307,321,Jogadores com mais títulos,Especiais,Jogador,803000000000,mostra_ranking,,1,1
+308,322,Seleção,Especiais,Jogador,804000000000,mostra_ranking,,2,2
+309,323,Aniversariantes do dia,Especiais,Jogador,654106000,consulta_jogo,mostra_especial_jogo,22,21
+310,324,Lista de jogador por nacionalidade,Especiais,Jogador,104395000,lista_pais,mostra_pais,12,9
+311,325,Todos os jogos de jogador,Especiais,Jogador,104999000,consulta_jogador,mostra_todos_jogador,67,60
+312,326,Quem levou mais cartões - Média de cartões,Especiais,Jogador,104750000,mostra_media_cartao,,8,8
+313,327,Jogadores em disputa de penalti,Especiais,Jogador,672240000000,jogador_batedor,mostra_batedores,0,0
+314,328,Consulta jogador em determinado tempo,Especiais,Jogador,104528000,consulta_tempo,mostra_tempodet,4,4
+315,329,Jogadores mais novos,Especiais,Jogador,651000000000,idades,,0,0
+316,330,Jogadores mais velhos,Especiais,Jogador,652000000000,idades,,0,0
+317,331,Jogos de jogador com amarelo,Especiais,Jogador,670240000000,jogador_cartao,mostra_cartao_jogador,0,0
+318,332,Jogos de jogador com vermelho,Especiais,Jogador,671240000000,jogador_cartao,mostra_cartao_jogador,0,0
+319,333,Jogadores mais novos do Século XX,Especiais,Jogador,651020000000,idades,,0,0
+320,334,Jogadores mais novos do Século XXI,Especiais,Jogador,651021000000,idades,,0,0
+321,335,Jogadores mais velhos do Século XX,Especiais,Jogador,652020000000,idades,,0,0
+322,336,Jogadores mais velhos do Século XXI,Especiais,Jogador,652021000000,idades,,0,0
+323,338,Jogadores com mais vitórias,Especiais,Jogador,812000000000,mostra_ranking,,1,1
+324,339,Jogadores com mais empates,Especiais,Jogador,813000000000,mostra_ranking,,1,1
+325,340,Jogadores com mais derrotas,Especiais,Jogador,814000000000,mostra_ranking,,1,1
+326,341,Jogadores com mais vitórias no século,Especiais,Jogador,812900000000,mostra_ranking,,0,0
+327,342,Jogadores com mais empates no século,Especiais,Jogador,813900000000,mostra_ranking,,0,0
+328,343,Jogadores com mais derrotas no século,Especiais,Jogador,814900000000,mostra_ranking,,0,0
+329,344,Jogadores com mais vitórias oficiais,Especiais,Jogador,812700000000,mostra_ranking,,0,0
+330,345,Jogadores com mais empates oficiais,Especiais,Jogador,813700000000,mostra_ranking,,0,0
+331,346,Jogadores com mais derrotas oficiais,Especiais,Jogador,814700000000,mostra_ranking,,0,0
+332,347,Estatística por posição,Especiais,Jogador,675000000000,estat_posicao,,1,1
+333,348,36 maiores ídolos,Especiais,Jogador,482000000000,melhores_jogadores,,10,10
+334,349,Maiores ídolos a partir de 1980,Especiais,Jogador,NAO,,,0,0
+335,351,Técnico x Árbitro,Especiais,Tecnico,105101000,consulta_especial,mostra_especial,0,0
+336,352,Técnico x Estádio,Especiais,Tecnico,105102000,consulta_especial,mostra_especial,6,6
+337,353,Técnico em campeonato,Especiais,Tecnico,105103000,consulta_especial,mostra_especial,17,16
+338,354,Técnico x Adversário,Especiais,Tecnico,105100000,consulta_especial,mostra_especial,5,5
+339,355,Técnico x Jogador,Especiais,Tecnico,105104000,consulta_especial,mostra_especial,3,2
+340,356,Todos os jogos de técnico,Especiais,Tecnico,105999000,generico_tecnico,mostra_todos_tecnico,25,23
+341,357,Quem mais treinou,Especiais,Tecnico,867000000000,mostra_ranking,,13,13
+342,358,Quem mais treinou em campeonato,Especiais,Tecnico,867103000000,generico_campeonato,mostra_rkg,2,2
+343,359,Técnicos com mais participações em campeonato,Especiais,Tecnico,867103103000,generico_campeonato,mostra_rkg,0,0
+344,360,Técnicos com melhor aproveitamento em campeonato,Especiais,Tecnico,867103143000,generico_campeonato,mostra_rkg,2,2
+345,361,Técnicos por ano,Especiais,Tecnico,105452000,consulta_especial,mostra_especial,4,4
+346,362,Quem mais atuou com técnico,Especiais,Tecnico,105687000,generico_tecnico,mostra_tecnico_atuacao,11,11
+347,363,Consulta técnicos por passagem,Especiais,Tecnico,105875000,generico_tecnico,mostra_passagem,8,6
+348,364,Quem teve mais passagens como técnico,Especiais,Tecnico,868000000000,mostra_ranking,,2,2
+349,365,Melhor aproveitamento entre todos os técnicos,Especiais,Tecnico,NAO,mostra_aproveitamento,,13,13
+350,366,Artilharia com o técnico,Especiais,Tecnico,900834000,generico_tecnico,mostra_art_tecnico,10,10
+351,367,Artilharia em passagem com o técnico,Especiais,Tecnico,900837000,generico_tecnico,mostra_art_tecnico,3,3
+352,368,Consulta técnico em tempo determinado,Especiais,Tecnico,105528000,consulta_tempo,mostra_tempodet,6,6
+353,369,Técnico x Técnicos adversários,Especiais,Tecnico,105390000,consulta_especial,mostra_especial,1,1
+354,547,Trabalhos mais longevos,Especiais,Tecnico,105490000,trabalhos_longos,,19,19
+355,548,Trabalhos mais longevos do século XX,Especiais,Tecnico,105491000,trabalhos_longos,,5,5
+356,549,Trabalhos mais longevos do século XXI,Especiais,Tecnico,105492000,trabalhos_longos,,24,20
+357,559,Saldo de placar com técnico,Especiais,Tecnico,900840000,generico_tecnico,saldo_placar_tec,0,0
+358,564,Timeline de Técnicos,Especiais,Tecnico,105630000,timeline_tec,,0,0
+359,371,Frequência de Placares,Especiais,Frequencia,600000000,mostra_frequencia,,10,8
+360,372,Frequência de Placares por ano,Especiais,Frequencia,60010600,generico_ano,frequencia_ano,4,4
+361,373,Frequência de Placares contra adversário,Especiais,Frequencia,60010000,generico_adversario,frequencia_adversario,7,7
+362,374,Frequência de Placares em estádio,Especiais,Frequencia,600102000,generico_estadio,frequencia_estadio,3,3
+363,375,Frequência de Placares em campeonato,Especiais,Frequencia,600103000,generico_campeonato,frequencia_campeonato,3,3
+364,376,Frequência de Placares contra adversário em campeonato,Especiais,Frequencia,600100103,generico_especial,frequencia_advcamp,2,2
+365,377,Goleadas,Especiais,Gols,610000000,mostra_goleada,,25,22
+366,378,Goleadas em jogos oficiais,Especiais,Gols,611000000,mostra_goleada,,13,13
+367,379,Goleadas em adversários,Especiais,Gols,610100000,generico_adversario,mostra_goleada_adv,7,6
+368,380,Goleadas em Brasileiros,Especiais,Gols,612000000,mostra_goleada,,11,11
+369,381,Goleadas por ano,Especiais,Gols,610106000,generico_ano,mostra_goleada2,5,5
+370,382,Goleadas em clássico,Especiais,Gols,613000000,mostra_goleada,,8,8
+371,383,Frequência de Placares contra adversário mandante/visitante,Especiais,Frequencia,600438000,generico_especial,frequencia_adversario,3,3
+372,384,Frequência de Placares em estádio em campeonato,Especiais,Frequencia,600102103,generico_especial,frequencia_estcamp,1,1
+373,385,Frequência de Placares contra adversário em estádio,Especiais,Frequencia,600100102,generico_especial,frequencia_advest,0,0
+374,386,Consulta Placar,Especiais,Resultado,620000000,consulta_placar,mostra_placar,12,10
+375,387,Consulta Placar contra adversário,Especiais,Resultado,620100000,consulta_placar,mostra_placar,2,2
+376,388,Consulta Placar em estádio,Especiais,Resultado,620102000,consulta_placar,mostra_placar,0,0
+377,389,Consulta Placar em campeonato,Especiais,Resultado,620103000,consulta_placar,mostra_placar,9,9
+378,390,Gols em jogos por ano,Especiais,Gols,639000000,jogos_gols,,0,0
+379,391,Detalhamento de gols,Especiais,Gols,652000000,detalhamento_gols,mostra_detalhe_gols,10,10
+380,563,Saldo de placar por ano,Especiais,Resultado,915108000,generico_ano,saldo_placar,0,0
+381,393,Estatísticas por tipo de gol,Especiais,Gols,653000000,detalhamento_gols,mostra_detalhe_gols,9,7
+382,551,Tempo que faz/leva qtd gols,Especiais,Gols,654000000,mostra_goltempo,,0,0
+383,395,Marcas históricas atuais,Especiais,Geral,NAO,marcas_historicas,,57,55
+384,396,Maiores Públicos,Especiais,Publico,NAO,maiores_publicos,,30,29
+385,397,Maiores Públicos contra adversário,Especiais,Publico,680100000,generico_adversario,html,19,18
+386,398,Maiores Públicos em campeonato,Especiais,Publico,680103000,consulta_placar,maiores_publicos2,33,31
+387,399,Maiores Públicos em estádio,Especiais,Publico,680102000,consulta_placar,maiores_publicos2,16,15
+388,400,Ano a ano,Especiais,Geral,10610600,generico_ano,mostra_especial_jogo,46,45
+389,401,Menores públicos,Especiais,Publico,NAO,menores_publicos,,9,9
+390,402,Menores Públicos em estádio,Especiais,Publico,681102000,consulta_placar,maiores_publicos2,7,7
+391,403,Públicos por ano como mandante,Especiais,Publico,68510600,generico_ano,publico_ano,20,19
+392,404,Estatísticas gerais por data,Especiais,Geral,692000000,estatistica_data,mostra_estatistica,13,13
+393,405,Estatísticas gerais por ano,Especiais,Geral,69310600,generico_ano,mostra_estatistica,19,17
+394,406,Time Base,Especiais,Geral,69410600,generico_ano,time_base,18,17
+395,407,Média de público em campeonato,Especiais,Publico,689103000,consulta_placar,media_publico,19,17
+396,408,Média de público por período em campeonato,Especiais,Publico,694000000,consulta_placar,periodo_publico,2,2
+397,409,Maior/Menor média de público em campeonato,Especiais,Publico,689107000,consulta_placar,media_publico,3,3
+398,410,Média de público por adversário em estádio,Especiais,Publico,689100102,consulta_placar,media_publico,4,4
+399,411,Média de público por adversário,Especiais,Publico,689100000,consulta_placar,media_publico,4,4
+400,412,Média de público em estádio,Especiais,Publico,689102000,consulta_placar,media_publico,11,10
+401,413,Cartões por ano,Especiais,Geral,842106000,generico_ano,cartao_ano,21,18
+402,414,Números por ano,Especiais,Geral,843106000,generico_ano,gols_ano,13,13
+403,415,Disputa de Penalty,Especiais,Geral,NAO,disputa_penalty,,12,11
+404,416,Finais em campeonato,Especiais,Campeonato,NAO,mostra_finais,,13,13
+405,417,Gols por minuto,Especiais,Gols,842108000,generico_ano,mostra_gols_minuto,9,9
+406,418,Jogos sem estádio,Especiais,Estadio,102000000,sem_informacao,,2,2
+407,419,Jogos sem árbitro,Especiais,Arbitro,101000000,sem_informacao,,5,5
+408,420,Jogos sem jogador,Especiais,Jogador,104000000,sem_informacao,,4,4
+409,421,Jogos sem renda,Especiais,Geral,168000000,sem_informacao,,3,3
+410,422,Jogos sem público,Especiais,Publico,167000000,sem_informacao,,3,3
+411,423,Estatísticas por décadas,Especiais,Geral,179000000,estat_decadas,mostra_decada,10,9
+412,424,Estatísticas por período,Especiais,Geral,183000000,estat_periodo,mostra_decada,9,9
+413,425,Estatísticas por temporada,Especiais,Geral,451000000,numero_temporada,mostra_temporada,14,14
+414,426,Consulta gol Número:,Especiais,Gols,342000000,quantidade_gols,cronologia_gols,11,11
+415,427,Cronologia dos gols,Especiais,Gols,343000000,ordem_gols,cronologia_gols,16,16
+416,428,Jogos Eliminatórios,Especiais,Jogo,344000000,duelo_eliminatorio,,13,12
+417,429,Jogos Eliminatórios por adversário,Especiais,Jogo,348000000,duelo_eliminatorio_adv,mostra_duelo_esp,2,2
+418,430,Jogos Eliminatórios em campeonato,Especiais,Jogo,349000000,duelo_eliminatorio_adv,mostra_duelo_esp,4,3
+419,431,Jogos Eliminatórios em estádio,Especiais,Jogo,342000000,duelo_eliminatorio_adv,mostra_duelo_arbest,4,4
+420,432,Jogos Eliminatórios com árbitro,Especiais,Jogo,343000000,duelo_eliminatorio_adv,mostra_duelo_arbest,1,1
+421,433,Penaltis por ano,Especiais,Geral,363000000,penalti_ano,mostra_penalti_ano,10,9
+422,434,Maiores públicos por adversário em estádio,Especiais,Publico,100102492,consulta_especial,mostra_pubadvest,3,2
+423,435,Média de Público por ano,Especiais,Publico,643106000,generico_ano,publico_ano2,10,8
+424,436,Distância Percorrida por ano,Especiais,Geral,482106000,generico_ano,distancia_ano,12,10
+425,437,Ranking de distâncias percorridas por ano,Especiais,Geral,NAO,ranking_distancia,,7,6
+426,438,Jogos Eliminatórios por Saldo do 1º jogo,Especiais,Jogo,344000000,duelo_eliminatorio_saldo,,4,3
+427,550,Média de público em campeonato - estádio,Especiais,Publico,689103102,consulta_placar,media_publico,4,3
+428,552,Gols mais rápidos,Especiais,Gols,273000000,gols_rapidos,,12,12
+429,553,Gols mais rápidos em jogos oficiais,Especiais,Gols,274000000,gols_rapidos,,9,9
+430,560,Jogos Eliminatórios por país,Especiais,Jogo,350000000,duelo_eliminatorio_adv,mostra_duelo_esp,6,6
+431,440,Clássicos Regionais,Especiais,Adversario,NAO,mostra_classico,,17,17
+432,441,Clássicos Regionais em campeonato,Especiais,Adversario,534103000,generico_campeonato,mostra_classico_esp,6,6
+433,442,Clássicos Regionais em estádio,Especiais,Adversario,534102000,generico_estadio,mostra_classico_esp,3,3
+434,443,Clássicos Regionais por ano,Especiais,Adversario,534106000,generico_ano,mostra_classico_esp,4,4
+435,444,Clássicos Regionais por período,Especiais,Adversario,533126000,generico_ano,mostra_classico_esp,3,3
+436,445,Últimos jogos - Clássicos Regionais,Especiais,Adversario,534000000,consulta_jogo,mostra_especial_jogo,2,2
+437,446,Árbitros em clássicos,Especiais,Adversario,533101000,generico_arbitro,mostra_classico_esp,4,4
+438,447,Maiores públicos em clássicos,Especiais,Publico,NAO,maiores_publicos_classicos,,49,48
+439,448,Sequências em clássicos,Especiais,Sequencia,50034500000,mostra_sequencia,,12,11
+440,449,Jogadores em clássicos,Especiais,Adversario,533104000,generico_jogador,mostra_classico_esp,9,9
+441,450,Técnicos em clássicos,Especiais,Adversario,533105000,generico_tecnico,mostra_classico_esp,2,2
+442,451,Frequência de placar em clássicos,Especiais,Frequencia,533000000,mostra_frequencia,,8,8
+443,452,Média de públicos em clássicos,Especiais,Publico,NAO,media_publicos_classicos,,3,3
+444,453,Média de públicos em clássicos em estádios,Especiais,Publico,535102000,generico_estadio,media_publico,2,2
+445,455,Presidente,Especiais,Presidente,130000000,consulta_presidente,mostra_presidente,13,11
+446,456,Presidente ano a ano,Especiais,Presidente,130106000,consulta_presidente,mostra_presidente,5,5
+447,457,Presidente x adversário,Especiais,Presidente,130100000,consulta_presidente,mostra_presidente,2,2
+448,458,Presidente x estádio,Especiais,Presidente,130102000,consulta_presidente,mostra_presidente,1,1
+449,459,Presidente em campeonato,Especiais,Presidente,130103000,consulta_presidente,mostra_presidente,2,2
+450,460,Presidente e técnico,Especiais,Presidente,130105000,consulta_presidente,mostra_presidente,1,1
+451,461,Presidente e jogador,Especiais,Presidente,130104000,consulta_presidente,mostra_presidente,3,3
+452,462,Ranking de Presidentes,Especiais,Presidente,130000000,mostra_rankingpres,,15,15
+453,463,Presidente em clássicos,Especiais,Presidente,130140000,consulta_presidente,mostra_presidente,13,12
+454,465,Sequências,Especiais,Sequencia,500000000,mostra_sequencia,,17,16
+455,466,Sequências por ano,Especiais,Sequencia,500106000,generico_ano,mostra_sequencia2,6,6
+456,467,Sequências contra adversário,Especiais,Sequencia,500100000,generico_adversario,mostra_sequencia2,8,8
+457,468,Sequências contra adversário em campeonato,Especiais,Sequencia,500100103,generico_especial,mostra_sequencia2,1,1
+458,469,Sequências em campeonato,Especiais,Sequencia,500103000,generico_campeonato,mostra_sequencia2,5,5
+459,470,Sequências em estádio,Especiais,Sequencia,500102000,generico_estadio,mostra_sequencia2,14,13
+460,471,Sequências de técnico,Especiais,Sequencia,500105000,generico_tecnico,mostra_sequencia2,5,5
+461,472,Sequências por jogadores,Especiais,Sequencia,500104000,generico_jogador,mostra_sequencia2,4,4
+462,473,Sequências entre todos os técnicos,Especiais,Sequencia,500815000,mostra_sequencia,,3,3
+463,474,Sequências um Único campeonato,Especiais,Sequencia,500303000,generico_campeonato,mostra_sequencia2,4,4
+464,475,Sequências oficiais,Especiais,Sequencia,500387000,mostra_sequencia,,6,6
+465,476,Melhores inícios de campeonato,Especiais,Sequencia,500344000,generico_campeonato,mostra_sequencia2,1,1
+466,477,Sequência de gols marcados,Especiais,Sequencia,500388000,mostra_sequencia_gols,,6,6
+467,478,Sequência de gols sofridos,Especiais,Sequencia,500389000,mostra_sequencia_gols,,2,2
+468,479,Sequência de gols por jogador,Especiais,Sequencia,501000000,generico_jogador,mostra_sequencia2,4,4
+469,480,Sequência invicta de goleiros,Especiais,Sequencia,508000000,consulta_goleiro,mostra_goleiro,0,0
+470,481,Sequência invicta de goleiros em clássicos,Especiais,Sequencia,508534000,consulta_goleiro,mostra_goleiro,0,0
+471,482,Maiores sequências invictas de goleiros,Especiais,Sequencia,509000000,mostra_goleiro2,,0,0
+472,483,Maiores sequências invictas de goleiros em clássicos,Especiais,Sequencia,509534000,mostra_goleiro2,,0,0
+473,484,Últimas sequência por quantidade,Especiais,Sequencia,500487000,sequencia_qtd,mostra_sequencia_qtd,5,5
+474,485,Últimas sequência por quantidade em jogos oficiais,Especiais,Sequencia,500497000,sequencia_qtd,mostra_sequencia_qtd,3,3
+475,486,Sequência seguida de gols,Especiais,Sequencia,500797000,sequencia_gols,,2,2
+476,556,Últimas seq exata de jogos com gols por qtd,Especiais,Sequencia,500488388,sequencia_qtd,mostra_sequencia_gols_qtd,2,2
+477,557,Últimas seq exata de jogos com gols por qtd em jogos oficiais,Especiais,Sequencia,500498388,sequencia_qtd,mostra_sequencia_gols_qtd,0,0
+478,571,Sequências como mandante,Especiais,Sequencia,500000300,mostra_sequencia,,17,15
+479,572,Sequências como visitante,Especiais,Sequencia,500000400,mostra_sequencia,,5,4
+480,573,Sequências em estádio como mandante,Especiais,Sequencia,500102300,generico_estadio,mostra_sequencia2,7,5
+481,574,Sequências em estádio como visitante,Especiais,Sequencia,500102400,generico_estadio,mostra_sequencia2,4,2
+482,575,Sequências em campeonato como mandante,Especiais,Sequencia,500103300,generico_campeonato,mostra_sequencia2,7,6
+483,576,Sequências em campeonato como visitante,Especiais,Sequencia,500103400,generico_campeonato,mostra_sequencia2,2,2
+484,577,Sequências em estádio em campeonato,Especiais,Sequencia,500102103,generico_especial,mostra_sequencia2,5,5
+485,578,Últimas sequência por quantidade em jogos oficiais mandante,Especiais,Sequencia,500497300,sequencia_qtd,mostra_sequencia_qtd,3,3
+486,579,Últimas sequência por quantidade em jogos oficiais visitante,Especiais,Sequencia,500497400,sequencia_qtd,mostra_sequencia_qtd,2,2
+487,488,Jogos em dd/mm,Especiais,Jogo,654000000,consulta_jogo,mostra_especial_jogo,96,88
+488,489,Jogos em mes/ano,Especiais,Jogo,655000000,consulta_jogo,mostra_especial_jogo,30,28
+489,490,Consulta jogo número:,Especiais,Jogo,656000000,consulta_jogo,mostra_especial_jogo,8,8
+490,491,Consulta jogo número contra adversário:,Especiais,Jogo,659000000,consulta_jogo,mostra_especial_jogo,1,1
+491,492,Últimos jogos,Especiais,Jogo,658000000,consulta_jogo,mostra_especial_jogo,65,59
+492,493,Dia da semana,Especiais,Jogo,660000000,consulta_jogo,mostra_especial_jogo,8,8
+493,494,Dia da semana por ano,Especiais,Jogo,660106000,consulta_jogo,mostra_especial_jogo,4,4
+494,495,Dia da semana - adversário,Especiais,Jogo,660100000,consulta_jogo,mostra_especial_jogo,1,1
+495,496,Dia da semana em campeonato,Especiais,Jogo,660103000,consulta_jogo,mostra_especial_jogo,8,8
+496,497,Dia da semana - estádio,Especiais,Jogo,660102000,consulta_jogo,mostra_especial_jogo,2,2
+497,498,Dia da semana - clássicos,Especiais,Jogo,660190000,consulta_jogo,mostra_especial_jogo,2,2
+498,499,Jogos em hh:mm,Especiais,Jogo,661192000,consulta_horario,mostra_especial_jogo,11,10
+499,500,Últimos jogos como mandante,Especiais,Jogo,658700000,consulta_jogo,mostra_especial_jogo,34,29
+500,501,Últimos jogos como visitante,Especiais,Jogo,658701000,consulta_jogo,mostra_especial_jogo,12,10
+501,502,Jogos inesquecíveis,Especiais,Jogo,515000000,consulta_importante,mostra_jogo,26,22
+502,554,Próximos Jogos,Especiais,Jogo,NAO,proximos_jogos,,29,26
+503,555,Avaliação das previsões,Especiais,Jogo,NAO,avaliacao,,14,13
+504,558,Evolução de gols por ano,Especiais,Jogo,663000000,generico_ano,evolucao_gols,7,6
+505,504,Ranking de posições,Especiais,Brasileiro,NAO,ranking_posicao,,18,15
+506,505,Posições por ano,Especiais,Brasileiro,821000000,generico_ano,posicao_ano,5,5
+507,506,Posições por período,Especiais,Brasileiro,822000000,generico_ano,posicao_periodo,0,0
+508,507,Posições por rodada,Especiais,Brasileiro,816000000,consulta_rodada,posicao_rodada,0,0
+509,508,Rodadas 1º/G4/G6/Z4,Especiais,Brasileiro,NAO,rodada_grupos,,8,8
+510,509,Ranking de Campanhas,Especiais,Brasileiro,NAO,pontos_campeonato,,12,9
+511,510,Campanha nos turnos,Especiais,Brasileiro,NAO,consulta_turno,mostra_turno,34,30
+512,511,Ranking de turnos,Especiais,Brasileiro,NAO,ranking_turno,,12,10
+513,512,Maiores artilheiros nos turnos,Especiais,Brasileiro,NAO,artilheiro_turno,,10,10
+514,513,Mais jogos nos turnos,Especiais,Brasileiro,NAO,presenca_turno,,5,3
+515,514,Números consolidados nos turnos,Especiais,Brasileiro,NAO,consolida_turno,,5,5
+516,515,Adversários nos turnos,Especiais,Brasileiro,100998000,consulta_especial,adversario_turno,6,6
+517,516,Pontos por rodada,Especiais,Brasileiro,616000000,consulta_rodada,posicao_rodada,3,3
+518,517,Pontos por turno,Especiais,Brasileiro,638000000,generico_ano,posicao_ano,6,6
+519,519,Técnico Adversário,Especiais,Tecadv,113000000,consulta_tecadv,mostra_tecadv,14,14
+520,520,Ranking Técnico Adversário,Especiais,Tecadv,114000000,ranking_tecadv,,7,7
+521,521,Ranking Técnico Adversário em jogos oficiais,Especiais,Tecadv,117000000,ranking_tecadv,,3,3
+522,522,Ranking Técnico Adversário - Aproveitamento,Especiais,Tecadv,115000000,ranking_aprtecadv,,2,2
+523,523,Curiosidades técnico adversário,Especiais,Tecadv,116000000,curiosidades_tecadv,,0,0
+524,524,Adversário x Técnico Adversário,Especiais,Tecadv,100639000,consulta_especial,adversario_tecadv,1,1
+525,525,Ranking Técnico Adversário Século XXI,Especiais,Tecadv,124000000,ranking_tecadv,,4,4
+526,526,Ranking Técnico Adversário Século XX,Especiais,Tecadv,134000000,ranking_tecadv,,1,1
+527,527,Ranking Técnico Adversário em jogos oficiais Sec XXI,Especiais,Tecadv,127000000,ranking_tecadv,,4,4
+528,528,Ranking Técnico Adversário em jogos oficiais Sec XX,Especiais,Tecadv,137000000,ranking_tecadv,,0,0
+529,529,Ranking Técnico Adversário - Aproveitamento - Sec XXI,Especiais,Tecadv,125000000,ranking_aprtecadv,,1,1
+530,530,Ranking Técnico Adversário - Aproveitamento - Sec XX,Especiais,Tecadv,135000000,ranking_aprtecadv,,1,1
+531,532,Números mais utilizados,Especiais,Numeracao,NAO,mostra_numeracao,,34,29
+532,533,Números com mais jogos,Especiais,Numeracao,NAO,mostra_numeracao_jogos,,14,12
+533,534,Números com mais gols,Especiais,Numeracao,NAO,mostra_numeracao_gols,,13,11
+534,536,Minutagem no ano,Especiais,Jogador,296306000000,consulta_ranking,mostra_minutagem,1,1
+535,537,Minutagem por passagem de técnico,Especiais,Jogador,296875000000,generico_tecnico,mostra_minutagem,0,0
+536,538,Minutagem em campeonato,Especiais,Jogador,296103000000,consulta_ranking,mostra_minutagem,0,0
+537,539,Mais Substituídos,Especiais,Jogador,NAO,mostra_substituidos,,3,3
+538,540,Mais Substituídos por ano,Especiais,Jogador,298106000000,consulta_ranking,mostra_substituicao,0,0
+539,541,Mais substituídos por passagem de técnico,Especiais,Jogador,298875000000,generico_tecnico,mostra_substituicao,0,0
+540,542,Mais substituídos em campeonato,Especiais,Jogador,298103000000,consulta_ranking,mostra_substituicao,0,0
+541,543,12º Jogador,Especiais,Jogador,NAO,mostra_jogador12,,5,5
+542,544,12º Jogador no ano,Especiais,Jogador,299106000000,consulta_ranking,mostra_substituicao,0,0
+543,545,12º Jogador por passagem de técnico,Especiais,Jogador,299875000000,generico_tecnico,mostra_substituicao,0,0
+544,546,12º Jogador em campeonato,Especiais,Jogador,299103000000,consulta_ranking,mostra_substituicao,0,0
+545,580,Mais fez gols de falta,Especiais,Jogador,665000000000,generico_gols,detalhamento_gols,2,2
+546,581,Mais fez gols de falta no século,Especiais,Jogador,665250000000,generico_gols,detalhamento_gols,1,1
+547,582,Mais fez gols de falta no período,Especiais,Jogador,665260000000,generico_gols,detalhamento_gols,1,1
+548,10000,Adversário - Link,Link,Adversario,NAO,link_adversario,,1468,1399
+549,10000,Arbitro - Link,Link,Arbitro,NAO,link_arbitro,,525,503
+550,10000,Assistencia - Link,Link,Assistencia,NAO,link_assist,,137,133
+551,10000,Batedor - Penalty - Link,Link,Jogador,NAO,link_batedor,,17,16
+552,10000,Camisa - Link,Link,Camisa,NAO,link_camisa,,416,395
+553,10000,Campeonato - Link,Link,Campeonato,NAO,link_campeonato,,686,664
+554,10000,Detalhamento de gols - Link,Link,Gols,NAO,link_detgol,,25,25
+555,10000,Estadio - Link,Link,Estádio,NAO,link_estadio,,558,532
+556,10000,Gols - Link,Link,Gols,NAO,link_gol,,365,340
+557,10000,Gols - Link,Link,Gols,NAO,link_gols,,28,28
+558,10000,Jogador - Link,Link,Jogador,NAO,link_jogador,,4431,4211
+559,10000,Jogador Cartão - Link,Link,Jogador,NAO,link_jogador_cartao,,196,196
+560,10000,Jogo - Link,Link,Jogo,NAO,link_jogo,,16808,15908
+561,10000,Mascote - Link,Link,Adversario,NAO,link_mascote,,303,283
+562,10000,Numeracao - Link,Link,Numeracao,NAO,link_numero_jogador,,55,55
+563,10000,Penalti Ano - Link,Link,Gols,NAO,link_penalti_ano,,20,19
+564,10000,Tecnico Adversario - Link,Link,Tecadv,NAO,link_tecadv,,27,27
+565,10000,Tecnico - Link,Link,Tecnico,NAO,link_tecnico,,265,257
+566,10000,Tecnico Adversario - Link,Link,Tecadv,NAO,link_tecnicoadv,,80,76
+567,10000,Geral - Link,Link,Geral,NAO,link_todos,,613,559
+568,10000,Brasileiro - Link,Link,Brasileiro,NAO,link_turno,,15,13
+569,10000,Jogo - Link,Link,Jogo,NAO,link_video,,78,74

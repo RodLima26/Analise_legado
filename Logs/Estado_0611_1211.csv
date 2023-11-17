@@ -1,0 +1,157 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20231106
+# Data de termino: 20231112
+Regiao;Data;Usuarios recorrentes;Primeiras visitas;Total de usuarios;Usuarios
+State of Rio de Janeiro;20231110;41;25;70;66
+State of Rio de Janeiro;20231108;36;38;71;68
+State of Rio de Janeiro;20231109;34;47;77;74
+State of Rio de Janeiro;20231107;32;32;68;64
+State of Rio de Janeiro;20231111;32;34;68;65
+State of Rio de Janeiro;20231106;28;39;66;65
+State of Rio de Janeiro;20231112;24;20;48;43
+State of Sao Paulo;20231110;10;12;21;21
+Federal District;20231108;5;5;9;9
+State of Espirito Santo;20231108;5;2;7;7
+State of Minas Gerais;20231110;5;7;13;13
+State of Sao Paulo;20231109;5;8;14;13
+Federal District;20231106;4;3;7;7
+State of Espirito Santo;20231107;4;1;6;6
+State of Minas Gerais;20231111;4;3;8;8
+State of Minas Gerais;20231112;4;9;13;12
+State of Sao Paulo;20231106;4;12;17;17
+State of Sao Paulo;20231107;4;10;14;14
+State of Espirito Santo;20231106;3;5;8;8
+State of Minas Gerais;20231107;3;5;9;9
+State of Minas Gerais;20231109;3;5;9;9
+State of Parana;20231111;3;1;4;4
+State of Sao Paulo;20231108;3;10;13;13
+State of Sao Paulo;20231111;3;10;15;13
+Federal District;20231107;2;2;4;4
+Federal District;20231111;2;4;6;6
+Mexico City;20231108;2;1;2;2
+State of Alagoas;20231111;2;0;2;2
+State of Bahia;20231106;2;2;5;4
+State of Bahia;20231112;2;0;2;2
+State of Ceara;20231109;2;0;2;2
+State of Espirito Santo;20231109;2;0;4;2
+State of Espirito Santo;20231110;2;0;2;2
+State of Espirito Santo;20231111;2;5;7;7
+State of Espirito Santo;20231112;2;1;4;4
+State of Minas Gerais;20231106;2;2;4;4
+State of Minas Gerais;20231108;2;3;5;5
+State of Parana;20231108;2;2;5;4
+State of Piaui;20231107;2;0;2;2
+State of Piaui;20231109;2;0;2;2
+State of Rio Grande do Sul;20231110;2;1;5;5
+State of Sao Paulo;20231112;2;2;7;4
+Catalonia;20231110;1;1;1;1
+Federal District;20231109;1;3;5;3
+Federal District;20231112;1;3;4;4
+Hessen;20231111;1;0;1;1
+Mexico City;20231109;1;0;1;1
+North Sumatra;20231106;1;0;2;2
+Ontario;20231109;1;1;2;2
+Porto District;20231107;1;0;1;1
+Porto District;20231108;1;1;2;2
+Region of Murcia;20231107;1;0;1;1
+State of Alagoas;20231108;1;0;1;1
+State of Alagoas;20231112;1;1;3;2
+State of Bahia;20231107;1;1;2;2
+State of Bahia;20231108;1;2;3;3
+State of Bahia;20231111;1;2;3;3
+State of Ceara;20231107;1;0;1;1
+State of Ceara;20231110;1;1;2;2
+State of Ceara;20231111;1;2;3;3
+State of Goias;20231107;1;1;2;2
+State of Goias;20231110;1;3;4;4
+State of Goias;20231111;1;2;3;3
+State of Goias;20231112;1;1;4;2
+State of Mato Grosso do Sul;20231112;1;0;1;1
+State of Para;20231106;1;1;2;2
+State of Para;20231107;1;2;2;2
+State of Para;20231108;1;0;1;1
+State of Para;20231111;1;1;2;2
+State of Paraiba;20231109;1;0;1;1
+State of Paraiba;20231110;1;1;1;1
+State of Parana;20231106;1;2;4;4
+State of Parana;20231112;1;2;3;3
+State of Pernambuco;20231112;1;0;1;1
+State of Piaui;20231110;1;0;1;1
+State of Rio Grande do Norte;20231106;1;4;5;5
+State of Rio Grande do Norte;20231107;1;1;2;2
+State of Rio Grande do Norte;20231108;1;3;4;4
+State of Rio Grande do Norte;20231110;1;0;1;1
+State of Rio Grande do Norte;20231111;1;1;2;2
+State of Rio Grande do Sul;20231106;1;2;6;6
+State of Rio Grande do Sul;20231111;1;1;2;2
+State of Rio Grande do Sul;20231112;1;0;1;1
+State of Santa Catarina;20231106;1;3;4;4
+State of Sergipe;20231107;1;0;1;1
+Ulyanovsk Oblast;20231108;1;0;1;1
+Ulyanovsk Oblast;20231111;1;0;1;1
+Valencian Community;20231110;1;0;1;1
+(not set);20231107;0;2;2;2
+(not set);20231111;0;1;1;1
+Andalusia;20231110;0;1;1;1
+Auvergne-Rhone-Alpes;20231107;0;1;1;1
+Baden-Wurttemberg;20231109;0;1;1;1
+Bogota;20231106;0;1;1;1
+Braga;20231110;0;1;1;1
+California;20231109;0;1;1;1
+Federal District;20231110;0;3;3;3
+Florida;20231106;0;1;1;1
+Guayas;20231109;0;1;1;1
+Lisbon;20231107;0;1;1;1
+Lisbon;20231112;0;1;1;1
+Luanda Province;20231112;0;1;1;1
+Maldonado Department;20231107;0;1;1;1
+Maldonado Department;20231108;0;1;1;1
+Moscow;20231112;0;1;1;1
+Oregon;20231110;0;1;1;1
+Pest County;20231110;0;1;1;1
+Porto District;20231111;0;1;1;1
+Saratov Oblast;20231111;0;1;1;1
+Saxony;20231107;0;1;1;1
+South Holland;20231107;0;1;1;1
+State of Acre;20231106;0;1;1;1
+State of Alagoas;20231106;0;2;2;2
+State of Amazonas;20231108;0;2;2;2
+State of Amazonas;20231109;0;1;1;1
+State of Amazonas;20231110;0;2;2;2
+State of Amazonas;20231111;0;1;1;1
+State of Amazonas;20231112;0;2;2;2
+State of Bahia;20231109;0;3;3;3
+State of Bahia;20231110;0;3;3;3
+State of Ceara;20231106;0;3;3;3
+State of Ceara;20231108;0;1;2;1
+State of Ceara;20231112;0;1;1;1
+State of Goias;20231106;0;3;4;4
+State of Goias;20231108;0;0;1;0
+State of Mato Grosso;20231106;0;1;1;1
+State of Mato Grosso do Sul;20231106;0;1;1;1
+State of Mato Grosso do Sul;20231110;0;1;1;1
+State of Para;20231110;0;1;2;2
+State of Paraiba;20231112;0;1;1;1
+State of Parana;20231107;0;2;3;3
+State of Parana;20231109;0;3;3;3
+State of Parana;20231110;0;1;1;1
+State of Pernambuco;20231106;0;1;1;1
+State of Pernambuco;20231107;0;2;2;2
+State of Pernambuco;20231109;0;1;1;1
+State of Pernambuco;20231110;0;1;1;1
+State of Rio Grande do Norte;20231112;0;1;1;1
+State of Rio Grande do Sul;20231107;0;2;2;2
+State of Rio Grande do Sul;20231108;0;3;4;4
+State of Rio Grande do Sul;20231109;0;1;1;1
+State of Santa Catarina;20231107;0;1;1;1
+State of Santa Catarina;20231109;0;2;2;2
+State of Santa Catarina;20231110;0;1;1;1
+State of Santa Catarina;20231111;0;4;4;4
+State of Sergipe;20231109;0;1;1;1
+Veneto;20231109;0;1;1;1

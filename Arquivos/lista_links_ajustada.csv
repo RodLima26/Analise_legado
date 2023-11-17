@@ -1,0 +1,221 @@
+;HTML;Links
+0;adversario.html;
+1;adversario_graf.html;
+2;arbitro.html;
+3;ataque.html;link.link_jogador
+4;ataque_defesa.html;
+5;avaliacao.html;link.link_jogo
+6;batedores_todos.html;link.link_adversario; link.link_arbitro; link.link_batedor; link.link_campeonato; link.link_estadio; link.link_jogo
+7;camisa.html;mostra.mostra_camisa2; principal.consulta_camisa; principal.consulta_fornecedor; principal.consulta_patrocinio; principal.todas_camisas
+8;campeonato.html;
+9;consulta_adversario.html;
+10;consulta_camisa.html;
+11;consulta_camisa_toda.html;link.link_camisa
+12;consulta_cor.html;
+13;consulta_disputa.html;
+14;consulta_espadv.html;
+15;consulta_especial.html;
+16;consulta_fornecedor.html;
+17;consulta_goleiro.html;
+18;consulta_paiscamp.html;
+19;consulta_patrocinio.html;
+20;consulta_periodo_publico.html;
+21;consulta_placar.html;
+22;consulta_prinadv.html;
+23;consulta_publico.html;
+24;consulta_ranking.html;
+25;consulta_tecadv.html;
+26;consulta_tempodet.html;
+27;consulta_turno.html;
+28;creditos.html;
+29;cronologia_gols.html;link.link_detgol; link.link_jogo
+30;curiosidade.html;
+31;curiosidade_estadio.html;link.link_estadio
+32;defesa.html;link.link_jogador
+33;detalhe_gols.html;link.link_jogador; link.link_jogo
+34;distancia_percorrida.html;link.link_adversario; link.link_campeonato; link.link_estadio; link.link_jogo
+35;duelo_eliminatorio.html;
+36;duelo_eliminatorio_saldo.html;link.link_jogo
+37;escolhe_duelo.html;
+38;especial.html;principal.consulta_especial_adversario; principal.consulta_especial_arbitro; principal.consulta_especial_brasileiro; principal.consulta_especial_campeonato; principal.consulta_especial_classico; principal.consulta_especial_estadio; principal.consulta_especial_gerais; principal.consulta_especial_jogador; principal.consulta_especial_jogos; principal.consulta_especial_presidente; principal.consulta_especial_resultados; principal.consulta_especial_sequencia; principal.consulta_especial_tecadv; principal.consulta_especial_tecnico; principal.consulta_numeracao; principal.consulta_substituicao
+39;especial2.html;especial.consulta_cartao; especial.consulta_disputa; especial.consulta_espadv; especial.consulta_especial; especial.consulta_paiscamp; especial.consulta_prinadv; especial.consulta_ranking; especial.mostra_advmais; especial.mostra_arbapr; especial.mostra_arbcartao; especial.mostra_arbitromais; especial.mostra_espadv; especial.mostra_penalti; especial.mostra_ranking; especial2.consulta_campano; especial2.consulta_campeonato; especial2.consulta_estadio; especial2.consulta_goleiro; especial2.goleiro_gols; especial2.mostra_aproveitamento; especial2.mostra_classico; especial2.mostra_estadiomais; especial2.mostra_goleiro2; geral.disputa_penalty; geral.estatistica_data; geral.maiores_publicos; geral.maiores_publicos_classicos; geral.marcas_historicas; geral.media_publicos_classicos; geral.menores_publicos; geral.sem_informacao; jogador.consulta_jogador; jogador.defesa_penalti; jogador.lista_pais; jogador.media_goleiro; jogador.mostra_media_cartao; mostra.mostra_rankingpres; principal.consulta_mascote; principal.consulta_presidente; principal.consulta_subcampeonato; resultado.consulta_jogo; resultado.consulta_placar; resultado.generico_adversario; resultado.generico_ano; resultado.generico_arbitro; resultado.generico_campeonato; resultado.generico_especial; resultado.generico_estadio; resultado.generico_jogador; resultado.generico_tecnico; resultado.mostra_frequencia; resultado.mostra_goleada; sequencia.mostra_sequencia; sequencia.mostra_sequencia_gols
+40;especial_adversario.html;especial.consulta_cartao; especial.consulta_cores; especial.consulta_disputa; especial.consulta_espadv; especial.consulta_especial; especial.consulta_paiscamp; especial.consulta_prinadv; especial.mostra_advmais; especial.mostra_espadv; especial.mostra_penalti; principal.consulta_mascote; resultado.generico_adversario
+41;especial_arbitro.html;especial.consulta_espadv; especial.consulta_especial; especial.consulta_tempo; especial.mostra_arbapr; especial.mostra_arbcartao; especial.mostra_arbitromais
+42;especial_brasileiro.html;especial.consulta_especial; mostra.pontos_campeonato; mostra.ranking_posicao; mostra.rodada_grupos; resultado.artilheiro_turno; resultado.consolida_turno; resultado.consulta_rodada; resultado.consulta_turno; resultado.generico_ano; resultado.presenca_turno; resultado.ranking_turno
+43;especial_campeonato.html;
+44;especial_campeonato2.html;especial.consulta_especial; especial.consulta_tempo; especial2.consulta_campano; especial2.consulta_campeonato; principal.consulta_subcampeonato; resultado.generico_campeonato
+45;especial_classico.html;especial2.mostra_classico; geral.maiores_publicos_classicos; geral.media_publicos_classicos; resultado.consulta_jogo; resultado.generico_ano; resultado.generico_arbitro; resultado.generico_campeonato; resultado.generico_estadio; resultado.generico_jogador; resultado.generico_tecnico; resultado.mostra_frequencia; sequencia.mostra_sequencia
+46;especial_estadio.html;
+47;especial_estadio2.html;especial.consulta_especial; especial.consulta_tempo; especial.estadio_curiosidade; especial.geolocalizacao; especial2.consulta_estadio; especial2.mostra_estadiomais
+48;especial_gerais.html;especial.consulta_especial; geral.disputa_penalty; geral.duelo_eliminatorio; geral.duelo_eliminatorio_adv; geral.duelo_eliminatorio_saldo; geral.estat_decadas; geral.estat_periodo; geral.estatistica_data; geral.gols_rapidos; geral.maiores_publicos; geral.marcas_historicas; geral.menores_publicos; geral.mostra_finais; geral.numero_temporada; geral.ordem_gols; geral.penalti_ano; geral.quantidade_gols; geral.ranking_distancia; geral.sem_informacao; resultado.consulta_placar; resultado.generico_adversario; resultado.generico_ano
+49;especial_gols.html;link.link_gols
+50;especial_graficos.html;grafico.grafico_adversario; grafico.grafico_ano; grafico.grafico_arbitro; grafico.grafico_artilheiro; grafico.grafico_assistencia; grafico.grafico_campeonato; grafico.grafico_colocacao; grafico.grafico_combinado; grafico.grafico_estadio; grafico.grafico_evolucao; grafico.grafico_geral; grafico.grafico_goleiro; grafico.grafico_heatmap; grafico.grafico_jogador; grafico.grafico_tecnico; grafico.grafico_tecpart
+51;especial_jogadores.html;especial.consulta_especial; especial.consulta_hattrick; especial.consulta_ranking; especial.consulta_tempo; especial.estrangeiro_temporada; especial.melhores_media_gols; especial.mostra_ranking; especial2.consulta_goleiro; especial2.goleiro_gols; especial2.gols_tempo; especial2.idades; especial2.jogador_batedor; especial2.jogador_cartao; especial2.partgolsjogo; jogador.consulta_jogador; jogador.defesa_penalti; jogador.estat_posicao; jogador.lista_pais; jogador.media_goleiro; jogador.melhores_jogadores; jogador.mostra_media_cartao; principal.consulta_tecjog; resultado.consulta_jogo; resultado.detalhamento_gols; resultado.generico_campeonato
+52;especial_jogo.html;
+53;especial_jogos.html;mostra.avaliacao; mostra.proximos_jogos; resultado.consulta_horario; resultado.consulta_importante; resultado.consulta_jogo; resultado.generico_ano
+54;especial_numeracao.html;especial2.mostra_numeracao; especial2.mostra_numeracao_gols; especial2.mostra_numeracao_jogos
+55;especial_presidente.html;mostra.mostra_rankingpres; principal.consulta_presidente
+56;especial_resultados.html;resultado.consulta_placar; resultado.detalhamento_gols; resultado.generico_adversario; resultado.generico_ano; resultado.generico_campeonato; resultado.generico_especial; resultado.generico_estadio; resultado.jogos_gols; resultado.mostra_frequencia; resultado.mostra_goleada; resultado.mostra_goltempo
+57;especial_sequencia.html;especial2.consulta_goleiro; especial2.mostra_goleiro2; especial2.sequencia_gols; especial2.sequencia_qtd; resultado.generico_adversario; resultado.generico_ano; resultado.generico_campeonato; resultado.generico_especial; resultado.generico_estadio; resultado.generico_jogador; resultado.generico_tecnico; sequencia.mostra_sequencia; sequencia.mostra_sequencia_gols
+58;especial_substituicao.html;especial.consulta_ranking; especial2.mostra_jogador12; especial2.mostra_substituidos; resultado.generico_tecnico
+59;especial_tecadv.html;especial.consulta_especial; especial2.consulta_tecadv; especial2.curiosidades_tecadv; especial2.ranking_aprtecadv; especial2.ranking_tecadv
+60;especial_tecnico.html;especial.consulta_especial; especial.consulta_tempo; especial.mostra_ranking; especial2.mostra_aproveitamento; especial2.trabalhos_longos; mostra.timeline_tec; resultado.generico_campeonato; resultado.generico_tecnico
+61;estadio.html;
+62;estadio_todos.html;
+63;estatistica_estadio.html;
+64;estatistica_geral.html;
+65;estatistica_geral2.html;
+66;estatistica_jogtec.html;
+67;estatistica_penalti.html;
+68;fale_conosco.html;
+69;favicon.html;
+70;generico_adversario.html;
+71;generico_arbitro.html;
+72;generico_campeonato.html;
+73;generico_data.html;
+74;generico_especial.html;
+75;generico_estadio.html;
+76;generico_gols.html;
+77;generico_jogador.html;
+78;generico_rodada.html;
+79;generico_tecnico.html;
+80;gols.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+81;gols_rapidos.html;link.link_jogo
+82;grafico.html;grafico.grafico_adversario; grafico.grafico_ano; grafico.grafico_arbitro; grafico.grafico_artilheiro; grafico.grafico_assistencia; grafico.grafico_campeonato; grafico.grafico_colocacao; grafico.grafico_estadio; grafico.grafico_evolucao; grafico.grafico_geral; grafico.grafico_goleiro; grafico.grafico_heatmap; grafico.grafico_jogador; grafico.grafico_tecnico
+83;idolos.html;link.link_jogador
+84;index.html;principal.camisa; principal.consulta_adversario; principal.consulta_campeonato; principal.consulta_curiosidade; principal.consulta_especial; principal.consulta_estadio; principal.consulta_geral; principal.consulta_grafico; principal.consulta_jogador; principal.consulta_jogo; principal.consulta_juiz; principal.consulta_tecnico
+85;jogador.html;
+86;jogador_generico.html;
+87;jogo.html;
+88;jogo2.html;
+89;jogo_importante.html;
+90;jogo_sem_informacao.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+91;link_adversario.html;link.link_adversario
+92;lista_batedores.html;
+93;lista_gol_assist.html;link.link_campeonato; link.link_jogador; link.link_jogo
+94;lista_penaltis_ano.html;link.link_adversario; link.link_campeonato; link.link_jogador; link.link_jogo; link.link_penalti_ano
+95;maiores_publicos.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+96;mais_partgol.html;link.link_jogador; link.link_jogo
+97;marcas_historicas.html;
+98;mascote.html;
+99;media_publico.html;
+100;meio_campo.html;link.link_jogador
+101;mensagem_enviada.html;principal.inicio
+102;mostra_adversario.html;link.link_mascote; link.link_todos
+103;mostra_advtempo.html;
+104;mostra_advturno.html;
+105;mostra_aniversario.html;link.link_jogador
+106;mostra_aprarb.html;link.link_arbitro
+107;mostra_aprtec.html;link.link_passagem; link.link_tecnico
+108;mostra_arbitro.html;link.link_todos
+109;mostra_ataque_defesa.html;
+110;mostra_atuacao.html;link.link_campeonato; link.link_estadio; link.link_jogo
+111;mostra_camisa.html;
+112;mostra_campeonato.html;link.link_turno
+113;mostra_cartao.html;link.link_amarelo; link.link_vermelho
+114;mostra_cartaoarb.html;link.link_arbitro
+115;mostra_cartaocamp.html;
+116;mostra_cartao_ano.html;link.link_jogador
+117;mostra_cartao_jogador.html;link.link_jogador
+118;mostra_classico.html;
+119;mostra_cor.html;
+120;mostra_decada.html;link.link_jogador; link.link_tecnico
+121;mostra_detalhe_cartao.html;link.link_jogador
+122;mostra_detalhe_posicao.html;link.link_brasileiro
+123;mostra_detgols_minuto.html;link.link_jogador
+124;mostra_disputa.html;
+125;mostra_espadv.html;
+126;mostra_especial.html;
+127;mostra_especial_dsemana.html;
+128;mostra_especial_jogo.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+129;mostra_estadio.html;link.link_todos
+130;mostra_estadocamp.html;
+131;mostra_estrangeiro_gols.html;link.link_jogador
+132;mostra_evolucao.html;
+133;mostra_evolucao_gols.html;link.link_jogo
+134;mostra_final.html;link.link_adversario
+135;mostra_fornecedor.html;
+136;mostra_frequencia.html;
+137;mostra_geral.html;
+138;mostra_goleada.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+139;mostra_goleiro.html;link.link_jogador; link.link_jogo2
+140;mostra_gols_minuto.html;resultado.detalhe_gol_ano
+141;mostra_grafico.html;
+142;mostra_grafico_adversario.html;
+143;mostra_grafico_dinamico.html;
+144;mostra_grupo_posicao.html;link.link_brasileiro
+145;mostra_hattrick.html;link.link_jogo
+146;mostra_jogador.html;link.link_assist; link.link_gol; link.link_jogador; link.link_jogador_cartao; link.link_numero_jogador
+147;mostra_jogador_gols.html;link.link_jogos_gols
+148;mostra_jogador_numero.html;
+149;mostra_jogo.html;link.link_arbitro; link.link_assist; link.link_batedor; link.link_camisa; link.link_campeonato; link.link_estadio; link.link_jogador; link.link_jogo; link.link_tecnico; link.link_tecnicoadv; link.link_video
+150;mostra_listaadv.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_jogador
+151;mostra_listaposicao.html;
+152;mostra_mapa.html;
+153;mostra_mascote.html;
+154;mostra_media_gols.html;link.link_jogador
+155;mostra_numeracao_fixa.html;link.link_jogador
+156;mostra_numeros.html;
+157;mostra_patrocinio.html;
+158;mostra_penalti.html;
+159;mostra_placar.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo; link.link_saldo
+160;mostra_presidente.html;
+161;mostra_prinadv.html;
+162;mostra_qtd_gols.html;link.link_jogo
+163;mostra_ranking.html;
+164;mostra_ranking_seculo.html;link.link_jogador
+165;mostra_rkgbrasileiro.html;
+166;mostra_rkgcamisa.html;
+167;mostra_rkgpresidente.html;
+168;mostra_rodada.html;link.link_posicao
+169;mostra_sequencia.html;link.link_jogo2
+170;mostra_sequencia2.html;link.link_jogo2
+171;mostra_sequencia3.html;link.link_jogo2
+172;mostra_sequencia_data.html;
+173;mostra_sequencia_gols.html;link.link_jogador; link.link_jogo2
+174;mostra_sequencia_qtd.html;
+175;mostra_tecjog.html;link.link_jogador_cartao; link.link_passagem
+176;mostra_tecnico.html;link.link_passagem
+177;mostra_tecnico_adv.html;link.link_adversario; link.link_tecadv; link.link_tecnicoadv
+178;mostra_tempodet.html;
+179;mostra_timebase.html;
+180;mostra_todos.html;
+181;mostra_todos2.html;
+182;mostra_todos3.html;
+183;mostra_turno.html;
+184;mostra_varcamp.html;link.link_jogo
+185;mostra_video.html;
+186;presidente.html;
+187;proximos_jogos.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio
+188;publico_ano.html;
+189;ranking.html;link.link_jogador
+190;ranking_adv.html;link.link_adversario; link.link_arbitro; link.link_estadio
+191;ranking_assistencia.html;link.link_jogador
+192;ranking_brasileiro.html;
+193;ranking_camisa.html;
+194;ranking_idade.html;link.link_jogador; link.link_jogo
+195;ranking_media_gols.html;link.link_jogador
+196;ranking_minutagem.html;link.link_jogador
+197;ranking_penalti.html;link.link_adversario
+198;ranking_presenca.html;link.link_jogador
+199;ranking_presidente.html;
+200;ranking_resultado.html;link.link_jogador
+201;ranking_tecnico.html;link.link_jogador; link.link_tecnico
+202;ranking_turno.html;link.link_jogador; link.link_turno
+203;selecao.html;link.link_jogador
+204;subcampeonato.html;
+205;tecjog.html;
+206;tecnico.html;
+207;timeline_tecnico.html;link.link_passagem
+208;titulo_especial.html;
+209;todos.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+210;todos_duelo.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+211;todos_estadio.html;
+212;todos_gols.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+213;todos_numero.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+214;todos_penalti.html;link.link_adversario; link.link_arbitro; link.link_batedor; link.link_campeonato; link.link_estadio; link.link_jogo
+215;todos_turno.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
+216;topo.html;index; principal.camisa; principal.consulta_adversario; principal.consulta_campeonato; principal.consulta_curiosidade; principal.consulta_especial; principal.consulta_estadio; principal.consulta_geral; principal.consulta_grafico; principal.consulta_jogador; principal.consulta_jogo; principal.consulta_juiz; principal.consulta_tecnico; principal.contato; principal.mostra_credito
+217;topo2.html;index; principal.camisa; principal.consulta_adversario; principal.consulta_campeonato; principal.consulta_curiosidade; principal.consulta_especial; principal.consulta_estadio; principal.consulta_geral; principal.consulta_grafico; principal.consulta_jogador; principal.consulta_jogo; principal.consulta_juiz; principal.consulta_tecnico; principal.contato; principal.mostra_credito
+218;topo3.html;index; principal.camisa; principal.consulta_adversario; principal.consulta_campeonato; principal.consulta_curiosidade; principal.consulta_especial; principal.consulta_estadio; principal.consulta_geral; principal.consulta_grafico; principal.consulta_jogador; principal.consulta_jogo; principal.consulta_juiz; principal.consulta_tecnico; principal.contato; principal.mostra_credito
+219;ultimos10.html;link.link_adversario; link.link_arbitro; link.link_campeonato; link.link_estadio; link.link_jogo
