@@ -1,0 +1,154 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+#  
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Usuarios
+0000;90
+0001;110
+0002;117
+0003;99
+0004;87
+0005;73
+0006;85
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Novos usuarios
+0000;55
+0001;77
+0002;72
+0003;57
+0004;54
+0005;44
+0006;53
+
+# Quanta receita voce esta gerando?
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Receita total
+
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Receita de compra
+
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Total de compradores
+
+
+# Qual e a qualidade das suas tendencias de receita?
+# Data de inicio: 20221119
+# Data de termino: 20231119
+Nº mes;Receita diaria maxima;Receita media diaria;Receita diaria minima
+
+
+# Data de inicio: 20211120
+# Data de termino: 20221120
+Nº mes;Receita diaria maxima;Receita media diaria;Receita diaria minima
+
+
+# Qual e a qualidade das suas tendencias de compradores?
+# Data de inicio: 20221119
+# Data de termino: 20231119
+Nº mes;Maximo diario de compradores;Media diaria de compradores;Minimo diario de compradores
+
+
+# Data de inicio: 20211120
+# Data de termino: 20221120
+Nº mes;Maximo diario de compradores;Media diaria de compradores;Minimo diario de compradores
+
+
+# Quanto seus usuarios estao gastando?
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;ARPU
+
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Conversao de compradores
+
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;ARPPU
+
+
+#  
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Tempo medio de engajamento
+0000;183.35555555555555
+0001;145.47272727272727
+0002;138.22222222222223
+0003;109.77777777777777
+0004;205.75862068965517
+0005;141.5068493150685
+0006;212.71764705882353
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Sessoes engajadas por usuario
+0000;0.9444444444444444
+0001;0.8727272727272727
+0002;0.9914529914529915
+0003;0.9595959595959596
+0004;1.0114942528735633
+0005;0.9726027397260274
+0006;1.0235294117647058
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Nº dia;Tempo de engajamento medio por sessao
+0000;138.67226890756302
+0001;111.125
+0002;105.69934640522875
+0003;85.5748031496063
+0004;145.53658536585365
+0005;101.27450980392157
+0006;161.4375
+
+#  
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Coorte;Dia 1;Dia 7
+0;0;0
+1;0.03896103896103896;0
+2;0.041666666666666664;0
+3;0.017543859649122806;0
+4;0.037037037037037035;0
+5;0.022727272727272728;0
+6;0.019230769230769232;0
+
+# De onde vem seus visitantes?
+# Data de inicio: 20231113
+# Data de termino: 20231119
+ID do pais;Usuarios
+AR;1
+BR;519
+CZ;2
+DE;2
+FR;2
+IT;2
+KZ;1
+MX;4
+PT;7
+RU;1
+US;8
+
+# Data de inicio: 20231113
+# Data de termino: 20231119
+Pais;Usuarios
+BR;519
+US;8
+PT;7
+MX;4
+CZ;2
+DE;2
+FR;2

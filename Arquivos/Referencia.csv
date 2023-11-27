@@ -359,8 +359,8 @@
 559;Saldo de placar com técnico;Especiais;Tecnico;900840000;generico_tecnico;saldo_placar_tec;0;0
 564;Timeline de Técnicos;Especiais;Tecnico;105630000;timeline_tec;N/A;0;0
 371;Frequência de Placares;Especiais;Frequencia;600000000;mostra_frequencia;N/A;0;0
-372;Frequência de Placares por ano;Especiais;Frequencia;60010600;generico_ano;frequencia_ano;0;0
-373;Frequência de Placares contra adversário;Especiais;Frequencia;60010000;generico_adversario;frequencia_adversario;0;0
+372;Frequência de Placares por ano;Especiais;Frequencia;600106000;generico_ano;frequencia_ano;0;0
+373;Frequência de Placares contra adversário;Especiais;Frequencia;600100000;generico_adversario;frequencia_adversario;0;0
 374;Frequência de Placares em estádio;Especiais;Frequencia;600102000;generico_estadio;frequencia_estadio;0;0
 375;Frequência de Placares em campeonato;Especiais;Frequencia;600103000;generico_campeonato;frequencia_campeonato;0;0
 376;Frequência de Placares contra adversário em campeonato;Especiais;Frequencia;600100103;generico_especial;frequencia_advcamp;0;0
@@ -547,6 +547,19 @@
 580;Mais fez gols de falta;Especiais;Jogador;665000000000;generico_gols;detalhamento_gols;0;0
 581;Mais fez gols de falta no século;Especiais;Jogador;665250000000;generico_gols;detalhamento_gols;0;0
 582;Mais fez gols de falta no período;Especiais;Jogador;665260000000;generico_gols;detalhamento_gols;0;0
+583;Artilheiros vindo do banco;Especiais;Jogador;900920000000;mostra_ranking;N/A;0;0
+584;Artilheiros como titular;Especiais;Jogador;900930000000;mostra_ranking;N/A;0;0
+585;Artilheiros em tempo determinado;Especiais;Jogador;900528000;consulta_tempodet;mostra_ranking_seculo;0;0
+586;Frequencia de Placar de Técnico;Especiais;Tecnico;105000630;generico_tecnico;mostra_frequencia;0;0
+587;Frequência de Placar de Técnico em Estádio;Especiais;Tecnico;105102630;consulta_especial;mostra_frequencia;0;0
+588;Frequência de Placar de Técnico em campeonato;Especiais;Tecnico;105103630;consulta_especial;mostra_frequencia;0;0
+589;Frequência de Placar de Técnico x Adversário;Especiais;Tecnico;105100630;consulta_especial;mostra_frequencia;0;0
+590;Frequencia de Placar de Jogador;Especiais;Jogador;104000630;jogador_generico;mostra_frequencia;0;0
+591;Frequencia de Placar de Jogador x Estádio;Especiais;Jogador;104100640;consulta_especial;mostra_frequencia;0;0
+592;Frequencia de Placar de Jogador em campeonato;Especiais;Jogador;104102640;consulta_especial;mostra_frequencia;0;0
+593;Frequência de Placar de Jogador x Adversário;Especiais;Jogador;104103640;consulta_especial;mostra_frequencia;0;0
+594;Ranking de Anos;Especiais;Geral;NAO;ranking_anos;N/A;0;0
+595;Comparação de Anos;Especiais;Geral;178000000;compara_ano;comparacao_anos;0;0
 10000;Adversário - Link;Link;Adversario;NAO;link_adversario;N/A;0;0
 10000;Arbitro - Link;Link;Arbitro;NAO;link_arbitro;N/A;0;0
 10000;Assistencia - Link;Link;Assistencia;NAO;link_assist;N/A;0;0
