@@ -6,14 +6,20 @@
 <body>
   <h1>INF2102 - Projeto Final de Programação - Redesign of Legacy Systems</h1>
 
+  <h2>Descrição do Projeto</h2>
+  <p>O objetivo do projeto é buscar ideias de redesign para os sistemas legados, transformando
+  os sistemas atuais em sistemas inteligentes e mantendo as suas regras de negócio.Para isso 
+  sugerimos três etapas de análise: a análise de logs, a criação de questionários online para
+  os usuários e a realização de entrevistas com usuários-chave do sistema legado.</p>
   <h2>Instalação</h2>
   <p>Para o funcionamento do software precisamos instalar o python versão mais nova, uma sugestão seria instalar o pacote Anaconda, Jupyter Notebook ou qualquer software análogo</p>
+  <p>https://www.anaconda.com/download</p>
   <h4>Bibliotecas</h4>
-  <p>Pandas - Tratamento dos datasets</p> 
-  <p>Numpy - Biblioteca matemática do python</p> 
-  <p>Plotly - Gráficos gerados</p>
-  <p>Seaborn - Gráficos gerados</p> 
-  <p>Matplotlib - Gráficos gerados</p>
+  <p>Pandas - Tratamento dos datasets (pip install pandas ou conda install pandas)</p> 
+  <p>Numpy - Biblioteca matemática do python (pip install numpy ou conda install numpy)</p> 
+  <p>Plotly - Gráficos gerados (pip install plotly ou conda install plotly)</p>
+  <p>Seaborn - Gráficos gerados (pip install seaborn ou conda install seaborn)</p> 
+  <p>Matplotlib - Gráficos gerados (pip install matplotlib ou conda install matplotlib)</p>
 
   <h2>Softwares Externos</h2>
   <p>Necessária a existência de um softwares coletor de logs, no estudo sendo realizado estamos usando o Google Analytics</p> 
