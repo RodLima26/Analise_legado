@@ -1,0 +1,51 @@
+﻿Indice;Data;Assunto;Consulta;Curtidas;Repost;Comentario;Impressoes;Engajamentos;Link_click;Expansao;Visita_perfil;Novos_seguidores;Grupo1;Grupo2
+1;18/jan;Estreia Carioca;Estreia em campeonatos;6;0;0;592;15;4;3;2;0;Campeonato;
+2;18/jan;Volta Redonda;Adversário - Volta Redonda;7;0;1;1514;19;8;3;0;0;Adversário;
+3;19/jan;Moça Bonita;Estádio - Moça Bonita;6;1;0;1113;20;9;3;1;0;Estádio;
+4;20/jan;Camisa 20;Numeros - 20;27;1;0;29795;582;21;481;40;13;Numeração;
+5;20/jan;Portuguesa;Adversário - Portuguesa;19;1;5;2084;51;18;4;3;1;Adversário;
+6;21/jan;Artilheiros Portuguesa;Artilheiros Portuguesa;24;1;2;1040;53;9;11;5;1;Artilheiros;
+7;22/jan;Artilheiro por adversário;German Cano - Gols por adversario;24;1;0;590;49;7;9;7;0;Jogador;
+8;23/jan;Melhores Anos;Ranking de Anos;19;1;0;645;39;9;7;3;0;Ano;
+9;24/jan;Elcyr Mendonça;Estádio - Elcyr Mendonça;7;0;0;335;10;0;1;2;0;Estádio;
+10;25/jan;Audax e 0 derrotas;Adversário - Audax;6;0;0;374;15;2;4;3;0;Adversário;
+11;26/jan;Nova Iguaçu;Adversário - Nova Iguaçu;7;0;0;352;10;1;0;2;0;Adversário;
+12;27/jan;Artilheiros Nova Iguaçu;Artilheiros Nova Iguaçu;5;0;0;355;15;5;5;0;0;Artilheiros;
+13;29/jan;Goleadas sobre Bangu;Goleadas sobre adversário;8;0;0;299;11;2;1;0;0;Goleadas;
+14;30/jan;Sequências contra Bangu;Sequências de adversário;7;0;0;261;11;1;0;3;0;Sequências;
+15;31/jan;Marcão como Técnico;Técnico - Marcão (Passagens);4;0;0;330;11;1;4;2;0;Técnico;
+16;01/fev;Evolução contra Bangu;Evolução Bangu;3;0;0;188;4;0;0;1;0;Adversário;
+17;02/fev;Boavista e Sequência em Oficiais;Adversário - Boavista e Seqência Oficiais;5;0;0;261;12;0;5;1;0;Adversário;Sequência
+18;03/fev;Artilheiros contra Boavista;Artilheiros Boavista;4;0;0;274;7;0;2;1;0;Artilheiros;
+19;03/fev;Novas consultas comparação;Comparação Árbitro e Comparação Estádio;2;0;0;198;3;1;0;0;0;Anuncio;
+20;05/fev;Penalties desde 2019;Penalties por ano;14;1;0;410;26;7;2;2;0;Penalties;
+21;05/fev;Campeonato Carioca;Campeonatos - Carioca;4;0;0;276;12;0;7;1;0;Campeonato;
+22;06/fev;Cartões Carioca;Cartões em campeonato - Carioca;7;0;0;294;15;0;8;0;0;Campeonato;
+23;07/fev;Maiores Artilheiros e Assistentes;Maiores Artilheiros e Assistentes;14;0;0;454;36;9;8;4;0;Artilheiros;Assistencia
+24;08/fev;Retorno ao Maracanã;Estadios - Maracanã;3;0;0;239;7;1;1;2;0;Estádio;
+25;09/fev;Lista de adversários no Carioca;Lista de adversários no Carioca;8;0;0;307;13;3;1;1;0;Adversário;
+26;10/fev;Artilheiros contra Vasco;Artilheiros Vasco;1;0;0;200;1;0;0;0;0;Artilheiros;
+27;11/fev;Vasco no carioca;Adversário x Campeonato (Vasco-Carioca);4;0;0;278;8;2;1;0;0;Adversário;Campeonato
+28;12/fev;Ano 2024;Melhores Inicios de ano;10;0;0;353;12;0;1;1;0;Ano;
+29;13/fev;Sequências contra Vasco;Sequências de adversário;2;0;0;309;3;0;1;0;0;Sequências;
+30;14/fev;Assistências contra Vasco;Assistência por adversário;5;0;0;220;5;0;0;0;0;Assistências;
+31;15/fev;Adversário Madureira;Adversário Madureira;4;0;0;196;4;0;0;0;0;Adversário;
+32;16/fev;Adversários que mais jogamos;30 Adversários que mais jogamos;20;2;0;2449;122;15;59;21;4;Adversário;
+33;19/fev;Flu x LDU;Adversário LDU - Duelos Eliminatorios LDU;3;0;1;284;13;1;7;1;0;Adversário;
+34;20/fev;Estreias em campeonato Conmebol;Estréias Libertadores da América;10;1;0;363;19;1;6;0;0;Campeonato;
+35;21/fev;Evolução contra LDU;Evolução LDU;1;1;1;288;11;4;4;0;0;Adversário;
+36;22/fev;Adversários do Equador;Adversários da Equador;3;0;0;189;6;1;0;2;0;Adversário;
+37;23/fev;Assistências contra Flamengo;Assistência contra Flamengo;4;1;0;222;9;1;1;2;0;Assistências;
+38;24/fev;German Cano contra Flamengo;Artilheiros contra Flamengo;6;1;0;334;11;0;3;1;0;Jogador;
+39;26/fev;Facundo Tello;Árbitros - Facundo Tello;3;0;0;264;9;3;3;0;0;Arbitro;
+40;26/fev;Anuncio novas consultas;Novas telas de consulta;6;0;0;304;7;0;0;1;0;Anuncio;
+41;27/fev;Artilheiros LDU;Artilheiros LDU;4;0;0;220;4;0;0;0;0;Artilheiros;
+42;28/fev;Eliminatórios por saldo;Jogos Eliminatorios por saldo;0;0;0;224;16;7;9;0;0;Eliminatorios;
+43;29/fev;Jogos em 29/02;Jogos em 29/02;4;0;0;205;10;0;6;0;0;Jogos;
+44;29/fev;Artilheiros em mata-mata;Maiores Artilheiros em jogos eliminatórios;4;0;0;193;6;0;2;0;0;Artilheiros;
+45;03/mar;Confronto e evolução Botafogo;Confronto e evolução Botafogo;7;1;0;320;11;3;0;0;0;Adversário;
+46;05/mar;Fernando Diniz;Quem mais treinou;8;0;0;327;13;4;1;0;0;Técnico;
+47;06/mar;Fernando Diniz x classico e adv;Aproveitamento de técnico em clássico e Flamengo;5;0;0;268;9;2;1;1;0;Técnico;
+48;07/mar;Penaltis a favor e contra;Penaltis a favor e contra Fluminense;3;0;0;176;9;5;1;0;0;Penalties;
+49;08/mar;Jogos Eliminatórios contra Flamengo;Jogos Eliminatórios contra Flamengo;1;0;0;126;1;0;0;0;0;Eliminatorios;
+50;11/mar;Saldo -2 em  jogo eliminatório;Jogos Eliminatórios por saldo do 1ºjogo;6;1;0;232;12;1;3;1;0;Eliminatorios;
