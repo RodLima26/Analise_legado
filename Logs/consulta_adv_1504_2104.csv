@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240415
+# Data de termino: 20240421
+Caminho da pagina e classe da tela;Data;Sessoes;Usuarios;Novos usuarios;Tempo de engajamento medio por sessao;Conversoes;Receita total
+/adversario;20240415;12;12;0;38.166666666666664;0;0
+/adversario;20240416;12;12;0;28.25;0;0
+/adversario;20240417;29;27;0;45.241379310344826;0;0
+/adversario;20240418;16;16;0;45.8125;0;0
+/adversario;20240419;12;10;0;21.75;0;0
+/adversario;20240420;24;20;0;17.208333333333332;0;0
+/adversario;20240421;20;17;0;27.45;0;0

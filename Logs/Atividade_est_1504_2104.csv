@@ -1,0 +1,22 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240415
+# Data de termino: 20240421
+Caminho da pagina e classe da tela;Data;Contagem de eventos;Visualizacoes
+/estadio_todos;20240415;2;1
+/estadio;20240416;13;3
+/estadio;20240417;7;3
+/estadio_todos;20240417;2;1
+/estadio;20240418;6;2
+/estadio_curiosidade;20240418;2;1
+/estadio_todos;20240418;2;1
+/estadio;20240419;12;3
+/estadio_todos;20240419;1;1
+/estadio;20240420;20;5
+/estadio;20240421;4;1
+/estadio_todos;20240421;1;1

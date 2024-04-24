@@ -1,0 +1,174 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20231204
+# Data de termino: 20231210
+Regiao;Data;Usuarios recorrentes;Primeiras visitas;Total de usuarios;Usuarios
+State of Rio de Janeiro;20231205;43;25;66;63
+State of Rio de Janeiro;20231210;38;94;122;121
+State of Rio de Janeiro;20231207;30;26;55;54
+State of Rio de Janeiro;20231206;29;19;47;42
+State of Rio de Janeiro;20231204;23;26;49;47
+State of Rio de Janeiro;20231208;23;23;47;45
+State of Rio de Janeiro;20231209;18;39;56;54
+State of Sao Paulo;20231206;7;3;10;10
+Federal District;20231205;6;1;8;7
+State of Sao Paulo;20231210;6;16;23;23
+Federal District;20231206;5;4;9;9
+State of Espirito Santo;20231207;5;0;5;5
+Federal District;20231207;4;1;4;4
+State of Minas Gerais;20231204;4;0;4;4
+State of Sao Paulo;20231208;4;4;8;8
+Federal District;20231208;3;2;5;5
+Federal District;20231209;3;3;4;4
+Federal District;20231210;3;6;9;8
+State of Bahia;20231206;3;0;4;3
+State of Espirito Santo;20231206;3;3;6;6
+State of Espirito Santo;20231210;3;2;5;5
+State of Goias;20231206;3;0;3;3
+State of Goias;20231210;3;2;6;6
+State of Minas Gerais;20231205;3;6;8;8
+State of Minas Gerais;20231208;3;10;14;13
+State of Minas Gerais;20231210;3;2;5;5
+State of Santa Catarina;20231210;3;2;6;6
+State of Sao Paulo;20231204;3;7;10;10
+State of Bahia;20231209;2;22;22;22
+State of Espirito Santo;20231208;2;1;3;3
+State of Minas Gerais;20231206;2;3;5;5
+State of Minas Gerais;20231207;2;6;9;9
+State of Para;20231210;2;2;4;4
+State of Paraiba;20231210;2;1;3;3
+State of Pernambuco;20231205;2;1;3;3
+State of Rio Grande do Norte;20231210;2;1;2;2
+Andalusia;20231208;1;0;1;1
+Andalusia;20231210;1;0;1;1
+Buenos Aires;20231210;1;0;1;1
+Faro District;20231209;1;1;2;2
+Lisbon;20231207;1;0;1;1
+Mexico City;20231210;1;1;2;2
+State of Alagoas;20231204;1;0;1;1
+State of Alagoas;20231208;1;0;1;1
+State of Alagoas;20231209;1;1;1;1
+State of Alagoas;20231210;1;1;2;2
+State of Bahia;20231205;1;0;2;1
+State of Bahia;20231208;1;1;4;3
+State of Bahia;20231210;1;4;4;4
+State of Ceara;20231204;1;1;2;2
+State of Ceara;20231205;1;3;4;4
+State of Ceara;20231208;1;0;1;1
+State of Ceara;20231209;1;2;3;3
+State of Ceara;20231210;1;2;3;3
+State of Espirito Santo;20231204;1;2;2;2
+State of Espirito Santo;20231205;1;1;2;2
+State of Espirito Santo;20231209;1;1;2;2
+State of Goias;20231204;1;2;3;3
+State of Goias;20231205;1;2;3;3
+State of Goias;20231207;1;1;2;2
+State of Mato Grosso;20231207;1;1;1;1
+State of Mato Grosso do Sul;20231209;1;0;1;1
+State of Mato Grosso do Sul;20231210;1;2;2;2
+State of Minas Gerais;20231209;1;9;12;12
+State of Para;20231208;1;0;1;1
+State of Paraiba;20231204;1;0;1;1
+State of Paraiba;20231207;1;2;3;3
+State of Paraiba;20231208;1;0;1;1
+State of Paraiba;20231209;1;1;2;2
+State of Parana;20231207;1;1;1;1
+State of Parana;20231209;1;2;3;3
+State of Parana;20231210;1;5;7;7
+State of Pernambuco;20231204;1;0;1;1
+State of Rio Grande do Norte;20231205;1;1;2;2
+State of Rio Grande do Sul;20231207;1;1;2;2
+State of Rio Grande do Sul;20231209;1;2;3;3
+State of Rio Grande do Sul;20231210;1;1;2;2
+State of Santa Catarina;20231204;1;2;3;3
+State of Santa Catarina;20231207;1;2;3;3
+State of Santa Catarina;20231208;1;2;3;3
+State of Sao Paulo;20231205;1;7;9;8
+State of Sao Paulo;20231207;1;9;14;10
+State of Sao Paulo;20231209;1;9;13;11
+State of Sergipe;20231207;1;1;2;1
+State of Sergipe;20231209;1;1;2;2
+(not set);20231204;0;1;1;1
+(not set);20231207;0;1;1;1
+(not set);20231208;0;1;1;1
+(not set);20231209;0;1;1;1
+(not set);20231210;0;1;1;1
+Alberta;20231209;0;1;1;1
+Braga;20231205;0;1;1;1
+Castile and Leon;20231208;0;1;1;1
+Community of Madrid;20231204;0;1;1;1
+Emilia-Romagna;20231204;0;1;1;1
+Emilia-Romagna;20231205;0;1;1;1
+England;20231208;0;1;1;1
+England;20231209;0;1;1;1
+Federal District;20231204;0;1;1;1
+Federal Territory of Kuala Lumpur;20231205;0;1;1;1
+Florida;20231204;0;1;1;1
+Florida;20231205;0;1;1;1
+Ile-de-France;20231207;0;1;1;1
+Lisbon;20231204;0;1;1;1
+Lisbon;20231210;0;0;1;1
+Massachusetts;20231209;0;1;1;1
+North Sumatra;20231210;0;2;2;2
+Northern Ireland;20231210;0;0;1;1
+Nouvelle-Aquitaine;20231206;0;1;1;1
+Nouvelle-Aquitaine;20231210;0;1;1;1
+Porto District;20231206;0;1;1;1
+Porto District;20231210;0;1;1;1
+Saxony;20231205;0;1;1;1
+South Carolina;20231206;0;1;1;1
+State of Alagoas;20231206;0;1;1;1
+State of Alagoas;20231207;0;1;1;1
+State of Amazonas;20231204;0;2;2;2
+State of Amazonas;20231205;0;2;2;2
+State of Amazonas;20231206;0;4;5;5
+State of Amazonas;20231207;0;1;2;2
+State of Amazonas;20231208;0;3;4;4
+State of Amazonas;20231209;0;1;1;1
+State of Amazonas;20231210;0;2;2;2
+State of Bahia;20231204;0;2;3;2
+State of Bahia;20231207;0;1;2;1
+State of Ceara;20231206;0;1;1;1
+State of Ceara;20231207;0;1;1;1
+State of Goias;20231208;0;1;1;1
+State of Goias;20231209;0;2;2;2
+State of Maranhao;20231206;0;1;1;1
+State of Maranhao;20231208;0;1;1;1
+State of Maranhao;20231209;0;1;1;1
+State of Mato Grosso;20231204;0;1;1;1
+State of Mato Grosso;20231205;0;1;1;1
+State of Mato Grosso;20231208;0;1;1;1
+State of Mato Grosso;20231210;0;3;3;3
+State of Mato Grosso do Sul;20231206;0;1;1;1
+State of Mato Grosso do Sul;20231207;0;1;1;1
+State of Para;20231204;0;1;1;1
+State of Para;20231205;0;3;3;3
+State of Para;20231206;0;1;1;1
+State of Para;20231207;0;2;2;2
+State of Paraiba;20231205;0;1;1;1
+State of Parana;20231204;0;2;3;2
+State of Parana;20231205;0;2;2;2
+State of Parana;20231206;0;3;3;3
+State of Parana;20231208;0;2;2;2
+State of Pernambuco;20231207;0;1;1;1
+State of Pernambuco;20231208;0;0;1;1
+State of Pernambuco;20231209;0;1;1;1
+State of Pernambuco;20231210;0;1;1;1
+State of Piaui;20231210;0;1;1;1
+State of Rio Grande do Norte;20231204;0;1;1;1
+State of Rio Grande do Sul;20231205;0;1;1;1
+State of Rio Grande do Sul;20231206;0;6;6;6
+State of Rondonia;20231209;0;1;1;1
+State of Santa Catarina;20231205;0;3;3;3
+State of Santa Catarina;20231206;0;2;3;3
+State of Santa Catarina;20231209;0;0;1;1
+State of Sergipe;20231206;0;1;1;1
+State of Sergipe;20231208;0;1;2;1
+State of Tocantins;20231207;0;2;2;2
+Wales;20231210;0;1;1;1
+Washington;20231210;0;1;1;1

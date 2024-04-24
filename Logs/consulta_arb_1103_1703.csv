@@ -1,0 +1,16 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240311
+# Data de termino: 20240317
+Caminho da pagina e classe da tela;Data;Sessoes;Usuarios;Novos usuarios;Tempo de engajamento medio por sessao;Conversoes;Receita total
+/arbitro;20240311;1;0;0;0;0;0
+/arbitro;20240312;3;3;0;66.66666666666667;0;0
+/arbitro;20240313;3;3;0;21.666666666666668;0;0
+/arbitro;20240314;8;8;0;6.125;0;0
+/arbitro;20240315;8;7;1;7.625;0;0
+/arbitro;20240316;3;3;0;12.333333333333334;0;0

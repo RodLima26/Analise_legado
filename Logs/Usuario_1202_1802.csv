@@ -1,0 +1,158 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+#  
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Usuarios
+0000;43
+0001;62
+0002;106
+0003;85
+0004;80
+0005;100
+0006;76
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Novos usuarios
+0000;19
+0001;30
+0002;63
+0003;47
+0004;49
+0005;63
+0006;45
+
+# Quanta receita voce esta gerando?
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Receita total
+
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Receita de compra
+
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Total de compradores
+
+
+# Qual e a qualidade das suas tendencias de receita?
+# Data de inicio: 20230218
+# Data de termino: 20240218
+Nº mes;Receita diaria maxima;Receita media diaria;Receita diaria minima
+
+
+# Data de inicio: 20220219
+# Data de termino: 20230219
+Nº mes;Receita diaria maxima;Receita media diaria;Receita diaria minima
+
+
+# Qual e a qualidade das suas tendencias de compradores?
+# Data de inicio: 20230218
+# Data de termino: 20240218
+Nº mes;Maximo diario de compradores;Media diaria de compradores;Minimo diario de compradores
+
+
+# Data de inicio: 20220219
+# Data de termino: 20230219
+Nº mes;Maximo diario de compradores;Media diaria de compradores;Minimo diario de compradores
+
+
+# Quanto seus usuarios estao gastando?
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;ARPU
+
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Conversao de compradores
+
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;ARPPU
+
+
+#  
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Tempo medio de engajamento
+0000;172.74418604651163
+0001;191.53225806451613
+0002;102.4245283018868
+0003;342.7294117647059
+0004;271.1875
+0005;135.33
+0006;213.56578947368422
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Sessoes engajadas por usuario
+0000;1.069767441860465
+0001;1.1290322580645162
+0002;0.8962264150943396
+0003;1.011764705882353
+0004;1.05
+0005;0.98
+0006;1.013157894736842
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Nº dia;Tempo de engajamento medio por sessao
+0000;114.27692307692308
+0001;127.68817204301075
+0002;84.16279069767442
+0003;246.88135593220338
+0004;187.02586206896552
+0005;103.30534351145039
+0006;159.12745098039215
+
+#  
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Coorte;Dia 1;Dia 7
+0;0.10526315789473684;0
+1;0.06666666666666667;0
+2;0;0
+3;0;0
+4;0.04081632653061224;0
+5;0.015873015873015872;0
+6;0;0
+
+# De onde vem seus visitantes?
+# Data de inicio: 20240212
+# Data de termino: 20240218
+ID do pais;Usuarios
+AE;1
+AT;1
+BR;431
+CN;3
+CZ;1
+ES;1
+ID;1
+JP;1
+LT;1
+MX;1
+NL;1
+PT;4
+PY;1
+RU;1
+US;3
+
+# Data de inicio: 20240212
+# Data de termino: 20240218
+Pais;Usuarios
+BR;431
+PT;4
+CN;3
+US;3
+AE;1
+AT;1
+CZ;1

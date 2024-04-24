@@ -1,0 +1,161 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240219
+# Data de termino: 20240225
+Regiao;Data;Usuarios recorrentes;Primeiras visitas;Total de usuarios;Usuarios
+State of Rio de Janeiro;20240223;32;308;338;335
+State of Rio de Janeiro;20240225;31;28;61;58
+State of Rio de Janeiro;20240224;28;29;62;56
+State of Rio de Janeiro;20240222;26;34;57;56
+State of Rio de Janeiro;20240219;25;17;46;40
+State of Rio de Janeiro;20240221;24;27;53;50
+State of Rio de Janeiro;20240220;21;27;47;43
+State of Sao Paulo;20240222;5;6;12;12
+State of Goias;20240219;4;2;5;5
+State of Minas Gerais;20240219;4;1;6;5
+State of Minas Gerais;20240225;4;7;10;10
+State of Sao Paulo;20240224;4;4;10;8
+Federal District;20240222;3;2;5;5
+Federal District;20240225;3;1;4;4
+State of Minas Gerais;20240222;3;11;14;14
+State of Minas Gerais;20240223;3;8;13;12
+State of Rio Grande do Norte;20240222;3;1;4;4
+State of Sao Paulo;20240219;3;7;10;9
+Federal District;20240220;2;0;3;2
+Federal District;20240223;2;0;2;2
+Federal District;20240224;2;0;2;2
+Pichincha;20240222;2;0;3;2
+State of Bahia;20240219;2;1;3;3
+State of Ceara;20240222;2;2;5;4
+State of Espirito Santo;20240220;2;3;4;4
+State of Espirito Santo;20240223;2;1;3;3
+State of Goias;20240224;2;1;3;3
+State of Goias;20240225;2;1;3;3
+State of Minas Gerais;20240221;2;6;8;8
+State of Minas Gerais;20240224;2;6;8;7
+State of Pernambuco;20240220;2;1;2;2
+State of Piaui;20240221;2;0;2;2
+State of Santa Catarina;20240221;2;0;3;2
+State of Sao Paulo;20240223;2;10;14;13
+(not set);20240220;1;0;1;1
+(not set);20240221;1;0;2;1
+Bekes County;20240222;1;1;1;1
+Bekes County;20240223;1;0;1;1
+Federal District;20240219;1;2;3;3
+Federal District;20240221;1;3;4;4
+Florida;20240223;1;0;1;1
+Lisbon;20240223;1;1;2;2
+Lisbon;20240224;1;0;1;1
+Madeira;20240222;1;1;1;1
+Mexico City;20240221;1;0;1;1
+Ontario;20240221;1;1;1;1
+Pichincha;20240220;1;0;1;1
+Setubal;20240224;1;1;1;1
+State of Alagoas;20240219;1;1;2;2
+State of Alagoas;20240224;1;0;1;1
+State of Amazonas;20240220;1;3;4;4
+State of Amazonas;20240225;1;0;1;1
+State of Bahia;20240220;1;0;1;1
+State of Bahia;20240222;1;4;4;4
+State of Bahia;20240223;1;3;4;4
+State of Bahia;20240225;1;3;4;4
+State of Espirito Santo;20240219;1;1;1;1
+State of Espirito Santo;20240222;1;5;6;6
+State of Espirito Santo;20240225;1;0;1;1
+State of Goias;20240220;1;3;4;4
+State of Goias;20240222;1;1;2;2
+State of Goias;20240223;1;5;6;6
+State of Mato Grosso;20240222;1;1;1;1
+State of Mato Grosso do Sul;20240222;1;0;1;1
+State of Mato Grosso do Sul;20240223;1;0;1;1
+State of Minas Gerais;20240220;1;6;8;8
+State of Para;20240222;1;1;2;2
+State of Para;20240225;1;0;1;1
+State of Paraiba;20240220;1;0;1;1
+State of Paraiba;20240223;1;1;2;2
+State of Parana;20240220;1;1;2;2
+State of Parana;20240223;1;2;4;4
+State of Parana;20240224;1;1;3;2
+State of Pernambuco;20240219;1;0;1;1
+State of Pernambuco;20240221;1;1;2;2
+State of Piaui;20240220;1;2;3;3
+State of Rio Grande do Norte;20240221;1;0;1;1
+State of Rio Grande do Norte;20240224;1;0;2;1
+State of Rio Grande do Sul;20240220;1;3;5;4
+State of Santa Catarina;20240219;1;0;1;1
+State of Santa Catarina;20240224;1;1;2;2
+State of Santa Catarina;20240225;1;2;3;3
+State of Sao Paulo;20240220;1;5;6;6
+State of Sao Paulo;20240225;1;5;6;6
+State of Sergipe;20240225;1;0;1;1
+State of Tocantins;20240225;1;0;2;1
+Bekes County;20240224;0;0;1;0
+Braga;20240219;0;1;1;1
+Community of Madrid;20240224;0;1;1;1
+Connecticut;20240220;0;1;1;1
+County Dublin;20240222;0;1;1;1
+Emilia-Romagna;20240221;0;1;1;1
+Florida;20240222;0;1;1;1
+Florida;20240225;0;1;1;1
+Hauts-de-France;20240222;0;1;1;1
+Ile-de-France;20240220;0;1;1;1
+Massachusetts;20240220;0;1;1;1
+Moscow Oblast;20240221;0;1;1;1
+New York;20240224;0;1;1;1
+North Rhine-Westphalia;20240224;0;1;1;1
+North Sumatra;20240222;0;1;1;1
+Occitanie;20240219;0;1;1;1
+Ohio;20240221;0;2;2;2
+Ontario;20240222;0;1;1;1
+Pichincha;20240221;0;0;1;0
+Setubal;20240219;0;1;1;1
+Sindh;20240220;0;1;1;1
+State of Amazonas;20240221;0;1;1;1
+State of Amazonas;20240222;0;2;2;2
+State of Amazonas;20240223;0;1;1;1
+State of Bahia;20240221;0;1;1;1
+State of Bahia;20240224;0;2;3;2
+State of Ceara;20240219;0;0;1;0
+State of Ceara;20240220;0;2;3;3
+State of Ceara;20240221;0;1;1;1
+State of Ceara;20240223;0;4;4;4
+State of Ceara;20240225;0;2;2;2
+State of Espirito Santo;20240221;0;8;8;8
+State of Goias;20240221;0;1;2;1
+State of Maranhao;20240222;0;2;2;2
+State of Maranhao;20240223;0;3;3;3
+State of Mato Grosso;20240223;0;2;2;2
+State of Mato Grosso;20240224;0;1;1;1
+State of Mato Grosso;20240225;0;2;2;2
+State of Mato Grosso do Sul;20240224;0;0;1;0
+State of Para;20240220;0;1;1;1
+State of Para;20240221;0;1;1;1
+State of Para;20240223;0;4;4;4
+State of Paraiba;20240221;0;2;3;2
+State of Paraiba;20240225;0;1;1;1
+State of Parana;20240219;0;2;2;2
+State of Parana;20240221;0;0;1;0
+State of Parana;20240222;0;1;2;2
+State of Parana;20240225;0;2;2;2
+State of Pernambuco;20240222;0;1;1;1
+State of Rio Grande do Norte;20240225;0;1;1;1
+State of Rio Grande do Sul;20240219;0;1;1;1
+State of Rio Grande do Sul;20240221;0;1;1;1
+State of Rio Grande do Sul;20240222;0;2;2;2
+State of Rio Grande do Sul;20240223;0;1;1;1
+State of Rio Grande do Sul;20240225;0;1;2;2
+State of Santa Catarina;20240220;0;4;4;4
+State of Santa Catarina;20240222;0;4;5;4
+State of Santa Catarina;20240223;0;2;2;2
+State of Sao Paulo;20240221;0;6;6;6
+State of Sergipe;20240221;0;1;1;1
+State of Sergipe;20240223;0;2;2;2
+State of Tocantins;20240220;0;0;1;1
+State of Tocantins;20240222;0;1;1;1
+Virginia;20240219;0;1;1;1
+Zurich;20240221;0;1;1;1
