@@ -1,0 +1,51 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240506
+# Data de termino: 20240512
+Caminho da pagina e classe da tela;Data;Contagem de eventos;Visualizacoes
+/jogador;20240510;61;69
+/jogador;20240509;36;54
+/jogador;20240507;33;40
+/jogador;20240511;32;39
+/jogador;20240512;27;32
+/adversario;20240510;24;27
+/adversario;20240509;23;26
+/adversario;20240512;23;28
+/campeonato;20240510;21;25
+/adversario;20240506;17;24
+/jogador;20240506;14;18
+/campeonato;20240506;13;14
+/jogador;20240508;12;15
+/arbitro;20240512;11;13
+/campeonato;20240508;10;12
+/campeonato;20240507;9;12
+/campeonato;20240509;9;10
+/adversario;20240508;8;8
+/arbitro;20240509;8;10
+/campeonato;20240511;8;8
+/estadio;20240512;5;5
+/tecnico;20240509;4;5
+/tecnico;20240510;4;6
+/tecnico;20240511;4;4
+/adversario;20240511;3;5
+/arbitro;20240507;3;4
+/arbitro;20240508;3;4
+/arbitro;20240510;3;6
+/arbitro;20240511;3;3
+/campeonato;20240512;3;6
+/estadio;20240510;3;4
+/tecnico;20240507;3;5
+/adversario;20240507;2;4
+/arbitro;20240506;1;3
+/estadio;20240506;1;1
+/estadio;20240507;1;2
+/estadio;20240511;1;1
+/tecnico;20240508;1;1
+/tecnico;20240512;1;1
+/estadio;20240508;0;2
+/estadio;20240509;0;1
