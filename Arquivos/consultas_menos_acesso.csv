@@ -2,273 +2,99 @@
 0,Inicial,Inicial,Inicial,0
 1,Especial,Especial,Especial,0
 2,Camisa,Camisa,Camisa,0
-3,Camisa,Estadio,Camisa em estádio,3
-4,Gráfico,Gráfico,Grafico,0
-5,,,Artilheiros,0
-6,Gráfico,Artilheiros,Artilheiro - adversario - campeonato - estádio,4
-7,Gráfico,Artilheiros,Artilheiro contra adversario em campeonato,3
-8,Gráfico,Artilheiros,Artilheiro em estádio em campeonato,3
-9,Gráfico,Artilheiros,Wordcloud Artilheiros,0
-10,Gráfico,Artilheiros,Multilinha Combinado de artilheiros por ano,0
-11,Gráfico,Presença,Mais jogos contra adversário,0
-12,Gráfico,Presença,Mais jogos em estádio,2
-13,Gráfico,Presença,Mais jogos contra adversário em campeonato,0
-14,Gráfico,Presença,Mais jogou em estádio em campeonato,2
-15,Gráfico,Presença,Substituição por ano,1
-16,Gráfico,Presença,Substituição por jogador,4
-17,Gráfico,Presença,Minutagem por ano,1
-18,Gráfico,Presença,Minutagem por passagem de técnico,2
-19,Gráfico,Presença,Minutagem por campeonato,1
-20,Gráfico,Gols,Gols de jogadores por ano,3
-21,Gráfico,Gols,Gols de jogadores nos estádios,2
-22,Gráfico,Gols,Gols de jogadores por adversário,0
-23,Gráfico,Gols,Distribuição Tipo de gol por ano,3
-24,Gráfico,Gols,Mais jogos sem sofrer gols,0
-25,Gráfico,Gols,Melhores média de gols sofridos,1
-26,Gráfico,Gols,Gols sofridos nos campeonatos,1
-27,Gráfico,Gols,Gols sofridos nos estádios,2
-28,Gráfico,Gols,Gols sofridos por adversário,0
-29,Gráfico,Gols,Gols sofridos por ano,1
-30,Gráfico,Gols,Multilinha Tipo de gol por ano,3
-31,Gráfico,Gols,Tipo de Gol por ano - Gráfico de Linha,3
-32,Gráfico,Gols,Tipo de Gol Combinado,2
-33,Gráfico,Gols,Consistência de gols no ano,3
-34,Gráfico,Adversario,Flu x Times Internacionais,4
-35,Gráfico,Adversario,Flu x Times do Nordeste,1
-36,Gráfico,Adversario,Flu x Times do Sul,2
-37,Gráfico,Adversario,Flu x Times do Norte,0
-38,Gráfico,Adversario,Flu x Times do Centro Oeste,0
-39,Gráfico,Adversario,Adversário,3
-40,Gráfico,Adversario,Gráfico por ano - Clássicos,4
-41,Gráfico,Adversario,Evolução - saldo de vitórias por adversário,0
-42,Gráfico,Tecnico,Mais treinou em estádio,4
-43,Gráfico,Tecnico,Mais treinou contra adversario,2
-44,Gráfico,Tecnico,Quem mais atuou com técnico,4
-45,Gráfico,Tecnico,Técnicos com mais participações em campeonato,0
-46,Gráfico,Campeonato,Evolução de Pontos Brasileirão,3
-47,Gráfico,Campeonato,Pontos Brasileirão,4
-48,Gráfico,Campeonato,Posição Brasileirão,3
-49,Gráfico,Campeonato,Evolução de Posições Brasileirão,2
-50,Gráfico,Campeonato,Campeonato,2
-51,Gráfico,Estadio,Estádio,4
-52,Gráfico,Estadio,Distâncias,1
-53,Gráfico,Campeonato,Posições Brasileiro Ano Inicio-Fim,2
-54,Gráfico,Campeonato,Posições Brasileiro Combinadas,3
-55,Gráfico,Campeonato,Evolução de Pontos Brasileirão Combinada,2
-56,Gráfico,Arbitro,Cartões por Árbitro - Waffle,4
-57,Gráfico,Arbitro,Cartões por Árbitro - Barra,1
-58,Gráfico,Arbitro,Resumo de Árbitro,1
-59,Gráfico,Arbitro,Dashboard de Árbitro,3
-60,Gráfico,Publico,Distribuição de público - Boxplot,3
-61,Gráfico,Publico,Distribuição de público - Violinplot,4
-62,Gráfico,Publico,Distribuição de público Mandante - Boxplot,2
-63,Gráfico,Publico,Distribuição de público Mandante - Violinplot,2
-64,Gráfico,Publico,Distribuição de público Visitante - Boxplot,1
-65,Gráfico,Publico,Distribuição de público Visitante - Violinplot,1
-66,Gráfico,Publico,Distribuição de Público por ano - Violinplot,3
-67,Gráfico,Geral,Geral,4
-68,Gráfico,Geral,Fluminense ano a ano - Gols,3
-69,Gráfico,Geral,Heatmap de resultados por mês,4
-70,Gráfico,Geral,Heatmap de resultados por dia/mês,4
-71,Gráfico,Geral,Heatmap de gols por dia,2
-72,Gráfico,Geral,Heatmap de gols por mês,4
-73,Especiais,Especiais,Especiais,0
-74,Especiais,Adversario,Adversário do mesmo estado,4
-75,Especiais,Adversario,Adversário do mesmo estado em campeonato,2
-76,Especiais,Adversario,Principais Adversários em campeonato,4
-77,Especiais,Adversario,Principais Adversários em estádio,4
-78,Especiais,Adversario,Lista de adversários por estado,3
-79,Especiais,Adversario,Mais penalties a favor do Fluminense,3
-80,Especiais,Adversario,Mais penaties convertidos pelo Fluminense,2
-81,Especiais,Adversario,Mais penalties perdidos pelo Fluminense,3
-82,Especiais,Adversario,Disputa de penalty por adversário,2
-83,Especiais,Adversario,Cartões contra adversário,0
-84,Especiais,Adversario,Últimos jogos - Adversário,2
-85,Especiais,Adversario,Adversários em campeonato como visitante,2
-86,Especiais,Adversario,Adversários - Quantidade de cores,3
-87,Especiais,Adversario,Adversários por cor - período,2
-88,Especiais,Arbitro,Árbitro x Estádio,2
-89,Especiais,Arbitro,Árbitro em campeonato,2
-90,Especiais,Arbitro,Árbitro x Jogador,0
-91,Especiais,Arbitro,Árbitro x Técnico,0
-92,Especiais,Arbitro,Últimos jogos Árbitro,4
-93,Especiais,Arbitro,Jogos de Árbitro por ano,1
-94,Especiais,Arbitro,Árbitros do mesmo país,0
-95,Especiais,Arbitro,Árbitros por ano,0
-96,Especiais,Arbitro,Lista de árbitros do mesmo país,1
-97,Especiais,Arbitro,Média de cartão por árbitro,2
-98,Especiais,Arbitro,Consulta árbitro em tempo determinado,1
-99,Especiais,Estadio,Estádio x Árbitro,3
-100,Especiais,Estadio,Estádio x Técnico,1
-101,Especiais,Estadio,Geolocalização dos estádios,0
-102,Especiais,Estadio,Saldo de placar em estádio,0
-103,Especiais,Campeonato,Campeonato x Árbitro,2
-104,Especiais,Campeonato,Campeonato x Técnico,4
-105,Especiais,Campeonato,Consulta Apelido campeonato(subcampeonato),2
-106,Especiais,Campeonato,Cartões em campeonato,4
-107,Especiais,Campeonato,Estados de árbitro em campeonato,1
-108,Especiais,Campeonato,Gols por minuto em campeonato,2
-109,Especiais,Campeonato,Var em campeonatos,1
-110,Especiais,Artilheiros,Maiores artilheiros em 1 campeonato,2
-111,Especiais,Artilheiros,Maior artilheiro em 1 partida,1
-112,Especiais,Artilheiros,Artiheiros contra adversário em campeonato,3
-113,Especiais,Artilheiros,Artiheiros contra adversário em campeonato em estádio,1
-114,Especiais,Artilheiros,Artilheiro em estádio em campeonato,3
-115,Especiais,Artilheiros,Artilharia em jogos oficiais,4
-116,Especiais,Gols,Jogadores com hat-trick,2
-117,Especiais,Gols,Melhores média de gols,4
-118,Especiais,Artilheiros,Artilheiros estrangeiros em 1 temporada,0
-119,Especiais,Artilheiros,Artilheiros mais novos,1
-120,Especiais,Artilheiros,Artilheiros mais velhos,2
-121,Especiais,Artilheiros,Artilheiros mais novos Século XX,0
-122,Especiais,Artilheiros,Artilheiros mais novos Século XXI,0
-123,Especiais,Artilheiros,Artilheiros mais velhos Século XX,0
-124,Especiais,Artilheiros,Artilheiros mais velhos Século XXI,1
-125,Especiais,Artilheiros,Maiores artilheiros no 1º tempo,1
-126,Especiais,Artilheiros,Maiores artilheiros no 2º tempo,1
-127,Especiais,Artilheiros,Maiores artilheiros no 1º tempo do Século XX,0
-128,Especiais,Artilheiros,Maiores artilheiros no 1º tempo do Século XXI,1
-129,Especiais,Artilheiros,Maiores artilheiros no 2º tempo do Século XX,0
-130,Especiais,Artilheiros,Maiores artilheiros no 2º tempo do Século XXI,1
-131,Especiais,Assistencia,Participações diretas em gols por ano,2
-132,Especiais,Assistencia,Assistências contra adversário,0
-133,Especiais,Assistencia,Assistências em campeonato,1
-134,Especiais,Assistencia,Participações diretas em gols contra adversário,0
-135,Especiais,Assistencia,Participações diretas em gols em campeonato,1
-136,Especiais,Assistencia,Penaltis e faltas por sofridos por ano,0
-137,Especiais,Assistencia,Penaltis e faltas por sofridos contra adversário,0
-138,Especiais,Assistencia,Penaltis e faltas por sofridos em campeonato,0
-139,Especiais,Assistencia,Mais participações em gols em 1 jogo,0
-140,Especiais,Presença,Mais jogos contra adversário,2
-141,Especiais,Presença,Mais jogos em estádio,1
-142,Especiais,Presença,Mais jogos em campeonato,1
-143,Especiais,Presença,Mais jogos contra adversário em campeonato,0
-144,Especiais,Presença,Número de jogos por ano,4
-145,Especiais,Presença,Mais jogos em estádio em campeonato,2
-146,Especiais,Presença,Jogadores com mais participações em campeonatos,0
-147,Especiais,Jogador,Gols sofridos nos estádios,3
-148,Especiais,Jogador,Gols sofridos por adversário,2
-149,Especiais,Jogador,Gols sofridos em campeonato,1
-150,Especiais,Jogador,Gols sofridos por ano,4
-151,Especiais,Jogador,Jogador x Árbitro,1
-152,Especiais,Jogador,Jogadores em campeonato - estádio,1
-153,Especiais,Jogador,Jogadores com mais títulos,4
-154,Especiais,Jogador,Jogadores em disputa de penalti,2
-155,Especiais,Jogador,Jogadores mais novos,3
-156,Especiais,Jogador,Jogadores mais velhos,1
-157,Especiais,Jogador,Jogos de jogador com amarelo,2
-158,Especiais,Jogador,Jogos de jogador com vermelho,1
-159,Especiais,Jogador,Jogadores mais novos do Século XX,0
-160,Especiais,Jogador,Jogadores mais novos do Século XXI,0
-161,Especiais,Jogador,Jogadores mais velhos do Século XX,0
-162,Especiais,Jogador,Jogadores mais velhos do Século XXI,1
-163,Especiais,Jogador,Jogadores com mais vitórias,3
-164,Especiais,Jogador,Jogadores com mais empates,1
-165,Especiais,Jogador,Jogadores com mais derrotas,2
-166,Especiais,Jogador,Jogadores com mais vitórias no século,3
-167,Especiais,Jogador,Jogadores com mais empates no século,0
-168,Especiais,Jogador,Jogadores com mais derrotas no século,0
-169,Especiais,Jogador,Jogadores com mais vitórias oficiais,1
-170,Especiais,Jogador,Jogadores com mais empates oficiais,0
-171,Especiais,Jogador,Jogadores com mais derrotas oficiais,0
-172,Especiais,Jogador,Estatística por posição,4
-173,Especiais,Jogador,Maiores ídolos a partir de 1980,0
-174,Especiais,Tecnico,Técnico x Árbitro,0
-175,Especiais,Tecnico,Técnico x Jogador,3
-176,Especiais,Tecnico,Técnicos com mais participações em campeonato,2
-177,Especiais,Tecnico,Técnicos com melhor aproveitamento em campeonato,3
-178,Especiais,Tecnico,Quem teve mais passagens como técnico,2
-179,Especiais,Tecnico,Artilharia em passagem com o técnico,3
-180,Especiais,Tecnico,Técnico x Técnicos adversários,1
-181,Especiais,Tecnico,Saldo de placar com técnico,0
-182,Especiais,Tecnico,Timeline de Técnicos,0
-183,Especiais,Frequencia,Frequência de Placares por ano,0
-184,Especiais,Frequencia,Frequência de Placares contra adversário,0
-185,Especiais,Frequencia,Frequência de Placares em estádio,3
-186,Especiais,Frequencia,Frequência de Placares em campeonato,3
-187,Especiais,Frequencia,Frequência de Placares contra adversário em campeonato,2
-188,Especiais,Frequencia,Frequência de Placares contra adversário mandante/visitante,4
-189,Especiais,Frequencia,Frequência de Placares em estádio em campeonato,1
-190,Especiais,Frequencia,Frequência de Placares contra adversário em estádio,0
-191,Especiais,Resultado,Consulta Placar contra adversário,4
-192,Especiais,Resultado,Consulta Placar em estádio,0
-193,Especiais,Gols,Gols em jogos por ano,0
-194,Especiais,Resultado,Saldo de placar por ano,0
-195,Especiais,Gols,Tempo que faz/leva qtd gols,0
-196,Especiais,Publico,Média de público por período em campeonato,4
-197,Especiais,Estadio,Jogos sem estádio,3
-198,Especiais,Jogo,Jogos Eliminatórios por adversário,2
-199,Especiais,Jogo,Jogos Eliminatórios em estádio,4
-200,Especiais,Jogo,Jogos Eliminatórios com árbitro,1
-201,Especiais,Publico,Maiores públicos por adversário em estádio,4
-202,Especiais,Jogo,Jogos Eliminatórios por Saldo do 1º jogo,4
-203,Especiais,Adversario,Clássicos Regionais em estádio,4
-204,Especiais,Adversario,Clássicos Regionais por período,4
-205,Especiais,Adversario,Últimos jogos - Clássicos Regionais,3
-206,Especiais,Adversario,Árbitros em clássicos,4
-207,Especiais,Adversario,Técnicos em clássicos,3
-208,Especiais,Publico,Média de públicos em clássicos em estádios,4
-209,Especiais,Presidente,Presidente x adversário,3
-210,Especiais,Presidente,Presidente x estádio,1
-211,Especiais,Presidente,Presidente em campeonato,3
-212,Especiais,Presidente,Presidente e técnico,2
-213,Especiais,Presidente,Presidente e jogador,3
-214,Especiais,Sequencia,Sequências contra adversário em campeonato,1
-215,Especiais,Sequencia,Sequências entre todos os técnicos,4
-216,Especiais,Sequencia,Sequências um Único campeonato,4
-217,Especiais,Sequencia,Melhores inícios de campeonato,1
-218,Especiais,Sequencia,Sequência de gols sofridos,3
-219,Especiais,Sequencia,Sequência invicta de goleiros,3
-220,Especiais,Sequencia,Sequência invicta de goleiros em clássicos,1
-221,Especiais,Sequencia,Maiores sequências invictas de goleiros,3
-222,Especiais,Sequencia,Maiores sequências invictas de goleiros em clássicos,1
-223,Especiais,Sequencia,Últimas sequência por quantidade em jogos oficiais,3
-224,Especiais,Sequencia,Sequência seguida de gols,4
-225,Especiais,Sequencia,Últimas seq exata de jogos com gols por qtd,4
-226,Especiais,Sequencia,Últimas seq exata de jogos com gols por qtd em jogos oficiais,0
-227,Especiais,Sequencia,Sequências em estádio como visitante,4
-228,Especiais,Sequencia,Sequências em campeonato como visitante,3
-229,Especiais,Sequencia,Últimas sequência por quantidade em jogos oficiais mandante,4
-230,Especiais,Sequencia,Últimas sequência por quantidade em jogos oficiais visitante,2
-231,Especiais,Jogo,Consulta jogo número contra adversário:,2
-232,Especiais,Jogo,Dia da semana por ano,4
-233,Especiais,Jogo,Dia da semana - adversário,1
-234,Especiais,Jogo,Dia da semana - estádio,2
-235,Especiais,Jogo,Dia da semana - clássicos,2
-236,Especiais,Brasileiro,Posições por período,0
-237,Especiais,Brasileiro,Posições por rodada,1
-238,Especiais,Brasileiro,Pontos por rodada,4
-239,Especiais,Tecadv,Ranking Técnico Adversário em jogos oficiais,3
-240,Especiais,Tecadv,Ranking Técnico Adversário - Aproveitamento,2
-241,Especiais,Tecadv,Curiosidades técnico adversário,0
-242,Especiais,Tecadv,Adversário x Técnico Adversário,2
-243,Especiais,Tecadv,Ranking Técnico Adversário Século XXI,4
-244,Especiais,Tecadv,Ranking Técnico Adversário Século XX,1
-245,Especiais,Tecadv,Ranking Técnico Adversário em jogos oficiais Sec XXI,4
-246,Especiais,Tecadv,Ranking Técnico Adversário em jogos oficiais Sec XX,0
-247,Especiais,Tecadv,Ranking Técnico Adversário - Aproveitamento - Sec XXI,1
-248,Especiais,Tecadv,Ranking Técnico Adversário - Aproveitamento - Sec XX,1
-249,Especiais,Jogador,Minutagem no ano,1
-250,Especiais,Jogador,Minutagem por passagem de técnico,1
-251,Especiais,Jogador,Minutagem em campeonato,0
-252,Especiais,Jogador,Mais Substituídos por ano,0
-253,Especiais,Jogador,Mais substituídos por passagem de técnico,0
-254,Especiais,Jogador,Mais substituídos em campeonato,0
-255,Especiais,Jogador,12º Jogador no ano,0
-256,Especiais,Jogador,12º Jogador por passagem de técnico,0
-257,Especiais,Jogador,12º Jogador em campeonato,0
-258,Especiais,Jogador,Mais fez gols de falta,2
-259,Especiais,Jogador,Mais fez gols de falta no século,1
-260,Especiais,Jogador,Mais fez gols de falta no período,0
-261,Especiais,Jogador,Artilheiros vindo do banco,2
-262,Especiais,Jogador,Artilheiros como titular,1
-263,Especiais,Jogador,Artilheiros em tempo determinado,0
-264,Especiais,Tecnico,Frequencia de Placar de Técnico,3
-265,Especiais,Tecnico,Frequência de Placar de Técnico em Estádio,2
-266,Especiais,Tecnico,Frequência de Placar de Técnico em campeonato,3
-267,Especiais,Tecnico,Frequência de Placar de Técnico x Adversário,2
-268,Especiais,Jogador,Frequencia de Placar de Jogador,0
-269,Especiais,Jogador,Frequencia de Placar de Jogador x Estádio,2
-270,Especiais,Jogador,Frequencia de Placar de Jogador em campeonato,2
-271,Especiais,Jogador,Frequência de Placar de Jogador x Adversário,2
-272,Especiais,Geral,Ranking de Anos,0
+3,Gráfico,Gráfico,Grafico,0
+4,,,Artilheiros,0
+5,Gráfico,Artilheiros,Wordcloud Artilheiros,1
+6,Gráfico,Artilheiros,Multilinha Combinado de artilheiros por ano,0
+7,Gráfico,Gols,Melhores média de gols sofridos,4
+8,Gráfico,Gols,Gols sofridos nos campeonatos,3
+9,Gráfico,Gols,Gols sofridos por adversário,4
+10,Gráfico,Gols,Gols sofridos por ano,4
+11,Gráfico,Adversario,Flu x Times do Nordeste,4
+12,Gráfico,Adversario,Flu x Times do Sul,4
+13,Gráfico,Adversario,Flu x Times do Norte,3
+14,Gráfico,Adversario,Flu x Times do Centro Oeste,3
+15,Gráfico,Adversario,Evolução - saldo de vitórias por adversário,0
+16,Gráfico,Publico,Distribuição de público Visitante - Boxplot,3
+17,Gráfico,Publico,Distribuição de público Visitante - Violinplot,3
+18,Especiais,Especiais,Especiais,0
+19,Especiais,Arbitro,Árbitro x Jogador,4
+20,Especiais,Arbitro,Árbitro x Técnico,3
+21,Especiais,Arbitro,Jogos de Árbitro por ano,3
+22,Especiais,Arbitro,Árbitros por ano,2
+23,Especiais,Estadio,Geolocalização dos estádios,0
+24,Especiais,Estadio,Saldo de placar em estádio,0
+25,Especiais,Campeonato,Var em campeonatos,2
+26,Especiais,Artilheiros,Maiores artilheiros em 1 campeonato,3
+27,Especiais,Artilheiros,Artiheiros contra adversário em campeonato,3
+28,Especiais,Artilheiros,Artiheiros contra adversário em campeonato em estádio,1
+29,Especiais,Artilheiros,Artilheiros estrangeiros em 1 temporada,0
+30,Especiais,Artilheiros,Artilheiros mais novos,4
+31,Especiais,Artilheiros,Artilheiros mais novos Século XX,0
+32,Especiais,Artilheiros,Artilheiros mais novos Século XXI,1
+33,Especiais,Artilheiros,Artilheiros mais velhos Século XX,3
+34,Especiais,Artilheiros,Artilheiros mais velhos Século XXI,3
+35,Especiais,Artilheiros,Maiores artilheiros no 1º tempo,4
+36,Especiais,Artilheiros,Maiores artilheiros no 2º tempo,4
+37,Especiais,Artilheiros,Maiores artilheiros no 1º tempo do Século XX,0
+38,Especiais,Artilheiros,Maiores artilheiros no 1º tempo do Século XXI,1
+39,Especiais,Artilheiros,Maiores artilheiros no 2º tempo do Século XX,1
+40,Especiais,Artilheiros,Maiores artilheiros no 2º tempo do Século XXI,1
+41,Especiais,Assistencia,Participações diretas em gols por ano,4
+42,Especiais,Assistencia,Assistências contra adversário,0
+43,Especiais,Assistencia,Participações diretas em gols contra adversário,0
+44,Especiais,Assistencia,Participações diretas em gols em campeonato,2
+45,Especiais,Assistencia,Penaltis e faltas por sofridos por ano,2
+46,Especiais,Assistencia,Penaltis e faltas por sofridos contra adversário,0
+47,Especiais,Assistencia,Penaltis e faltas por sofridos em campeonato,0
+48,Especiais,Assistencia,Mais participações em gols em 1 jogo,0
+49,Especiais,Presença,Mais jogos contra adversário,2
+50,Especiais,Presença,Mais jogos em estádio,1
+51,Especiais,Presença,Mais jogos contra adversário em campeonato,0
+52,Especiais,Presença,Jogadores com mais participações em campeonatos,2
+53,Especiais,Jogador,Jogador x Árbitro,3
+54,Especiais,Jogador,Jogadores em campeonato - estádio,4
+55,Especiais,Jogador,Jogadores mais velhos,4
+56,Especiais,Jogador,Jogos de jogador com amarelo,2
+57,Especiais,Jogador,Jogos de jogador com vermelho,3
+58,Especiais,Jogador,Jogadores mais novos do Século XX,2
+59,Especiais,Jogador,Jogadores mais novos do Século XXI,4
+60,Especiais,Jogador,Jogadores mais velhos do Século XX,2
+61,Especiais,Jogador,Jogadores mais velhos do Século XXI,4
+62,Especiais,Jogador,Jogadores com mais empates,2
+63,Especiais,Jogador,Jogadores com mais empates no século,0
+64,Especiais,Jogador,Jogadores com mais derrotas no século,2
+65,Especiais,Jogador,Jogadores com mais empates oficiais,0
+66,Especiais,Jogador,Jogadores com mais derrotas oficiais,3
+67,Especiais,Jogador,Maiores ídolos a partir de 1980,0
+68,Especiais,Tecnico,Técnicos com mais participações em campeonato,4
+69,Especiais,Tecnico,Quem teve mais passagens como técnico,4
+70,Especiais,Tecnico,Saldo de placar com técnico,1
+71,Especiais,Tecnico,Timeline de Técnicos,0
+72,Especiais,Frequencia,Frequência de Placares por ano,1
+73,Especiais,Frequencia,Frequência de Placares contra adversário,1
+74,Especiais,Frequencia,Frequência de Placares contra adversário em estádio,2
+75,Especiais,Resultado,Consulta Placar em estádio,3
+76,Especiais,Gols,Gols em jogos por ano,0
+77,Especiais,Resultado,Saldo de placar por ano,1
+78,Especiais,Gols,Tempo que faz/leva qtd gols,0
+79,Especiais,Jogo,Dia da semana - adversário,3
+80,Especiais,Tecadv,Curiosidades técnico adversário,0
+81,Especiais,Tecadv,Ranking Técnico Adversário Século XX,4
+82,Especiais,Tecadv,Ranking Técnico Adversário em jogos oficiais Sec XX,3
+83,Especiais,Jogador,Minutagem no ano,3
+84,Especiais,Jogador,Minutagem por passagem de técnico,1
+85,Especiais,Jogador,Minutagem em campeonato,1
+86,Especiais,Jogador,Mais Substituídos por ano,0
+87,Especiais,Jogador,Mais substituídos por passagem de técnico,0
+88,Especiais,Jogador,Mais substituídos em campeonato,0
+89,Especiais,Jogador,12º Jogador no ano,0
+90,Especiais,Jogador,12º Jogador por passagem de técnico,0
+91,Especiais,Jogador,12º Jogador em campeonato,0
+92,Especiais,Jogador,Mais fez gols de falta no século,1
+93,Especiais,Jogador,Mais fez gols de falta no período,2
+94,Especiais,Jogador,Artilheiros como titular,3
+95,Especiais,Jogador,Artilheiros em tempo determinado,0
+96,Especiais,Jogador,Frequencia de Placar de Jogador,0
+97,Especiais,Jogador,Frequencia de Placar de Jogador em campeonato,4
+98,Especiais,Geral,Ranking de Anos,0

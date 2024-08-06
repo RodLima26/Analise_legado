@@ -1,0 +1,1679 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240701
+# Data de termino: 20240707
+Titulo da pagina e nome da tela;Data;Sessoes;Usuarios;Novos usuarios;Tempo de engajamento medio por sessao;Eventos principais;Receita total;Taxa de eventos principais da sessao
+Estatisticas Fluminense - Principal;20240704;96;71;35;18.729166666666668;0;0;0
+Estatisticas Fluminense - Principal;20240705;60;36;10;14.116666666666667;0;0;0
+Estatisticas Fluminense - Principal;20240701;56;42;10;13.625;0;0;0
+Estatisticas Fluminense - Principal;20240707;53;37;16;20.50943396226415;0;0;0
+Estatisticas Fluminense - Principal;20240703;49;37;14;12.795918367346939;0;0;0
+Estatisticas Fluminense - Principal;20240702;45;39;13;17.066666666666666;0;0;0
+Estatisticas Fluminense - Principal;20240706;43;35;10;27.72093023255814;0;0;0
+Fluminense x Internacional-RS;20240704;25;20;0;30;0;0;0
+Jogador;20240705;21;17;0;17.047619047619047;0;0;0
+Jogador;20240702;19;16;1;31.842105263157894;0;0;0
+Jogador;20240701;16;16;0;23.125;0;0;0
+Jogador;20240707;16;9;0;17.625;0;0;0
+Jogador;20240704;14;12;0;40.42857142857143;0;0;0
+Jogador;20240706;14;12;0;26.071428571428573;0;0;0
+Jogo;20240701;14;13;0;33;0;0;0
+Adversarios;20240704;13;12;0;14.384615384615385;0;0;0
+Jogador;20240703;13;12;0;12.23076923076923;0;0;0
+Felipe Fernandes de Lima;20240704;12;9;0;20.083333333333332;0;0;0
+Fluminense x Fortaleza-CE;20240706;12;11;0;44.666666666666664;0;0;0
+Jogo;20240703;12;8;0;169.25;0;0;0
+Adversarios;20240706;11;9;0;22.454545454545453;0;0;0
+Fluminense x Fortaleza-CE;20240707;10;9;0;18.1;0;0;0
+Arbitros;20240704;10;9;0;7.6;0;0;0
+Fluminense x Internacional-RS;20240703;9;7;0;29.333333333333332;0;0;0
+Sidnei 1998;20240701;9;9;0;61.333333333333336;0;0;0
+Adversarios;20240702;8;8;0;14.25;0;0;0
+Adversarios;20240703;8;6;0;59.375;0;0;0
+Especiais Jogadores;20240705;8;7;0;68.625;0;0;0
+Adversarios;20240701;7;5;0;41.857142857142854;0;0;0
+Adversarios;20240705;7;7;0;9.714285714285714;0;0;0
+Especiais Jogadores;20240707;7;4;0;23.142857142857142;0;0;0
+Jogo;20240705;7;6;0;8.142857142857142;0;0;0
+Jogo;20240706;7;5;0;99.71428571428571;0;0;0
+Fluminense 1 X 1 Internacional;20240705;6;5;0;48.333333333333336;0;0;0
+Fluminense x ABC-RN;20240704;6;4;3;42;0;0;0
+Fluminense x Internacional-RS;20240702;6;5;0;74.5;0;0;0
+Fluminense x Internacional-RS;20240705;6;6;0;24.333333333333332;0;0;0
+Jogo;20240702;6;6;0;43.166666666666664;0;0;0
+Jogo;20240704;6;6;0;27.833333333333332;0;0;0
+Sidnei 1998;20240702;6;5;0;58.833333333333336;0;0;0
+Brasileiro Serie B 1998;20240704;5;5;4;23.2;0;0;0
+Brasileiro Serie B 1998;20240707;5;4;3;5.8;0;0;0
+Campeonatos;20240703;5;4;0;76;0;0;0
+Campeonatos;20240704;5;5;0;20.4;0;0;0
+Campeonatos;20240706;5;4;0;51;0;0;0
+Especiais Adversarios;20240704;5;4;0;8.6;0;0;0
+Especiais Sequencias;20240707;5;2;0;19;0;0;0
+Fluminense 2 X 3 ABC;20240703;5;5;4;26.2;0;0;0
+Gols do Leonardo;20240701;5;1;0;0;0;0;0
+Informacoes Gerais;20240705;5;4;0;6.4;0;0;0
+Jogo;20240707;5;3;0;39.8;0;0;0
+Maracana;20240704;5;5;0;5.4;0;0;0
+Sequencias em Campeonato;20240701;5;3;0;19;0;0;0
+Tecnico;20240702;5;5;0;27;0;0;0
+Arbitros;20240703;5;4;0;8.2;0;0;0
+Arbitros;20240707;5;4;0;9;0;0;0
+Adversarios;20240707;4;4;0;16.75;0;0;0
+Andre 2024;20240703;4;3;1;9.25;0;0;0
+Andre 2024;20240704;4;4;2;9.75;0;0;0
+Brasileiro Serie B 1998;20240701;4;4;2;11.5;0;0;0
+Brasileiro Serie B 1998;20240703;4;4;4;23;0;0;0
+Brasileiro Serie B 1998;20240706;4;4;1;28;0;0;0
+Campeonatos;20240705;4;4;0;11.75;0;0;0
+Carioca 1995;20240701;4;1;0;1.25;0;0;0
+Especiais Adversarios;20240703;4;4;0;17;0;0;0
+Especiais Jogadores;20240702;4;4;0;25.5;0;0;0
+Especiais Jogadores;20240706;4;4;1;5.75;0;0;0
+Especiais Sequencias;20240701;4;2;0;34.25;0;0;0
+Fluminense 2 X 3 ABC;20240707;4;4;4;8.5;0;0;0
+Fluminense x Fortaleza-CE;20240705;4;4;0;25.75;0;0;0
+Gremio 1 X 0 Fluminense;20240701;4;3;0;56;0;0;0
+Informacoes Gerais;20240701;4;2;0;15.25;0;0;0
+Informacoes Gerais;20240707;4;2;0;40;0;0;0
+Jhon Arias 2024;20240705;4;1;0;19.75;0;0;0
+Jogos em 04 / 2005;20240702;4;1;0;3.25;0;0;0
+Marquinhos 2024;20240707;4;2;0;11.5;0;0;0
+Todos os Jogos contra Mano Menezes;20240701;4;3;0;54.75;0;0;0
+Tecnico;20240701;4;4;0;6.25;0;0;0
+Arbitros;20240706;4;3;0;5.25;0;0;0
+Adversario x Estadio;20240704;3;3;0;19.333333333333332;0;0;0
+Botafogo SP 1 X 1 Fluminense;20240702;3;3;3;59.666666666666664;0;0;0
+Campeonatos;20240707;3;2;0;6.333333333333333;0;0;0
+Consulta Tecnico Adversario;20240701;3;3;0;20.333333333333332;0;0;0
+Consulta Tecnico Adversario;20240704;3;3;0;9.666666666666666;0;0;0
+Curiosidades e Titulos;20240701;3;2;0;64;0;0;0
+Especiais Historicos;20240704;3;3;0;10.666666666666666;0;0;0
+Especiais Historicos;20240705;3;3;0;14;0;0;0
+Especiais Historicos;20240707;3;1;0;4.666666666666667;0;0;0
+Especiais Jogadores;20240701;3;3;0;7;0;0;0
+Especiais Jogadores;20240704;3;3;0;17.333333333333332;0;0;0
+Especiais Jogos;20240707;3;1;0;5.666666666666667;0;0;0
+Especiais Sequencias;20240705;3;3;0;8.666666666666666;0;0;0
+Especiais Tecnico;20240702;3;3;0;354.3333333333333;0;0;0
+Especiais Tecnicos Adversarios;20240701;3;3;0;18;0;0;0
+Especiais Tecnicos Adversarios;20240704;3;3;0;8;0;0;0
+Estadios;20240704;3;3;0;29.666666666666668;0;0;0
+Fluminense 0 X 0 Vasco;20240701;3;2;0;9;0;0;0
+Fluminense 0 X 1 Flamengo;20240701;3;2;0;5.666666666666667;0;0;0
+Fluminense 1 X 0 Botafogo;20240701;3;3;0;17;0;0;0
+Fluminense 1 X 0 Flamengo;20240701;3;3;2;27;0;0;0
+Fluminense 1 X 0 Internacional;20240703;3;2;0;1;0;0;0
+Fluminense 2 X 2 Joinville;20240701;3;3;1;8.666666666666666;0;0;0
+Fluminense 3 X 1 Athletico PR;20240701;3;2;0;4;0;0;0
+Fluminense 7 X 2 Botafogo;20240702;3;3;2;102;0;0;0
+Fluminense x Gremio-RS;20240703;3;3;0;13.666666666666666;0;0;0
+German Cano 2024;20240704;3;2;1;0.3333333333333333;0;0;0
+German Cano 2024;20240705;3;3;1;24;0;0;0
+Informacoes Gerais;20240704;3;3;0;16.333333333333332;0;0;0
+Jardel 1967;20240705;3;3;3;97;0;0;0
+Maiores Artilheiros;20240705;3;2;0;103.33333333333333;0;0;0
+Mais jogos no elenco atual;20240702;3;2;0;0;0;0;0
+Marcas Historicas Atuais;20240707;3;1;0;11.666666666666666;0;0;0
+Marcelo 2024;20240705;3;1;0;0;0;0;0
+Mascotes;20240701;3;2;2;5.333333333333333;0;0;0
+Mascotes;20240706;3;3;0;20.333333333333332;0;0;0
+Nonato 2022;20240703;3;3;0;43;0;0;0
+Paulo Henrique Ganso 2024;20240703;3;1;0;40.666666666666664;0;0;0
+Paulo Henrique Ganso 2024;20240706;3;3;0;7.666666666666667;0;0;0
+Rio Cricket 1 X 2 Fluminense;20240703;3;2;0;303;0;0;0
+Samuel Xavier 2024;20240704;3;2;2;0;0;0;0
+Sequencias em Campeonato;20240707;3;1;0;71;0;0;0
+Sidney 2003;20240701;3;3;0;39.333333333333336;0;0;0
+Tecnico;20240704;3;3;0;7.666666666666667;0;0;0
+Tecnico;20240705;3;3;0;5.666666666666667;0;0;0
+Wellerson 1997;20240705;3;1;1;0;0;0;0
+Ultimas Sequencias de 7 no Brasileiro;20240701;3;3;0;40;0;0;0
+Ultimos Jogos;20240707;3;1;0;8.666666666666666;0;0;0
+20 Maiores Artilheiros Anuais;20240704;2;2;0;8;0;0;0
+ABC 1 X 1 Fluminense;20240704;2;2;0;65;0;0;0
+Adversario x Campeonato;20240703;2;2;0;17.5;0;0;0
+Ailton 1996;20240702;2;2;0;8;0;0;0
+Americano 0 X 3 Fluminense;20240701;2;2;0;1.5;0;0;0
+Andre 2024;20240702;2;2;1;23.5;0;0;0
+Andre 2024;20240705;2;2;0;19.5;0;0;0
+Andre 2024;20240707;2;2;0;62;0;0;0
+Arinelson 1999;20240703;2;2;2;8;0;0;0
+Artilheiros na temporada 2024;20240705;2;2;0;30;0;0;0
+Artilheiros na temporada 2024;20240707;2;2;0;22;0;0;0
+Assis 1987;20240706;2;2;0;17;0;0;0
+Assistencias do Pedro;20240701;2;1;0;0;0;0;0
+Bangu 0 X 1 Fluminense;20240701;2;2;0;10;0;0;0
+Botafogo 0 X 1 Fluminense;20240703;2;2;0;2.5;0;0;0
+Botafogo 1 X 0 Fluminense;20240701;2;2;0;4.5;0;0;0
+Botafogo 1 X 1 Fluminense;20240706;2;1;0;497.5;0;0;0
+Botafogo SP 1 X 1 Fluminense;20240707;2;2;2;49.5;0;0;0
+Branca 2024;20240707;2;2;0;18;0;0;0
+Brasileiro 2024;20240705;2;2;0;8;0;0;0
+Brasileiro Serie B 1998;20240702;2;2;2;60.5;0;0;0
+Cafuringa 1977;20240705;2;2;0;67;0;0;0
+Camisa;20240706;2;1;0;11;0;0;0
+Camisa ano a ano;20240706;2;1;0;18;0;0;0
+Campeonatos;20240701;2;2;0;28.5;0;0;0
+Carioca 2005;20240702;2;1;0;44;0;0;0
+Consolidados de turnos;20240704;2;1;0;0;0;0;0
+Escurinho 1964;20240703;2;1;0;0;0;0;0
+Especiais Adversarios;20240705;2;2;0;9;0;0;0
+Especiais Campeonatos;20240705;2;2;0;10.5;0;0;0
+Especiais Gols e Penalties;20240706;2;1;0;12.5;0;0;0
+Especiais Historicos;20240701;2;1;0;0;0;0;0
+Especiais Jogos;20240701;2;2;0;16;0;0;0
+Especiais Jogos;20240705;2;2;0;14;0;0;0
+Especiais Jogos;20240706;2;2;0;5.5;0;0;0
+Especiais Tecnicos Adversarios;20240702;2;2;0;8;0;0;0
+Estadios;20240703;2;2;0;4.5;0;0;0
+Felipe Fernandes de Lima;20240703;2;2;0;19;0;0;0
+Felipe Fernandes de Lima;20240705;2;2;0;36;0;0;0
+Flamengo 0 X 0 Fluminense;20240701;2;1;0;11.5;0;0;0
+Flamengo 0 X 0 Fluminense;20240704;2;2;1;35.5;0;0;0
+Flamengo 2 X 0 Fluminense;20240701;2;1;0;19;0;0;0
+Fluminense 0 X 0 Botafogo;20240701;2;2;0;5.5;0;0;0
+Fluminense 0 X 1 Flamengo;20240705;2;2;0;15.5;0;0;0
+Fluminense 0 X 1 Palmeiras;20240701;2;2;0;57.5;0;0;0
+Fluminense 0 X 1 Vitoria BA;20240705;2;2;0;7.5;0;0;0
+Fluminense 0 X 3 Paulistano;20240707;2;1;0;0;0;0;0
+Fluminense 1 X 0 Bayern de Munique;20240703;2;2;1;11;0;0;0
+Fluminense 1 X 1 Bonsucesso;20240707;2;1;0;10.5;0;0;0
+Fluminense 1 X 1 Corinthians;20240701;2;2;0;2.5;0;0;0
+Fluminense 1 X 1 Internacional;20240704;2;2;0;26.5;0;0;0
+Fluminense 1 X 1 Sao Paulo;20240706;2;2;2;49;0;0;0
+Fluminense 1 X 2 Atletico GO;20240701;2;1;0;7.5;0;0;0
+Fluminense 2 X 0 Internacional;20240701;2;2;0;2.5;0;0;0
+Fluminense 2 X 1 Internacional;20240703;2;2;0;10.5;0;0;0
+Fluminense 2 X 1 Paysandu Cricket;20240704;2;1;0;27.5;0;0;0
+Fluminense 2 X 1 Vasco;20240705;2;1;0;6.5;0;0;0
+Fluminense 2 X 2 Atletico MG;20240701;2;2;1;9;0;0;0
+Fluminense 2 X 2 Joinville;20240702;2;2;1;6;0;0;0
+Fluminense 2 X 2 Joinville;20240704;2;2;1;10.5;0;0;0
+Fluminense 2 X 3 ABC;20240701;2;2;2;65;0;0;0
+Fluminense 2 X 3 ABC;20240702;2;2;2;22;0;0;0
+Fluminense 2 X 3 Gremio;20240704;2;1;0;1.5;0;0;0
+Fluminense 3 X 0 Friburguense;20240701;2;1;0;9;0;0;0
+Fluminense 3 X 0 Internacional;20240704;2;2;2;59.5;0;0;0
+Fluminense 3 X 0 Nova Iguacu;20240701;2;1;0;6;0;0;0
+Fluminense 3 X 1 Operario MT;20240704;2;1;0;36.5;0;0;0
+Fluminense 3 X 2 Goias;20240701;2;1;0;0;0;0;0
+Fluminense 4 X 1 Corinthians;20240707;2;1;0;57;0;0;0
+Fluminense x Anapolina-GO;20240704;2;1;1;0;0;0;0
+Fluminense x Colo Colo-Chile;20240706;2;1;0;0;0;0;0
+Fluminense x Gremio-RS;20240701;2;1;0;17;0;0;0
+Fluminense x Gremio-RS;20240702;2;1;0;0.5;0;0;0
+Fluminense x Internacional-RS;20240701;2;2;0;11;0;0;0
+Fluminense x Juventude-RS;20240706;2;1;0;16;0;0;0
+Fluminense x Moto Club-MA;20240701;2;2;2;11;0;0;0
+Fluminense x Palmeiras-SP;20240705;2;1;0;24;0;0;0
+Fluminense x Parana-PR;20240706;2;1;0;1.5;0;0;0
+Fluminense x Sao Raimundo-AM;20240701;2;2;1;104;0;0;0
+Fluminense x Vasco-RJ;20240707;2;2;1;40;0;0;0
+Fortaleza 1 X 0 Fluminense;20240707;2;2;0;44;0;0;0
+Fortaleza 2 X 5 Fluminense;20240707;2;1;0;0;0;0;0
+Gabriel Pires 2024;20240705;2;1;1;0;0;0;0
+German Cano 2024;20240701;2;2;2;16;0;0;0
+German Cano 2024;20240702;2;2;0;1;0;0;0
+German Cano 2024;20240703;2;2;2;2;0;0;0
+Gerson 2016;20240705;2;1;0;2;0;0;0
+Goleiros com mais jogos;20240705;2;2;0;34.5;0;0;0
+Gols do Ailton;20240702;2;2;0;6;0;0;0
+Gols do Gerson;20240705;2;1;0;10;0;0;0
+Gremio 1 X 0 Fluminense;20240705;2;2;0;5;0;0;0
+Gremio 2 X 1 Fluminense;20240701;2;2;0;20.5;0;0;0
+Informacoes Gerais;20240702;2;2;0;8.5;0;0;0
+Informacoes Gerais;20240703;2;2;0;17;0;0;0
+Informacoes Gerais;20240706;2;2;0;25;0;0;0
+Inter Limeira 0 X 1 Fluminense;20240701;2;2;0;62;0;0;0
+Internacional - Brasileiro;20240703;2;1;0;24;0;0;0
+Internacional - Maracana;20240704;2;2;0;12.5;0;0;0
+Jesus Valenzuela;20240703;2;1;0;0;0;0;0
+Jogos em 12 / 2009;20240706;2;1;0;6.5;0;0;0
+Jogos em mm/aaaa;20240701;2;2;0;16.5;0;0;0
+Jose Mendonca da Silva Jr.;20240702;2;1;0;0;0;0;0
+Laerte 2004;20240707;2;2;2;27;0;0;0
+Lafaiete 1956;20240701;2;2;2;97;0;0;0
+Laranjeiras;20240704;2;2;1;43.5;0;0;0
+Lele 2024;20240705;2;2;0;21;0;0;0
+Madureira 0 X 1 Fluminense;20240701;2;1;0;6;0;0;0
+Maior Artilheiro em Temporada;20240705;2;2;0;3;0;0;0
+Maior Artilheiro em Temporada;20240707;2;2;0;15.5;0;0;0
+Maiores Artilheiros;20240702;2;2;0;74.5;0;0;0
+Maiores Artilheiros;20240704;2;2;0;23;0;0;0
+Maiores Artilheiros;20240707;2;2;0;31.5;0;0;0
+Mais jogos em Campeonato;20240707;2;1;0;6.5;0;0;0
+Mais jogos em Estadio;20240704;2;2;0;3;0;0;0
+Mais jogos no elenco atual;20240703;2;0;0;0;0;0;0
+Mais jogos no elenco atual;20240707;2;1;0;55;0;0;0
+Mais jogos no(a) Alfredo Jaconi;20240704;2;2;0;10.5;0;0;0
+Mais jogos no(a) Brasileiro 2024;20240707;2;1;0;20;0;0;0
+Maracana;20240703;2;2;0;6.5;0;0;0
+Marcelo 2024;20240704;2;1;0;16.5;0;0;0
+Marcelo 2024;20240706;2;2;0;3;0;0;0
+Marlon 2024;20240702;2;2;0;60;0;0;0
+Marlon 2024;20240703;2;2;0;59;0;0;0
+Milan 0 X 1 Fluminense;20240706;2;2;1;24;0;0;0
+Nonato 2022;20240706;2;2;0;35;0;0;0
+Passagem de Tecnico;20240702;2;2;0;202;0;0;0
+Paulo Cesar Zanovelli;20240707;2;1;0;0;0;0;0
+Paulo Henrique Ganso 2024;20240704;2;2;0;30.5;0;0;0
+Paulo Henrique Ganso 2024;20240705;2;1;0;1.5;0;0;0
+Paulo Henrique Ganso 2024;20240707;2;1;0;12;0;0;0
+Paulo Lino 1982;20240702;2;2;2;0;0;0;0
+Paysandu 0 X 0 Fluminense;20240703;2;2;2;28.5;0;0;0
+Proximos Jogos;20240704;2;2;0;60.5;0;0;0
+Proximos Jogos;20240705;2;1;0;19.5;0;0;0
+Proximos Jogos;20240706;2;2;0;8;0;0;0
+Racca Rovers 1 X 2 Fluminense;20240704;2;1;0;4;0;0;0
+Ranking de Tecnicos Adversarios;20240701;2;2;0;16;0;0;0
+Remo 2 X 1 Fluminense;20240707;2;2;2;0;0;0;0
+Renato Chaves 2018;20240705;2;1;0;4;0;0;0
+Ricardo Rocha 1996;20240707;2;1;1;0;0;0;0
+Rio Cricket 0 X 4 Fluminense;20240706;2;1;0;1.5;0;0;0
+Rio Cricket 2 X 3 Fluminense;20240706;2;1;0;1;0;0;0
+Roberto Brum 2002;20240707;2;1;0;4.5;0;0;0
+Santos 2 X 1 Fluminense;20240701;2;2;0;3;0;0;0
+Selecao Italia 5 X 3 Fluminense;20240701;2;2;2;3;0;0;0
+Sequencias;20240707;2;1;0;41;0;0;0
+Sequencias - Brasileiro;20240701;2;2;0;19;0;0;0
+Sequencias - Brasileiro;20240705;2;2;0;16;0;0;0
+Sequencias - Brasileiro;20240707;2;1;0;31.5;0;0;0
+Sequencias Qtd;20240707;2;1;0;31;0;0;0
+Sequencias em Campeonato;20240705;2;2;0;8.5;0;0;0
+Sao Januario;20240703;2;1;0;0;0;0;0
+Sergio Alves 1998;20240704;2;2;0;24;0;0;0
+Tec - Mano Menezes;20240705;2;2;0;26.5;0;0;0
+Thiago Neves 2013;20240703;2;1;0;0;0;0;0
+Timeline Tecnicos;20240702;2;2;0;137.5;0;0;0
+Todos os Jogos contra Fortaleza-CE;20240706;2;2;0;34.5;0;0;0
+Todos os Jogos contra Fortaleza-CE;20240707;2;2;0;4.5;0;0;0
+Todos os Jogos contra Parana-PR;20240706;2;1;0;47;0;0;0
+Todos os Jogos no(a) Engenheiro Araripe;20240701;2;1;1;0;0;0;0
+Tecnico;20240707;2;2;0;12;0;0;0
+Vitoria BA 1 X 2 Fluminense;20240701;2;2;0;15;0;0;0
+Arbitro;20240702;2;1;1;0;0;0;0
+Arbitros;20240702;2;2;0;5;0;0;0
+Arbitros;20240705;2;2;0;19;0;0;0
+Ultimas Sequencias de 10 jogos;20240707;2;1;0;10;0;0;0
+Ultimas Sequencias de 10 no Brasileiro;20240701;2;2;0;8.5;0;0;0
+Ultimas Sequencias de 11 jogos;20240707;2;1;0;20;0;0;0
+Ultimas Sequencias de 9 jogos;20240707;2;1;0;12.5;0;0;0
+Ultimas Sequencias de 9 no Brasileiro;20240701;2;2;0;6.5;0;0;0
+(not set);20240704;1;1;0;9;0;0;0
+(not set);20240705;1;1;0;57;0;0;0
+2024 x 2018;20240701;1;1;0;68;0;0;0
+30 Adversarios que mais jogamos;20240705;1;1;0;12;0;0;0
+30 Adversarios que mais jogamos;20240706;1;1;0;0;0;0;0
+30 Adversarios que mais jogamos;20240707;1;1;0;0;0;0;0
+40 Maiores idolos;20240702;1;1;0;34;0;0;0
+4º lugar;20240701;1;0;0;0;0;0;0
+ABC 1 X 1 Fluminense;20240701;1;1;0;73;0;0;0
+AZ 67 Alkmaar 2 X 2 Fluminense;20240704;1;1;0;4;0;0;0
+Abel 1976;20240704;1;1;0;12;0;0;0
+Abel Hernandez 2021;20240704;1;1;0;62;0;0;0
+Abel x Mano Menezes;20240702;1;1;0;27;0;0;0
+Adriano Magrao 2007;20240704;1;1;0;8;0;0;0
+Adversario;20240701;1;1;0;6;0;0;0
+Adversario;20240702;1;1;0;2;0;0;0
+Adversario;20240703;1;1;0;2;0;0;0
+Adversario x Campeonato x Estadio;20240702;1;1;0;10;0;0;0
+Adversario x Estadio;20240702;1;1;0;10;0;0;0
+Adversario x Estadio;20240703;1;1;0;13;0;0;0
+Adversario x Estadio;20240705;1;1;0;33;0;0;0
+Adversario x Arbitro;20240702;1;1;0;17;0;0;0
+Adversarios Argentina;20240704;1;1;0;4;0;0;0
+Adversarios em vantagem;20240706;1;1;0;2;0;0;0
+Ailton 2014;20240702;1;1;0;1;0;0;0
+Ajax 2 X 2 Fluminense;20240704;1;1;0;7;0;0;0
+Al Ahli Saudi 2 X 3 Fluminense;20240705;1;1;0;17;0;0;0
+Alberto da Gama Malcher;20240703;1;1;0;6;0;0;0
+Aldo 1987;20240704;1;1;0;123;0;0;0
+Alexandre 1983;20240702;1;1;0;19;0;0;0
+Alexandre 1983;20240703;1;1;0;3;0;0;0
+Alexandre Jesus 2024;20240704;1;1;0;5;0;0;0
+Alexandre Jesus 2024;20240706;1;1;1;0;0;0;0
+Alexandre Seixas 1996;20240705;1;1;1;67;0;0;0
+Alexsander 2024;20240704;1;1;0;5;0;0;0
+Alianza Lima 1 X 1 Fluminense;20240701;1;1;0;12;0;0;0
+Amarelos do Andre - 2024;20240705;1;1;0;9;0;0;0
+Amarelos do Paulo Henrique Ganso - 2024;20240707;1;1;0;34;0;0;0
+Amauri 1983;20240702;1;1;0;20;0;0;0
+Amauri 1983;20240705;1;1;0;5;0;0;0
+Americano 0 X 3 Fluminense;20240703;1;1;0;4;0;0;0
+Americano 1 X 0 Fluminense;20240704;1;1;0;16;0;0;0
+Americano 1 X 3 Fluminense;20240702;1;1;0;51;0;0;0
+Americano 1 X 5 Fluminense;20240701;1;1;0;3;0;0;0
+Americano 2 X 3 Fluminense;20240701;1;1;0;2;0;0;0
+Amistoso 1998;20240705;1;1;1;70;0;0;0
+Amistoso Internacional 1908;20240703;1;1;0;1;0;0;0
+Amistoso Internacional 1909;20240703;1;1;0;4;0;0;0
+Amoroso 1968;20240705;1;1;0;6;0;0;0
+America 0 X 2 Fluminense;20240703;1;1;0;4;0;0;0
+America 0 X 2 Fluminense;20240704;1;1;0;10;0;0;0
+America 1 X 1 Fluminense;20240701;1;1;0;12;0;0;0
+America 2 X 1 Fluminense;20240707;1;1;0;9;0;0;0
+America MG 0 X 3 Fluminense;20240704;1;1;0;17;0;0;0
+America MG 3 X 0 Fluminense;20240701;1;1;0;0;0;0;0
+America Mexico 1 X 0 Fluminense;20240701;1;1;0;1;0;0;0
+America RN 0 X 0 Fluminense;20240704;1;1;0;9;0;0;0
+America RN 1 X 0 Fluminense;20240705;1;1;0;8;0;0;0
+Anderson Daronco;20240703;1;1;0;2;0;0;0
+Andre 2024;20240701;1;0;0;0;0;0;0
+Andre Lima 2010;20240705;1;1;0;3;0;0;0
+Aniversariantes do dia;20240702;1;1;0;4;0;0;0
+Aniversariantes em 02 / 07;20240702;1;1;0;2;0;0;0
+Ano 1982;20240702;1;1;0;6;0;0;0
+Ano a ano;20240702;1;1;0;6;0;0;0
+Antonio Accioly;20240702;1;1;0;19;0;0;0
+Antonio Carlos 2024;20240704;1;1;0;3;0;0;0
+Antonio Carlos 1983;20240702;1;1;0;27;0;0;0
+Aproveitamento de Tecnicos Adversarios;20240701;1;1;0;27;0;0;0
+Argentinos Juniors 2 X 4 Fluminense;20240701;1;1;0;4;0;0;0
+Ari de Oliveira;20240706;1;1;0;28;0;0;0
+Arsenal de Sarandi 1 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Arthur 1999;20240705;1;1;0;5;0;0;0
+Artilheiros Estrangeiros;20240702;1;1;0;19;0;0;0
+Artilheiros contra CRB;20240704;1;1;0;3;0;0;0
+Artilheiros contra Corinthians;20240704;1;1;0;22;0;0;0
+Artilheiros contra Cruzeiro;20240704;1;1;0;9;0;0;0
+Artilheiros contra Duque de Caxias;20240704;1;1;0;8;0;0;0
+Artilheiros contra Figueirense;20240704;1;1;0;19;0;0;0
+Artilheiros contra Internacional;20240704;1;1;0;9;0;0;0
+Artilheiros em jogos oficiais;20240702;1;1;0;19;0;0;0
+Artilheiros mais novos;20240704;1;0;0;0;0;0;0
+Artilheiros na temporada 2020;20240707;1;1;0;7;0;0;0
+Artilheiros na temporada 2021;20240707;1;1;0;5;0;0;0
+Artilheiros na temporada 2022;20240707;1;1;0;5;0;0;0
+Artilheiros na temporada 2023;20240707;1;1;0;9;0;0;0
+Artilheiros na temporada 2024;20240702;1;1;0;34;0;0;0
+Artilheiros na temporada 2024;20240704;1;1;0;23;0;0;0
+Artilheiros no(a) Brasileiro;20240704;1;1;0;4;0;0;0
+Artilheiros por Adversario;20240702;1;1;0;810;0;0;0
+Artilheiros por Adversario;20240704;1;1;0;0;0;0;0
+Assis 1975;20240702;1;1;0;21;0;0;0
+Assis 1987;20240702;1;1;0;9;0;0;0
+Assis 1987;20240704;1;1;0;32;0;0;0
+Assis 1996;20240702;1;1;0;6;0;0;0
+Assis 1996;20240706;1;1;0;29;0;0;0
+Assistencias contra Adversario;20240705;1;1;0;18;0;0;0
+Assistencias contra Flamengo;20240705;1;1;0;11;0;0;0
+Assistencias do Cristiano;20240706;1;1;0;4;0;0;0
+Assistencias em Ano;20240702;1;1;0;1;0;0;0
+Assistencias em Ano;20240704;1;1;0;3;0;0;0
+Athletico PR 0 X 1 Fluminense;20240703;1;1;0;13;0;0;0
+Athletico PR 0 X 1 Fluminense;20240704;1;1;0;10;0;0;0
+Athletico PR 1 X 1 Fluminense;20240701;1;1;0;0;0;0;0
+Athletico PR 2 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Atilio Marotti;20240703;1;1;0;4;0;0;0
+Atilio Marotti;20240706;1;1;0;35;0;0;0
+Atletico GO 0 X 1 Fluminense;20240701;1;1;0;8;0;0;0
+Atletico GO 1 X 4 Fluminense;20240701;1;1;0;2;0;0;0
+Atletico GO 2 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Atletico MG 1 X 0 Fluminense;20240701;1;1;0;0;0;0;0
+Atletico MG 1 X 1 Fluminense;20240704;1;1;0;12;0;0;0
+Atletico MG 1 X 2 Fluminense;20240705;1;1;0;3;0;0;0
+Atletico MG 1 X 3 Fluminense;20240701;1;1;0;3;0;0;0
+Atletico MG 2 X 0 Fluminense;20240705;1;1;0;2;0;0;0
+Atletico MG 3 X 2 Fluminense;20240701;1;1;0;4;0;0;0
+Audax 0 X 1 Fluminense;20240701;1;1;0;6;0;0;0
+Avai 0 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Avai 0 X 3 Fluminense;20240701;1;1;0;0;0;0;0
+Bahia 0 X 2 Fluminense;20240701;1;1;0;4;0;0;0
+Bahia 1 X 1 Fluminense;20240704;1;1;0;12;0;0;0
+Bahia 2 X 1 Fluminense;20240701;1;1;0;4;0;0;0
+Bahia 2 X 1 Fluminense;20240705;1;1;0;3;0;0;0
+Bahia 2 X 2 Fluminense;20240702;1;1;0;13;0;0;0
+Bahia 2 X 2 Fluminense;20240704;1;1;0;12;0;0;0
+Bahia 3 X 0 Fluminense;20240701;1;1;0;2;0;0;0
+Bangu 1 X 5 Fluminense;20240703;1;1;0;9;0;0;0
+Bangu 2 X 0 Fluminense;20240705;1;1;0;9;0;0;0
+Batatais 1946;20240702;1;1;1;127;0;0;0
+Batatais 1946;20240705;1;1;0;21;0;0;0
+Boavista 2 X 2 Fluminense;20240701;1;1;0;2;0;0;0
+Boca Juniors 1 X 0 Fluminense;20240701;1;1;0;6;0;0;0
+Boca Juniors 1 X 2 Fluminense;20240701;1;1;0;5;0;0;0
+Bonsucesso 0 X 2 Fluminense;20240701;1;1;0;5;0;0;0
+Bonsucesso 0 X 2 Fluminense;20240703;1;1;0;9;0;0;0
+Bonsucesso 0 X 2 Fluminense;20240704;1;1;0;20;0;0;0
+Bonsucesso 1 X 4 Fluminense;20240704;1;1;0;10;0;0;0
+Bonsucesso 2 X 2 Fluminense;20240703;1;1;0;8;0;0;0
+Botafogo 0 X 1 Fluminense;20240701;1;1;0;5;0;0;0
+Botafogo 0 X 2 Fluminense;20240705;1;1;0;11;0;0;0
+Botafogo 1 X 1 Fluminense;20240701;1;1;0;43;0;0;0
+Botafogo 1 X 1 Fluminense;20240703;1;1;0;1;0;0;0
+Botafogo 1 X 1 Fluminense;20240704;1;1;0;31;0;0;0
+Botafogo 1 X 1 Fluminense;20240707;1;1;0;2;0;0;0
+Botafogo 1 X 2 Fluminense;20240705;1;1;0;29;0;0;0
+Botafogo 1 X 2 Fluminense;20240707;1;1;0;2;0;0;0
+Botafogo 2 X 0 Fluminense;20240701;1;1;0;27;0;0;0
+Botafogo 3 X 2 Fluminense;20240701;1;1;0;6;0;0;0
+Botafogo PB 1 X 1 Fluminense;20240704;1;1;0;9;0;0;0
+Bragantino 2 X 1 Fluminense;20240703;1;1;0;10;0;0;0
+Branca 1966;20240701;1;1;0;37;0;0;0
+Branca 1998;20240707;1;1;0;5;0;0;0
+Branco 1998;20240704;1;1;0;13;0;0;0
+Brasileiro;20240704;1;1;0;0;0;0;0
+Brasileiro;20240706;1;1;0;20;0;0;0
+Brasileiro - 1º Turno 2009;20240704;1;1;0;13;0;0;0
+Brasileiro - 1º Turno 2013;20240704;1;1;0;10;0;0;0
+Brasileiro - 1º Turno 2020;20240703;1;1;0;22;0;0;0
+Brasileiro - 1º Turno 2024;20240706;1;1;0;6;0;0;0
+Brasileiro 1974;20240705;1;1;0;39;0;0;0
+Brasileiro 1975;20240703;1;1;0;5;0;0;0
+Brasileiro 1977;20240706;1;1;1;21;0;0;0
+Brasileiro 1978;20240702;1;1;1;0;0;0;0
+Brasileiro 1978;20240704;1;1;0;20;0;0;0
+Brasileiro 1980;20240704;1;1;0;22;0;0;0
+Brasileiro 1984;20240705;1;1;0;18;0;0;0
+Brasileiro 1984;20240706;1;1;0;38;0;0;0
+Brasileiro 1997;20240706;1;1;0;71;0;0;0
+Brasileiro 2000;20240706;1;1;0;18;0;0;0
+Brasileiro 2020;20240703;1;1;0;8;0;0;0
+Brasileiro 2022;20240703;1;1;0;34;0;0;0
+Brasileiro 2022;20240706;1;1;0;1;0;0;0
+Brasileiro 2024;20240703;1;1;0;58;0;0;0
+Brasileiro 2024;20240704;1;1;0;12;0;0;0
+Brasileiro 2024;20240706;1;1;0;0;0;0;0
+Brasileiro 2024;20240707;1;1;0;28;0;0;0
+Brasileiro Serie C 1999;20240701;1;1;0;14;0;0;0
+Brasileiro Serie C 1999;20240706;1;1;0;58;0;0;0
+Brasilia 0 X 1 Fluminense;20240704;1;1;0;13;0;0;0
+Braulio da Silva Machado;20240706;1;1;0;20;0;0;0
+Brunel 1975;20240704;1;1;1;62;0;0;0
+Bruno 2006;20240704;1;1;0;2;0;0;0
+CRB 2 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+CRB 2 X 2 Fluminense;20240704;1;1;0;18;0;0;0
+Cabofriense 0 X 1 Fluminense;20240703;1;1;0;23;0;0;0
+Cabofriense 2 X 4 Fluminense;20240701;1;1;0;1;0;0;0
+Cachoeiro 0 X 1 Fluminense;20240701;1;1;1;13;0;0;0
+Calegari 2024;20240704;1;1;0;2;0;0;0
+Camisa;20240701;1;1;0;1;0;0;0
+Camisa;20240705;1;1;0;13;0;0;0
+Camisa;20240707;1;1;0;1;0;0;0
+Camisas em 1966;20240706;1;1;0;25;0;0;0
+Camisas em 1967;20240706;1;1;0;6;0;0;0
+Camisas em 1998;20240706;1;1;0;36;0;0;0
+Camisas em 1999;20240706;1;1;0;55;0;0;0
+Campanha em 2024 x Campanhas historicas;20240704;1;1;0;4;0;0;0
+Campeonatos;20240702;1;1;0;12;0;0;0
+Campeonatos em 1999;20240701;1;1;0;1;0;0;0
+Campeonatos por ano;20240701;1;1;0;4;0;0;0
+Carioca 1975;20240701;1;1;1;85;0;0;0
+Carioca 1976;20240703;1;1;0;10;0;0;0
+Carioca 1978;20240703;1;1;1;14;0;0;0
+Carioca 1979;20240706;1;1;0;12;0;0;0
+Carioca 1986;20240701;1;1;1;31;0;0;0
+Carioca 1986;20240704;1;1;1;20;0;0;0
+Carioca 1986;20240707;1;1;1;0;0;0;0
+Carioca 1992;20240707;1;1;1;8;0;0;0
+Carioca 1993;20240703;1;1;1;28;0;0;0
+Carioca 1994;20240703;1;1;0;13;0;0;0
+Carioca 1994;20240704;1;1;1;14;0;0;0
+Carioca 1994;20240706;1;1;1;1;0;0;0
+Carioca 1996;20240702;1;1;1;6;0;0;0
+Carioca Especial 1979;20240706;1;1;0;7;0;0;0
+Carlinhos 2014;20240705;1;1;0;1;0;0;0
+Carlos Alberto 1999;20240702;1;1;0;7;0;0;0
+Carlos Alberto Dias 1998;20240704;1;1;0;17;0;0;0
+Carlos Andre 1990;20240705;1;1;1;0;0;0;0
+Carlos Elias Pimentel;20240707;1;1;1;23;0;0;0
+Carlson Gracie;20240705;1;1;0;10;0;0;0
+Castelao;20240704;1;1;0;8;0;0;0
+Castelao;20240706;1;1;0;32;0;0;0
+Castelao;20240707;1;1;0;7;0;0;0
+Castelao - Fortaleza;20240707;1;1;0;1;0;0;0
+Cazares 2021;20240702;1;1;0;10;0;0;0
+Ceara 0 X 1 Fluminense;20240704;1;1;0;15;0;0;0
+Ceara 1 X 0 Fluminense;20240701;1;1;0;4;0;0;0
+Ceara 1 X 2 Fluminense;20240701;1;1;0;2;0;0;0
+Centenario-RS;20240701;1;1;0;20;0;0;0
+Cerro Portenho 0 X 0 Fluminense;20240701;1;1;0;1;0;0;0
+Cerro Portenho 0 X 0 Fluminense;20240703;1;1;0;5;0;0;0
+Chiquinho 1993;20240706;1;1;1;7;0;0;0
+Claudinho 1998;20240704;1;1;0;7;0;0;0
+Claudio 1994;20240702;1;1;1;53;0;0;0
+Claudio Pitbul 2006;20240704;1;1;0;3;0;0;0
+Clever Assuncao Goncalves;20240706;1;1;0;1;0;0;0
+Clever Assuncao Goncalves;20240707;1;1;0;0;0;0;0
+Colatina 0 X 0 Fluminense;20240704;1;1;0;42;0;0;0
+Colatina 0 X 1 Fluminense;20240704;1;1;0;8;0;0;0
+Colo Colo 0 X 1 Fluminense;20240701;1;1;0;2;0;0;0
+Comb Icasa/guarani 2 X 2 Fluminense;20240701;1;1;1;0;0;0;0
+Comb Icasa/guarani 2 X 2 Fluminense;20240704;1;1;1;0;0;0;0
+Combinado Europeu 1 X 3 Fluminense;20240706;1;1;0;18;0;0;0
+Compara Tecnicos adversarios;20240702;1;1;0;27;0;0;0
+Comparacao ano corrente x campanhas historicas;20240704;1;1;0;16;0;0;0
+Comparacao entre anos;20240701;1;1;0;15;0;0;0
+Conca 2015;20240703;1;1;0;22;0;0;0
+Confianca 1 X 1 Fluminense;20240701;1;1;0;2;0;0;0
+Consulta Turno;20240704;1;1;0;19;0;0;0
+Consulta Tecnico Adversario;20240702;1;1;0;3;0;0;0
+Consulta Tecnico Adversario;20240703;1;1;0;9;0;0;0
+Consulta Tecnico Adversario;20240707;1;1;0;18;0;0;0
+Consultas Especiais;20240705;1;1;0;2;0;0;0
+Contusoes em 2024;20240703;1;1;0;44;0;0;0
+Contusoes em 2024;20240705;1;1;0;18;0;0;0
+Contusoes por Ano;20240703;1;1;0;1;0;0;0
+Contusoes por Ano;20240705;1;1;0;6;0;0;0
+Copa do Brasil 2000;20240701;1;1;1;8;0;0;0
+Copa do Brasil 2000;20240703;1;1;1;24;0;0;0
+Copa do Brasil 2007;20240704;1;1;0;7;0;0;0
+Copa do Brasil 2022;20240706;1;1;0;48;0;0;0
+Corinthians 0 X 1 Fluminense;20240701;1;1;0;15;0;0;0
+Corinthians 1 X 0 Fluminense;20240701;1;1;0;6;0;0;0
+Corinthians 2 X 0 Fluminense;20240701;1;1;0;0;0;0;0
+Corinthians 3 X 0 Fluminense;20240701;1;1;0;2;0;0;0
+Coritiba 0 X 2 Fluminense;20240701;1;1;0;0;0;0;0
+Coritiba 3 X 1 Fluminense;20240701;1;1;0;0;0;0;0
+Costa Santos 1911;20240703;1;1;0;0;0;0;0
+Criciuma 3 X 2 Fluminense;20240702;1;1;0;0;0;0;0
+Criciuma 3 X 2 Fluminense;20240706;1;1;0;26;0;0;0
+Cristiano 2024;20240704;1;1;0;3;0;0;0
+Cristiano 2024;20240706;1;1;0;30;0;0;0
+Cruzeiro 1 X 0 Fluminense;20240701;1;1;0;0;0;0;0
+Cruzeiro 1 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Cruzeiro 1 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Cruzeiro 1 X 2 Fluminense;20240706;1;1;1;0;0;0;0
+Cruzeiro 2 X 0 Fluminense;20240701;1;1;0;2;0;0;0
+Cruzeiro 2 X 0 Fluminense;20240705;1;1;0;4;0;0;0
+Cruzeiro 3 X 1 Fluminense;20240704;1;1;0;9;0;0;0
+Curiosidades e Titulos;20240702;1;1;0;28;0;0;0
+Curiosidades e Titulos;20240705;1;1;0;13;0;0;0
+Cadiz 2 X 0 Fluminense;20240704;1;1;1;7;0;0;0
+Cicero 2016 - Gols por Ano;20240704;1;1;0;36;0;0;0
+Dago 1991;20240702;1;1;1;8;0;0;0
+Dario Herrera;20240706;1;1;0;19;0;0;0
+Dario Herrera;20240707;1;0;0;0;0;0;0
+Deco 2013;20240702;1;1;0;5;0;0;0
+Deco 2013;20240705;1;1;0;49;0;0;0
+Delei 1987;20240704;1;1;0;61;0;0;0
+Denilson 1992;20240702;1;1;0;182;0;0;0
+Detalhamento dos Gols;20240701;1;1;0;5;0;0;0
+Detalhamento dos gols - Cabeca;20240701;1;1;0;47;0;0;0
+Diogo Barbosa 2024;20240704;1;1;0;5;0;0;0
+Dom Bosco 2 X 1 Fluminense;20240704;1;1;0;12;0;0;0
+Donizete 1990;20240705;1;1;0;8;0;0;0
+Douglas Costa 2024;20240704;1;1;0;4;0;0;0
+Douglas Costa 2024;20240705;1;1;0;2;0;0;0
+Douglas Costa 2024;20240706;1;1;0;19;0;0;0
+Doval 1978;20240705;1;1;0;2;0;0;0
+Duilio 1985;20240704;1;1;0;32;0;0;0
+Duque de Caxias 0 X 4 Fluminense;20240701;1;1;0;2;0;0;0
+Edinho 1989;20240703;1;1;0;4;0;0;0
+Edinho 1989;20240705;1;1;0;0;0;0;0
+Edinho 1995;20240702;1;1;0;3;0;0;0
+Edmilson 1963;20240705;1;1;0;3;0;0;0
+Edson 1955;20240705;1;1;0;2;0;0;0
+Edson Borracha 1966;20240701;1;1;1;0;0;0;0
+Edson Borracha 1966;20240702;1;1;1;125;0;0;0
+Eduardo 1994;20240702;1;1;0;5;0;0;0
+Eintracht Frankfurt 4 X 1 Fluminense;20240705;1;1;0;4;0;0;0
+Elenco de jogadores em 1982;20240702;1;1;0;27;0;0;0
+Elenco de jogadores em 1983;20240702;1;1;0;7;0;0;0
+Elenco por em Ano;20240702;1;1;0;8;0;0;0
+Engenhao;20240704;1;1;0;108;0;0;0
+Especiais Adversarios;20240702;1;1;0;17;0;0;0
+Especiais Adversarios;20240706;1;1;0;38;0;0;0
+Especiais Brasileirao;20240703;1;1;0;7;0;0;0
+Especiais Brasileirao;20240704;1;1;0;10;0;0;0
+Especiais Brasileirao;20240705;1;1;0;24;0;0;0
+Especiais Campeonatos;20240701;1;1;0;4;0;0;0
+Especiais Campeonatos;20240704;1;1;0;17;0;0;0
+Especiais Campeonatos;20240707;1;1;0;5;0;0;0
+Especiais Classicos;20240703;1;1;0;10;0;0;0
+Especiais Estadios;20240703;1;1;0;2;0;0;0
+Especiais Estadios;20240704;1;1;0;4;0;0;0
+Especiais Estadios;20240706;1;1;0;3;0;0;0
+Especiais Estadios;20240707;1;1;0;15;0;0;0
+Especiais Gols e Penalties;20240701;1;1;0;47;0;0;0
+Especiais Gols e Penalties;20240703;1;1;0;26;0;0;0
+Especiais Gols e Penalties;20240704;1;1;0;40;0;0;0
+Especiais Historicos;20240702;1;1;0;17;0;0;0
+Especiais Historicos;20240703;1;1;0;3;0;0;0
+Especiais Jogadores;20240703;1;1;0;12;0;0;0
+Especiais Jogos;20240702;1;1;0;10;0;0;0
+Especiais Jogos;20240703;1;1;0;16;0;0;0
+Especiais Jogos;20240704;1;1;0;30;0;0;0
+Especiais Jogos Eliminatorios;20240704;1;1;0;3;0;0;0
+Especiais Jogos Eliminatorios;20240705;1;1;1;20;0;0;0
+Especiais Placares;20240702;1;1;0;2;0;0;0
+Especiais Placares;20240703;1;1;0;14;0;0;0
+Especiais Sequencias;20240704;1;1;0;28;0;0;0
+Especiais Sequencias;20240706;1;1;0;59;0;0;0
+Especiais Tecnico;20240701;1;1;0;2;0;0;0
+Especiais Tecnico;20240707;1;1;0;2;0;0;0
+Especiais Tecnicos Adversarios;20240703;1;1;0;11;0;0;0
+Especiais Tecnicos Adversarios;20240707;1;1;0;8;0;0;0
+Espinelli 1945;20240703;1;1;1;24;0;0;0
+Esquerdinha 2023;20240702;1;1;0;7;0;0;0
+Esquerdinha 2023;20240707;1;1;0;10;0;0;0
+Estatisticas Gerais por data;20240704;1;1;0;2;0;0;0
+Estadio x Adversario;20240703;1;1;0;9;0;0;0
+Estadio x Adversario;20240707;1;1;0;12;0;0;0
+Estadios;20240701;1;1;0;7;0;0;0
+Estadios;20240702;1;1;0;5;0;0;0
+Estadios;20240706;1;1;0;2;0;0;0
+Estadios;20240707;1;1;0;3;0;0;0
+Evando 2006;20240704;1;1;0;3;0;0;0
+Evanilson 2020;20240703;1;1;0;94;0;0;0
+Fabinho 2002;20240702;1;1;0;3;0;0;0
+Fanta 1983;20240702;1;1;1;226;0;0;0
+Felipe 2008;20240706;1;1;0;12;0;0;0
+Felipe Alves 2024;20240701;1;1;0;26;0;0;0
+Felipe Andrade 2024;20240707;1;1;0;8;0;0;0
+Felipe Melo 2024;20240707;1;1;0;64;0;0;0
+Figueirense 0 X 1 Fluminense;20240701;1;1;0;4;0;0;0
+Figueirense 0 X 4 Fluminense;20240701;1;1;0;11;0;0;0
+Figueirense 1 X 0 Fluminense;20240703;1;1;0;4;0;0;0
+Figueirense 2 X 2 Fluminense;20240701;1;1;0;2;0;0;0
+Flamengo 0 X 1 Fluminense;20240701;1;1;0;7;0;0;0
+Flamengo 0 X 1 Fluminense;20240703;1;1;0;32;0;0;0
+Flamengo 0 X 2 Fluminense;20240701;1;1;0;8;0;0;0
+Flamengo 0 X 2 Fluminense;20240703;1;1;1;20;0;0;0
+Flamengo 1 X 0 Fluminense;20240703;1;1;0;1;0;0;0
+Flamengo 1 X 0 Fluminense;20240706;1;1;0;4;0;0;0
+Flamengo 1 X 1 Fluminense;20240705;1;1;0;3;0;0;0
+Flamengo 1 X 4 Fluminense;20240702;1;1;0;8;0;0;0
+Flamengo 2 X 0 Fluminense;20240706;1;1;0;26;0;0;0
+Flamengo 3 X 2 Fluminense;20240701;1;1;0;10;0;0;0
+Flamengo 3 X 3 Fluminense;20240701;1;1;0;11;0;0;0
+Flamengo 4 X 0 Fluminense;20240703;1;1;0;73;0;0;0
+Flamengo PI 2 X 2 Fluminense;20240704;1;1;0;14;0;0;0
+Fluminense 0 X 0 Atletico MG;20240701;1;1;0;6;0;0;0
+Fluminense 0 X 0 Atletico MG;20240706;1;1;0;200;0;0;0
+Fluminense 0 X 0 Botafogo;20240703;1;1;0;6;0;0;0
+Fluminense 0 X 0 CRB;20240701;1;1;0;34;0;0;0
+Fluminense 0 X 0 Campo Grande;20240705;1;1;0;16;0;0;0
+Fluminense 0 X 0 Campo Grande;20240707;1;1;0;1;0;0;0
+Fluminense 0 X 0 Cruzeiro;20240704;1;1;0;6;0;0;0
+Fluminense 0 X 0 Gremio;20240701;1;1;0;4;0;0;0
+Fluminense 0 X 0 Gremio;20240704;1;1;0;7;0;0;0
+Fluminense 0 X 0 Internacional;20240701;1;1;0;7;0;0;0
+Fluminense 0 X 0 Nacional Uruguai;20240701;1;1;0;15;0;0;0
+Fluminense 0 X 0 Nautico;20240701;1;1;0;33;0;0;0
+Fluminense 0 X 0 Palmeiras;20240704;1;1;0;6;0;0;0
+Fluminense 0 X 0 Portuguesa SP;20240704;1;1;0;8;0;0;0
+Fluminense 0 X 1 America RN;20240701;1;1;0;4;0;0;0
+Fluminense 0 X 1 Argentinos Juniors;20240704;1;1;1;0;0;0;0
+Fluminense 0 X 1 Athletico PR;20240707;1;1;0;4;0;0;0
+Fluminense 0 X 1 Bahia;20240701;1;1;0;6;0;0;0
+Fluminense 0 X 1 Bangu;20240701;1;1;0;23;0;0;0
+Fluminense 0 X 1 Boavista;20240703;1;1;0;10;0;0;0
+Fluminense 0 X 1 Cruzeiro;20240701;1;1;0;22;0;0;0
+Fluminense 0 X 1 Gremio;20240705;1;1;0;2;0;0;0
+Fluminense 0 X 1 Internacional;20240703;1;1;0;27;0;0;0
+Fluminense 0 X 1 Internacional;20240704;1;1;0;24;0;0;0
+Fluminense 0 X 1 Palmeiras;20240707;1;1;0;5;0;0;0
+Fluminense 0 X 1 Vitoria BA;20240701;1;1;0;5;0;0;0
+Fluminense 0 X 1 Volta Redonda;20240701;1;1;0;0;0;0;0
+Fluminense 0 X 2 America;20240704;1;1;0;12;0;0;0
+Fluminense 0 X 2 America;20240705;1;1;0;6;0;0;0
+Fluminense 0 X 2 Atletico MG;20240701;1;1;0;5;0;0;0
+Fluminense 0 X 2 Atletico MG;20240704;1;1;0;24;0;0;0
+Fluminense 0 X 2 Boavista;20240701;1;1;0;386;0;0;0
+Fluminense 0 X 2 Boca Juniors;20240701;1;1;0;7;0;0;0
+Fluminense 0 X 2 Cruzeiro;20240701;1;1;0;8;0;0;0
+Fluminense 0 X 2 Flamengo;20240701;1;1;0;16;0;0;0
+Fluminense 0 X 2 Flamengo;20240704;1;1;0;53;0;0;0
+Fluminense 0 X 2 Fortaleza;20240706;1;1;0;12;0;0;0
+Fluminense 0 X 2 Internacional;20240703;1;1;0;104;0;0;0
+Fluminense 0 X 2 Sao Paulo;20240701;1;1;0;12;0;0;0
+Fluminense 0 X 2 Vasco;20240705;1;1;0;20;0;0;0
+Fluminense 0 X 3 Bonsucesso;20240707;1;1;0;6;0;0;0
+Fluminense 0 X 3 Palmeiras;20240705;1;1;0;1;0;0;0
+Fluminense 0 X 3 Santos;20240701;1;1;0;5;0;0;0
+Fluminense 0 X 3 Volta Redonda;20240703;1;1;0;5;0;0;0
+Fluminense 1 X 0 Arsenal de Sarandi;20240701;1;1;0;12;0;0;0
+Fluminense 1 X 0 Atletico GO;20240701;1;1;0;7;0;0;0
+Fluminense 1 X 0 Avai;20240701;1;1;0;7;0;0;0
+Fluminense 1 X 0 Bahia;20240702;1;1;0;2;0;0;0
+Fluminense 1 X 0 Bangu;20240706;1;1;0;6;0;0;0
+Fluminense 1 X 0 Bayern de Munique;20240704;1;1;1;29;0;0;0
+Fluminense 1 X 0 Bonsucesso;20240705;1;1;0;1;0;0;0
+Fluminense 1 X 0 Bonsucesso;20240707;1;1;1;11;0;0;0
+Fluminense 1 X 0 Corinthians;20240701;1;1;0;11;0;0;0
+Fluminense 1 X 0 Corinthians;20240704;1;1;0;180;0;0;0
+Fluminense 1 X 0 Cruzeiro;20240701;1;1;0;8;0;0;0
+Fluminense 1 X 0 Fortaleza;20240705;1;1;0;20;0;0;0
+Fluminense 1 X 0 Fortaleza;20240706;1;1;0;3;0;0;0
+Fluminense 1 X 0 Guarani;20240701;1;1;0;33;0;0;0
+Fluminense 1 X 0 Internacional;20240704;1;1;0;7;0;0;0
+Fluminense 1 X 0 Itaperuna;20240707;1;1;1;15;0;0;0
+Fluminense 1 X 0 Maritimo;20240701;1;1;0;2;0;0;0
+Fluminense 1 X 0 Maritimo;20240704;1;1;0;41;0;0;0
+Fluminense 1 X 0 Nova Iguacu;20240701;1;1;0;10;0;0;0
+Fluminense 1 X 0 Palmeiras;20240701;1;1;0;11;0;0;0
+Fluminense 1 X 0 Remo;20240704;1;1;0;9;0;0;0
+Fluminense 1 X 0 Sampaio Correa RJ;20240701;1;1;0;6;0;0;0
+Fluminense 1 X 0 Santo Andre;20240706;1;1;0;166;0;0;0
+Fluminense 1 X 0 Santos;20240704;1;1;0;11;0;0;0
+Fluminense 1 X 0 Sport;20240701;1;1;0;4;0;0;0
+Fluminense 1 X 0 Sao Cristovao;20240705;1;1;0;11;0;0;0
+Fluminense 1 X 0 Sao Jose;20240701;1;1;0;80;0;0;0
+Fluminense 1 X 0 Ulsan Hyundai;20240704;1;1;1;6;0;0;0
+Fluminense 1 X 0 Vasco;20240701;1;1;0;7;0;0;0
+Fluminense 1 X 0 Volta Redonda;20240701;1;1;0;10;0;0;0
+Fluminense 1 X 0 Zamora;20240701;1;1;0;6;0;0;0
+Fluminense 1 X 1 Americano;20240705;1;1;0;14;0;0;0
+Fluminense 1 X 1 America;20240707;1;1;0;10;0;0;0
+Fluminense 1 X 1 Athletico PR;20240702;1;1;0;130;0;0;0
+Fluminense 1 X 1 Athletico PR;20240704;1;1;0;15;0;0;0
+Fluminense 1 X 1 Atletico GO;20240703;1;1;0;6;0;0;0
+Fluminense 1 X 1 Bahia;20240704;1;1;0;12;0;0;0
+Fluminense 1 X 1 Boca Juniors;20240701;1;1;0;23;0;0;0
+Fluminense 1 X 1 Bonsucesso;20240704;1;1;0;5;0;0;0
+Fluminense 1 X 1 Botafogo;20240701;1;1;1;4;0;0;0
+Fluminense 1 X 1 Corinthians;20240702;1;1;0;1;0;0;0
+Fluminense 1 X 1 Duque de Caxias;20240701;1;1;0;4;0;0;0
+Fluminense 1 X 1 Flamengo;20240701;1;1;0;34;0;0;0
+Fluminense 1 X 1 Flamengo;20240703;1;1;0;15;0;0;0
+Fluminense 1 X 1 Flamengo;20240705;1;1;0;2;0;0;0
+Fluminense 1 X 1 Goias;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 1 Gremio Prudente;20240701;1;1;0;11;0;0;0
+Fluminense 1 X 1 Huachipato;20240706;1;1;1;28;0;0;0
+Fluminense 1 X 1 Internacional;20240702;1;1;0;48;0;0;0
+Fluminense 1 X 1 Internacional;20240707;1;1;0;7;0;0;0
+Fluminense 1 X 1 Joinville;20240704;1;1;0;12;0;0;0
+Fluminense 1 X 1 Juventude;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 1 Juventude;20240705;1;1;0;12;0;0;0
+Fluminense 1 X 1 Madureira;20240705;1;1;0;15;0;0;0
+Fluminense 1 X 1 Madureira;20240707;1;1;0;2;0;0;0
+Fluminense 1 X 1 Nautico;20240704;1;1;0;29;0;0;0
+Fluminense 1 X 1 Nautico;20240706;1;1;0;18;0;0;0
+Fluminense 1 X 1 Palmeiras;20240701;1;1;0;11;0;0;0
+Fluminense 1 X 1 Palmeiras;20240703;1;1;0;6;0;0;0
+Fluminense 1 X 1 Palmeiras;20240706;1;1;0;38;0;0;0
+Fluminense 1 X 1 Palmeiras;20240707;1;1;0;3;0;0;0
+Fluminense 1 X 1 Paysandu;20240701;1;1;0;1;0;0;0
+Fluminense 1 X 1 Paysandu;20240704;1;1;0;13;0;0;0
+Fluminense 1 X 1 Santa Cruz;20240704;1;1;0;6;0;0;0
+Fluminense 1 X 1 Santos;20240705;1;1;0;2;0;0;0
+Fluminense 1 X 1 Sao Paulo;20240701;1;1;0;4;0;0;0
+Fluminense 1 X 1 Union La Calera;20240703;1;1;0;15;0;0;0
+Fluminense 1 X 1 Vasco;20240701;1;1;0;4;0;0;0
+Fluminense 1 X 2 America MG;20240701;1;1;0;11;0;0;0
+Fluminense 1 X 2 Athletico PR;20240706;1;1;0;11;0;0;0
+Fluminense 1 X 2 Atletico GO;20240705;1;1;0;0;0;0;0
+Fluminense 1 X 2 Boavista;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 2 Botafogo;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 2 Corinthians;20240701;1;1;0;7;0;0;0
+Fluminense 1 X 2 Fast;20240704;1;1;0;12;0;0;0
+Fluminense 1 X 2 Flamengo;20240701;1;1;0;53;0;0;0
+Fluminense 1 X 2 Flamengo;20240703;1;1;0;7;0;0;0
+Fluminense 1 X 2 Serra;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 2 Vasco;20240701;1;1;0;26;0;0;0
+Fluminense 1 X 3 Botafogo;20240703;1;1;0;6;0;0;0
+Fluminense 1 X 3 Campo Grande;20240705;1;1;0;4;0;0;0
+Fluminense 1 X 3 Cruzeiro;20240701;1;1;0;5;0;0;0
+Fluminense 1 X 3 Flamengo;20240707;1;1;0;9;0;0;0
+Fluminense 1 X 3 Macae;20240701;1;1;0;6;0;0;0
+Fluminense 1 X 3 Vasco;20240704;1;1;0;19;0;0;0
+Fluminense 1 X 3 Vasco;20240705;1;1;0;3;0;0;0
+Fluminense 1 X 4 Bahia;20240701;1;1;0;9;0;0;0
+Fluminense 2 X 0 Al Ahly;20240707;1;1;0;144;0;0;0
+Fluminense 2 X 0 America;20240705;1;1;0;3;0;0;0
+Fluminense 2 X 0 America;20240706;1;1;0;4;0;0;0
+Fluminense 2 X 0 Atletico MG;20240705;1;1;0;6;0;0;0
+Fluminense 2 X 0 Botafogo PB;20240703;1;1;0;14;0;0;0
+Fluminense 2 X 0 Campo Grande;20240704;1;1;0;10;0;0;0
+Fluminense 2 X 0 Confianca;20240701;1;1;0;5;0;0;0
+Fluminense 2 X 0 Gremio;20240701;1;1;0;5;0;0;0
+Fluminense 2 X 0 Juventus;20240701;1;1;0;1;0;0;0
+Fluminense 2 X 0 Juventus;20240703;1;1;0;4;0;0;0
+Fluminense 2 X 0 Juventus;20240704;1;1;0;6;0;0;0
+Fluminense 2 X 0 Juventus;20240706;1;1;0;3;0;0;0
+Fluminense 2 X 0 LDU;20240701;1;1;0;20;0;0;0
+Fluminense 2 X 0 Paysandu;20240705;1;1;0;40;0;0;0
+Fluminense 2 X 0 Portuguesa;20240703;1;1;0;9;0;0;0
+Fluminense 2 X 0 Sampaio Correa;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 0 Sampaio Correa;20240705;1;1;0;6;0;0;0
+Fluminense 2 X 0 Sao Raimundo;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 0 Vasco;20240704;1;1;0;13;0;0;0
+Fluminense 2 X 0 Vasco;20240706;1;1;0;4;0;0;0
+Fluminense 2 X 0 Volta Redonda;20240701;1;1;0;4;0;0;0
+Fluminense 2 X 1 Botafogo;20240701;1;1;0;5;0;0;0
+Fluminense 2 X 1 Cerro Portenho;20240701;1;1;0;10;0;0;0
+Fluminense 2 X 1 Cerro Portenho;20240706;1;1;0;24;0;0;0
+Fluminense 2 X 1 Colo Colo;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 1 Colo Colo;20240705;1;1;0;1;0;0;0
+Fluminense 2 X 1 Coritiba;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 1 Cruzeiro;20240701;1;1;0;6;0;0;0
+Fluminense 2 X 1 Flamengo;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 1 Flamengo;20240706;1;1;0;2;0;0;0
+Fluminense 2 X 1 Internacional;20240701;1;1;0;11;0;0;0
+Fluminense 2 X 1 Internacional;20240706;1;1;0;0;0;0;0
+Fluminense 2 X 1 Macae;20240701;1;1;0;17;0;0;0
+Fluminense 2 X 1 Nautico;20240701;1;1;0;6;0;0;0
+Fluminense 2 X 1 Nautico;20240704;1;1;0;8;0;0;0
+Fluminense 2 X 1 Operario MS;20240704;1;1;0;4;0;0;0
+Fluminense 2 X 1 Palmeiras;20240703;1;1;0;21;0;0;0
+Fluminense 2 X 1 Paysandu Cricket;20240705;1;1;0;10;0;0;0
+Fluminense 2 X 1 Ponte Preta;20240701;1;1;0;26;0;0;0
+Fluminense 2 X 1 Portuguesa;20240701;1;1;0;19;0;0;0
+Fluminense 2 X 1 Portuguesa;20240706;1;1;0;10;0;0;0
+Fluminense 2 X 1 Resende;20240701;1;1;0;6;0;0;0
+Fluminense 2 X 1 Sport;20240704;1;1;0;11;0;0;0
+Fluminense 2 X 1 Sao Paulo;20240701;1;1;0;5;0;0;0
+Fluminense 2 X 1 Vasco;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 1 Vasco;20240703;1;1;0;3;0;0;0
+Fluminense 2 X 1 Vitoria BA;20240701;1;1;0;13;0;0;0
+Fluminense 2 X 2 Argentinos Juniors;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 2 Atletico MG;20240703;1;1;1;1;0;0;0
+Fluminense 2 X 2 Atletico MG;20240706;1;1;1;10;0;0;0
+Fluminense 2 X 2 Boavista;20240701;1;1;0;11;0;0;0
+Fluminense 2 X 2 Bragantino;20240701;1;1;0;15;0;0;0
+Fluminense 2 X 2 Bragantino;20240705;1;1;0;8;0;0;0
+Fluminense 2 X 2 Corinthians;20240706;1;1;0;3;0;0;0
+Fluminense 2 X 2 Corinthians;20240707;1;1;0;3;0;0;0
+Fluminense 2 X 2 Cruzeiro;20240704;1;1;0;7;0;0;0
+Fluminense 2 X 2 Figueirense;20240701;1;1;0;12;0;0;0
+Fluminense 2 X 2 Fortaleza;20240706;1;1;0;1;0;0;0
+Fluminense 2 X 2 Gremio;20240701;1;1;0;16;0;0;0
+Fluminense 2 X 2 Joinville;20240703;1;1;1;8;0;0;0
+Fluminense 2 X 2 Sao Paulo;20240701;1;1;0;5;0;0;0
+Fluminense 2 X 2 Vasco;20240703;1;1;0;27;0;0;0
+Fluminense 2 X 3 ABC;20240704;1;1;0;27;0;0;0
+Fluminense 2 X 3 ABC;20240706;1;1;1;0;0;0;0
+Fluminense 2 X 3 America;20240705;1;1;0;10;0;0;0
+Fluminense 2 X 3 Athletico PR;20240704;1;1;0;0;0;0;0
+Fluminense 2 X 3 Athletico PR;20240705;1;1;0;10;0;0;0
+Fluminense 2 X 3 Atletico MG;20240704;1;1;0;28;0;0;0
+Fluminense 2 X 3 Botafogo;20240701;1;1;0;7;0;0;0
+Fluminense 2 X 3 Botafogo;20240704;1;1;0;12;0;0;0
+Fluminense 2 X 3 Flamengo;20240703;1;1;0;2;0;0;0
+Fluminense 2 X 3 Gremio;20240701;1;1;0;11;0;0;0
+Fluminense 2 X 3 Gremio;20240702;1;1;0;5;0;0;0
+Fluminense 2 X 3 Vasco;20240706;1;1;0;10;0;0;0
+Fluminense 2 X 4 America RN;20240704;1;1;0;13;0;0;0
+Fluminense 2 X 4 Botafogo;20240701;1;1;0;22;0;0;0
+Fluminense 2 X 4 Palmeiras;20240705;1;1;0;8;0;0;0
+Fluminense 3 X 0 Bangu;20240701;1;1;0;20;0;0;0
+Fluminense 3 X 0 Bangu;20240706;1;1;0;103;0;0;0
+Fluminense 3 X 0 Boavista;20240701;1;1;0;5;0;0;0
+Fluminense 3 X 0 Botafogo;20240703;1;1;0;9;0;0;0
+Fluminense 3 X 0 Figueirense;20240701;1;1;0;4;0;0;0
+Fluminense 3 X 0 Figueirense;20240703;1;1;0;17;0;0;0
+Fluminense 3 X 0 Internacional;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 0 Moto Club;20240703;1;1;0;15;0;0;0
+Fluminense 3 X 0 Santos;20240702;1;1;1;0;0;0;0
+Fluminense 3 X 0 Selecao Kuwait;20240704;1;1;0;11;0;0;0
+Fluminense 3 X 0 Volta Redonda;20240704;1;1;0;28;0;0;0
+Fluminense 3 X 1 America;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 1 Avai;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 1 Ceara;20240701;1;1;0;12;0;0;0
+Fluminense 3 X 1 Coritiba;20240701;1;1;0;5;0;0;0
+Fluminense 3 X 1 Desportiva;20240704;1;1;0;7;0;0;0
+Fluminense 3 X 1 Duque de Caxias;20240701;1;1;0;4;0;0;0
+Fluminense 3 X 1 Flamengo;20240701;1;1;0;17;0;0;0
+Fluminense 3 X 1 Libertad;20240701;1;1;0;5;0;0;0
+Fluminense 3 X 1 Macae;20240701;1;1;0;11;0;0;0
+Fluminense 3 X 1 Olaria;20240705;1;1;0;18;0;0;0
+Fluminense 3 X 1 Portuguesa SP;20240705;1;1;0;20;0;0;0
+Fluminense 3 X 1 Portuguesa SP;20240707;1;1;0;2;0;0;0
+Fluminense 3 X 1 Santos;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 1 Serrano;20240703;1;1;0;2;0;0;0
+Fluminense 3 X 1 Sao Paulo;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 1 Volta Redonda;20240702;1;1;0;2;0;0;0
+Fluminense 3 X 2 Alianza Lima;20240701;1;1;0;8;0;0;0
+Fluminense 3 X 2 Alianza Lima;20240705;1;1;0;11;0;0;0
+Fluminense 3 X 2 America Mexico;20240701;1;1;0;21;0;0;0
+Fluminense 3 X 2 Atletico GO;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 2 Avai;20240701;1;1;0;3;0;0;0
+Fluminense 3 X 2 Avai;20240704;1;1;0;3;0;0;0
+Fluminense 3 X 2 Botafogo;20240701;1;1;0;7;0;0;0
+Fluminense 3 X 2 Flamengo;20240705;1;1;0;4;0;0;0
+Fluminense 3 X 2 Portuguesa SP;20240701;1;1;0;8;0;0;0
+Fluminense 3 X 2 Portuguesa SP;20240702;1;1;0;15;0;0;0
+Fluminense 3 X 2 Santos;20240701;1;1;0;6;0;0;0
+Fluminense 3 X 3 Corinthians;20240701;1;1;0;24;0;0;0
+Fluminense 3 X 5 Flamengo;20240701;1;1;0;10;0;0;0
+Fluminense 4 X 0 Bahia;20240701;1;1;0;6;0;0;0
+Fluminense 4 X 0 Bangu;20240705;1;1;0;63;0;0;0
+Fluminense 4 X 0 Botafogo PB;20240704;1;1;0;9;0;0;0
+Fluminense 4 X 0 Ceara;20240701;1;1;0;6;0;0;0
+Fluminense 4 X 0 Cruzeiro;20240703;1;1;0;10;0;0;0
+Fluminense 4 X 0 Parana;20240706;1;1;0;21;0;0;0
+Fluminense 4 X 0 Resende;20240703;1;1;0;23;0;0;0
+Fluminense 4 X 0 Sao Cristovao;20240703;1;1;0;5;0;0;0
+Fluminense 4 X 0 Vila Nova GO;20240704;1;1;0;13;0;0;0
+Fluminense 4 X 1 Americano;20240702;1;1;0;17;0;0;0
+Fluminense 4 X 1 Bangu;20240701;1;1;0;5;0;0;0
+Fluminense 4 X 1 Botafogo;20240701;1;1;0;14;0;0;0
+Fluminense 4 X 1 Botafogo;20240706;1;1;0;156;0;0;0
+Fluminense 4 X 1 Flamengo;20240706;1;1;0;87;0;0;0
+Fluminense 4 X 1 Portuguesa SP;20240701;1;1;0;6;0;0;0
+Fluminense 4 X 2 Ceara;20240704;1;1;0;11;0;0;0
+Fluminense 4 X 2 Palmeiras;20240701;1;1;0;48;0;0;0
+Fluminense 4 X 2 Palmeiras;20240703;1;1;0;29;0;0;0
+Fluminense 4 X 3 Boavista;20240704;1;1;0;1;0;0;0
+Fluminense 5 X 0 Botafogo;20240704;1;1;1;36;0;0;0
+Fluminense 5 X 1 Atletico MG;20240701;1;1;0;13;0;0;0
+Fluminense 5 X 1 Friburguense;20240701;1;1;0;5;0;0;0
+Fluminense 5 X 1 Madureira;20240703;1;1;0;4;0;0;0
+Fluminense 5 X 1 Olaria;20240701;1;1;0;7;0;0;0
+Fluminense 5 X 2 Coritiba;20240707;1;1;0;2;0;0;0
+Fluminense 5 X 4 Gremio;20240701;1;1;0;16;0;0;0
+Fluminense 6 X 1 Anapolina;20240703;1;1;0;2;0;0;0
+Fluminense 6 X 2 Olaria;20240701;1;1;0;5;0;0;0
+Fluminense 7 X 1 Juventude;20240704;1;1;1;0;0;0;0
+Fluminense 7 X 1 Paysandu Cricket;20240706;1;1;0;23;0;0;0
+Fluminense 7 X 2 Botafogo;20240707;1;1;1;91;0;0;0
+Fluminense 8 X 0 Botafogo;20240703;1;1;0;0;0;0;0
+Fluminense 8 X 0 Botafogo;20240706;1;1;0;6;0;0;0
+Fluminense X Internacional - Video;20240704;1;1;0;14;0;0;0
+Fluminense x ABC-RN;20240701;1;1;0;32;0;0;0
+Fluminense x Abel no Internacional;20240702;1;1;0;68;0;0;0
+Fluminense x Anapolina-GO;20240702;1;1;1;49;0;0;0
+Fluminense x Athletico PR-PR;20240701;1;1;0;15;0;0;0
+Fluminense x Athletico PR-PR;20240706;1;1;0;5;0;0;0
+Fluminense x Atletico MG-MG;20240702;1;1;0;9;0;0;0
+Fluminense x Atletico MG-MG;20240706;1;1;0;5;0;0;0
+Fluminense x Aymore Moreira no Vitoria BA;20240702;1;1;1;0;0;0;0
+Fluminense x Bahia-BA;20240701;1;1;0;12;0;0;0
+Fluminense x Bayern de Munique-Alemanha;20240701;1;1;1;19;0;0;0
+Fluminense x Bonsucesso-RJ;20240707;1;1;0;299;0;0;0
+Fluminense x Botafogo PB-PB;20240704;1;1;0;0;0;0;0
+Fluminense x Campo Grande-RJ;20240702;1;1;1;50;0;0;0
+Fluminense x Cene-MS;20240706;1;1;1;0;0;0;0
+Fluminense x Confianca-SE;20240702;1;1;1;10;0;0;0
+Fluminense x Criciuma-SC;20240707;1;1;0;15;0;0;0
+Fluminense x Cruzeiro-MG;20240704;1;1;0;5;0;0;0
+Fluminense x Deportivo Galicia-Venezuela;20240701;1;1;0;12;0;0;0
+Fluminense x Deportivo Italia-Venezuela;20240704;1;1;0;12;0;0;0
+Fluminense x Entrerriense-RJ;20240704;1;1;1;43;0;0;0
+Fluminense x Estrela do Norte-ES;20240703;1;1;1;33;0;0;0
+Fluminense x Fast-AM;20240706;1;1;0;55;0;0;0
+Fluminense x Flamengo-RJ;20240702;1;1;0;69;0;0;0
+Fluminense x Flamengo-RJ;20240706;1;1;0;27;0;0;0
+Fluminense x Fonseca-RJ;20240703;1;1;0;15;0;0;0
+Fluminense x Friburgo-RJ;20240703;1;1;0;5;0;0;0
+Fluminense x Friburgo-RJ;20240704;1;1;0;10;0;0;0
+Fluminense x Goias-GO;20240706;1;1;0;20;0;0;0
+Fluminense x Goiania-GO;20240703;1;1;1;37;0;0;0
+Fluminense x Goytacas-RJ;20240703;1;1;0;11;0;0;0
+Fluminense x Goytacas-RJ;20240706;1;1;0;58;0;0;0
+Fluminense x Inter Limeira-SP;20240701;1;1;0;47;0;0;0
+Fluminense x Internacional SC-SC;20240707;1;1;0;29;0;0;0
+Fluminense x Internacional-RS;20240706;1;1;0;65;0;0;0
+Fluminense x Internazionale-Italia;20240706;1;1;1;0;0;0;0
+Fluminense x Itaperuna-RJ;20240707;1;1;0;5;0;0;0
+Fluminense x Juiz de Fora-MG;20240702;1;1;0;8;0;0;0
+Fluminense x Juiz de Fora-MG;20240703;1;1;0;29;0;0;0
+Fluminense x Juventude-RS;20240705;1;1;0;0;0;0;0
+Fluminense x Juventus-SP;20240702;1;1;0;7;0;0;0
+Fluminense x Juventus-SP;20240704;1;1;0;18;0;0;0
+Fluminense x LDU-Equador;20240707;1;1;1;26;0;0;0
+Fluminense x Leonico-BA;20240703;1;1;0;24;0;0;0
+Fluminense x Mano Menezes no Bahia;20240702;1;1;0;31;0;0;0
+Fluminense x Mano Menezes no Corinthians;20240702;1;1;0;6;0;0;0
+Fluminense x Mano Menezes no Cruzeiro;20240702;1;1;0;11;0;0;0
+Fluminense x Mano Menezes no Flamengo;20240702;1;1;0;5;0;0;0
+Fluminense x Mano Menezes no Gremio;20240702;1;1;0;90;0;0;0
+Fluminense x Mano Menezes no Internacional;20240702;1;1;0;5;0;0;0
+Fluminense x Mano Menezes no Palmeiras;20240702;1;1;0;10;0;0;0
+Fluminense x Moto Club-MA;20240705;1;1;1;0;0;0;0
+Fluminense x Nacional MG-MG;20240701;1;1;0;89;0;0;0
+Fluminense x Nacional Potosi-Bolivia;20240706;1;1;0;8;0;0;0
+Fluminense x Nacional Uruguai-Uruguai;20240706;1;1;0;59;0;0;0
+Fluminense x Nautico-PE;20240704;1;1;0;36;0;0;0
+Fluminense x Paris Saint Germain-Franca;20240704;1;1;1;8;0;0;0
+Fluminense x Paris Saint Germain-Franca;20240706;1;1;1;12;0;0;0
+Fluminense x Paysandu-PA;20240702;1;1;0;8;0;0;0
+Fluminense x Porto Alegre-RJ;20240703;1;1;0;8;0;0;0
+Fluminense x Portuguesa Santista-SP;20240701;1;1;0;17;0;0;0
+Fluminense x Racca Rovers-Nigeria;20240705;1;1;1;7;0;0;0
+Fluminense x Rio Branco-ES;20240701;1;1;0;8;0;0;0
+Fluminense x Rio Cricket-RJ;20240701;1;1;0;13;0;0;0
+Fluminense x San Lorenzo-Argentina;20240702;1;1;0;5;0;0;0
+Fluminense x San Lorenzo-Argentina;20240704;1;1;1;32;0;0;0
+Fluminense x San Lorenzo-Argentina;20240705;1;1;1;0;0;0;0
+Fluminense x Santos-SP;20240707;1;1;0;66;0;0;0
+Fluminense x Selecao Italia-Italia;20240703;1;1;0;2;0;0;0
+Fluminense x Serra-ES;20240701;1;1;0;13;0;0;0
+Fluminense x Serrano-RJ;20240706;1;1;0;27;0;0;0
+Fluminense x Serrano-RJ;20240707;1;0;0;0;0;0;0
+Fluminense x Syrio e Libanez-RJ;20240701;1;1;0;16;0;0;0
+Fluminense x Sao Paulo-SP;20240701;1;1;0;3;0;0;0
+Fluminense x Sao Paulo-SP;20240704;1;1;0;20;0;0;0
+Fluminense x Sao Raimundo-AM;20240704;1;1;1;42;0;0;0
+Fluminense x Tampico-Mexico;20240703;1;1;1;4;0;0;0
+Fluminense x Vasco-RJ;20240702;1;1;0;59;0;0;0
+Fluminense x Vasco-RJ;20240704;1;1;0;36;0;0;0
+Fluminense x Vitoria ES-ES;20240701;1;1;0;16;0;0;0
+Fluminense x Vitoria BA-BA;20240705;1;1;0;0;0;0;0
+Fluminense x Volta Redonda-RJ;20240704;1;1;0;3;0;0;0
+Fluminense x XV de Piracicaba-SP;20240701;1;1;0;10;0;0;0
+Fortaleza 0 X 1 Fluminense;20240705;1;1;0;45;0;0;0
+Fortaleza 0 X 1 Fluminense;20240706;1;1;0;6;0;0;0
+Fred 2022;20240703;1;1;0;46;0;0;0
+Fred 2022;20240704;1;1;0;5;0;0;0
+Fred 2022 - Gols por Ano;20240704;1;1;0;52;0;0;0
+Fabio Cordeiro 2002;20240704;1;1;1;0;0;0;0
+Fabio Cordeiro 2002;20240707;1;1;1;0;0;0;0
+Felix 1978;20240705;1;1;0;11;0;0;0
+Felix 1978;20240707;1;1;0;16;0;0;0
+Gabriel 2000;20240704;1;1;0;7;0;0;0
+Gabriel Capixaba 2020;20240705;1;1;0;20;0;0;0
+Gabriel Pirani 2023;20240705;1;1;0;20;0;0;0
+Gabriel Pires 2024;20240702;1;1;1;0;0;0;0
+Gabriel Pires 2024;20240706;1;1;0;21;0;0;0
+Gabriel Teixeira 2022;20240705;1;1;0;3;0;0;0
+Galhardo 1971;20240705;1;1;0;1;0;0;0
+Geolocalizacao dos Estadios;20240706;1;1;0;13;0;0;0
+Geraldino Cesar;20240704;1;1;1;13;0;0;0
+German Cano 2024;20240706;1;1;0;0;0;0;0
+German Cano 2024;20240707;1;1;0;135;0;0;0
+German Cano 2024 - Gols por Adversario;20240702;1;1;0;17;0;0;0
+German Cano 2024 - Gols por Adversario;20240704;1;1;0;34;0;0;0
+German Cano 2024 - Gols por Ano;20240702;1;1;0;9;0;0;0
+German Cano 2024 - Gols por Campeonato;20240704;1;1;0;38;0;0;0
+Gerson 1974;20240705;1;1;0;3;0;0;0
+Gerson 2016;20240706;1;1;0;1;0;0;0
+Gerson Baluta;20240703;1;1;0;5;0;0;0
+Gilcimar 1982;20240703;1;1;0;9;0;0;0
+Goias 0 X 3 Fluminense;20240701;1;1;0;1;0;0;0
+Goias 1 X 1 Fluminense;20240707;1;1;0;1;0;0;0
+Goias 1 X 2 Fluminense;20240703;1;1;0;7;0;0;0
+Goias 2 X 1 Fluminense;20240704;1;1;0;26;0;0;0
+Goias 3 X 0 Fluminense;20240701;1;1;0;24;0;0;0
+Goleadas;20240703;1;1;0;5;0;0;0
+Goleadas em 2001;20240706;1;1;0;2;0;0;0
+Goleadas em 2002;20240706;1;1;0;2;0;0;0
+Goleadas em 2003;20240706;1;1;0;5;0;0;0
+Goleadas em 2023;20240703;1;1;0;6;0;0;0
+Goleadas em 2024;20240703;1;1;0;0;0;0;0
+Goleadas em Brasileiros;20240703;1;1;0;5;0;0;0
+Goleadas em Classicos;20240703;1;1;0;71;0;0;0
+Goleadas em jogos oficiais;20240703;1;1;0;11;0;0;0
+Goleadas por Adversarios;20240703;1;1;0;0;0;0;0
+Goleadas por Adversarios;20240704;1;1;0;7;0;0;0
+Goleadas por ano;20240703;1;1;0;12;0;0;0
+Goleadas por ano;20240706;1;1;0;13;0;0;0
+Goleiros com mais jogos;20240704;1;1;0;13;0;0;0
+Goleiros com mais jogos;20240707;1;1;0;22;0;0;0
+Gols do Amauri;20240705;1;1;0;28;0;0;0
+Gols do Amoroso;20240705;1;1;0;6;0;0;0
+Gols do Arthur;20240705;1;1;0;7;0;0;0
+Gols do Cafuringa;20240705;1;1;0;19;0;0;0
+Gols do Donizete;20240705;1;1;0;5;0;0;0
+Gols do Edinho;20240703;1;1;0;63;0;0;0
+Gols do Edinho;20240705;1;1;0;6;0;0;0
+Gols do Gabriel Capixaba;20240705;1;1;0;5;0;0;0
+Gols do Gabriel Pirani;20240705;1;1;0;7;0;0;0
+Gols do Gabriel Teixeira;20240705;1;1;0;9;0;0;0
+Gols do German Cano;20240705;1;1;0;24;0;0;0
+Gols do Jhon Arias;20240705;1;1;0;38;0;0;0
+Gols do Jorginho;20240705;1;1;0;5;0;0;0
+Gols do Kleber;20240705;1;1;0;4;0;0;0
+Gols do Leonardo;20240702;1;1;0;3;0;0;0
+Gols do Lima;20240702;1;1;0;28;0;0;0
+Gols do Lira;20240702;1;1;0;5;0;0;0
+Gols do Lira;20240705;1;1;0;21;0;0;0
+Gols do Machado;20240702;1;1;0;10;0;0;0
+Gols do Marcelo;20240704;1;1;0;18;0;0;0
+Gols do Matheus Martins;20240705;1;1;0;4;0;0;0
+Gols do Ramon;20240702;1;1;0;7;0;0;0
+Gols do Renato Chaves;20240705;1;1;0;15;0;0;0
+Gols do Robertinho;20240703;1;1;0;8;0;0;0
+Gols do Roberto Brum;20240707;1;1;0;8;0;0;0
+Gols do Rubens Galaxe;20240703;1;1;0;6;0;0;0
+Gols do Samarone;20240705;1;1;0;1;0;0;0
+Gols do Tuta;20240704;1;1;0;28;0;0;0
+Gols do Zeze;20240705;1;1;0;10;0;0;0
+Goytacas 0 X 1 Fluminense;20240704;1;1;0;20;0;0;0
+Graficos;20240702;1;1;0;11;0;0;0
+Graficos;20240704;1;1;0;7;0;0;0
+Graficos;20240706;1;1;0;8;0;0;0
+Graficos de Adversarios;20240707;1;1;0;63;0;0;0
+Gremio 1 X 0 Fluminense;20240703;1;1;0;3;0;0;0
+Gremio 1 X 0 Fluminense;20240707;1;1;0;11;0;0;0
+Gremio 1 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Gremio 2 X 0 Fluminense;20240701;1;1;0;7;0;0;0
+Gremio 3 X 2 Fluminense;20240705;1;1;0;9;0;0;0
+Gremio 5 X 1 Fluminense;20240701;1;1;0;4;0;0;0
+Gremio 5 X 1 Fluminense;20240704;1;1;0;11;0;0;0
+Gremio Prudente 1 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Gualter Gama e Castro;20240705;1;1;0;0;0;0;0
+Guarani 1 X 2 Fluminense;20240704;1;1;0;14;0;0;0
+Guarani 2 X 1 Fluminense;20240701;1;1;0;7;0;0;0
+Guarani 3 X 1 Fluminense;20240705;1;1;0;2;0;0;0
+Guga 2024;20240704;1;1;0;4;0;0;0
+Gum 2018;20240702;1;1;0;13;0;0;0
+Hat Tricks;20240705;1;1;0;151;0;0;0
+Henrique Franca;20240702;1;1;0;7;0;0;0
+Helio 1990;20240705;1;1;0;4;0;0;0
+Hercules 1942;20240702;1;1;0;0;0;0;0
+Internacional - Beira Rio;20240704;1;1;0;0;0;0;0
+Internacional - Brasileiro - Maracana;20240702;1;1;0;8;0;0;0
+Internacional - Brasileiro 1985;20240703;1;1;0;6;0;0;0
+Internacional - Maracana;20240702;1;1;0;5;0;0;0
+Internacional - Maracana;20240703;1;1;0;58;0;0;0
+Internacional - Maracana;20240705;1;1;0;33;0;0;0
+Internacional 0 X 0 Fluminense;20240701;1;1;0;8;0;0;0
+Internacional 0 X 0 Fluminense;20240703;1;1;0;36;0;0;0
+Internacional 0 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Internacional 1 X 0 Fluminense;20240704;1;1;0;6;0;0;0
+Internacional 1 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Internacional 1 X 2 Fluminense;20240703;1;1;0;28;0;0;0
+Internacional 3 X 0 Fluminense;20240701;1;1;0;18;0;0;0
+Internacional 3 X 0 Fluminense;20240703;1;1;0;10;0;0;0
+Internacional 4 X 2 Fluminense;20240703;1;1;0;2;0;0;0
+Internacional SC 2 X 1 Fluminense;20240707;1;1;0;18;0;0;0
+Isaac 2024;20240702;1;1;0;2;0;0;0
+Ivair 1974;20240705;1;1;0;32;0;0;0
+Ivan Mariz 1939;20240706;1;1;0;144;0;0;0
+Jair Santana 1960;20240705;1;1;0;2;0;0;0
+Jamir Carlos Garcez;20240702;1;1;0;0;0;0;0
+Jandir 1994;20240704;1;1;0;27;0;0;0
+Jardel 1967;20240702;1;1;1;113;0;0;0
+Jason 1983;20240702;1;1;0;6;0;0;0
+Jason 1983;20240705;1;1;0;15;0;0;0
+Jean 2006;20240704;1;1;0;4;0;0;0
+Jesus Valenzuela;20240702;1;1;0;0;0;0;0
+Jhon Arias 2024;20240702;1;1;0;8;0;0;0
+Jhon Arias 2024;20240707;1;1;0;70;0;0;0
+Jhon Arias 2024 - Gols por Adversario;20240704;1;1;0;48;0;0;0
+Jhon Arias 2024 - Gols por Ano;20240704;1;1;0;27;0;0;0
+Jhon Arias 2024 - Gols por Campeonato;20240704;1;1;0;52;0;0;0
+Jogadores com mais jogos;20240702;1;1;0;50;0;0;0
+Jogadores com mais titulos;20240705;1;1;0;108;0;0;0
+Jogadores com mais titulos;20240707;1;1;0;21;0;0;0
+Jogadores mais novos;20240704;1;1;0;7;0;0;0
+Jogos Eliminatorios em Campeonato;20240704;1;1;0;9;0;0;0
+Jogos Eliminatorios no Libertadores da America;20240704;1;1;0;414;0;0;0
+Jogos Eliminatorios por Adversario;20240705;1;1;0;9;0;0;0
+Jogos Inesqueciveis;20240705;1;1;0;1;0;0;0
+Jogos em 01 / 1995;20240701;1;1;0;54;0;0;0
+Jogos em 01 / 1999;20240701;1;1;0;4;0;0;0
+Jogos em 01 / 2005;20240702;1;1;0;22;0;0;0
+Jogos em 02 / 2005;20240702;1;1;0;18;0;0;0
+Jogos em 03 / 2005;20240702;1;1;0;48;0;0;0
+Jogos em 08 / 2009;20240706;1;1;0;31;0;0;0
+Jogos em 09 / 2009;20240706;1;1;0;21;0;0;0
+Jogos em 1 / 1995;20240701;1;1;0;8;0;0;0
+Jogos em 10 / 2009;20240706;1;1;0;20;0;0;0
+Jogos em 11 / 2009;20240706;1;1;0;18;0;0;0
+Jogos em 12 / 1994;20240701;1;1;0;64;0;0;0
+Jogos em dd/mm;20240702;1;1;0;10;0;0;0
+Jogos em mm/aaaa;20240702;1;1;0;17;0;0;0
+Jogos em mm/aaaa;20240706;1;1;0;37;0;0;0
+John Kennedy 2024;20240705;1;1;0;66;0;0;0
+John Kennedy 2024;20240706;1;1;0;31;0;0;0
+Jorge Vitorio 1973;20240702;1;1;1;0;0;0;0
+Jorginho 2001;20240705;1;1;0;6;0;0;0
+Jose Mendonca da Silva Jr.;20240701;1;1;0;1;0;0;0
+Jose Roberto Wright;20240703;1;1;0;1;0;0;0
+Juiz de Fora 0 X 2 Fluminense;20240704;1;1;0;10;0;0;0
+Juventude 1 X 1 Fluminense;20240706;1;1;0;1;0;0;0
+Joia da Princesa;20240703;1;1;1;9;0;0;0
+Joia da Princesa;20240704;1;1;1;0;0;0;0
+Kashima Antlers 2 X 0 Fluminense;20240705;1;1;0;2;0;0;0
+Keno 2024;20240704;1;1;0;8;0;0;0
+Kleber 1980;20240705;1;1;0;6;0;0;0
+Kleber 2005;20240704;1;1;0;2;0;0;0
+LDU 1 X 0 Fluminense;20240701;1;1;0;6;0;0;0
+La Coruña 1 X 2 Fluminense;20240704;1;1;0;7;0;0;0
+Laranjeiras;20240701;1;1;1;0;0;0;0
+Laranjeiras;20240703;1;1;0;11;0;0;0
+Laranjeiras;20240705;1;1;1;41;0;0;0
+Leandro Caju 1999;20240704;1;1;1;0;0;0;0
+Leonardo 1996;20240701;1;1;0;3;0;0;0
+Leonardo 1996;20240702;1;1;0;5;0;0;0
+Libertad 3 X 0 Fluminense;20240701;1;1;0;11;0;0;0
+Libertadores da America;20240704;1;1;0;174;0;0;0
+Libertadores da America;20240706;1;1;0;16;0;0;0
+Lima 1997;20240702;1;1;0;10;0;0;0
+Lira 1995;20240702;1;1;0;0;0;0;0
+Lira 1995;20240705;1;1;0;4;0;0;0
+Lista de Adversario do mesmo pais;20240704;1;1;0;6;0;0;0
+Lucumi 2024;20240704;1;1;0;44;0;0;0
+Lucumi 2024;20240707;1;1;0;33;0;0;0
+Leo 1959;20240704;1;1;0;6;0;0;0
+Leo 1997;20240704;1;1;0;20;0;0;0
+Macae 0 X 0 Fluminense;20240703;1;1;0;12;0;0;0
+Macae 1 X 0 Fluminense;20240702;1;1;0;25;0;0;0
+Machado 1922;20240704;1;1;1;14;0;0;0
+Machado 1942;20240705;1;1;0;1;0;0;0
+Machado 1983;20240702;1;1;0;17;0;0;0
+Madureira 0 X 2 Fluminense;20240703;1;1;0;4;0;0;0
+Madureira 0 X 5 Fluminense;20240707;1;1;0;1;0;0;0
+Madureira 1 X 2 Fluminense;20240701;1;1;0;12;0;0;0
+Madureira 1 X 3 Fluminense;20240701;1;1;0;2;0;0;0
+Madureira 2 X 4 Fluminense;20240704;1;1;0;5;0;0;0
+Madureira 3 X 2 Fluminense;20240707;1;1;0;22;0;0;0
+Maior Artilheiro contra Adversario;20240704;1;1;0;53;0;0;0
+Maior Artilheiro em Campeonato;20240704;1;1;0;5;0;0;0
+Maior Artilheiro em Temporada;20240702;1;1;0;2;0;0;0
+Maior Artilheiro em Temporada;20240704;1;1;0;2;0;0;0
+Maiores Artilheiros anuais;20240702;1;1;0;0;0;0;0
+Maiores Artilheiros em jogos eliminatorios;20240702;1;1;0;9;0;0;0
+Maiores Artilheiros vindo do banco;20240702;1;1;0;13;0;0;0
+Maiores Publicos - Brasileiro 2024;20240706;1;1;0;56;0;0;0
+Maiores Publicos - Classicos;20240706;1;1;1;0;0;0;0
+Maiores Publicos - Internacional;20240705;1;1;0;26;0;0;0
+Maiores Publicos - Vitoria BA;20240705;1;1;0;40;0;0;0
+Maiores publicos por Adversarios;20240705;1;1;0;25;0;0;0
+Mais Jogos;20240706;1;1;0;12;0;0;0
+Mais defendeu penalties;20240704;1;1;0;39;0;0;0
+Mais jogos contra Fortaleza;20240704;1;1;0;34;0;0;0
+Mais jogos contra Internacional;20240704;1;1;0;2;0;0;0
+Mais jogos em Campeonato;20240705;1;1;0;10;0;0;0
+Mais jogos no elenco atual;20240701;1;1;0;221;0;0;0
+Mais jogos no elenco atual;20240704;1;1;0;88;0;0;0
+Mais jogos no elenco atual;20240705;1;1;0;38;0;0;0
+Mais jogos no elenco atual;20240706;1;1;0;3;0;0;0
+Mais jogos no(a) Brasileiro;20240705;1;1;0;2;0;0;0
+Mais jogos no(a) Brasileiro 2024;20240705;1;1;0;46;0;0;0
+Major Levy Sobrinho;20240701;1;1;0;13;0;0;0
+Manchester City 4 X 0 Fluminense;20240707;1;1;0;93;0;0;0
+Manchester United 0 X 0 Fluminense;20240701;1;1;1;0;0;0;0
+Manchester United 0 X 0 Fluminense;20240702;1;1;1;44;0;0;0
+Mangueirao;20240704;1;1;0;11;0;0;0
+Mano 1993;20240701;1;1;0;90;0;0;0
+Mano 1999;20240702;1;1;0;16;0;0;0
+Manoel 2024;20240702;1;1;0;23;0;0;0
+Mane Garrincha;20240704;1;1;0;55;0;0;0
+Maracana;20240702;1;1;0;3;0;0;0
+Maracana - Internacional;20240703;1;1;0;8;0;0;0
+Marcas Historicas Atuais;20240705;1;1;0;15;0;0;0
+Marcelo 2024;20240702;1;1;0;2;0;0;0
+Marcelo 2024;20240707;1;0;0;0;0;0;0
+Marcos Mendonca 1928;20240706;1;1;0;17;0;0;0
+Marcao 2006;20240704;1;1;0;30;0;0;0
+Marechal Hermes;20240703;1;1;0;6;0;0;0
+Marlon 2022;20240703;1;1;0;3;0;0;0
+Marquinho 2017;20240707;1;1;0;49;0;0;0
+Marquinhos 2011;20240707;1;1;0;31;0;0;0
+Marquinhos 2024;20240702;1;1;0;12;0;0;0
+Marquinhos 2024;20240704;1;1;0;4;0;0;0
+Marquinhos 2024;20240706;1;1;0;20;0;0;0
+Martinelli 2024;20240702;1;1;0;12;0;0;0
+Martinelli 2024;20240704;1;1;0;12;0;0;0
+Martinelli 2024;20240707;1;1;0;74;0;0;0
+Martinez 2003;20240707;1;1;1;21;0;0;0
+Mascotes;20240703;1;1;1;0;0;0;0
+Mascotes;20240704;1;1;1;0;0;0;0
+Matheus Martins 2022;20240705;1;1;0;5;0;0;0
+Milan 0 X 1 Fluminense;20240703;1;1;1;13;0;0;0
+Minutagem em Ano;20240707;1;1;0;3;0;0;0
+Moacyrzao;20240702;1;1;0;90;0;0;0
+Morenao;20240706;1;1;1;0;0;0;0
+Moto Club 1 X 1 Fluminense;20240702;1;1;0;128;0;0;0
+Moto Club 2 X 4 Fluminense;20240703;1;1;0;5;0;0;0
+Mundial 2023;20240707;1;1;0;31;0;0;0
+Mario 1991;20240701;1;1;0;12;0;0;0
+Media de Publico - Brasileiro 2024;20240706;1;1;0;0;0;0;0
+Nacional AM 1 X 3 Fluminense;20240703;1;1;0;12;0;0;0
+Nacional Uruguai 2 X 0 Fluminense;20240701;1;1;0;1;0;0;0
+Nei 1995;20240702;1;1;0;2;0;0;0
+Nielsen Louzada;20240704;1;0;0;0;0;0;0
+Nino 2023;20240707;1;1;0;100;0;0;0
+Nonato 1999;20240706;1;1;0;24;0;0;0
+Nonato 2022;20240704;1;1;0;8;0;0;0
+Nonato 2022;20240705;1;1;0;4;0;0;0
+Nonato 2022;20240707;1;1;0;19;0;0;0
+Nova Iguacu 1 X 3 Fluminense;20240707;1;1;0;17;0;0;0
+Nautico 0 X 0 Fluminense;20240701;1;1;0;4;0;0;0
+Nautico 0 X 2 Fluminense;20240701;1;1;0;2;0;0;0
+Nautico 1 X 2 Fluminense;20240701;1;1;0;8;0;0;0
+Nelio 1970;20240702;1;1;0;7;0;0;0
+Numeros em 1982;20240702;1;1;0;1;0;0;0
+Numeros por ano;20240702;1;1;0;5;0;0;0
+Numeros por posicao;20240702;1;1;0;178;0;0;0
+Olaria 0 X 0 Fluminense;20240701;1;1;0;2;0;0;0
+Olaria 2 X 1 Fluminense;20240705;1;1;0;15;0;0;0
+Olaria 2 X 1 Fluminense;20240707;1;1;0;3;0;0;0
+Oldair 1965;20240705;1;1;0;0;0;0;0
+Operario MS 0 X 0 Fluminense;20240705;1;1;0;47;0;0;0
+Operario MS 0 X 0 Fluminense;20240706;1;1;0;0;0;0;0
+Osvaldo Gomes 1921;20240705;1;1;0;16;0;0;0
+Palmeiras 1 X 2 Fluminense;20240701;1;1;0;2;0;0;0
+Palmeiras 2 X 0 Fluminense;20240705;1;1;0;1;0;0;0
+Palmeiras 2 X 3 Fluminense;20240701;1;1;0;3;0;0;0
+Palmeiras 2 X 3 Fluminense;20240706;1;1;0;706;0;0;0
+Parana 1 X 1 Fluminense;20240703;1;1;1;47;0;0;0
+Parana 6 X 1 Fluminense;20240706;1;1;0;16;0;0;0
+Paris Saint Germain 3 X 1 Fluminense;20240705;1;1;0;4;0;0;0
+Parraro 1980;20240705;1;1;1;65;0;0;0
+Parraro 1980;20240706;1;1;1;5;0;0;0
+Participacoes em Gols contra Internacional;20240704;1;1;0;26;0;0;0
+Pascoal 1947;20240705;1;1;1;32;0;0;0
+Passagem de Tecnico;20240701;1;1;0;195;0;0;0
+Passagem de Tecnico;20240704;1;1;0;53;0;0;0
+Passagem de Tecnico;20240705;1;1;1;45;0;0;0
+Passagem de Tecnico;20240706;1;1;0;110;0;0;0
+Passagem de Tecnico;20240707;1;1;0;80;0;0;0
+Paulo Cesar Gomes;20240705;1;1;0;11;0;0;0
+Paulo Henrique Ganso 2024 - Gols por Adversario;20240704;1;1;0;52;0;0;0
+Paulo Henrique Ganso 2024 - Gols por Ano;20240704;1;1;0;108;0;0;0
+Paulo Henrique Ganso 2024 - Gols por Campeonato;20240704;1;1;0;62;0;0;0
+Paulo Lino 1982;20240706;1;1;1;15;0;0;0
+Paulo Sergio 1975;20240707;1;1;0;35;0;0;0
+Paulo Victor 1988;20240704;1;1;0;65;0;0;0
+Paysandu 1 X 1 Fluminense;20240706;1;1;1;0;0;0;0
+Pedro 2019;20240701;1;1;0;5;0;0;0
+Pinhegas 1948;20240705;1;1;0;7;0;0;0
+Ponte Preta 0 X 0 Fluminense;20240704;1;1;0;6;0;0;0
+Ponte Preta 1 X 2 Fluminense;20240701;1;1;0;0;0;0;0
+Portuguesa 0 X 4 Fluminense;20240704;1;1;0;8;0;0;0
+Portuguesa SP 0 X 1 Fluminense;20240701;1;1;0;9;0;0;0
+Portuguesa SP 0 X 1 Fluminense;20240702;1;1;0;0;0;0;0
+Portuguesa SP 0 X 1 Fluminense;20240703;1;0;0;0;0;0;0
+Portuguesa SP 0 X 1 Fluminense;20240705;1;1;0;14;0;0;0
+Portuguesa SP 0 X 1 Fluminense;20240706;1;1;0;9;0;0;0
+Portuguesa SP 0 X 2 Fluminense;20240701;1;1;0;1;0;0;0
+Portuguesa SP 1 X 1 Fluminense;20240703;1;1;0;23;0;0;0
+Presenca Estrangeiros;20240704;1;1;0;10;0;0;0
+Procopio Teixeira;20240701;1;1;0;53;0;0;0
+Proximos Jogos;20240702;1;1;0;215;0;0;0
+Proximos Jogos;20240707;1;1;0;17;0;0;0
+Publico;20240706;1;1;0;12;0;0;0
+Quarentinha 1963;20240706;1;1;0;4;0;0;0
+Quincas 1956;20240706;1;1;0;6;0;0;0
+Rafael Moura 2012;20240703;1;1;0;19;0;0;0
+Ramon 2004;20240702;1;1;0;10;0;0;0
+Ramon Abatti Abel;20240703;1;1;0;98;0;0;0
+Ramon Abatti Abel;20240706;1;1;0;6;0;0;0
+Ranking de Assistencias;20240702;1;1;0;34;0;0;0
+Ranking de Assistencias;20240704;1;1;0;19;0;0;0
+Ranking de Assistencias;20240705;1;1;0;14;0;0;0
+Ranking de Assistencias em 2024;20240702;1;1;0;14;0;0;0
+Ranking de Assistencias em 2024;20240704;1;1;0;50;0;0;0
+Ranking de Tecnicos Adversarios;20240703;1;1;0;5;0;0;0
+Ranking de Tecnicos Adversarios - Seculo XXI;20240703;1;1;0;33;0;0;0
+Real Madrid 0 X 2 Fluminense;20240701;1;1;1;0;0;0;0
+Remo 2 X 1 Fluminense;20240706;1;1;1;0;0;0;0
+Renato 1992;20240705;1;1;0;33;0;0;0
+Renato Augusto 2024;20240704;1;1;0;2;0;0;0
+Renato Augusto 2024;20240706;1;1;0;13;0;0;0
+Renato Gaucho 1997;20240702;1;1;0;25;0;0;0
+Renato Gaucho 1997;20240705;1;1;0;5;0;0;0
+Resende 1 X 2 Fluminense;20240701;1;1;0;8;0;0;0
+Resende 2 X 1 Fluminense;20240701;1;1;0;4;0;0;0
+Ricardo Gomes 1988;20240704;1;1;0;73;0;0;0
+Ricardo Pinto 1993;20240705;1;1;0;12;0;0;0
+Rio Branco 0 X 2 Fluminense;20240701;1;1;0;6;0;0;0
+Rio Cricket 0 X 4 Fluminense;20240707;1;1;0;4;0;0;0
+Rio Cricket 1 X 2 Fluminense;20240704;1;1;0;2;0;0;0
+Rio Cricket 2 X 3 Fluminense;20240705;1;1;0;46;0;0;0
+Rissut 2006;20240704;1;1;0;3;0;0;0
+Robert Lindsay Todd;20240705;1;1;0;12;0;0;0
+Robertinho 1982;20240703;1;1;0;6;0;0;0
+Roberto Barrero;20240701;1;1;0;5;0;0;0
+Robson 1999;20240702;1;1;1;0;0;0;0
+Rodolfo 2019;20240704;1;1;0;19;0;0;0
+Rodoviario 0 X 4 Fluminense;20240701;1;1;0;163;0;0;0
+Rodrigo Carbone 1996;20240701;1;1;1;10;0;0;0
+Rodrigo Carbone 1996;20240705;1;1;1;38;0;0;0
+Roger 2008;20240705;1;1;0;4;0;0;0
+Romerito 1989;20240704;1;1;0;79;0;0;0
+Romeu 2009;20240704;1;1;0;6;0;0;0
+Romildo Correa;20240701;1;1;0;1;0;0;0
+Ronald 1997;20240702;1;1;0;6;0;0;0
+Ronan 2014;20240702;1;1;0;4;0;0;0
+Rua Sao Bento;20240702;1;1;0;3;0;0;0
+Rubens Galaxe 1982;20240703;1;1;0;9;0;0;0
+Samarone 1971;20240705;1;1;0;6;0;0;0
+Sampaio Correa 0 X 2 Fluminense;20240701;1;1;0;13;0;0;0
+Samuel Xavier 2024;20240702;1;1;0;17;0;0;0
+Samuel Xavier 2024;20240705;1;1;1;0;0;0;0
+Sandro Meira Ricci;20240704;1;1;0;0;0;0;0
+Santa Cruz 1 X 0 Fluminense;20240704;1;1;0;21;0;0;0
+Santa Cruz PB 0 X 4 Fluminense;20240702;1;1;0;6;0;0;0
+Santos 0 X 1 Fluminense;20240701;1;1;0;0;0;0;0
+Santos 0 X 2 Fluminense;20240705;1;1;0;4;0;0;0
+Santos 1 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Santos 2 X 0 Fluminense;20240704;1;1;0;8;0;0;0
+Santos 3 X 1 Fluminense;20240705;1;1;0;1;0;0;0
+Selecao Argelia 1 X 1 Fluminense;20240703;1;1;1;8;0;0;0
+Selecao Italia 5 X 3 Fluminense;20240702;1;1;1;25;0;0;0
+Selecao Italia 5 X 3 Fluminense;20240703;1;1;0;22;0;0;0
+Selecao Italia 5 X 3 Fluminense;20240706;1;1;1;23;0;0;0
+Selecao Nigeria 1 X 3 Fluminense;20240704;1;1;0;12;0;0;0
+Selecao Sao Paulo 4 X 3 Fluminense;20240706;1;1;0;28;0;0;0
+Selecao do Fluzao.info;20240705;1;1;0;68;0;0;0
+Sequencia de gols marcados;20240701;1;1;0;3;0;0;0
+Sequencia de gols sofridos;20240706;1;1;0;27;0;0;0
+Sequencia de gols sofridos;20240707;1;1;0;5;0;0;0
+Sequencias;20240706;1;1;0;123;0;0;0
+Sequencias - Brasileiro;20240704;1;1;0;16;0;0;0
+Sequencias - Brasileiro;20240706;1;1;0;51;0;0;0
+Sequencias - Brasileiro 2019;20240705;1;1;0;11;0;0;0
+Sequencias - Brasileiro 2024;20240705;1;1;0;35;0;0;0
+Sequencias - Carioca;20240707;1;1;0;62;0;0;0
+Sequencias Qtd;20240701;1;1;0;4;0;0;0
+Sequencias Qtd;20240705;1;1;0;2;0;0;0
+Sequencias como visitante;20240707;1;1;0;20;0;0;0
+Sequencias em Campeonato;20240704;1;1;0;9;0;0;0
+Sequencias em Campeonato;20240706;1;1;0;20;0;0;0
+Sequencias em Campeonato como visitante;20240701;1;1;0;4;0;0;0
+Sequencias em jogos oficiais;20240701;1;1;0;6;0;0;0
+Sequencias em jogos oficiais;20240706;1;1;0;17;0;0;0
+Sequencias em jogos oficiais;20240707;1;1;0;45;0;0;0
+Sequencias em unico Brasileiro;20240701;1;1;0;16;0;0;0
+Sequencias em unico Brasileiro;20240706;1;1;0;111;0;0;0
+Serra 2 X 2 Fluminense;20240701;1;1;0;12;0;0;0
+Serrano 0 X 2 Fluminense;20240703;1;1;0;19;0;0;0
+Serrano 0 X 3 Fluminense;20240703;1;1;0;2;0;0;0
+Serrano 1 X 2 Fluminense;20240703;1;1;0;12;0;0;0
+Serrano 1 X 2 Fluminense;20240704;1;1;0;11;0;0;0
+Serrano 2 X 3 Fluminense;20240704;1;1;0;11;0;0;0
+Shooting Star 1 X 1 Fluminense;20240704;1;1;0;10;0;0;0
+Sidnei 1998;20240704;1;1;0;73;0;0;0
+Sidnei 1998;20240706;1;1;0;3;0;0;0
+Sidney 2003;20240702;1;1;0;17;0;0;0
+Sport 1 X 0 Fluminense;20240704;1;1;0;11;0;0;0
+Sport 1 X 1 Fluminense;20240701;1;1;0;2;0;0;0
+Sport 1 X 1 Fluminense;20240704;1;1;0;6;0;0;0
+Sport 1 X 1 Fluminense;20240705;1;1;0;1;0;0;0
+Sao Cristovao 0 X 2 Fluminense;20240707;1;1;0;2;0;0;0
+Sao Jose 0 X 1 Fluminense;20240707;1;1;0;24;0;0;0
+Sao Paulo 0 X 0 Fluminense;20240701;1;1;0;11;0;0;0
+Sao Paulo 0 X 1 Fluminense;20240701;1;1;0;6;0;0;0
+Sao Paulo 1 X 0 Fluminense;20240701;1;1;0;1;0;0;0
+Sao Paulo 1 X 1 Fluminense;20240701;1;1;0;4;0;0;0
+Sao Paulo 1 X 2 Fluminense;20240701;1;1;0;0;0;0;0
+Sao Paulo 1 X 4 Fluminense;20240701;1;1;0;1;0;0;0
+Sao Paulo 2 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Sao Paulo 2 X 1 Fluminense;20240707;1;1;0;5;0;0;0
+Sao Paulo 3 X 1 Fluminense;20240703;1;1;0;6;0;0;0
+Sao Paulo 3 X 2 Fluminense;20240704;1;1;0;18;0;0;0
+Sao Raimundo 0 X 1 Fluminense;20240701;1;1;0;10;0;0;0
+Taguatinga 0 X 1 Fluminense;20240704;1;1;0;17;0;0;0
+Taguatinga 1 X 4 Fluminense;20240704;1;1;0;32;0;0;0
+Tato 1988;20240704;1;1;0;51;0;0;0
+Taca Joao T. Carvalho 1958;20240703;1;1;0;2;0;0;0
+Taca Rio de Janeiro 1994;20240703;1;1;0;80;0;0;0
+Team Buchan 2 X 3 Fluminense;20240702;1;1;0;5;0;0;0
+Tec - Cuca;20240701;1;1;0;21;0;0;0
+Tec - Cuca;20240704;1;1;0;33;0;0;0
+Tec - Cuca;20240705;1;1;0;12;0;0;0
+Tec - Cuca;20240706;1;1;0;30;0;0;0
+Tec - Cuca;20240707;1;1;0;30;0;0;0
+Tec - Jose Carlos Amaral;20240706;1;1;0;36;0;0;0
+Tec - Mano Menezes;20240704;1;1;0;38;0;0;0
+Tec - Odair Hellmann;20240701;1;1;0;56;0;0;0
+Tec - Odair Hellmann;20240702;1;1;0;4;0;0;0
+Tec - Paulo Campos;20240704;1;1;0;12;0;0;0
+Tec - Ricardo Drubscky;20240702;1;1;0;24;0;0;0
+Tele 1961;20240704;1;1;0;2;0;0;0
+Terans 2024;20240704;1;1;0;2;0;0;0
+Thiago Santos 2024;20240704;1;1;0;9;0;0;0
+Thiago Santos 2024;20240707;1;1;0;2;0;0;0
+Thiago Silva 2008;20240702;1;1;0;3;0;0;0
+Tigres 0 X 3 Fluminense;20240701;1;1;0;1;0;0;0
+Time Base;20240702;1;1;0;7;0;0;0
+Time Base de 1982;20240702;1;1;0;17;0;0;0
+Tito 1964;20240703;1;1;1;4;0;0;0
+Todas as camisas;20240701;1;1;0;131;0;0;0
+Todas as camisas;20240705;1;1;0;2;0;0;0
+Todas as camisas;20240707;1;1;0;53;0;0;0
+Todos os Jogos apitados por Carlson Gracie;20240705;1;1;0;0;0;0;0
+Todos os Jogos apitados por Felipe Fernandes de Lima;20240704;1;1;0;26;0;0;0
+Todos os Jogos contra Abel;20240702;1;1;0;36;0;0;0
+Todos os Jogos contra Atletico MG-MG;20240702;1;1;0;2;0;0;0
+Todos os Jogos contra Bonsucesso-RJ;20240707;1;1;0;22;0;0;0
+Todos os Jogos contra Deportivo Galicia-Venezuela;20240701;1;1;1;16;0;0;0
+Todos os Jogos contra Eduardo Coudet;20240704;1;1;0;6;0;0;0
+Todos os Jogos contra Flavio Costa;20240701;1;1;0;8;0;0;0
+Todos os Jogos contra Geninho II;20240702;1;1;0;34;0;0;0
+Todos os Jogos contra Geninho II;20240707;1;1;0;11;0;0;0
+Todos os Jogos contra Goytacas-RJ;20240703;1;1;0;22;0;0;0
+Todos os Jogos contra Internacional-RS;20240701;1;1;0;206;0;0;0
+Todos os Jogos contra Internacional-RS;20240702;1;1;0;63;0;0;0
+Todos os Jogos contra Internacional-RS;20240703;1;1;0;72;0;0;0
+Todos os Jogos contra Internacional-RS;20240704;1;1;0;103;0;0;0
+Todos os Jogos contra Juan Vojvoda;20240706;1;1;0;32;0;0;0
+Todos os Jogos contra Juan Vojvoda;20240707;1;1;0;4;0;0;0
+Todos os Jogos contra Juiz de Fora-MG;20240702;1;1;0;48;0;0;0
+Todos os Jogos contra Mano Menezes;20240702;1;1;0;41;0;0;0
+Todos os Jogos contra Mano Menezes;20240703;1;1;0;59;0;0;0
+Todos os Jogos contra Mano Menezes;20240704;1;1;0;44;0;0;0
+Todos os Jogos contra Porto Alegre-RJ;20240703;1;1;0;41;0;0;0
+Todos os Jogos contra Rio Branco-ES;20240701;1;1;0;0;0;0;0
+Todos os Jogos contra Rio Cricket-RJ;20240701;1;1;0;64;0;0;0
+Todos os Jogos contra Syrio e Libanez-RJ;20240701;1;1;0;4;0;0;0
+Todos os Jogos contra Sao Raimundo-AM;20240701;1;1;0;16;0;0;0
+Todos os Jogos contra Vagner Mancini;20240704;1;1;0;12;0;0;0
+Todos os Jogos contra Vasco-RJ;20240702;1;1;0;13;0;0;0
+Todos os Jogos contra Volta Redonda-RJ;20240704;1;1;0;2;0;0;0
+Todos os Jogos do Esquerdinha;20240705;1;1;0;7;0;0;0
+Todos os Jogos do Marcos Mendonca;20240706;1;1;0;40;0;0;0
+Todos os Jogos do Marlon;20240702;1;1;0;188;0;0;0
+Todos os Jogos do Ricardo Pinto;20240705;1;1;0;10;0;0;0
+Todos os Jogos do Sidnei;20240701;1;1;0;14;0;0;0
+Todos os Jogos do Soares;20240701;1;1;0;57;0;0;0
+Todos os Jogos do Somalia;20240701;1;1;0;689;0;0;0
+Todos os Jogos no(a) Engenheiro Araripe;20240707;1;1;1;69;0;0;0
+Todos os Jogos no(a) Laranjeiras;20240703;1;1;0;0;0;0;0
+Todos os Jogos no(a) Laranjeiras;20240704;1;1;0;100;0;0;0
+Todos os Jogos no(a) Laranjeiras;20240705;1;1;0;0;0;0;0
+Todos os Jogos no(a) Procopio Teixeira;20240701;1;1;0;98;0;0;0
+Todos os Jogos no(a) Italo Del Cima;20240701;1;1;0;66;0;0;0
+Todos os jogos contra Adversario em campeonato;20240704;1;1;0;29;0;0;0
+Todos os jogos de Adversario;20240703;1;1;0;31;0;0;0
+Todos os jogos de Adversario;20240704;1;1;0;24;0;0;0
+Todos os jogos em campeonato;20240704;1;1;0;8;0;0;0
+Todos os jogos em campeonato;20240705;1;1;0;3;0;0;0
+Todos os jogos em campeonato;20240707;1;1;0;7;0;0;0
+Todos os jogos no(a) Brasileiro;20240705;1;1;0;430;0;0;0
+Todos os jogos no(a) Brasileiro;20240707;1;1;0;27;0;0;0
+Todos os jogos no(a) Brasileiro 2006;20240704;1;1;1;28;0;0;0
+Todos os jogos no(a) Libertadores da America;20240704;1;1;0;636;0;0;0
+Torneio Carlos Martins Rocha;20240703;1;1;0;23;0;0;0
+Torneio Independencia;20240703;1;1;0;0;0;0;0
+Torneio Independencia 1981;20240703;1;1;0;24;0;0;0
+Treinador com mais jogos;20240701;1;1;0;0;0;0;0
+Treinador com mais jogos;20240707;1;1;0;0;0;0;0
+Trofeu Luiz Penido 2012;20240701;1;1;0;18;0;0;0
+Tuta 2006;20240704;1;1;0;10;0;0;0
+Tecnico;20240706;1;1;0;6;0;0;0
+Uberaba 0 X 2 Fluminense;20240701;1;1;0;0;0;0;0
+Union La Calera 0 X 0 Fluminense;20240703;1;1;0;6;0;0;0
+Vasco 0 X 0 Fluminense;20240701;1;1;0;13;0;0;0
+Vasco 0 X 0 Fluminense;20240705;1;1;0;12;0;0;0
+Vasco 0 X 1 Fluminense;20240703;1;1;0;15;0;0;0
+Vasco 0 X 1 Fluminense;20240707;1;1;0;1;0;0;0
+Vasco 0 X 2 Fluminense;20240703;1;1;0;4;0;0;0
+Vasco 0 X 2 Fluminense;20240706;1;1;0;22;0;0;0
+Vasco 1 X 1 Fluminense;20240701;1;1;0;38;0;0;0
+Vasco 1 X 1 Fluminense;20240702;1;1;0;5;0;0;0
+Vasco 1 X 1 Fluminense;20240703;1;1;0;1;0;0;0
+Vasco 1 X 1 Fluminense;20240704;1;1;0;16;0;0;0
+Vasco 1 X 1 Fluminense;20240705;1;1;0;11;0;0;0
+Vasco 1 X 2 Fluminense;20240701;1;1;0;6;0;0;0
+Vasco 1 X 3 Fluminense;20240701;1;1;0;11;0;0;0
+Vasco 1 X 3 Fluminense;20240706;1;1;0;171;0;0;0
+Vasco 1 X 5 Fluminense;20240705;1;1;1;39;0;0;0
+Vasco 1 X 5 Fluminense;20240706;1;1;1;8;0;0;0
+Vasco 2 X 0 Fluminense;20240705;1;1;0;4;0;0;0
+Vasco 2 X 1 Fluminense;20240701;1;1;0;8;0;0;0
+Vasco 2 X 2 Fluminense;20240701;1;1;0;13;0;0;0
+Vasco 3 X 0 Fluminense;20240701;1;1;0;10;0;0;0
+Vasco 3 X 1 Fluminense;20240701;1;1;0;18;0;0;0
+Vasco 3 X 3 Fluminense;20240701;1;1;0;15;0;0;0
+Vasco 4 X 4 Fluminense;20240701;1;1;0;8;0;0;0
+Vermelhos do Jhon Arias - 2024;20240705;1;1;0;10;0;0;0
+Vermelhos do Martinelli - 2024;20240707;1;1;0;2;0;0;0
+Vermelhos do Paulo Henrique Ganso - 2024;20240707;1;1;0;3;0;0;0
+Vicentini 1946;20240705;1;1;0;26;0;0;0
+Vila Isabel 1 X 3 Fluminense;20240702;1;1;0;13;0;0;0
+Vitor Eudes 2024;20240701;1;1;0;19;0;0;0
+Vitoria BA 0 X 0 Fluminense;20240705;1;1;0;7;0;0;0
+Vitoria BA 1 X 1 Fluminense;20240704;1;1;0;9;0;0;0
+Volta Redonda 0 X 3 Fluminense;20240701;1;1;0;6;0;0;0
+Volta Redonda 0 X 3 Fluminense;20240706;1;1;0;151;0;0;0
+Volta Redonda 1 X 1 Fluminense;20240701;1;1;0;13;0;0;0
+Volta Redonda 1 X 1 Fluminense;20240706;1;1;0;3;0;0;0
+Volta Redonda 1 X 2 Fluminense;20240701;1;1;0;5;0;0;0
+Volta Redonda 1 X 2 Fluminense;20240704;1;1;0;6;0;0;0
+Volta Redonda 1 X 3 Fluminense;20240701;1;1;0;0;0;0;0
+Volta Redonda 2 X 2 Fluminense;20240704;1;1;0;11;0;0;0
+Volta Redonda 2 X 2 Fluminense;20240705;1;1;0;4;0;0;0
+Waldo 1932;20240706;1;1;0;2;0;0;0
+Waldo 1961;20240704;1;1;0;0;0;0;0
+Waldo 1961;20240706;1;1;0;0;0;0;0
+Waldo 1961;20240707;1;1;0;0;0;0;0
+Washington 1989;20240704;1;1;0;42;0;0;0
+Washington 1989;20240706;1;1;0;11;0;0;0
+Welfare 1924;20240705;1;1;0;0;0;0;0
+Welington 1998;20240705;1;1;0;10;0;0;0
+Wilsinho 1986;20240704;1;1;0;39;0;0;0
+Wilson Bauru 1961;20240707;1;1;1;0;0;0;0
+Yago 2023;20240702;1;1;0;19;0;0;0
+Zamora 0 X 1 Fluminense;20240701;1;1;0;1;0;0;0
+Zamora 0 X 1 Fluminense;20240706;1;1;0;1519;0;0;0
+Zeca 1949;20240706;1;1;0;4;0;0;0
+Zezinho 1981;20240706;1;1;0;3;0;0;0
+Zeze 1982;20240705;1;1;0;7;0;0;0
+Zeze Gomes 1985;20240706;1;1;1;17;0;0;0
+Zeze Gomes 1985;20240707;1;1;1;64;0;0;0
+Ze Mario 1975;20240706;1;1;0;4;0;0;0
+Ze Roberto 1967;20240706;1;1;0;3;0;0;0
+Ze Roberto 1975;20240703;1;1;0;14;0;0;0
+Arbitro;20240707;1;1;1;2;0;0;0
+Arbitros;20240701;1;1;0;5;0;0;0
+Ângelo 1982;20240702;1;1;0;5;0;0;0
+Indio 1949;20240706;1;1;0;68;0;0;0
+Italo Del Cima;20240701;1;1;1;56;0;0;0
+Ultimas Sequencias de 10 no Brasileiro;20240707;1;1;0;5;0;0;0
+Ultimas Sequencias de 11 no Brasileiro;20240704;1;1;0;21;0;0;0
+Ultimas Sequencias de 11 no Brasileiro;20240707;1;1;0;4;0;0;0
+Ultimas Sequencias de 12 jogos;20240705;1;1;0;6;0;0;0
+Ultimas Sequencias de 12 jogos;20240707;1;1;0;24;0;0;0
+Ultimas Sequencias de 12 no Brasileiro;20240707;1;1;0;23;0;0;0
+Ultimas Sequencias de 13 jogos;20240707;1;1;0;20;0;0;0
+Ultimas Sequencias de 13 no Brasileiro;20240707;1;1;0;6;0;0;0
+Ultimas Sequencias de 14 jogos;20240707;1;1;0;14;0;0;0
+Ultimas Sequencias de 14 no Brasileiro;20240707;1;1;0;10;0;0;0
+Ultimas Sequencias de 15 jogos;20240707;1;1;0;10;0;0;0
+Ultimas Sequencias de 15 no Brasileiro;20240707;1;1;0;11;0;0;0
+Ultimas Sequencias de 16 jogos;20240707;1;1;0;8;0;0;0
+Ultimas Sequencias de 17 jogos;20240707;1;1;0;4;0;0;0
+Ultimas Sequencias de 18 jogos;20240707;1;1;0;2;0;0;0
+Ultimas Sequencias de 19 jogos;20240707;1;1;0;1;0;0;0
+Ultimas Sequencias de 20 jogos;20240707;1;1;0;2;0;0;0
+Ultimas Sequencias de 21 jogos;20240707;1;1;0;2;0;0;0
+Ultimas Sequencias de 22 jogos;20240707;1;1;0;1;0;0;0
+Ultimas Sequencias de 23 jogos;20240707;1;1;0;6;0;0;0
+Ultimas Sequencias de 6 no Brasileiro;20240701;1;1;0;11;0;0;0
+Ultimas Sequencias de 6 no Brasileiro;20240707;1;1;0;30;0;0;0
+Ultimas Sequencias de 7 jogos;20240701;1;1;0;32;0;0;0
+Ultimas Sequencias de 7 jogos;20240707;1;1;0;11;0;0;0
+Ultimas Sequencias de 7 no Brasileiro;20240707;1;1;0;10;0;0;0
+Ultimas Sequencias de 8 jogos;20240707;1;1;0;16;0;0;0
+Ultimas Sequencias de 8 no Brasileiro;20240701;1;1;0;138;0;0;0
+Ultimas Sequencias de 8 no Brasileiro;20240707;1;1;0;9;0;0;0
+Ultimas Sequencias de 9 no Brasileiro;20240707;1;1;0;5;0;0;0
+Ultimos 2000 jogos;20240707;1;1;0;53;0;0;0
+Ultimos 3000 jogos;20240707;1;1;0;5;0;0;0
+Ultimos 3500 jogos;20240707;1;1;0;181;0;0;0
+Ultimos 50 jogos no(a) Maracana;20240704;1;1;0;16;0;0;0
+Ultimos 6000 jogos;20240707;1;1;0;169;0;0;0
+Ultimos jogos em estadio;20240704;1;1;0;22;0;0;0

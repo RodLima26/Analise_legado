@@ -1,0 +1,17 @@
+# ----------------------------------------
+# Exportacao do CSV de relatorio
+# Conta: Rodrigo_fluzao
+# Propriedade: RodrigoFlu
+# ----------------------------------------
+# 
+# Todos os usuarios
+# Data de inicio: 20240617
+# Data de termino: 20240623
+Titulo da pagina e nome da tela;Data;Sessoes;Usuarios;Novos usuarios;Tempo de engajamento medio por sessao;Eventos principais;Receita total;Taxa de eventos principais da sessao
+Estatisticas Fluminense - Principal;20240617;49;37;9;12.306122448979592;0;0;0
+Estatisticas Fluminense - Principal;20240618;50;37;7;16.48;0;0;0
+Estatisticas Fluminense - Principal;20240619;69;60;19;20.797101449275363;0;0;0
+Estatisticas Fluminense - Principal;20240620;58;42;21;29.82758620689655;0;0;0
+Estatisticas Fluminense - Principal;20240621;58;44;20;24.362068965517242;0;0;0
+Estatisticas Fluminense - Principal;20240622;43;34;11;17.767441860465116;0;0;0
+Estatisticas Fluminense - Principal;20240623;55;41;16;15.836363636363636;0;0;0
